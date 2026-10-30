@@ -18,5 +18,5 @@ Separate project from the reels at the repo root and from ncert-history/. Ignore
 - Voiceover: every long video and reel gets English, Hindi and Assamese VO for Google AI Studio (Gemini TTS):
   - One Style instructions block + a Text block per section, per language; audio tags in English (e.g. [calm], [short pause]); same voice across all three languages.
   - Hindi/Assamese: natural spoken language, years written as words so TTS reads them correctly. Flag translations for native review.
-  - AI Studio how-to and fixes: ../voice/google-ai-studio-tts.md.
-- Layout: one folder per video, `<NN>-<slug>/`, always holding the same four files: long-video-script.md, long-video-voice.md, short-reel-script.md, short-reel-voice.md. Ideas live in topic-ideas.md (mark ✅ with a link to the folder). Add every new video to the index table in README.md.
+  - AI Studio how-to and fixes: ../voice/google-ai-studio-tts.md (from a video folder: ../../../voice/google-ai-studio-tts.md).
+- Layout: one folder per series (`<series-slug>/`, e.g. `productivity-focus/`, `cognitive-biases/`) holding README.md (video index + open fact checks), topic-ideas.md (mark ✅ with a link) and, once the series is done, publishing-kit.md. Inside it, one folder per video, `<NN>-<slug>/`, always with the same four files: long-video-script.md, long-video-voice.md, short-reel-script.md, short-reel-voice.md. List every series in the top-level README.md.
