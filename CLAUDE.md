@@ -5,3 +5,4 @@
 - Every script: timed scene table (time, visual, on-screen text, voiceover).
 - Mark unverified facts with ⚠ and verify before production.
 - Scripts live in scripts/, topic ideas in research/topic-ideas.md.
+- Languages: every script has English, Hindi and Assamese voiceover + subtitle text, scene by scene, same timings. Keep lines short enough to fit the scene time in all three. Flag translations for native review.
