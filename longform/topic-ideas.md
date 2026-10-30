@@ -6,7 +6,7 @@ Status: ✅ scripted · 🟡 in progress · blank = not started.
 
 | # | Title | Format | Hook | Status |
 |---|---|---|---|---|
-| 1 | Your Phone Steals Focus Even When It's Silent | Deep-dive | A phone face-down on the desk may still take up brainpower; viewers keep theirs close all day. ⚠ "brain drain" study (Ward et al. 2017) has mixed replications, so say so | |
+| 1 | Your Phone Steals Focus Even When It's Silent | Deep-dive | A phone face-down on the desk may still take up brainpower; viewers keep theirs close all day. ⚠ "brain drain" study (Ward et al. 2017) has mixed replications, so say so | ✅ [05-silent-phone/](05-silent-phone/) |
 | 2 | The Truth About Multitasking | "The truth about…" | The brain doesn't do two things at once; it switches fast, and every switch costs something | ✅ [04-multitasking/](04-multitasking/) |
 | 3 | Procrastination Isn't Laziness. It's Emotion. | Myth-buster | We put tasks off to escape bad feelings, not work; removes guilt, makes viewers want the fix | ✅ [02-procrastination-emotion/](02-procrastination-emotion/) |
 | 4 | Why Your Unfinished Tasks Won't Leave Your Head | Deep-dive | Zeigarnik effect; writing a plan quiets the nagging | ✅ [01-unfinished-tasks/](01-unfinished-tasks/) |
@@ -17,4 +17,4 @@ Status: ✅ scripted · 🟡 in progress · blank = not started.
 | 9 | Boredom Might Be Your Secret Focus Weapon | Contrarian | Constant stimulation may drain attention; boredom may bring it back ⚠ check boredom–creativity studies | |
 | 10 | 7 Silent Signs Your Focus Is Being Hijacked | Listicle | A self-check viewers run while watching | |
 
-Series order so far: #4 (01) → #3 (02) → #8 (03) → #2 (04) → #1 next (04's outro teases "why your phone can steal your focus… even when it's silent").
+Focus series (complete): #4 (01) → #3 (02) → #8 (03) → #2 (04) → #1 (05). 05's outro teases #5 (the tomato timer) as the start of a new chapter. Still open: #5, #6, #7, #9, #10.
