@@ -7,3 +7,4 @@
 - Scripts live in scripts/, topic ideas in research/topic-ideas.md.
 - Languages: every script has English, Hindi and Assamese voiceover + subtitle text, scene by scene, same timings. Keep lines short enough to fit the scene time in all three. Flag translations for native review.
 - Voice: every script gets a "Voice direction" table (emotion + delivery per scene) based on its reel type in voice/voice-direction-guide.md.
+- Voice tool: Google AI Studio (Gemini TTS). Every script also gets voice/prompts/<script>.md with a Style instructions block + tagged Text block per language (English audio tags like [excited], [short pause]; same voice across languages).

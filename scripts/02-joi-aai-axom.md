@@ -25,6 +25,7 @@ Sources: Telegraph (ttef.in) "Joi Aai Axom unites…", Deccan Herald "Gamosa, Jo
 | 35–40s | Both portrait cards side by side, "?" between them, loop back to opening stamp | Bezbaroa or Raichoudhury? 👇 | "So who do you think said it first? Comment below!" |
 
 ## Voice direction
+Ready-to-paste Google AI Studio prompts: `voice/prompts/02-joi-aai-axom.md`
 Reel type: **Pride / heritage** → warm, proud, goosebumps. Slower and richer than the mystery reels. See `voice/voice-direction-guide.md` for symbols.
 
 | Time | Emotion | Delivery (applies to all 3 languages) |

@@ -17,6 +17,7 @@ Length: 40s | Format: 9:16 | ~105 words VO
 - Loop: last frame matches first frame so replays feel seamless.
 
 ## Voice direction
+Ready-to-paste Google AI Studio prompts: `voice/prompts/01-horn-ok-please.md`
 Reel type: **Mystery / origin** → curious, playful, detective energy. See `voice/voice-direction-guide.md` for symbols.
 
 | Time | Emotion | Delivery (applies to all 3 languages) |

@@ -37,13 +37,8 @@ How to get an emotional, human-sounding voiceover for every reel, in English, Hi
 - Record each scene as a separate clip. That makes it easier to match the timings.
 - Drink water, and avoid milk or tea right before recording.
 
-## 5. Using an AI voice tool (e.g. ElevenLabs)
-- Choose a **narrator or storyteller** voice, not a "news" or "assistant" voice.
-- **Lower stability** (around 35–45%) gives more emotion. Higher sounds flat. **Style or exaggeration** around 30–50%.
-- Generate **one scene at a time** with that scene's delivery note in mind, then pick the best of 2–3 generations.
-- Use punctuation to steer it: `…` for pauses, `!` for energy, `?` for rising pitch, and commas for short breaths.
-- If your tool supports emotion tags (e.g. `[excited]`, `[whispers]`, `[pause]`), put them in from the delivery notes. If it doesn't, they get read out loud, so remove them.
-- For Hindi and Assamese, use a voice made for that language. An English voice reading Assamese will sound wrong.
+## 5. Using an AI voice tool
+We use **Google AI Studio (Gemini TTS)**. See `voice/google-ai-studio-tts.md` for the step-by-step guide, and `voice/prompts/` for ready-to-paste prompts for each reel.
 
 ## 6. Language notes
 - **English:** an Indian-English accent is good, and it feels local. Don't fake an American accent.
