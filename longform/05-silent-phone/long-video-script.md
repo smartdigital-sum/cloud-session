@@ -142,7 +142,7 @@ _Tone: gentle, reflective on the recap; friendly on the question; a curious lift
 | ~89% of undergraduates reported phantom vibrations | ✓ Drouin et al. (2012), 290 undergraduates | [TODAY coverage](https://www.today.com/today/amp/tdna67231) |
 | ~68% of hospital medical staff reported phantom vibrations | ✓ Rothberg et al. (2010), *BMJ* 341:c6914 (115 of 169) | [BMJ](https://www.bmj.com/content/341/bmj.c6914.long) |
 | "Distance beats willpower" advice | Practical advice drawn from the above, not a single study claim | — |
-| Tomato-timer tease (Pomodoro) | ⚠ verify the Cirillo story details when scripting idea #5 | — |
+| Tomato-timer tease (Pomodoro) | ✓ checked in [06](../06-tomato-timer/long-video-script.md) | — |
 
 ## Extras
 

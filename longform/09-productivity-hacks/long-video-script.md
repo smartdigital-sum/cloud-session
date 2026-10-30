@@ -157,7 +157,7 @@ _Tone: friendly, light; curious tease._
 | Gollwitzer et al. (2009): identity goals noticed by others → less effort; premature sense of completeness; law-student example | ✓ *Psychological Science* 20, 612–618. ⚠ no direct replications found, hence "one set of studies" | [Univ. of Konstanz PDF](https://www.socmot.uni-konstanz.de/sites/default/files/09_Gollwitzer_Sheeran_Seifert_Michalski_When_Intentions_.pdf) |
 | Van Dongen et al. (2003): 6 h/night for 14 days → deficits equivalent to up to 2 nights of total sleep deprivation; subjects largely unaware | ✓ *Sleep* 26(2), 117–126; 48 adults | [PubMed 12683469](https://pubmed.ncbi.nlm.nih.gov/12683469/) |
 | "Share progress, not plans" | Practical advice drawn from Gollwitzer, not a tested claim | — |
-| Next-video tease (7 signs) | ⚠ ground each sign in earlier videos' sources when scripting idea #10 | — |
+| Next-video tease (7 signs) | ✓ done in [10](../10-focus-hijacked/long-video-script.md) | — |
 
 ## Extras
 

@@ -144,7 +144,7 @@ _Tone: gentle, kind; reassuring "that's okay"; curious tease._
 | "10,000 hours" rule popularised from this study by a bestselling book | ✓ Malcolm Gladwell's *Outliers* (2008); Ericsson himself said it oversimplified his work | general knowledge |
 | 2019 Cleveland replication: practice alone didn't separate best from good; smaller effect | ✓ Macnamara & Maitra (2019), *Royal Society Open Science*; 39 violinists | [PMC6731745](https://pmc.ncbi.nlm.nih.gov/articles/PMC6731745) |
 | An original author disagreed | ✓ Ralf Krampe said it didn't make him question the original findings | [Phys.org](https://phys.org/news/2019-08-amount-differentiates-great-musicians-good.amp) |
-| Next-video tease (boredom & focus) | ⚠ verify boredom research before scripting idea #9 | — |
+| Next-video tease (boredom & focus) | ✓ checked in [08](../08-boredom/long-video-script.md) | — |
 
 ## Extras
 

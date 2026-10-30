@@ -24,5 +24,19 @@ Faceless narrated videos (3–4 min, 16:9), each with a ~60s reel version. Rules
 | 07 | [07-four-hours/](07-four-hours/) | Why Elite Performers Rarely Work More Than 4 Hours | 1.2 Productivity & Focus | ✅ script + voice | ✅ script + voice |
 | 08 | [08-boredom/](08-boredom/) | Boredom Might Be Your Secret Focus Weapon | 1.2 Productivity & Focus | ✅ script + voice | ✅ script + voice |
 | 09 | [09-productivity-hacks/](09-productivity-hacks/) | 5 Productivity Hacks That Secretly Waste Your Time | 1.2 Productivity & Focus | ✅ script + voice | ✅ script + voice |
+| 10 | [10-focus-hijacked/](10-focus-hijacked/) | 7 Silent Signs Your Focus Is Being Hijacked | 1.2 Productivity & Focus | ✅ script + voice | ✅ script + voice |
 
-**Focus series (01–05) is complete.** Each outro teases the next video. 06 opens a new chapter (focus tools); 07–09 follow; 09's outro teases idea #10 (7 signs your focus is hijacked).
+**All 10 Productivity & Focus ideas are scripted.** Each outro teases the next video, so they form one playlist in this order: 01 → 02 → 03 → 04 → 05 (focus series) → 06 → 07 → 08 → 09 → 10 (finale, which links back to every earlier video).
+
+## Before production: open checks
+
+Everything else in the fact-check tables is confirmed. These items still need a look before recording:
+
+| Video | What to check | Where |
+|---|---|---|
+| All | Native-speaker review of every Hindi and Assamese Text block; test Assamese TTS on each hook first | every `*-voice.md` |
+| 01 | "Nearly twice as often" and the task types from Zeigarnik's 1927 paper; Ovsiankina's year (1928) | [01 fact check](01-unfinished-tasks/long-video-script.md#fact-check) |
+| 03 | Sydney Opera House "four years" plan and estimate year (1957 vs 1959) | [03 fact check](03-monday-plans/long-video-script.md#fact-check) |
+| 05 | Wording of "most said they weren't thinking about their phone" in Ward et al. (2017) | [05 fact check](05-silent-phone/long-video-script.md#fact-check) |
+| 07 | "About four hours a day" figure, and the **unverified sleep/nap line** (delete it from all three languages if it can't be confirmed) | [07 fact check](07-four-hours/long-video-script.md#fact-check) |
+| 08 | "Two in three men, one in four women" figures from the 2014 *Science* paper | [08 fact check](08-boredom/long-video-script.md#fact-check) |

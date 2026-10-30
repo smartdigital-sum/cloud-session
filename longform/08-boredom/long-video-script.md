@@ -143,7 +143,7 @@ _Tone: friendly, curious; a playful hint on "secretly."_
 | Baird et al. (2012), UC Santa Barbara: 12-min incubation break; undemanding task → biggest improvement on previously seen creative problems, linked to mind wandering | ✓ *Psychological Science* 23(10), 1117–1122 | [PubMed 22941876](https://pubmed.ncbi.nlm.nih.gov/22941876/) |
 | Chronic boredom linked to negative outcomes | ✓ general finding in boredom research; kept deliberately general ("linked to real problems") | — |
 | "Shower ideas" framing | Everyday illustration of incubation, not a separate study claim | — |
-| Next-video tease (productivity hacks) | ⚠ verify each hack's evidence when scripting idea #6 | — |
+| Next-video tease (productivity hacks) | ✓ checked in [09](../09-productivity-hacks/long-video-script.md) | — |
 
 ## Extras
 

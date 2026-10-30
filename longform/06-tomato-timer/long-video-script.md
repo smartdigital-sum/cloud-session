@@ -145,7 +145,7 @@ _Tone: gentle, practical; friendly on the question; intrigued on the tease._
 | 2011 Illinois vigilance study: brief, rare task switches prevented the decline over a long task | ✓ Ariga & Lleras (2011), *Cognition* 118(3), 439–443; 84 participants, 50-minute task. Applying it to studying is an extrapolation, so the narration says "the researchers argued" | [ScienceDaily](https://sciencedaily.com/releases/2011/02/110208131529.htm) |
 | 2023 Maastricht study: self-regulated breaks → longer work and breaks, more fatigue/distraction, less concentration/motivation; fixed breaks → similar task completion in less time | ✓ Biwer et al. (2023), *British Journal of Educational Psychology*; 87 students, one day; conditions were 24/6 and 12/3, not 25/5 | [PubMed 36859717](https://pubmed.ncbi.nlm.nih.gov/36859717/) |
 | "Your phone isn't a break" | Advice tied to video 05, not a single study claim | — |
-| Outro tease (elite performers, ~4 hours of practice) | ⚠ verify Ericsson et al. (1993) figures before scripting idea #7 | — |
+| Outro tease (elite performers, ~4 hours of practice) | ✓ checked in [07](../07-four-hours/long-video-script.md) (open items listed there) | — |
 
 **Pronunciation:** if TTS mispronounces "Cirillo", spell it as "Chee-reel-lo" in the English Text block.
 

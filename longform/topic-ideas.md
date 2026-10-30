@@ -15,6 +15,6 @@ Status: ✅ scripted · 🟡 in progress · blank = not started.
 | 7 | Why Elite Performers Rarely Work More Than 4 Hours | "The truth about…" | Top violinists in a famous study (Ericsson et al. 1993) practised hard for only a few hours a day ⚠ check the exact figures | ✅ [07-four-hours/](07-four-hours/) |
 | 8 | Why Your Monday Plans Collapse by Wednesday | Story-driven | Planning fallacy (Kahneman & Tversky): we underestimate task time even when we've been wrong before | ✅ [03-monday-plans/](03-monday-plans/) |
 | 9 | Boredom Might Be Your Secret Focus Weapon | Contrarian | Constant stimulation may drain attention; boredom may bring it back ⚠ check boredom–creativity studies | ✅ [08-boredom/](08-boredom/) |
-| 10 | 7 Silent Signs Your Focus Is Being Hijacked | Listicle | A self-check viewers run while watching | |
+| 10 | 7 Silent Signs Your Focus Is Being Hijacked | Listicle | A self-check viewers run while watching | ✅ [10-focus-hijacked/](10-focus-hijacked/) |
 
-Focus series (complete): #4 (01) → #3 (02) → #8 (03) → #2 (04) → #1 (05). New chapter: #5 (06) → #7 (07) → #9 (08) → #6 (09) → #10 next (09's outro teases "seven silent signs your focus is being hijacked"). Still open: #10.
+All 10 ideas scripted. Playlist order: #4 (01) → #3 (02) → #8 (03) → #2 (04) → #1 (05) → #5 (06) → #7 (07) → #9 (08) → #6 (09) → #10 (10, finale). Next: pick a new sub-niche or ask for 10 more ideas.
