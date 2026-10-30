@@ -14,8 +14,9 @@ Separate project from the reels at the repo root and from ncert-history/. Ignore
 - After the script: 3 alternative titles, thumbnail text (2–4 words), 5 tags, word count + runtime, a voice direction table and a fact-check table with sources.
 - Facts: never invent statistics, quotes or studies. Mark unverified facts with ⚠. If research is debated or failed to replicate, say so in the narration.
 - Psychology/manipulation topics are framed for awareness and self-protection.
-- Voiceover: every script gets English, Hindi and Assamese VO for Google AI Studio (Gemini TTS) in voice/prompts/<NN-slug>.md:
+- Reel version: every video also gets a ~60s 9:16 reel: hook on screen + voice in the first 2s, timed scene table (time, visual, on-screen text, English VO), voice direction table, last scene loops back to the first and ends on a comment question. Same voice as the long video.
+- Voiceover: every long video and reel gets English, Hindi and Assamese VO for Google AI Studio (Gemini TTS):
   - One Style instructions block + a Text block per section, per language; audio tags in English (e.g. [calm], [short pause]); same voice across all three languages.
   - Hindi/Assamese: natural spoken language, years written as words so TTS reads them correctly. Flag translations for native review.
   - AI Studio how-to and fixes: ../voice/google-ai-studio-tts.md.
-- Layout: ideas in research/topic-ideas.md, scripts in scripts/<NN-slug>.md, voice prompts in voice/prompts/<NN-slug>.md.
+- Layout: one folder per video, `<NN>-<slug>/`, always holding the same four files: long-video-script.md, long-video-voice.md, short-reel-script.md, short-reel-voice.md. Ideas live in topic-ideas.md (mark ✅ with a link to the folder). Add every new video to the index table in README.md.

@@ -1,6 +1,6 @@
 # Google AI Studio prompts: 01 Why Your Unfinished Tasks Won't Leave Your Head
 Niche: Self-improvement (wise mentor) | Voice: **Charon** (also try Gacrux, Algenib) | Target: ~3:50–4:15 per language
-Use the same voice for all three languages. AI Studio steps and fixes: [../../../voice/google-ai-studio-tts.md](../../../voice/google-ai-studio-tts.md)
+Use the same voice for all three languages. AI Studio steps and fixes: [../../voice/google-ai-studio-tts.md](../../voice/google-ai-studio-tts.md)
 
 **How to generate a 4-minute track**
 1. Paste the Style instructions for the language once.

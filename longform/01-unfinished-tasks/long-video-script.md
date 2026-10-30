@@ -2,7 +2,7 @@
 
 **Niche:** 1.2 Self-improvement: Productivity & Focus · **Format:** deep-dive, 16:9 faceless (2D animation)
 **Narration style:** calm, deep, wise mentor; second person; short lines; deliberate pauses; empowering close
-**Voiceover:** English, Hindi, Assamese → [../voice/prompts/01-unfinished-tasks.md](../voice/prompts/01-unfinished-tasks.md)
+**Voiceover:** English, Hindi, Assamese → [long-video-voice.md](long-video-voice.md) · **Reel version:** [short-reel-script.md](short-reel-script.md)
 
 ## YouTube chapters (paste into the description)
 

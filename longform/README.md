@@ -1,0 +1,18 @@
+# Long-form YouTube videos
+
+Faceless narrated videos (3–4 min, 16:9), each with a ~60s reel version. Rules: [CLAUDE.md](CLAUDE.md) · Ideas: [topic-ideas.md](topic-ideas.md)
+
+**One folder per video.** Every folder has the same four files:
+
+| File | What it is |
+|---|---|
+| `long-video-script.md` | 4-min script: narration, visuals, voice direction, fact check, titles/tags |
+| `long-video-voice.md` | Google AI Studio prompts for the long video: English, Hindi, Assamese |
+| `short-reel-script.md` | 60s vertical reel: scene table, on-screen text, voice direction |
+| `short-reel-voice.md` | Google AI Studio prompts for the reel: English, Hindi, Assamese |
+
+## Videos
+
+| # | Folder | Title | Niche | Long | Reel |
+|---|---|---|---|---|---|
+| 01 | [01-unfinished-tasks/](01-unfinished-tasks/) | Why Your Unfinished Tasks Won't Leave Your Head | 1.2 Productivity & Focus | ✅ script + voice | ✅ script + voice |
