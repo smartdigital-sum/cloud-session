@@ -13,8 +13,8 @@ Status: ✅ scripted · 🟡 in progress · blank = not started.
 | 5 | The Tomato Timer That Changed How We Study | Story-driven | A student in Italy (Francesco Cirillo) beat distraction with a tomato-shaped kitchen timer: the Pomodoro method | |
 | 6 | 5 Productivity Hacks That Secretly Waste Your Time | Countdown | Colour-coded planners, endless apps, 5 a.m. routines may be holding you back | |
 | 7 | Why Elite Performers Rarely Work More Than 4 Hours | "The truth about…" | Top violinists in a famous study (Ericsson et al. 1993) practised hard for only a few hours a day ⚠ check the exact figures | |
-| 8 | Why Your Monday Plans Collapse by Wednesday | Story-driven | Planning fallacy (Kahneman & Tversky): we underestimate task time even when we've been wrong before | |
+| 8 | Why Your Monday Plans Collapse by Wednesday | Story-driven | Planning fallacy (Kahneman & Tversky): we underestimate task time even when we've been wrong before | ✅ [03-monday-plans/](03-monday-plans/) |
 | 9 | Boredom Might Be Your Secret Focus Weapon | Contrarian | Constant stimulation may drain attention; boredom may bring it back ⚠ check boredom–creativity studies | |
 | 10 | 7 Silent Signs Your Focus Is Being Hijacked | Listicle | A self-check viewers run while watching | |
 
-Series order so far: #4 (01) → #3 (02) → #8 next (02's outro teases "why your Monday plans fall apart by Wednesday").
+Series order so far: #4 (01) → #3 (02) → #8 (03) → #2 next (03's outro teases "the truth about multitasking").
