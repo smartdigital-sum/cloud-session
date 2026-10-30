@@ -22,5 +22,6 @@ Faceless narrated videos (3–4 min, 16:9), each with a ~60s reel version. Rules
 | 05 | [05-silent-phone/](05-silent-phone/) | Your Phone Steals Focus Even When It's Silent | 1.2 Productivity & Focus | ✅ script + voice | ✅ script + voice |
 | 06 | [06-tomato-timer/](06-tomato-timer/) | The Tomato Timer That Changed How We Study | 1.2 Productivity & Focus | ✅ script + voice | ✅ script + voice |
 | 07 | [07-four-hours/](07-four-hours/) | Why Elite Performers Rarely Work More Than 4 Hours | 1.2 Productivity & Focus | ✅ script + voice | ✅ script + voice |
+| 08 | [08-boredom/](08-boredom/) | Boredom Might Be Your Secret Focus Weapon | 1.2 Productivity & Focus | ✅ script + voice | ✅ script + voice |
 
-**Focus series (01–05) is complete.** Each outro teases the next video. 06 opens a new chapter (focus tools); 07 follows, and its outro teases idea #9 (boredom).
+**Focus series (01–05) is complete.** Each outro teases the next video. 06 opens a new chapter (focus tools); 07 and 08 follow; 08's outro teases idea #6 (productivity hacks).
