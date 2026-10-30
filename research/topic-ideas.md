@@ -40,3 +40,27 @@ Each topic is one question a viewer has wondered about, answered in 30–60s.
 
 ## Recommended first 5 to produce
 #2 Jatinga, #6 Assam time zone, #4 Majuli shrinking, #3 Muga silk, #16 Train X mark
+
+## D. "Where did this come from?" — everyday India origins (user favourite)
+Format: a thing everyone sees daily → nobody knows why → competing theories → most likely answer.
+
+1. Horn OK Please — theories: "On Kerosene" (WWII kerosene trucks), Tata "OK" logo, 1990s single-mirror trucks needing horns; Maharashtra banned it in 2015 ⚠
+2. Why trucks have "Buri Nazar Wale Tera Muh Kala" + nimbu-mirchi + black shoe hanging
+3. Why Indian trucks are painted so colourfully (truck art, owner pride, Punjab/Sikh painter tradition)
+4. Why "Use Dipper at Night" is written on trucks
+5. Why number plates come in white, yellow, green, black, red, blue
+6. Why dhabas are always on highways, and why the "charpai" became their symbol
+7. Why Indian weddings use a white horse (ghodi) for the groom
+8. Why shops hang lemon + 7 chillies on Saturdays (nimbu-mirchi)
+9. Why we say "Jai Hind" and who coined it ⚠ (attributed to Zain-ul Abideen Hasan, INA)
+10. Why "Namaste" vs "Ram Ram" vs "Nomoskar" — greetings by region
+11. Why Indian road dividers/tree trunks are painted white and red
+12. Why railway station boards are always yellow with black text
+13. Why every Indian railway station board shows "height above sea level"
+14. Why Indian buses say "Ladies" seats and "Senior Citizen" — when it started
+15. Why we give odd amounts (₹101, ₹501) as shagun — the extra ₹1
+16. Why "Bhaiya" and "Didi" for strangers
+17. Why Indian petrol pumps show "0" before filling (and the ₹100 vs ₹110 myth) ⚠
+18. Why chai is served in a kulhad / small glass at stalls
+19. Assam angle: why "Joi Aai Axom" became the slogan; why tea garden workers are called "Chah Bagan" community; why Assamese buses have "Assam State Transport" red/white livery ⚠
+20. Why do Indians shake their head side-to-side for "yes"?
