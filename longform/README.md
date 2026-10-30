@@ -21,4 +21,4 @@ Faceless narrated videos (3–4 min, 16:9), each with a ~60s reel version and En
 | Series | Niche | Status | Start here |
 |---|---|---|---|
 | [productivity-focus/](productivity-focus/) | 1.2 Self-improvement: Productivity & Focus | ✅ 10 videos + 10 reels scripted · publishing kit ready | [README](productivity-focus/README.md) · [publishing kit](productivity-focus/publishing-kit.md) |
-| [cognitive-biases/](cognitive-biases/) | 2.3 Psychology: Cognitive Biases & Mind Tricks | 🟡 10 ideas, choosing the first | [topic ideas](cognitive-biases/topic-ideas.md) |
+| [cognitive-biases/](cognitive-biases/) | 2.3 Psychology: Cognitive Biases & Mind Tricks | ✅ 10 videos + 10 reels scripted | [README](cognitive-biases/README.md) · [topic ideas](cognitive-biases/topic-ideas.md) |
