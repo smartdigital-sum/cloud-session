@@ -6,3 +6,4 @@
 - Mark unverified facts with ⚠ and verify before production.
 - Scripts live in scripts/, topic ideas in research/topic-ideas.md.
 - Languages: every script has English, Hindi and Assamese voiceover + subtitle text, scene by scene, same timings. Keep lines short enough to fit the scene time in all three. Flag translations for native review.
+- Voice: every script gets a "Voice direction" table (emotion + delivery per scene) based on its reel type in voice/voice-direction-guide.md.

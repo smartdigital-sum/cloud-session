@@ -16,6 +16,19 @@ Length: 40s | Format: 9:16 | ~105 words VO
 - ⚠ Verify the Maharashtra ban (year, notification) before production; if unconfirmed, say "In 2015 Maharashtra moved to ban it" only after checking, or cut the scene and extend theory 3.
 - Loop: last frame matches first frame so replays feel seamless.
 
+## Voice direction
+Reel type: **Mystery / origin** → curious, playful, detective energy. See `voice/voice-direction-guide.md` for symbols.
+
+| Time | Emotion | Delivery (applies to all 3 languages) |
+|---|---|---|
+| 0–2s | 😮 caught mid-thought | (fast) Slightly loud, like you just pointed at a truck. Stress **thousand** and **"OK"**. ↑ on "mean?" |
+| 2–5s | 😏 teasing | Drop to a near-whisper on "nobody knows for sure" // then perk up for "But there are **3** theories." |
+| 5–13s | 🔥 storytelling | Slow down a little on "World War Two," like opening an old story. A small gasp on "catches fire easily." // before "**On Kerosene**." End with a playful warning: "keep your distance!" |
+| 13–20s | 🙂 light, matter-of-fact | Quicker and brighter. A slight smile on "Painters **simply** wrote…", like it's almost too easy. |
+| 20–30s | 😮 → 🙂 practical | Put empathy for the driver into "couldn't **see** you". // Then make "'OK' just filled the gap" a small shrug and a laugh. |
+| 30–36s | 😮 surprised | Raise the energy: "**Banned!**" with a short laugh on "because it encourages honking!" |
+| 36–40s | 🙂 warm invitation | Slow down. "So… // which theory do **you** believe?" ↑. Friendly, like asking a friend. |
+
 ## Voiceover + subtitles by language
 Same timings as the table above. Subtitles = the voiceover line, split into 1–2 short lines on screen.
 ⚠ Hindi and Assamese need a native speaker check before recording.

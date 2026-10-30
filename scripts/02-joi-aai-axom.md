@@ -24,6 +24,21 @@ Sources: Telegraph (ttef.in) "Joi Aai Axom unites…", Deccan Herald "Gamosa, Jo
 | 30–35s | Timeline jumps to 2019; gamosas, phone screens, hashtags | **2019: It came back** | "And in 2019, it echoed across Assam again." |
 | 35–40s | Both portrait cards side by side, "?" between them, loop back to opening stamp | Bezbaroa or Raichoudhury? 👇 | "So who do you think said it first? Comment below!" |
 
+## Voice direction
+Reel type: **Pride / heritage** → warm, proud, goosebumps. Slower and richer than the mystery reels. See `voice/voice-direction-guide.md` for symbols.
+
+| Time | Emotion | Delivery (applies to all 3 languages) |
+|---|---|---|
+| 0–2s | 😮 hushed intrigue | Lower and close, almost a secret. Stress **every**. // before "who said it **first**?" ↑ |
+| 2–6s | 😌 tender pride | Say "Joi Aai Axom" slowly, with love, like the name of someone you care about. Then a softer, curious "still debated." |
+| 6–14s | 🙂 respectful storytelling | Measured pace. On "the man who wrote 'O Mur Apunar Desh'", let pride come through, and an Assamese viewer should feel it. |
+| 14–22s | 🔥 rising | A little stronger. Say "**Asom Kesari**" with a touch of the lion's power. "Closing line of his poem" lands firmly ↓. |
+| 22–30s | 🔥🔥 peak, goosebumps | This is the emotional peak. Build energy through "it **exploded**…" and slow down on "shouted / on **every** / street." Leave space for the music to swell. |
+| 30–35s | 😌 quiet pride | Bring it down: soft and almost emotional, "it echoed across Assam… **again**." |
+| 35–40s | 🙂 warm, inclusive | Smile. "So who do **you** think said it first?" ↑. Inviting, not testing. |
+
+Assamese track: this is the most important version for this reel. Record it like you're telling your younger sibling about something you're proud of.
+
 ## Voiceover + subtitles by language
 Same timings for all. ⚠ Hindi and Assamese need a native speaker check before recording.
 
