@@ -16,3 +16,4 @@ Faceless narrated videos (3–4 min, 16:9), each with a ~60s reel version. Rules
 | # | Folder | Title | Niche | Long | Reel |
 |---|---|---|---|---|---|
 | 01 | [01-unfinished-tasks/](01-unfinished-tasks/) | Why Your Unfinished Tasks Won't Leave Your Head | 1.2 Productivity & Focus | ✅ script + voice | ✅ script + voice |
+| 02 | [02-procrastination-emotion/](02-procrastination-emotion/) | Procrastination Isn't Laziness. It's Emotion. | 1.2 Productivity & Focus | ✅ script + voice | ✅ script + voice |
