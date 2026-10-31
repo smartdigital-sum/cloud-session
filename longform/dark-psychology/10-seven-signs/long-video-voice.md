@@ -9,6 +9,8 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 4. Name files like `dp10-seven-signs_EN_s1-hook.wav`.
 
 If TTS mispronounces "Roozenbeek", write it as "Rose-en-bake". Helplines appear on screen only in this video (not spoken), so no digit spelling is needed.
+**Changed (storytelling guide):** a stakes line opens the hook; the nine-video recap is replaced by a lock-in (one goal, seven signs, the quietest last, why knowing helps); two new rehook lines; the close drops the subscribe ask. Generate 10 sections now (2 rehooks added).
+
 ⚠ Hindi and Assamese are machine-quality translations. Get a native speaker to read them before recording. Test the Assamese hook first.
 
 ---
@@ -16,17 +18,18 @@ If TTS mispronounces "Roozenbeek", write it as "Rose-en-bake". Helplines appear 
 
 **Style instructions**
 ```
-You are an intriguing, authoritative narrator for the 4-minute finale of an awareness series, called "Seven signs you're being manipulated, and what to do". Your goal is to leave the listener confident and protected. Speak directly to one listener ("you"), like a sharp, trusted guide. Indian English accent. About 140 words per minute, brisk but clear, with deliberate pauses. Keep a steady rhythm: say each sign, then its defence, slightly warmer. Brisk and knowing at the start, confident in the setup, serious on fake authority and crowds, gentle and slower on the seventh sign, then warm and empowering on the payoff. End friendly, like closing a series.
+You are an intriguing, authoritative narrator for the 4-minute finale of an awareness series, called "Seven signs you're being manipulated, and what to do". Your goal is to leave the listener confident and protected. Speak directly to one listener ("you"), like a sharp, trusted guide. Indian English accent. About 140 words per minute, brisk but clear, with deliberate pauses. Keep a steady rhythm: say each sign, then its defence, slightly warmer. Brisk and knowing at the start, confident in the setup, serious on fake authority and crowds, gentle and slower on the seventh sign, then warm and empowering on the payoff. End friendly, like closing a series. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] Seven signs can tell you someone is working on you. And you've probably seen at least one this week.
 [knowingly] "Hurry." "Just one small favour." "Everyone's doing it."
 [short pause] If you've heard all three this week, someone may be working on you.
 
-[confident] In this series, we've taken apart nine tactics. They look different, but they share one goal: to get you to decide before you think, or to stop trusting yourself.
-So here are seven signs you're being manipulated, and one simple defence for each.
-[short pause] And at the end, why just knowing them makes you harder to fool.
+[calm] Manipulation tactics look different, but they share one goal: to get you to decide before you think, or to stop trusting yourself.
+So here are seven signs, and one simple defence for each. [intrigued] The quietest sign comes last.
+[short pause] [hopeful] And at the end, why just knowing them makes you harder to fool.
 
 [brisk] Sign one: you're being rushed. "Your account will be blocked." "This offer ends tonight." Urgency shrinks your thinking time on purpose.
 [warmly] Defence: pause. Anything real will still be real in ten minutes.
@@ -40,11 +43,15 @@ So here are seven signs you're being manipulated, and one simple defence for eac
 [warmly] Defence: you can say "thank you" and still say "no". And never pay to receive something free.
 [short pause] A no doesn't create a debt. Neither does a gift you didn't ask for.
 
+[leaning in] Those four are about the ask. [short pause] The next two are about who's asking.
+
 [serious] Sign five: a title, a uniform or a logo you can't check. A "police officer" on a video call. A "bank head office" caller.
 [warmly] Defence: verify through a second channel. Hang up, find the official number yourself, and call back.
 [serious] Sign six: "everyone's doing it". Reviews, followers, a group full of people posting profits.
 [warmly] Defence: don't count the crowd, check it. Read the worst reviews, and be wary of any group where nobody asks questions.
 [short pause] Authority and crowds are useful. Fakes of both are cheap.
+
+[quieter] And the last sign is the quietest… because it happens inside you.
 
 [gently] Sign seven is the quietest, and the most important: you start doubting yourself.
 You're told things never happened. Affection comes fast, then turns cold when you set a boundary. You raise a problem and end up apologising. And slowly, you see your friends less.
@@ -56,7 +63,7 @@ So remember three habits: [short pause] pause, verify, and tell someone.
 [long pause] Manipulation needs speed, silence and secrecy. You now have time, questions, and people.
 
 [friendly] Tell me in the comments: which of these seven signs have you seen most often?
-Share this with someone who'd want to see it coming. And subscribe. The whole series is linked on screen now.
+Share this with someone who'd want to see it coming. The whole series is linked on screen now.
 ```
 
 ---
@@ -64,17 +71,18 @@ Share this with someone who'd want to see it coming. And subscribe. The whole se
 
 **Style instructions**
 ```
-You are an intriguing, authoritative narrator for the 4-minute finale of an awareness series: seven signs you're being manipulated, and what to do. Your goal is to leave the listener confident and protected. Speak natural, conversational Hindi (common English words like "offer", "favour", "video call", "review", "group", "prebunking" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a sharp, trusted guide. Brisk but clear, with deliberate pauses. Steady rhythm: each sign, then its defence, slightly warmer. Gentle and slower on the seventh sign, warm and empowering on the payoff. End friendly, like closing a series.
+You are an intriguing, authoritative narrator for the 4-minute finale of an awareness series: seven signs you're being manipulated, and what to do. Your goal is to leave the listener confident and protected. Speak natural, conversational Hindi (common English words like "offer", "favour", "video call", "review", "group", "prebunking" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a sharp, trusted guide. Brisk but clear, with deliberate pauses. Steady rhythm: each sign, then its defence, slightly warmer. Gentle and slower on the seventh sign, warm and empowering on the payoff. End friendly, like closing a series. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] सात संकेत बता सकते हैं, कि कोई आप पर चाल चल रहा है। और शायद इस हफ़्ते आपने कम से कम एक देखा है।
 [knowingly] "जल्दी कीजिए।" "बस एक छोटा-सा एहसान।" "सब यही कर रहे हैं।"
 [short pause] अगर इस हफ़्ते आपने ये तीनों सुने हैं, तो शायद कोई आप पर काम कर रहा है।
 
-[confident] इस सीरीज़ में, हमने नौ चालों को खोलकर देखा। वो अलग-अलग दिखती हैं, पर सबका एक ही मक़सद है: कि आप सोचने से पहले फ़ैसला कर लें, या ख़ुद पर भरोसा करना छोड़ दें।
-तो ये रहे सात संकेत, कि आपको मैनिपुलेट किया जा रहा है, और हर एक के लिए एक आसान बचाव।
-[short pause] और आख़िर में, ये भी, कि बस इन्हें जानना, आपको धोखा देना मुश्किल क्यों बना देता है।
+[calm] चालबाज़ी के तरीक़े अलग दिखते हैं, पर सबका मक़सद एक है: आपसे सोचने से पहले फ़ैसला करवाना, या आपका ख़ुद पर से भरोसा हटाना।
+तो ये रहे सात संकेत, और हर एक का एक आसान बचाव। [intrigued] सबसे शांत संकेत आख़िर में है।
+[short pause] [hopeful] और आख़िर में, क्यों सिर्फ़ इन्हें जान लेना, आपको धोखा देना मुश्किल बना देता है।
 
 [brisk] पहला संकेत: आपको जल्दी करवाई जा रही है। "आपका अकाउंट ब्लॉक हो जाएगा।" "ये ऑफ़र आज रात ख़त्म।" जल्दबाज़ी, जान-बूझकर आपके सोचने का समय छोटा करती है।
 [warmly] बचाव: रुकिए। जो असली है, वो दस मिनट बाद भी असली रहेगा।
@@ -88,11 +96,15 @@ You are an intriguing, authoritative narrator for the 4-minute finale of an awar
 [warmly] बचाव: आप "शुक्रिया" भी कह सकते हैं, और "ना" भी। और कुछ मुफ़्त पाने के लिए, कभी पैसे मत दीजिए।
 [short pause] "ना" कहने से कोई कर्ज़ नहीं बनता। बिना माँगे मिले तोहफ़े से भी नहीं।
 
+[leaning in] वो चार माँग के बारे में थे। [short pause] अगले दो, माँगने वाले के बारे में हैं।
+
 [serious] पाँचवाँ संकेत: कोई पद, वर्दी या लोगो, जिसे आप जाँच नहीं सकते। वीडियो कॉल पर एक "पुलिस अफ़सर"। "बैंक हेड ऑफ़िस" से एक कॉलर।
 [warmly] बचाव: किसी दूसरे रास्ते से जाँचिए। फ़ोन काटिए, असली नंबर ख़ुद ढूँढिए, और वापस कॉल कीजिए।
 [serious] छठा संकेत: "सब यही कर रहे हैं।" रिव्यू, फ़ॉलोअर्स, मुनाफ़ा दिखाते लोगों से भरा एक ग्रुप।
 [warmly] बचाव: भीड़ को गिनिए मत, जाँचिए। सबसे बुरे रिव्यू पढ़िए, और ऐसे किसी भी ग्रुप से सावधान रहिए, जहाँ कोई सवाल न पूछे।
 [short pause] अधिकार और भीड़ काम के हैं। दोनों की नक़ल सस्ती है।
+
+[quieter] और आख़िरी संकेत सबसे शांत है… क्योंकि ये आपके अंदर होता है।
 
 [gently] सातवाँ संकेत सबसे शांत है, और सबसे ज़रूरी: आप ख़ुद पर शक करने लगते हैं।
 आपसे कहा जाता है, कि बातें कभी हुई ही नहीं। प्यार तेज़ी से आता है, फिर सीमा तय करने पर ठंडा पड़ जाता है। आप कोई समस्या उठाते हैं, और आख़िर में माफ़ी माँगते हैं। और धीरे-धीरे, दोस्तों से मिलना कम हो जाता है।
@@ -104,7 +116,7 @@ You are an intriguing, authoritative narrator for the 4-minute finale of an awar
 [long pause] मैनिपुलेशन को चाहिए रफ़्तार, चुप्पी और राज़। अब आपके पास है समय, सवाल, और अपने लोग।
 
 [friendly] कमेंट में बताइए: इन सात संकेतों में से, आपने सबसे ज़्यादा कौन-सा देखा है?
-इसे किसी ऐसे इंसान के साथ शेयर कीजिए, जो इसे पहले से पहचानना चाहेगा। और सब्सक्राइब कीजिए। पूरी सीरीज़ का लिंक, अभी स्क्रीन पर है।
+इसे किसी ऐसे इंसान के साथ शेयर कीजिए, जो इसे पहले से पहचानना चाहेगा। पूरी सीरीज़ का लिंक, अभी स्क्रीन पर है।
 ```
 
 ---
@@ -112,17 +124,18 @@ You are an intriguing, authoritative narrator for the 4-minute finale of an awar
 
 **Style instructions**
 ```
-You are an intriguing, authoritative narrator for the 4-minute finale of an awareness series: seven signs you're being manipulated, and what to do. Your goal is to leave the listener confident and protected. Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a sharp, trusted guide. Brisk but clear, with deliberate pauses. Steady rhythm: each sign, then its defence, slightly warmer. Gentle and slower on the seventh sign, warm and empowering on the payoff. End friendly, like closing a series.
+You are an intriguing, authoritative narrator for the 4-minute finale of an awareness series: seven signs you're being manipulated, and what to do. Your goal is to leave the listener confident and protected. Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a sharp, trusted guide. Brisk but clear, with deliberate pauses. Steady rhythm: each sign, then its defence, slightly warmer. Gentle and slower on the seventh sign, warm and empowering on the payoff. End friendly, like closing a series. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] সাতটা চিনে ক'ব পাৰে, যে কোনোবাই আপোনাৰ ওপৰত কৌশল চলাইছে। আৰু হয়তো এই সপ্তাহত আপুনি অন্ততঃ এটা দেখিছে।
 [knowingly] "সোনকালে কৰক।" "মাত্ৰ এটা সৰু উপকাৰ।" "সকলোৱে এইটোৱেই কৰি আছে।"
 [short pause] যদি এই সপ্তাহত আপুনি এই তিনিওটা শুনিছে, হয়তো কোনোবাই আপোনাৰ ওপৰত কাম কৰি আছে।
 
-[confident] এই ছিৰিজত, আমি নটা কৌশল খুলি চালোঁ। সেইবোৰ বেলেগ বেলেগ দেখা যায়, কিন্তু সকলোৰে উদ্দেশ্য একেটাই: আপুনি ভবাৰ আগতেই সিদ্ধান্ত লওক, বা নিজকে বিশ্বাস কৰা এৰি দিয়ক।
-গতিকে এয়া আপোনাক মেনিপুলেট কৰা হৈছে বুলি সাতটা সংকেত, আৰু প্ৰতিটোৰ বাবে এটা সহজ সুৰক্ষা।
-[short pause] আৰু শেষত, কেৱল এইবোৰ জনাটোৱেই কিয় আপোনাক ঠগা কঠিন কৰি তোলে।
+[calm] প্ৰৰোচনাৰ কৌশলবোৰ বেলেগ বেলেগ দেখি, কিন্তু সকলোৰে লক্ষ্য এটাই: আপোনাক ভবাৰ আগতেই সিদ্ধান্ত লোৱাই দিয়া, বা নিজৰ ওপৰত বিশ্বাস হেৰুৱাই দিয়া।
+গতিকে এয়া সাতটা চিন, আৰু প্ৰতিটোৰ এটা সহজ সুৰক্ষা। [intrigued] আটাইতকৈ নিমাত চিনটো শেষত।
+[short pause] [hopeful] আৰু শেষত, কিয় কেৱল এইবোৰ জনাটোৱেই আপোনাক ঠগাটো কঠিন কৰি তোলে।
 
 [brisk] প্ৰথম সংকেত: আপোনাক খৰখেদা কৰোৱা হৈছে। "আপোনাৰ একাউণ্ট ব্লক হ'ব।" "এই অফাৰ আজি নিশা শেষ।" খৰখেদাই ইচ্ছাকৃতভাৱে আপোনাৰ ভবাৰ সময় কমায়।
 [warmly] সুৰক্ষা: ৰ'ব। যি সঁচা, সেয়া দহ মিনিটৰ পিছতো সঁচা থাকিব।
@@ -136,11 +149,15 @@ You are an intriguing, authoritative narrator for the 4-minute finale of an awar
 [warmly] সুৰক্ষা: আপুনি "ধন্যবাদ"ও ক'ব পাৰে, আৰু "নহয়"ও। আৰু কিবা বিনামূলীয়া পাবলৈ কেতিয়াও টকা নিদিব।
 [short pause] "নহয়" ক'লে কোনো ধাৰ নহয়। নিবিচৰা উপহাৰতো নহয়।
 
+[leaning in] সেই চাৰিটা আছিল অনুৰোধৰ বিষয়ে। [short pause] পিছৰ দুটা, অনুৰোধ কৰাজনৰ বিষয়ে।
+
 [serious] পঞ্চম সংকেত: এটা পদ, ইউনিফৰ্ম বা লোগো, যিটো আপুনি পৰীক্ষা কৰিব নোৱাৰে। ভিডিঅ' কলত এজন "আৰক্ষী বিষয়া"। "বেংক হেড অফিচ"ৰ পৰা এজন কলাৰ।
 [warmly] সুৰক্ষা: আন এটা পথেৰে পৰীক্ষা কৰক। ফোন কাটক, আচল নম্বৰটো নিজে বিচাৰি উলিয়াওক, আৰু ঘূৰাই কল কৰক।
 [serious] ষষ্ঠ সংকেত: "সকলোৱে এইটোৱেই কৰি আছে।" ৰিভিউ, ফল'ৱাৰ, লাভ দেখুওৱা মানুহেৰে ভৰা এটা গ্ৰুপ।
 [warmly] সুৰক্ষা: ভিৰ গণনা নকৰিব, পৰীক্ষা কৰক। আটাইতকৈ বেয়া ৰিভিউবোৰ পঢ়ক, আৰু এনে যিকোনো গ্ৰুপৰ পৰা সাৱধান থাকক, য'ত কোনেও প্ৰশ্ন নকৰে।
 [short pause] কৰ্তৃত্ব আৰু ভিৰ কামৰ। দুয়োটাৰে নকল সস্তা।
+
+[quieter] আৰু শেষৰ চিনটো আটাইতকৈ নিমাত… কাৰণ ই আপোনাৰ ভিতৰত ঘটে।
 
 [gently] সপ্তম সংকেতটো আটাইতকৈ নীৰৱ, আৰু আটাইতকৈ গুৰুত্বপূৰ্ণ: আপুনি নিজকে সন্দেহ কৰিবলৈ ধৰে।
 আপোনাক কোৱা হয় যে কথাবোৰ কেতিয়াও হোৱাই নাছিল। মৰম খৰকৈ আহে, তাৰ পিছত সীমা নিৰ্ধাৰণ কৰিলে শীতল হৈ পৰে। আপুনি কোনো সমস্যা উত্থাপন কৰে, আৰু শেষত ক্ষমা খোজে। আৰু লাহে লাহে, বন্ধুবৰ্গক লগ পোৱা কমি যায়।
@@ -152,5 +169,5 @@ You are an intriguing, authoritative narrator for the 4-minute finale of an awar
 [long pause] মেনিপুলেচনক লাগে গতি, নীৰৱতা আৰু গোপনীয়তা। আপোনাৰ হাতত এতিয়া আছে সময়, প্ৰশ্ন, আৰু নিজৰ মানুহ।
 
 [friendly] কমেণ্টত কওক: এই সাতটা সংকেতৰ কোনটো আপুনি আটাইতকৈ বেছি দেখিছে?
-এইটো এনে কাৰোবাৰ লগত শ্বেয়াৰ কৰক, যিয়ে ইয়াক আগতীয়াকৈ চিনিব বিচাৰিব। আৰু চাবস্ক্ৰাইব কৰক। গোটেই ছিৰিজটোৰ লিংক এতিয়া স্ক্ৰীণত আছে।
+এইটো এনে কাৰোবাৰ লগত শ্বেয়াৰ কৰক, যিয়ে ইয়াক আগতীয়াকৈ চিনিব বিচাৰিব। গোটেই ছিৰিজটোৰ লিংক এতিয়া স্ক্ৰীণত আছে।
 ```

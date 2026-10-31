@@ -5,11 +5,20 @@
 **Voiceover:** English, Hindi, Assamese → [long-video-voice.md](long-video-voice.md) · **Reel version:** [short-reel-script.md](short-reel-script.md)
 **Series:** finale. Each sign links back to an earlier video: [01](../01-scam-urgency/long-video-script.md) · [02](../02-foot-in-the-door/long-video-script.md) · [03](../03-door-in-the-face/long-video-script.md) · [04](../04-free-gift-reciprocity/long-video-script.md) · [05](../05-authority-uniform/long-video-script.md) · [06](../06-social-proof/long-video-script.md) · [07](../07-gaslighting/long-video-script.md) · [08](../08-love-bombing/long-video-script.md) · [09](../09-darvo/long-video-script.md). Pin the playlist at the end.
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook opened on three quotes; the stakes came in line 2. | **Hook:** stakes line first ("you've probably seen at least one this week"), then the three quotes. |
+| 0:15–0:40 opened with a nine-video recap. | **Lock-in:** the shared goal, seven signs with a defence each, the quietest sign last + teased payoff ("why just knowing them makes you harder to fool"). The series wrap-up moves to the outro (playlist). |
+| Beats 3 and 4 started as labels. | **Rehooks** before signs 5–6 (~1:50) and sign 7 (~2:25). |
+| Outro had three asks (comment, share, subscribe). | **CTA:** comment + share, with the series playlist; no subscribe ask. |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 Hurry. One small favour. Everyone's doing it.
-0:15 One goal behind every tactic
+0:10 One goal behind every tactic
 0:40 Signs 1–2: rushed, and the growing yes
 1:15 Signs 3–4: the big ask, and the gift
 1:50 Signs 5–6: the costume, and the crowd
@@ -20,30 +29,31 @@
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
+Seven signs can tell you someone is working on you. And you've probably seen at least one this week.
 "Hurry." "Just one small favour." "Everyone's doing it."
-(pause) If you've heard all three this week, someone may be working on you.
+(pause) If you've heard all three, someone may be pulling the strings.
 
-**[VISUAL]** Three phone notifications stack up on a lock screen: "⏰ Only 10 minutes left!", "Can you do me one small favour?", "10,000 people already joined!". A faint puppet string drops from the top of the frame toward the viewer-figure's hand.
+**[VISUAL]** Frame 1 is already moving: three phone notifications stack up on a lock screen: "⏰ Only 10 minutes left!", "Can you do me one small favour?", "10,000 people already joined!". A faint puppet string drops from the top of the frame toward the viewer-figure's hand.
 
-_Tone: brisk, knowing; quiet warning on the last line._
+_Tone: firm on line one; brisk, knowing on the quotes; low on "pulling the strings"._
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
-In this series, we've taken apart nine tactics. They look different, but they share one goal: to get you to decide before you think, or to stop trusting yourself.
-So here are seven signs you're being manipulated, and one simple defence for each.
+Manipulation tactics look different, but they share one goal: to get you to decide before you think, or to stop trusting yourself.
+So here are seven signs, and one simple defence for each. The quietest sign comes last.
 (pause) And at the end, why just knowing them makes you harder to fool.
 
-**[VISUAL]** Nine episode thumbnails from the series slide into a grid, then fold into a single shield. Title card: **7 SIGNS**, with a checklist of seven empty boxes on the shield.
+**[VISUAL]** Title card: **7 SIGNS**, a checklist of seven empty boxes on a shield. Box 7 is drawn faintly. A glowing card **WHY KNOWING HELPS** stays sealed.
 
-_Tone: confident, warm; curious last line._
+_Tone: calm, clear; intrigued on "the quietest sign"; hopeful on the last line._
 
 ## MAIN BODY
 
-### Beat 1: Signs 1–2: rushed, and the growing yes (0:40–1:15)
+### BODY 1: Signs 1–2: rushed, and the growing yes (0:40–1:15)
 
 **[NARRATION]**
 Sign one: you're being rushed. "Your account will be blocked." "This offer ends tonight." Urgency shrinks your thinking time on purpose.
@@ -56,7 +66,7 @@ Defence: judge each request on its own. "If this were the first thing they asked
 
 _Tone: brisk, clear; firm last line._
 
-### Beat 2: Signs 3–4: the big ask, and the gift (1:15–1:50)
+### BODY 2: Signs 3–4: the big ask, and the gift (1:15–1:50)
 
 **[NARRATION]**
 Sign three: a huge request, then a "reasonable" one. The first was built to be refused, so the second feels like a compromise.
@@ -69,7 +79,16 @@ Defence: you can say "thank you" and still say "no". And never pay to receive so
 
 _Tone: knowing, steady; firm last line._
 
-### Beat 3: Signs 5–6: the costume, and the crowd (1:50–2:25)
+### REHOOK 1 (1:50)
+
+**[NARRATION]**
+Those four are about the ask. (pause) The next two are about who's asking.
+
+**[VISUAL]** A costume rack and a cardboard crowd roll into frame.
+
+_Tone: a lift; leaning in._
+
+### BODY 3: Signs 5–6: the costume, and the crowd (1:50–2:25)
 
 **[NARRATION]**
 Sign five: a title, a uniform or a logo you can't check. A "police officer" on a video call. A "bank head office" caller.
@@ -82,7 +101,16 @@ Defence: don't count the crowd, check it. Read the worst reviews, and be wary of
 
 _Tone: serious, protective; firm last line._
 
-### Beat 4: Sign 7: you stop trusting yourself (2:25–3:00)
+### REHOOK 2 (2:25)
+
+**[NARRATION]**
+And the last sign is the quietest… because it happens inside you.
+
+**[VISUAL]** Box 7 fades into view; the puppet string tightens slightly.
+
+_Tone: quiet, serious._
+
+### BODY 4: Sign 7: you stop trusting yourself (2:25–3:00)
 
 **[NARRATION]**
 Sign seven is the quietest, and the most important: you start doubting yourself.
@@ -94,7 +122,9 @@ Defence: keep a private record, slow things down, and talk to someone you trust 
 
 _Tone: gentle, serious; warm last line._
 
-## PAYOFF / TWIST (3:00–3:30)
+## CLOSING (3:00–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 And here's the twist: you're already harder to fool. In 2022, researchers led by Jon Roozenbeek found that short videos explaining manipulation techniques helped people spot them, even in a real test on YouTube. Psychologists call it "prebunking".
@@ -105,13 +135,15 @@ So remember three habits: pause, verify, and tell someone.
 
 _Tone: warm, empowering (peak); slow, firm last line._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: the comment question and a share, with the series playlist. No subscribe ask._
 
 **[NARRATION]**
 Tell me in the comments: which of these seven signs have you seen most often?
-Share this with someone who'd want to see it coming. And subscribe. The whole series is linked on screen now.
+Share this with someone who'd want to see it coming. The whole series is linked on screen now.
 
-**[VISUAL]** Comment prompt beside the seven-box checklist. End screen: the full series playlist card (all ten thumbnails) and a subscribe button.
+**[VISUAL]** Comment prompt beside the seven-box checklist. End screen: the full series playlist card (all ten thumbnails).
 
 _Tone: friendly, warm; satisfied close to the series._
 
@@ -121,14 +153,15 @@ _Tone: friendly, warm; satisfied close to the series._
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Brisk, knowing | Three quick quotes; quiet warning |
-| Setup | Confident, warm | Curious last line |
+| Hook | Firm → brisk | Plain stakes line; quick quotes; low last line |
+| Lock-in | Calm → hopeful | Clear promise; lift on "the quietest sign" |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | Beat 1 | Brisk, clear | Sign → defence rhythm; firm last line |
 | Beat 2 | Knowing, steady | Firm last line |
 | Beat 3 | Serious, protective | Firm last line |
 | Beat 4 | Gentle, serious | Slower; warm last line |
-| Payoff | Warm, empowering (peak) | "Pause, verify, and tell someone" slow; firm last line |
-| Outro | Friendly, warm | Satisfied series close |
+| Closing | Warm, empowering (peak) | "Pause, verify, and tell someone" slow; firm last line |
+| Close + CTA | Friendly, warm | Satisfied series close |
 
 ## Fact check
 
