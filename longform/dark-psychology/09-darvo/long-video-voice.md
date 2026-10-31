@@ -9,6 +9,8 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 4. Name files like `dp09-darvo_EN_s1-hook.wav`.
 
 "DARVO" is said as one word: "DAR-voh". If TTS spells it out, write it as "Darvo". Show **112 · 181 · 14416** on screen in the payoff.
+**Changed (storytelling guide):** a stakes line opens the hook; the setup is replaced by a lock-in (three steps, onlookers, where, what weakens it); two new rehook lines; one CTA, no subscribe ask. Generate 10 sections now (2 rehooks added).
+
 ⚠ Hindi and Assamese are machine-quality translations. Get a native speaker to read them before recording, and check the tone is gentle. Test the Assamese hook first.
 
 ---
@@ -16,17 +18,19 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 
 **Style instructions**
 ```
-You are an intriguing, authoritative but gentle narrator for a 4-minute awareness video called "DARVO: how some people flip the blame". Some listeners may have lived this, so be calm, kind and steady, never dramatic. Speak directly to one listener ("you"), like a trusted, caring guide. Indian English accent. Unhurried, about 135 words per minute, with deliberate pauses. Open quiet and puzzled, knowing and protective in the setup, clear when naming the three steps (read the example quotes flat, not acted), serious on how it sways others, fair and balanced on what isn't DARVO, then warm, hopeful and empowering on the defence. End friendly and gentle.
+You are an intriguing, authoritative but gentle narrator for a 4-minute awareness video called "DARVO: how some people flip the blame". Some listeners may have lived this, so be calm, kind and steady, never dramatic. Speak directly to one listener ("you"), like a trusted, caring guide. Indian English accent. Unhurried, about 135 words per minute, with deliberate pauses. Open quiet and puzzled, knowing and protective in the setup, clear when naming the three steps (read the example quotes flat, not acted), serious on how it sways others, fair and balanced on what isn't DARVO, then warm, hopeful and empowering on the defence. End friendly and gentle. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] You can raise a fair complaint, and walk away as the villain. There's a name for how that happens.
 [quietly] You calmly say: "That hurt me."
 [short pause] Two minutes later, you're the one apologising. How did that happen?
 
 [knowingly] Have you ever raised a problem with someone, and somehow ended up defending yourself instead?
-There's a name for one version of that pattern: DARVO.
-[short pause] Once you can see its three steps, it gets much harder to use on you.
+One version of that pattern is called DARVO.
+[calm] In this video: its three steps, why it fools the people watching too, and where you'll see it.
+[short pause] [hopeful] And the one thing researchers found makes it much weaker.
 
 [intrigued] Psychologist Jennifer Freyd described DARVO in 1997. It stands for Deny, Attack, and Reverse Victim and Offender.
 Deny: "That never happened." Attack: "You're always looking for problems. What's wrong with you?" Reverse: "I'm the one being hurt here. Do you know how this makes me feel?"
@@ -38,10 +42,14 @@ Studies from Freyd's lab found that when people saw DARVO in a scenario, they ra
 Another study linked experiencing DARVO with more self-blame.
 [short pause] That's the quiet power of the flip: you start doubting yourself.
 
+[serious] And it doesn't stay at the kitchen table. [short pause] The same flip shows up far beyond it.
+
 [serious] You'll see versions of it in families, workplaces and relationships. Raise a concern about someone's behaviour, and suddenly you're the one "creating drama". In a group, it can turn the whole room against the person who spoke up.
 You'll see it in public too: someone accused of wrongdoing who instantly attacks the accuser and claims to be the real victim.
 And it often overlaps with gaslighting, from video seven: first denying what happened, then questioning your memory.
 [short pause] The pattern is the same. Only the stage changes.
+
+[thoughtful] But careful. [short pause] Not everyone who defends themselves is doing this.
 
 [calm] To be fair, people who are wrongly accused also deny it, and they may feel genuinely hurt. Denial alone isn't DARVO.
 And research on DARVO is still growing. Many of the studies use college students and imagined scenarios.
@@ -53,7 +61,7 @@ The warning sign is the full pattern: deny, attack your character, then take the
 [long pause] Once you see the flip, it loses its grip.
 
 [friendly] Tell me in the comments: have you ever raised a problem and ended up being the one who apologised?
-And subscribe. Next, the series finale: seven signs you're being manipulated, and what to do about each one.
+[short pause] And next, the series finale: seven signs you're being manipulated, and what to do about each one.
 ```
 
 ---
@@ -61,17 +69,19 @@ And subscribe. Next, the series finale: seven signs you're being manipulated, an
 
 **Style instructions**
 ```
-You are an intriguing, authoritative but gentle narrator for a 4-minute awareness video about DARVO: how some people flip the blame. Some listeners may have lived this, so be calm, kind and steady, never dramatic. Speak natural, conversational Hindi (common English words like "DARVO", "pattern", "scenario", "drama", "victim" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a trusted, caring guide. Unhurried, with deliberate pauses. Quiet and puzzled at the start, clear on the three steps (read the example quotes flat, not acted), serious on how it sways others, fair on what isn't DARVO, warm, hopeful and empowering on the defence. End friendly and gentle.
+You are an intriguing, authoritative but gentle narrator for a 4-minute awareness video about DARVO: how some people flip the blame. Some listeners may have lived this, so be calm, kind and steady, never dramatic. Speak natural, conversational Hindi (common English words like "DARVO", "pattern", "scenario", "drama", "victim" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a trusted, caring guide. Unhurried, with deliberate pauses. Quiet and puzzled at the start, clear on the three steps (read the example quotes flat, not acted), serious on how it sways others, fair on what isn't DARVO, warm, hopeful and empowering on the defence. End friendly and gentle. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] आप एक जायज़ शिकायत उठा सकते हैं, और विलेन बनकर लौट सकते हैं। ये कैसे होता है, इसका एक नाम है।
 [quietly] आप शांति से कहते हैं: "इससे मुझे दुख पहुँचा।"
 [short pause] दो मिनट बाद, माफ़ी आप माँग रहे होते हैं। ये हुआ कैसे?
 
-[knowingly] क्या कभी ऐसा हुआ, कि आपने किसी से कोई समस्या उठाई, और किसी तरह, आख़िर में ख़ुद का बचाव करने लगे?
-इस पैटर्न के एक रूप का नाम है: DARVO।
-[short pause] एक बार आप इसके तीन क़दम देख लें, तो आप पर इसे चलाना बहुत मुश्किल हो जाता है।
+[knowingly] क्या कभी आपने किसी से कोई परेशानी उठाई, और न जाने कैसे, ख़ुद ही सफ़ाई देने लगे?
+उस पैटर्न के एक रूप को DARVO कहते हैं।
+[calm] इस वीडियो में: इसके तीन क़दम, ये देखने वालों को भी क्यों बहका देता है, और ये आपको कहाँ दिखेगा।
+[short pause] [hopeful] और वो एक चीज़, जो रिसर्चर्स के मुताबिक़ इसे काफ़ी कमज़ोर कर देती है।
 
 [intrigued] मनोवैज्ञानिक जेनिफ़र फ़्रॉयड ने, उन्नीस सौ सत्तानबे में DARVO के बारे में बताया। इसका मतलब है: डिनाय, अटैक, और रिवर्स विक्टिम एंड ऑफ़ेंडर। यानी, इनकार करो, हमला करो, और पीड़ित और दोषी की जगह बदल दो।
 इनकार: "ऐसा कभी हुआ ही नहीं।" हमला: "तुम्हें हमेशा कोई न कोई समस्या चाहिए। तुम्हें हुआ क्या है?" उलटना: "असल में दुख तो मुझे पहुँच रहा है। पता है, इससे मुझे कैसा लगता है?"
@@ -83,10 +93,14 @@ You are an intriguing, authoritative but gentle narrator for a 4-minute awarenes
 एक और स्टडी ने, DARVO झेलने को ज़्यादा ख़ुद को दोष देने से जोड़ा।
 [short pause] यही इस पलटाव की चुपचाप ताक़त है: आप ख़ुद पर शक करने लगते हैं।
 
+[serious] और ये रसोई की मेज़ तक नहीं रुकता। [short pause] यही पलटवार उससे कहीं आगे दिखता है।
+
 [serious] इसके रूप आपको परिवारों, दफ़्तरों और रिश्तों में दिखेंगे। किसी के बर्ताव पर चिंता जताइए, और अचानक "ड्रामा करने वाले" आप बन जाते हैं। किसी ग्रुप में, ये पूरे कमरे को आवाज़ उठाने वाले के ख़िलाफ़ कर सकता है।
 ये आपको सार्वजनिक जगहों पर भी दिखेगा: कोई, जिस पर ग़लत काम का आरोप है, तुरंत आरोप लगाने वाले पर हमला करता है, और ख़ुद को असली पीड़ित बताता है।
 और ये अक्सर गैसलाइटिंग से मिलता है, जिसकी बात सातवें वीडियो में हुई: पहले जो हुआ उससे इनकार, फिर आपकी याददाश्त पर सवाल।
 [short pause] पैटर्न वही है। बस मंच बदलता है।
+
+[thoughtful] पर सावधान। [short pause] अपना बचाव करने वाला हर इंसान ये नहीं कर रहा।
 
 [calm] सच कहें तो, जिन पर ग़लत आरोप लगता है, वो भी इनकार करते हैं, और उन्हें सच में दुख पहुँच सकता है। सिर्फ़ इनकार, DARVO नहीं है।
 और DARVO पर रिसर्च अभी बढ़ रही है। कई स्टडीज़ में कॉलेज स्टूडेंट्स और काल्पनिक स्थितियाँ इस्तेमाल हुई हैं।
@@ -98,7 +112,7 @@ You are an intriguing, authoritative but gentle narrator for a 4-minute awarenes
 [long pause] एक बार आप पलटाव देख लें, तो उसकी पकड़ ढीली पड़ जाती है।
 
 [friendly] कमेंट में बताइए: क्या कभी ऐसा हुआ, कि आपने कोई समस्या उठाई, और आख़िर में माफ़ी आपने माँगी?
-और सब्सक्राइब कीजिए। अगले वीडियो में, इस सीरीज़ का आख़िरी हिस्सा: सात संकेत कि आपको मैनिपुलेट किया जा रहा है, और हर एक के बारे में क्या करें।
+[short pause] और अगले वीडियो में, इस सीरीज़ का आख़िरी हिस्सा: सात संकेत कि आपको मैनिपुलेट किया जा रहा है, और हर एक के बारे में क्या करें।
 ```
 
 ---
@@ -106,17 +120,19 @@ You are an intriguing, authoritative but gentle narrator for a 4-minute awarenes
 
 **Style instructions**
 ```
-You are an intriguing, authoritative but gentle narrator for a 4-minute awareness video about DARVO: how some people flip the blame. Some listeners may have lived this, so be calm, kind and steady, never dramatic. Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a trusted, caring guide. Unhurried, with deliberate pauses. Quiet and puzzled at the start, clear on the three steps (read the example quotes flat, not acted), serious on how it sways others, fair on what isn't DARVO, warm, hopeful and empowering on the defence. End friendly and gentle.
+You are an intriguing, authoritative but gentle narrator for a 4-minute awareness video about DARVO: how some people flip the blame. Some listeners may have lived this, so be calm, kind and steady, never dramatic. Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a trusted, caring guide. Unhurried, with deliberate pauses. Quiet and puzzled at the start, clear on the three steps (read the example quotes flat, not acted), serious on how it sways others, fair on what isn't DARVO, warm, hopeful and empowering on the defence. End friendly and gentle. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] আপুনি এটা ন্যায্য অভিযোগ তুলিব পাৰে, আৰু খলনায়ক হৈ উভতি আহিব পাৰে। এইটো কেনেকৈ হয়, তাৰ এটা নাম আছে।
 [quietly] আপুনি শান্তভাৱে কয়: "ইয়াত মই দুখ পালোঁ।"
 [short pause] দুমিনিটৰ পিছত, ক্ষমা খুজি থকাজন আপুনিহে। এইটো কেনেকৈ হ'ল?
 
-[knowingly] কেতিয়াবা এনে হৈছেনে, যে আপুনি কাৰোবাৰ আগত কোনো সমস্যা উত্থাপন কৰিলে, আৰু কেনেবাকৈ শেষত নিজকে ৰক্ষা কৰিবলৈ ধৰিলে?
-এই আৰ্হিৰ এটা ৰূপৰ নাম আছে: DARVO।
-[short pause] এবাৰ ইয়াৰ তিনিটা খোজ দেখা পালে, আপোনাৰ ওপৰত ইয়াক চলোৱাটো বহুত কঠিন হৈ পৰে।
+[knowingly] কেতিয়াবা কাৰোবাৰ ওচৰত কোনো সমস্যা উত্থাপন কৰি, কেনেবাকৈ নিজেই নিজৰ পক্ষ সমৰ্থন কৰিবলগীয়া হৈছিলনে?
+সেই আৰ্হিৰ এটা ৰূপক DARVO বোলে।
+[calm] এই ভিডিঅ'ত: ইয়াৰ তিনিটা খোজ, ই চাই থকা মানুহকো কিয় বিভ্ৰান্ত কৰে, আৰু ইয়াক আপুনি ক'ত দেখিব।
+[short pause] [hopeful] আৰু সেই এটা কথা, যিয়ে গৱেষকসকলৰ মতে ইয়াক বহুত দুৰ্বল কৰি দিয়ে।
 
 [intrigued] মনোবিজ্ঞানী জেনিফাৰ ফ্ৰয়ডে ঊনৈছ শ সাতানব্বৈ চনত DARVOৰ কথা কৈছিল। ইয়াৰ অৰ্থ: ডিনাই, এটেক, আৰু ৰিভাৰ্চ ভিক্টিম এণ্ড অফেণ্ডাৰ। অৰ্থাৎ, অস্বীকাৰ কৰা, আক্ৰমণ কৰা, আৰু ভুক্তভোগী আৰু দোষীৰ ঠাই সলনি কৰা।
 অস্বীকাৰ: "এনে কেতিয়াও হোৱাই নাই।" আক্ৰমণ: "তোমাক সদায় কিবা নহয় কিবা সমস্যা লাগে। তোমাৰ কি হৈছে?" ওলোটা: "আচলতে দুখ মইহে পাইছোঁ। জানানে, ইয়াত মোৰ কেনে লাগিছে?"
@@ -128,10 +144,14 @@ You are an intriguing, authoritative but gentle narrator for a 4-minute awarenes
 আন এটা অধ্যয়নে DARVO ভোগ কৰাক বেছি আত্মদোষাৰোপৰ সৈতে জড়িত কৰিছিল।
 [short pause] এইটোৱেই এই ওলোটনৰ নীৰৱ শক্তি: আপুনি নিজকে সন্দেহ কৰিবলৈ ধৰে।
 
+[serious] আৰু ই পাকঘৰৰ টেবুলতে ৰৈ নাথাকে। [short pause] একেই ওলোটা চাল তাৰ বহুত বাহিৰতো দেখা যায়।
+
 [serious] ইয়াৰ ৰূপ আপুনি পৰিয়াল, কৰ্মস্থান আৰু সম্পৰ্কত দেখিব। কাৰোবাৰ আচৰণৰ বিষয়ে চিন্তা প্ৰকাশ কৰক, আৰু হঠাতে "নাটক কৰা"জন আপুনিহে হৈ পৰে। কোনো দলত, ই গোটেই কোঠাটোকে মাত মতাজনৰ বিৰুদ্ধে কৰিব পাৰে।
 ৰাজহুৱা ক্ষেত্ৰতো আপুনি ইয়াক দেখিব: কোনোবা, যাৰ বিৰুদ্ধে ভুল কামৰ অভিযোগ, তৎক্ষণাত অভিযোগকাৰীক আক্ৰমণ কৰে, আৰু নিজকে আচল ভুক্তভোগী বুলি দাবী কৰে।
 আৰু ই প্ৰায়ে গেছলাইটিঙৰ সৈতে মিলে, যাৰ কথা সপ্তম ভিডিঅ'ত হৈছিল: প্ৰথমে যি হ'ল তাক অস্বীকাৰ, তাৰ পিছত আপোনাৰ স্মৃতিক প্ৰশ্ন।
 [short pause] আৰ্হিটো একেই। কেৱল মঞ্চখন সলনি হয়।
+
+[thoughtful] কিন্তু সাৱধান। [short pause] নিজৰ পক্ষ লোৱা প্ৰতিজন মানুহেই এইটো কৰা নাই।
 
 [calm] সঁচাকৈ ক'বলৈ গ'লে, যিসকলৰ বিৰুদ্ধে ভুলকৈ অভিযোগ উঠে, তেওঁলোকেও অস্বীকাৰ কৰে, আৰু তেওঁলোকে সঁচাকৈয়ে দুখ পাব পাৰে। কেৱল অস্বীকাৰ DARVO নহয়।
 আৰু DARVOৰ ওপৰত গৱেষণা এতিয়াও বাঢ়ি আছে। বহুতো অধ্যয়নত কলেজৰ ছাত্ৰ-ছাত্ৰী আৰু কাল্পনিক পৰিস্থিতি ব্যৱহাৰ কৰা হৈছে।
@@ -143,5 +163,5 @@ You are an intriguing, authoritative but gentle narrator for a 4-minute awarenes
 [long pause] এবাৰ ওলোটনটো দেখা পালে, ইয়াৰ খামোচ ঢিলা হৈ পৰে।
 
 [friendly] কমেণ্টত কওক: কেতিয়াবা এনে হৈছেনে, যে আপুনি কোনো সমস্যা উত্থাপন কৰিলে, আৰু শেষত ক্ষমা আপুনিহে খুজিলে?
-আৰু চাবস্ক্ৰাইব কৰক। পিছৰ ভিডিঅ'ত, এই ছিৰিজৰ শেষ খণ্ড: আপোনাক মেনিপুলেট কৰা হৈছে বুলি সাতটা সংকেত, আৰু প্ৰতিটোৰ বাবে কি কৰিব।
+[short pause] আৰু পিছৰ ভিডিঅ'ত, এই ছিৰিজৰ শেষ খণ্ড: আপোনাক মেনিপুলেট কৰা হৈছে বুলি সাতটা সংকেত, আৰু প্ৰতিটোৰ বাবে কি কৰিব।
 ```

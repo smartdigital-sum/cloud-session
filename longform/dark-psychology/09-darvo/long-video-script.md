@@ -6,11 +6,20 @@
 **Series:** follows [08 Love bombing](../08-love-bombing/long-video-script.md). Links back to [07 Gaslighting](../07-gaslighting/long-video-script.md). Teases 10 (finale) next.
 **Sensitivity:** viewers may have experienced this. No "how to DARVO" angle, no labelling of real people or public figures, helplines on screen and in the pinned comment.
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook was quiet and puzzled, with the stakes left implicit. | **Hook:** stakes line first ("raise a fair complaint, and walk away as the villain"), then the kitchen scene. |
+| 0:15–0:40 named DARVO but promised little. | **Lock-in:** magic box (three steps, why it fools onlookers, where you'll see it) + teased payoff ("one thing researchers found makes it much weaker"). |
+| Beats 3 and 4 started as labels. | **Rehooks** before "where you'll see it" (~1:50) and "not every defence is DARVO" (~2:25). |
+| Outro asked for a comment and a subscribe. | One **CTA** (comment question + next-video tease). |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 "That hurt me."
-0:15 How did I end up apologising?
+0:10 How did I end up apologising?
 0:40 Three steps, one flip
 1:15 Why it sways onlookers too
 1:50 Where you'll see it
@@ -21,30 +30,32 @@
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
+You can raise a fair complaint, and walk away as the villain. There's a name for how that happens.
 You calmly say: "That hurt me."
 (pause) Two minutes later, you're the one apologising. How did that happen?
 
-**[VISUAL]** Two figures at a kitchen table. One says "THAT HURT ME" in a small, calm speech bubble. Time-lapse: the other's bubbles grow huge and red. The first figure shrinks and says "SORRY…". A clock shows only two minutes have passed.
+**[VISUAL]** Frame 1 is already moving: two figures at a kitchen table. One says "THAT HURT ME" in a small, calm speech bubble. Time-lapse: the other's bubbles grow huge and red. The first figure shrinks and says "SORRY…". A clock shows only two minutes have passed.
 
-_Tone: quiet, puzzled; curious question._
+_Tone: firm on line one; then quiet and puzzled._
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
 Have you ever raised a problem with someone, and somehow ended up defending yourself instead?
-There's a name for one version of that pattern: DARVO.
-(pause) Once you can see its three steps, it gets much harder to use on you.
+One version of that pattern is called DARVO.
+In this video: its three steps, why it fools the people watching too, and where you'll see it.
+(pause) And the one thing researchers found makes it much weaker.
 
-**[VISUAL]** A courtroom sketch: the figure who raised the problem walks in as the complainant and ends up in the dock. Title card: **D · A · RVO**, with an arrow that spins round to point back at the viewer.
+**[VISUAL]** A courtroom sketch: the figure who raised the problem walks in as the complainant and ends up in the dock. Title card: **D · A · RVO**, an arrow spinning round to point back at the viewer. Three sealed cards: **3 STEPS · ONLOOKERS · WHERE**. A glowing card **WHAT WEAKENS IT** stays sealed.
 
-_Tone: knowing, protective; confident last line._
+_Tone: knowing, protective; clear promise; hopeful on the last line._
 
 ## MAIN BODY
 
-### Beat 1: Three steps, one flip (0:40–1:15)
+### BODY 1: Three steps, one flip (0:40–1:15)
 
 **[NARRATION]**
 Psychologist Jennifer Freyd described DARVO in 1997. It stands for Deny, Attack, and Reverse Victim and Offender.
@@ -56,7 +67,7 @@ In under a minute, the person who raised the harm is the one on trial.
 
 _Tone: intrigued, clear; quotes delivered flat, not acted; pointed last line._
 
-### Beat 2: Why it sways onlookers too (1:15–1:50)
+### BODY 2: Why it sways onlookers too (1:15–1:50)
 
 **[NARRATION]**
 DARVO doesn't only confuse the person who spoke up. It can sway everyone watching: friends, family, colleagues.
@@ -68,7 +79,16 @@ Another study linked experiencing DARVO with more self-blame.
 
 _Tone: thoughtful, serious; quiet last line._
 
-### Beat 3: Where you'll see it (1:50–2:25)
+### REHOOK 1 (1:50)
+
+**[NARRATION]**
+And it doesn't stay at the kitchen table. (pause) The same flip shows up far beyond it.
+
+**[VISUAL]** The kitchen table slides away; an office, a group chat and a press podium slide in.
+
+_Tone: serious, leaning in._
+
+### BODY 3: Where you'll see it (1:50–2:25)
 
 **[NARRATION]**
 You'll see versions of it in families, workplaces and relationships. Raise a concern about someone's behaviour, and suddenly you're the one "creating drama". In a group, it can turn the whole room against the person who spoke up.
@@ -80,7 +100,16 @@ And it often overlaps with gaslighting, from video seven: first denying what hap
 
 _Tone: knowing, serious; firm last line._
 
-### Beat 4: Not every defence is DARVO (2:25–3:00)
+### REHOOK 2 (2:25)
+
+**[NARRATION]**
+But careful. (pause) Not everyone who defends themselves is doing this.
+
+**[VISUAL]** The arrow stops spinning and hovers between the two figures.
+
+_Tone: fair, balanced._
+
+### BODY 4: Not every defence is DARVO (2:25–3:00)
 
 **[NARRATION]**
 To be fair, people who are wrongly accused also deny it, and they may feel genuinely hurt. Denial alone isn't DARVO.
@@ -92,7 +121,9 @@ The warning sign is the full pattern: deny, attack your character, then take the
 
 _Tone: fair, balanced; clear last line._
 
-## PAYOFF / TWIST (3:00–3:30)
+## CLOSING (3:00–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 And here's the hopeful part. In a 2020 study, Sarah Harsey and Jennifer Freyd found that people who had learned about DARVO were less swayed by it. They saw the real victim as more believable.
@@ -103,11 +134,13 @@ Simply knowing the name helps. So when you notice the flip, name it to yourself:
 
 _Tone: warm, hopeful, empowering (peak); firm last line._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: the comment question, plus the next-video tease. No subscribe ask._
 
 **[NARRATION]**
 Tell me in the comments: have you ever raised a problem and ended up being the one who apologised?
-And subscribe. Next, the series finale: seven signs you're being manipulated, and what to do about each one.
+(pause) And next, the series finale: seven signs you're being manipulated, and what to do about each one.
 
 **[VISUAL]** Comment prompt beside the spinning BLAME arrow, now pointing the right way. End screen: next-video card **7 Signs You're Being Manipulated (and What to Do)** (a checklist with seven boxes on a shield).
 
@@ -119,14 +152,15 @@ _Tone: friendly, gentle; curious tease._
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Quiet, puzzled | Calm quote; curious question |
-| Setup | Knowing, protective | Confident last line |
+| Hook | Firm → puzzled | Plain stakes line; quiet "How did that happen?" |
+| Lock-in | Knowing → hopeful | Clear promise; hopeful last line |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | Beat 1 | Intrigued, clear | Quotes flat, not acted; pointed last line |
 | Beat 2 | Thoughtful, serious | Quiet last line |
 | Beat 3 | Knowing, serious | Firm last line |
 | Beat 4 | Fair, balanced | Clear last line |
-| Payoff | Warm, hopeful, empowering (peak) | Firm last line |
-| Outro | Friendly, gentle | Curious tease for the finale |
+| Closing | Warm, hopeful, empowering (peak) | Firm last line |
+| Close + CTA | Friendly, gentle | Curious tease for the finale |
 
 ## Fact check
 
