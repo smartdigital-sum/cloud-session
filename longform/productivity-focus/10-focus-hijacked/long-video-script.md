@@ -20,11 +20,20 @@ Listicle format: the main body runs 0:40–3:05 (seven signs of ~20s each) inste
 | 7 Tired but "fine" | [09 Productivity hacks](../09-productivity-hacks/long-video-script.md) (#1 sleep) and [07 Four hours](../07-four-hours/long-video-script.md) |
 | The fixes (payoff) | 01–09, plus [06 Tomato timer](../06-tomato-timer/long-video-script.md) |
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook led with a statistic; the "you" stakes came in line 3. | **Hook:** subject + stakes in sentence one ("dropped to under a minute… you probably haven't noticed"). |
+| 0:15–0:40 opened with a nine-video series recap. | **Lock-in:** self-check promise + a tease for the last sign ("most people miss in themselves") + payoff ("every sign gets its fix"). The series wrap-up now sits in the outro (playlist). |
+| Seven signs in a row, no turns. | **Rehooks** before Sign 4 (~1:40) and Sign 7 (~2:40). |
+| Outro had three asks (comment, playlist, subscribe). | **CTA:** the comment number + the playlist link that wraps up the series. No subscribe ask. |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 From 2.5 minutes to 47 seconds
-0:15 The self-check
+0:10 The self-check
 0:40 Sign 1: Screen jumping
 1:00 Sign 2: The phone reach
 1:20 Sign 3: Night-time replays
@@ -38,31 +47,31 @@ Listicle format: the main body runs 0:40–3:05 (seven signs of ~20s each) inste
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
-In the early 2000s, office workers stayed on one screen for about two and a half minutes before switching.
-In more recent studies? (pause) About forty-seven seconds.
+Your attention on a screen has dropped to under a minute. And you probably haven't noticed.
+In the early 2000s, office workers stayed on one screen for about two and a half minutes before switching. In more recent studies? (pause) About forty-seven seconds.
 Your focus isn't gone. It's being taken. Quietly.
 
-**[VISUAL]** A 2004-style office monitor; a stopwatch above it counts slowly to **2:30**. Hard cut to a modern laptop and phone; the stopwatch whips to **0:47** and resets again and again as windows flick. A faint hand-shaped shadow lifts a glowing thread from the worker's head.
+**[VISUAL]** Frame 1 is already moving: a stopwatch on a computer screen counts down fast from 2:30 and slams to **0:47**. Office worker silhouettes flick between windows faster and faster. The cursor drifts away on its own.
 
-_Tone: intriguing, measured; quiet and pointed on "Quietly."_
+_Tone: firm on line one; clear numbers; quiet "Quietly."_
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
-This is the final video in this series. Over nine videos, we've looked at what pulls your focus away, and what brings it back.
-Now let's turn it into a self-check. Seven silent signs your focus is being hijacked.
-Keep count as we go. (pause) At the end, I'll ask for your number.
+So let's do a self-check. Seven silent signs your focus is being hijacked. Keep count as we go.
+The first few are easy to spot. (pause) The last one, most people miss in themselves.
+And at the end, every sign gets its fix… and I'll ask for your number.
 
-**[VISUAL]** A grid of the nine previous thumbnails lights up one by one. A clipboard slides in titled **SELF-CHECK** with seven empty boxes and a small tally counter in the corner: **0**.
+**[VISUAL]** A clipboard slides in with seven empty boxes and a tally counter at 0. Box 7 is drawn faintly, almost invisible. A ring of seven small keys glints at the bottom edge.
 
-_Tone: warm, inviting; friendly on "Keep count."_
+_Tone: warm, inviting "Keep count"; intrigued on "most people miss in themselves"._
 
 ## MAIN BODY (SEVEN SIGNS)
 
-### Sign 1: Screen jumping (0:40–1:00)
+### BODY 1: Sign 1, Screen jumping (0:40–1:00)
 
 **[NARRATION]**
 Sign one: you jump between screens before you even notice.
@@ -73,7 +82,7 @@ And every jump costs a little time to restart. That's the switch cost from our m
 
 _Tone: clear, curious._
 
-### Sign 2: The phone reach (1:00–1:20)
+### BODY 2: Sign 2, The phone reach (1:00–1:20)
 
 **[NARRATION]**
 Sign two: your hand reaches for your phone before you've decided to.
@@ -84,7 +93,7 @@ That's a mind on standby, always waiting for the next alert. And we saw how even
 
 _Tone: knowing, lightly amused._
 
-### Sign 3: Night-time replays (1:20–1:40)
+### BODY 3: Sign 3, Night-time replays (1:20–1:40)
 
 **[NARRATION]**
 Sign three: unfinished tasks replay in your head at night.
@@ -94,7 +103,16 @@ That's an open loop. In our very first video, we saw that writing a specific pla
 
 _Tone: gentle, hushed._
 
-### Sign 4: Busy, but stuck (1:40–2:00)
+### REHOOK 1 (1:40)
+
+**[NARRATION]**
+Those first three, you can see coming. (pause) The next ones hide inside a busy day.
+
+**[VISUAL]** The tally counter clicks to 3; the scene fills with a busy to-do montage.
+
+_Tone: a lift; leaning in._
+
+### BODY 4: Sign 4, Busy, but stuck (1:40–2:00)
 
 **[NARRATION]**
 Sign four: you're busy all day, but the important thing didn't move.
@@ -105,7 +123,7 @@ That's not laziness. It's avoiding a feeling. Shrink the task until the feeling 
 
 _Tone: knowing, kind; no judgement._
 
-### Sign 5: Wednesday collapse (2:00–2:20)
+### BODY 5: Sign 5, Wednesday collapse (2:00–2:20)
 
 **[NARRATION]**
 Sign five: your plans keep collapsing by Wednesday.
@@ -115,7 +133,7 @@ That's the planning fallacy. You planned a perfect week, with no room for real l
 
 _Tone: thoughtful, practical._
 
-### Sign 6: No empty moments (2:20–2:40)
+### BODY 6: Sign 6, No empty moments (2:20–2:40)
 
 **[NARRATION]**
 Sign six: you can't wait two minutes without your phone.
@@ -126,7 +144,16 @@ Those gaps are where your mind used to rest and connect ideas. Give a few of the
 
 _Tone: warm, slightly wistful._
 
-### Sign 7: Tired but "fine" (2:40–3:05)
+### REHOOK 2 (2:40)
+
+**[NARRATION]**
+And the last sign is the hardest to count… because it feels like nothing's wrong.
+
+**[VISUAL]** Box 7 on the clipboard fades into view; the tally counter hesitates.
+
+_Tone: quiet, serious._
+
+### BODY 7: Sign 7, Tired but "fine" (2:40–3:05)
 
 **[NARRATION]**
 And sign seven, the quietest one: you're tired, but you tell yourself you're fine.
@@ -137,7 +164,9 @@ If you feel fine on too little sleep… (pause) that may be the sign itself.
 
 _Tone: serious, slow; the most weight in the video._
 
-## PAYOFF (3:05–3:30)
+## CLOSING (3:05–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 So, what's your number? There's no official score here. It's a mirror, not a test. But if you counted five or more, your focus is being pulled hard.
@@ -148,12 +177,14 @@ Here's the good news: every sign has a fix, and you've already seen them all. Cl
 
 _Tone: warm certainty (peak); rhythmic list of fixes; slow, gentle last line._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: your number in the comments, plus the playlist that wraps up the series. No subscribe ask._
 
 **[NARRATION]**
 Tell me in the comments: how many of the seven did you count?
 If this series helped you, the full playlist is linked below. Start with any sign you counted.
-And subscribe. A new series is coming soon.
+(pause) Thanks for watching all ten.
 
 **[VISUAL]** Comment prompt "__ / 7?" End screen: the full 10-video playlist card plus a "NEW SERIES SOON" card with a closed door and light under it.
 
@@ -165,15 +196,16 @@ _Tone: friendly, grateful; a little anticipation on the last line._
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Intriguing → pointed | Clear numbers; quiet "Quietly." |
-| Setup | Warm, inviting | Friendly "Keep count" |
+| Hook | Firm → pointed | Weight on "under a minute"; clear numbers; quiet "Quietly." |
+| Lock-in | Warm → intrigued | Friendly "Keep count"; lift on "most people miss in themselves" |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | Signs 1–2 | Curious, lightly amused | Crisp number at the start of each |
 | Sign 3 | Gentle, hushed | Soft |
 | Signs 4–5 | Knowing, kind, practical | No judgement |
 | Sign 6 | Warm, wistful | Slight slow-down on "Give a few of them back" |
 | Sign 7 | Serious (most weight) | Slowest; pause before "that may be the sign itself" |
-| Payoff | Warm certainty (peak) | Rhythmic list; long pause before the last line |
-| Outro | Friendly, grateful | Light anticipation on "new series" |
+| Closing | Warm certainty (peak) | Rhythmic list; long pause before the last line |
+| Close + CTA | Friendly, grateful | Light anticipation on "new series" |
 
 ## Fact check
 
