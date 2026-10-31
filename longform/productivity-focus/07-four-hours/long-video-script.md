@@ -5,11 +5,20 @@
 **Voiceover:** English, Hindi, Assamese → [long-video-voice.md](long-video-voice.md) · **Reel version:** [short-reel-script.md](short-reel-script.md)
 **Series:** focus-tools chapter, follows [06 Tomato timer](../06-tomato-timer/long-video-script.md). Teases idea #9 (boredom) next.
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook was intriguing but had no stakes for the viewer. | **Hook:** subject + stakes in sentence one ("don't work longer than you… grinding longer may be costing you"), then the countdown. |
+| 0:15–0:40 opened with a recap of video 06. | **Lock-in:** clarifying contrast (hustle vs experts) + magic box (a famous scientist, the 10,000-hour twist) + teased payoff (find your own best hours). Recap removed. |
+| Beats 3 and 4 started as labels. | **Rehooks** before Darwin (~1:50) and the 10,000-hour debate (~2:25). |
+| Outro asked for a comment and a subscribe. | One **CTA** (comment question + next-video tease). |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 Not ten hours. About four.
-0:15 Hustle culture vs real experts
+0:10 Hustle culture vs real experts
 0:40 The Berlin violin study
 1:15 Why stop at four?
 1:50 Darwin's thinking path
@@ -20,31 +29,32 @@
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
-At one of Europe's top music academies, researchers studied the best young violinists.
-How many hours a day of hard, focused practice did they do?
+The world's best performers don't work longer than you. And grinding longer may be costing you more than it gives.
+At one of Europe's top music academies, researchers asked how many hours a day the best young violinists spent in hard, focused practice.
 (pause) Not ten. Not eight. About four.
 
-**[VISUAL]** A grand old music academy hall, soft morning light. A young violinist plays alone in a practice room. A clock face spins; numbers 10 and 8 appear and get crossed out; a bold **~4** settles in.
+**[VISUAL]** Frame 1 is already moving: a clock hand spins fast past 10 and 8, both crossed out, and stops on a bold **~4**. Pull back to a grand old music academy, soft morning light; a young violinist plays alone in a practice room.
 
-_Tone: intriguing, unhurried; slow countdown "Not ten. Not eight. About four."_
+_Tone: firm on line one; intriguing and unhurried on the countdown "Not ten. Not eight. About four."_
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
-Last time, we saw why short breaks protect your focus. Today, the bigger picture: your whole day.
 Hustle culture says more hours means more success. Wake up earlier. Grind longer.
-But when scientists studied real experts, they found a quieter pattern. (pause) And it's the same study that gave the world the famous "10,000 hours" idea.
+But when scientists studied real experts, they found a quieter pattern. One of history's greatest scientists lived by it.
+And this is the same study that gave the world the famous "10,000 hours" idea… (pause) with a twist most people never hear.
+At the end, I'll show you how to find your own best hours.
 
-**[VISUAL]** The tomato timer from 06 zooms out into a full-day timeline. Hustle-culture montage: 4 a.m. alarms, coffee cups stacking, "NO DAYS OFF" posters. A record-scratch freeze. A quiet violin note; a big **10,000 HOURS** title fades in with a question mark.
+**[VISUAL]** Hustle-culture montage: 4 a.m. alarms, coffee cups stacking, "NO DAYS OFF" posters. Record-scratch freeze. A quiet violin note. Three sealed cards: **THE VIOLINS · THE SCIENTIST · 10,000 HOURS?**. A fourth glowing card, **YOUR HOURS**, stays sealed.
 
-_Tone: calm; slightly wry on the hustle list; intriguing on "10,000 hours."_
+_Tone: wry on the hustle list; intrigued on "a twist most people never hear"._
 
 ## MAIN BODY
 
-### Beat 1: The Berlin violin study (0:40–1:15)
+### BODY 1: The Berlin violin study (0:40–1:15)
 
 **[NARRATION]**
 In 1993, psychologist Anders Ericsson and his colleagues studied violin students at the Berlin Academy of Music. Teachers sorted them into groups: the best, the good, and those training to become music teachers.
@@ -56,7 +66,7 @@ And the top groups did about four hours of it a day. (pause) Including weekends.
 
 _Tone: clear, documentary; weight on "exactly what they couldn't do yet."_
 
-### Beat 2: Why stop at four? (1:15–1:50)
+### BODY 2: Why stop at four? (1:15–1:50)
 
 **[NARRATION]**
 Why stop at four? Because real practice is exhausting.
@@ -68,7 +78,16 @@ For them, rest wasn't laziness. (pause) It was part of the training.
 
 _Tone: steady; gentle on the nap; firm on "part of the training."_
 
-### Beat 3: Darwin's thinking path (1:50–2:25)
+### REHOOK 1 (1:50)
+
+**[NARRATION]**
+And this isn't just a musician thing. (pause) One of history's greatest scientists ran his whole day this way.
+
+**[VISUAL]** The practice room dissolves into a Victorian study; a pocket watch ticks.
+
+_Tone: a lift; leaning in._
+
+### BODY 3: Darwin's thinking path (1:50–2:25)
 
 **[NARRATION]**
 You see the same pattern far outside music.
@@ -80,7 +99,16 @@ Roughly four and a half hours of deep work a day. (pause) And from that came one
 
 _Tone: warm, admiring; quiet awe on the last line._
 
-### Beat 4: The twist, the 10,000-hour debate (2:25–3:00)
+### REHOOK 2 (2:25)
+
+**[NARRATION]**
+But here's the part of this story most people never hear. (pause) The famous "10,000 hours".
+
+**[VISUAL]** A giant 10,000 HOURS sign flickers on, then wobbles.
+
+_Tone: knowing._
+
+### BODY 4: The twist, the 10,000-hour debate (2:25–3:00)
 
 **[NARRATION]**
 Now, the twist. That Berlin study is where the "10,000 hours" rule came from, after a bestselling book made it famous.
@@ -92,7 +120,9 @@ So the honest lesson isn't "practise exactly four hours", or "reach 10,000". (pa
 
 _Tone: intrigued, honest and balanced; let the final line land slowly._
 
-## PAYOFF / TWIST (3:00–3:30)
+## CLOSING (3:00–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 So here's what this means for you. You don't have eight hours of deep focus in a day. Almost nobody does.
@@ -105,12 +135,14 @@ Use the rest of the day for lighter work: emails, errands, admin.
 
 _Tone: warm certainty (peak); slow, balanced final line._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: the comment question, plus the next-video tease. No subscribe ask._
 
 **[NARRATION]**
 Tell me in the comments: on a good day, how many hours of real, deep focus do you actually get?
 Be honest. It's probably less than you think. And that's okay.
-And subscribe. Next: why being bored might be one of the best things for your focus.
+(pause) And next: why being bored might be one of the best things for your focus.
 
 **[VISUAL]** Comment prompt over a simple hour bar: "1? 2? 4?" End screen: next-video card **Boredom Might Be Your Secret Focus Weapon** (a person staring out of a window, a tiny spark of an idea above their head).
 
@@ -122,14 +154,15 @@ _Tone: gentle, kind; reassuring "that's okay"; curious tease._
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Intriguing | Slow three-step countdown to "About four" |
-| Setup | Calm, wry | Light irony on the hustle list; curious on "10,000 hours" |
+| Hook | Firm → intriguing | Weight on "don't work longer than you"; slow countdown to "About four" |
+| Lock-in | Wry → intrigued | Light irony on the hustle list; lift on "a twist most people never hear" |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | Beat 1 | Clear, documentary | Even; weight on "exactly what they couldn't do yet"; pause before "Including weekends" |
 | Beat 2 | Steady → firm | Gentle on naps; firm on "part of the training" |
 | Beat 3 | Warm, admiring | Unhurried; quiet awe at the end |
 | Beat 4 | Intrigued, balanced | Fair on the debate; slow final line |
-| Payoff | Warm certainty (peak) | Practical rhythm; long pause before the last line |
-| Outro | Gentle, kind | Reassuring "And that's okay"; curious tease |
+| Closing | Warm certainty (peak) | Practical rhythm; long pause before the last line |
+| Close + CTA | Gentle, kind | Reassuring "And that's okay"; curious tease |
 
 ## Fact check
 

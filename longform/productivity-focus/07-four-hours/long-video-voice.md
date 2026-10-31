@@ -8,6 +8,8 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 3. If the voice drifts, speeds up or cuts off near the end, generate **one section per run** with the same voice and style, then join the clips (add ~0.5s silence between sections).
 4. Name files like `07-four-hours_EN_s1-hook.wav`.
 
+**Changed (storytelling guide):** firm hook with the stakes in line one; the video-06 recap is replaced by a lock-in (hustle vs experts, a famous scientist, the 10,000-hour twist, your best hours); two new rehook lines; one CTA, no subscribe ask. Generate 10 sections now (2 rehooks added).
+
 ⚠ **Before recording:** the sleep/nap line in section 4 (marked `⚠` below, in all three languages) is unverified. If you can't confirm it in the 1993 paper, delete that line. If you can confirm it, keep the line but delete the `⚠` symbol so it isn't read aloud.
 ⚠ Hindi and Assamese are machine-quality translations. Get a native speaker to read them before recording. Test the Assamese hook first.
 
@@ -16,18 +18,19 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 
 **Style instructions**
 ```
-You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "Why elite performers rarely work more than four hours". Speak directly to one listener ("you"), like a trusted older friend who has seen hustle culture burn people out. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses between short lines. Open intriguing, with a slow countdown to "about four". Be lightly wry about hustle culture, clear and documentary on the violin study, warm and admiring on Darwin, fair and balanced on the 10,000-hour debate, then rise to warm, certain advice about protecting deep hours and resting on purpose. End kind and reassuring. Never preachy, never like an advert.
+You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "Why elite performers rarely work more than four hours". Speak directly to one listener ("you"), like a trusted older friend who has seen hustle culture burn people out. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses between short lines. Open firm on the first line (never whispered), then intriguing, with a slow countdown to "about four". Be lightly wry about hustle culture, clear and documentary on the violin study, warm and admiring on Darwin, fair and balanced on the 10,000-hour debate, then rise to warm, certain advice about protecting deep hours and resting on purpose. End kind and reassuring. Never preachy, never like an advert.
 ```
 
 **Text**
 ```
-[intrigued] At one of Europe's top music academies, researchers studied the best young violinists.
-How many hours a day of hard, focused practice did they do?
+[firmly] The world's best performers don't work longer than you. And grinding longer may be costing you more than it gives.
+[intrigued] At one of Europe's top music academies, researchers asked how many hours a day the best young violinists spent in hard, focused practice.
 [short pause] Not ten. Not eight. About four.
 
-[calm] Last time, we saw why short breaks protect your focus. Today, the bigger picture: your whole day.
 [knowingly] Hustle culture says more hours means more success. Wake up earlier. Grind longer.
-But when scientists studied real experts, they found a quieter pattern. [short pause] And it's the same study that gave the world the famous "10,000 hours" idea.
+[calm] But when scientists studied real experts, they found a quieter pattern. One of history's greatest scientists lived by it.
+[intrigued] And this is the same study that gave the world the famous "10,000 hours" idea… [short pause] with a twist most people never hear.
+At the end, I'll show you how to find your own best hours.
 
 [thoughtful] In 1993, psychologist Anders Ericsson and his colleagues studied violin students at the Berlin Academy of Music. Teachers sorted them into groups: the best, the good, and those training to become music teachers.
 Everyone kept diaries of their week.
@@ -39,10 +42,14 @@ Ericsson argued that this kind of deep effort can only be kept up for a limited 
 ⚠ And by their own diaries, the top violinists also slept more, including afternoon naps.
 For them, rest wasn't laziness. [short pause] It was part of the training.
 
+[leaning in] And this isn't just a musician thing. [short pause] One of history's greatest scientists ran his whole day this way.
+
 [warmly] You see the same pattern far outside music.
 Charles Darwin, the man behind the theory of evolution, did his scientific work in about three focused blocks of around ninety minutes a day.
 The rest of the time? Long walks on a gravel path he called his "thinking path". Letters. Rest.
 Roughly four and a half hours of deep work a day. [short pause] And from that came one of the most important books in science.
+
+[knowingly] But here's the part of this story most people never hear. [short pause] The famous "10,000 hours".
 
 [intrigued] Now, the twist. That Berlin study is where the "10,000 hours" rule came from, after a bestselling book made it famous.
 But in 2019, researchers repeated the study with violinists in Cleveland. Practice still mattered. But the amount of practice alone didn't separate the best from the merely good.
@@ -57,7 +64,7 @@ Use the rest of the day for lighter work: emails, errands, admin.
 
 [friendly] Tell me in the comments: on a good day, how many hours of real, deep focus do you actually get?
 [gently] Be honest. It's probably less than you think. And that's okay.
-And subscribe. Next: why being bored might be one of the best things for your focus.
+[short pause] And next: why being bored might be one of the best things for your focus.
 ```
 
 ---
@@ -65,18 +72,19 @@ And subscribe. Next: why being bored might be one of the best things for your fo
 
 **Style instructions**
 ```
-You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "Why elite performers rarely work more than four hours". Speak natural, conversational Hindi (common English words like "practice", "focus", "hustle", "study" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a trusted older friend who has seen hustle culture burn people out. Unhurried, with deliberate pauses between short lines. Open intriguing, with a slow countdown to "lagbhag chaar". Be lightly wry about hustle culture, clear and documentary on the violin study, warm and admiring on Darwin, fair and balanced on the 10,000-hour debate, then rise to warm, certain advice. End kind and reassuring.
+You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "Why elite performers rarely work more than four hours". Speak natural, conversational Hindi (common English words like "practice", "focus", "hustle", "study" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a trusted older friend who has seen hustle culture burn people out. Unhurried, with deliberate pauses between short lines. Open firm on the first line (never whispered), then intriguing, with a slow countdown to "lagbhag chaar". Be lightly wry about hustle culture, clear and documentary on the violin study, warm and admiring on Darwin, fair and balanced on the 10,000-hour debate, then rise to warm, certain advice. End kind and reassuring.
 ```
 
 **Text**
 ```
-[intrigued] यूरोप की सबसे बड़ी म्यूज़िक अकादमियों में से एक में, रिसर्चर्स ने सबसे अच्छे युवा वायलिन वादकों को स्टडी किया।
-वो दिन में कितने घंटे कड़ी, फ़ोकस्ड प्रैक्टिस करते थे?
+[firmly] दुनिया के सबसे बेहतरीन परफ़ॉर्मर्स आपसे ज़्यादा घंटे काम नहीं करते। और ज़्यादा घिसना शायद आपको फ़ायदे से ज़्यादा नुक़सान दे रहा है।
+[intrigued] यूरोप की सबसे बड़ी म्यूज़िक अकादमियों में से एक में, रिसर्चर्स ने देखा कि सबसे अच्छे युवा वायलिन वादक, दिन में कितने घंटे कड़ी, फ़ोकस्ड प्रैक्टिस करते हैं।
 [short pause] दस नहीं। आठ नहीं। लगभग चार।
 
-[calm] पिछली बार हमने देखा, छोटे ब्रेक आपके फ़ोकस को कैसे बचाते हैं। आज, बड़ी तस्वीर: आपका पूरा दिन।
 [knowingly] हसल कल्चर कहता है, ज़्यादा घंटे, मतलब ज़्यादा कामयाबी। और जल्दी उठो। और ज़्यादा घिसो।
-पर जब वैज्ञानिकों ने असली एक्सपर्ट्स को स्टडी किया, तो उन्हें एक शांत पैटर्न मिला। [short pause] और ये वही स्टडी है, जिससे दुनिया को मशहूर "दस हज़ार घंटे" वाला आइडिया मिला।
+[calm] पर जब वैज्ञानिकों ने असली एक्सपर्ट्स को स्टडी किया, तो उन्हें एक शांत पैटर्न मिला। इतिहास के सबसे महान वैज्ञानिकों में से एक, इसी पर चलते थे।
+[intrigued] और ये वही स्टडी है, जिससे दुनिया को मशहूर "दस हज़ार घंटे" वाला आइडिया मिला… [short pause] एक ऐसे ट्विस्ट के साथ, जो ज़्यादातर लोग कभी नहीं सुनते।
+आख़िर में, मैं दिखाऊँगा कि अपने सबसे अच्छे घंटे कैसे ढूँढें।
 
 [thoughtful] उन्नीस सौ तिरानवे में, मनोवैज्ञानिक एंडर्स एरिक्सन और उनके साथियों ने बर्लिन एकेडमी ऑफ़ म्यूज़िक के वायलिन स्टूडेंट्स को स्टडी किया। टीचर्स ने उन्हें ग्रुप्स में बाँटा: सबसे अच्छे, अच्छे, और वो, जो म्यूज़िक टीचर बनने की ट्रेनिंग ले रहे थे।
 सबने अपने हफ़्ते की डायरी लिखी।
@@ -88,10 +96,14 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 ⚠ और उनकी अपनी डायरियों के मुताबिक़, टॉप वायलिन वादक ज़्यादा सोते भी थे, दोपहर की झपकी समेत।
 उनके लिए आराम आलस नहीं था। [short pause] वो ट्रेनिंग का हिस्सा था।
 
+[leaning in] और ये सिर्फ़ संगीतकारों की बात नहीं। [short pause] इतिहास के सबसे महान वैज्ञानिकों में से एक, अपना पूरा दिन ऐसे ही चलाते थे।
+
 [warmly] यही पैटर्न म्यूज़िक से बहुत दूर भी दिखता है।
 चार्ल्स डार्विन, विकासवाद के सिद्धांत वाले डार्विन, अपना वैज्ञानिक काम दिन में लगभग तीन फ़ोकस्ड हिस्सों में करते थे, हर एक क़रीब नब्बे मिनट का।
 बाकी वक़्त? बजरी वाले एक रास्ते पर लंबी सैर, जिसे वो अपना "सोचने का रास्ता" कहते थे। चिट्ठियाँ। आराम।
 दिन में लगभग साढ़े चार घंटे का गहरा काम। [short pause] और उसी से निकली साइंस की सबसे अहम किताबों में से एक।
+
+[knowingly] पर अब इस कहानी का वो हिस्सा, जो ज़्यादातर लोग कभी नहीं सुनते। [short pause] मशहूर "दस हज़ार घंटे"।
 
 [intrigued] अब, ट्विस्ट। "दस हज़ार घंटे" वाला नियम इसी बर्लिन स्टडी से निकला, जब एक बेस्टसेलिंग किताब ने उसे मशहूर कर दिया।
 पर दो हज़ार उन्नीस में, रिसर्चर्स ने क्लीवलैंड के वायलिन वादकों के साथ ये स्टडी दोहराई। प्रैक्टिस अब भी मायने रखती थी। पर सिर्फ़ प्रैक्टिस की मात्रा से, सबसे अच्छे और अच्छे में फ़र्क़ नहीं दिखा।
@@ -106,7 +118,7 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 
 [friendly] कमेंट में बताइए: एक अच्छे दिन, आपको असल में कितने घंटे का गहरा फ़ोकस मिलता है?
 [gently] सच-सच। शायद आपकी सोच से कम। और ये बिल्कुल ठीक है।
-और सब्सक्राइब कीजिए। अगले वीडियो में: बोरियत शायद आपके फ़ोकस के लिए सबसे अच्छी चीज़ों में से एक क्यों हो सकती है।
+[short pause] और अगले वीडियो में: बोरियत शायद आपके फ़ोकस के लिए सबसे अच्छी चीज़ों में से एक क्यों हो सकती है।
 ```
 
 ---
@@ -114,18 +126,19 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 
 **Style instructions**
 ```
-You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "Why elite performers rarely work more than four hours". Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a trusted older friend who has seen hustle culture burn people out. Unhurried, with deliberate pauses between short lines. Open intriguing, with a slow countdown to "about four". Be lightly wry about hustle culture, clear and documentary on the violin study, warm and admiring on Darwin, fair and balanced on the 10,000-hour debate, then rise to warm, certain advice. End kind and reassuring.
+You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "Why elite performers rarely work more than four hours". Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a trusted older friend who has seen hustle culture burn people out. Unhurried, with deliberate pauses between short lines. Open firm on the first line (never whispered), then intriguing, with a slow countdown to "about four". Be lightly wry about hustle culture, clear and documentary on the violin study, warm and admiring on Darwin, fair and balanced on the 10,000-hour debate, then rise to warm, certain advice. End kind and reassuring.
 ```
 
 **Text**
 ```
-[intrigued] ইউৰোপৰ আটাইতকৈ শ্ৰেষ্ঠ সংগীত একাডেমীবোৰৰ এখনত, গৱেষকসকলে আটাইতকৈ ভাল ডেকা বেহেলা বাদকসকলক অধ্যয়ন কৰিছিল।
-তেওঁলোকে দিনটোত কিমান ঘণ্টা কঠোৰ, মনোযোগী অনুশীলন কৰিছিল?
+[firmly] পৃথিৱীৰ শ্ৰেষ্ঠ শিল্পী আৰু খেলুৱৈসকলে আপোনাতকৈ বেছি ঘণ্টা কাম নকৰে। আৰু বেছিকৈ খাটাটোৱে হয়তো আপোনাক লাভতকৈ বেছি ক্ষতি কৰিছে।
+[intrigued] ইউৰোপৰ আটাইতকৈ শ্ৰেষ্ঠ সংগীত একাডেমীবোৰৰ এখনত, গৱেষকসকলে চালে, আটাইতকৈ ভাল ডেকা বেহেলা বাদকসকলে দিনটোত কিমান ঘণ্টা কঠোৰ, মনোযোগী অনুশীলন কৰে।
 [short pause] দহ নহয়। আঠ নহয়। প্ৰায় চাৰি।
 
-[calm] যোৱাবাৰ আমি দেখিলোঁ, সৰু বিৰতিয়ে আপোনাৰ মনোযোগ কেনেকৈ ৰক্ষা কৰে। আজি, ডাঙৰ ছবিখন: আপোনাৰ গোটেই দিনটো।
 [knowingly] হাছল কালচাৰে কয়, বেছি ঘণ্টা মানে বেছি সফলতা। আৰু সোনকালে উঠা। আৰু বেছিকৈ খাটা।
-কিন্তু বিজ্ঞানীসকলে যেতিয়া সঁচা বিশেষজ্ঞসকলক অধ্যয়ন কৰিলে, তেওঁলোকে এটা শান্ত আৰ্হি পালে। [short pause] আৰু এইটো সেই একেটা অধ্যয়ন, যাৰ পৰা পৃথিৱীয়ে বিখ্যাত "দহ হাজাৰ ঘণ্টা"ৰ ধাৰণাটো পালে।
+[calm] কিন্তু বিজ্ঞানীসকলে যেতিয়া সঁচা বিশেষজ্ঞসকলক অধ্যয়ন কৰিলে, তেওঁলোকে এটা শান্ত আৰ্হি পালে। ইতিহাসৰ আটাইতকৈ মহান বিজ্ঞানীসকলৰ এজনে এই আৰ্হিতেই চলিছিল।
+[intrigued] আৰু এইটো সেই একেটা অধ্যয়ন, যাৰ পৰা পৃথিৱীয়ে বিখ্যাত "দহ হাজাৰ ঘণ্টা"ৰ ধাৰণাটো পালে… [short pause] এটা টুইষ্টৰ সৈতে, যিটো বেছিভাগ মানুহে কেতিয়াও নুশুনে।
+শেষত, মই দেখুৱাম আপোনাৰ নিজৰ আটাইতকৈ ভাল ঘণ্টাকেইটা কেনেকৈ বিচাৰি পাব।
 
 [thoughtful] ঊনৈছ শ তিৰানব্বৈ চনত, মনোবিজ্ঞানী এণ্ডাৰ্ছ এৰিকছন আৰু তেওঁৰ সহযোগীসকলে বাৰ্লিন একাডেমী অৱ মিউজিকৰ বেহেলাৰ ছাত্ৰ-ছাত্ৰীক অধ্যয়ন কৰিলে। শিক্ষকসকলে তেওঁলোকক দলত ভাগ কৰিলে: আটাইতকৈ ভাল, ভাল, আৰু যিসকলে সংগীত শিক্ষক হোৱাৰ প্ৰশিক্ষণ লৈ আছিল।
 সকলোৱে নিজৰ সপ্তাহটোৰ ডায়েৰী লিখিছিল।
@@ -137,10 +150,14 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 ⚠ আৰু তেওঁলোকৰ নিজৰ ডায়েৰী অনুসৰি, শীৰ্ষ বেহেলা বাদকসকলে বেছিকৈ শুইছিলো, দুপৰীয়াৰ টোপনিকে ধৰি।
 তেওঁলোকৰ বাবে জিৰণি এলাহ নাছিল। [short pause] সেয়া প্ৰশিক্ষণৰেই অংশ আছিল।
 
+[leaning in] আৰু এইটো কেৱল সংগীতজ্ঞৰ কথা নহয়। [short pause] ইতিহাসৰ আটাইতকৈ মহান বিজ্ঞানীসকলৰ এজনে নিজৰ গোটেই দিনটো এনেকৈয়ে চলাইছিল।
+
 [warmly] একেটা আৰ্হি সংগীতৰ পৰা বহু দূৰতো দেখা যায়।
 চাৰ্লছ ডাৰউইন, বিৱৰ্তনবাদৰ তত্ত্বৰ জনক, দিনটোত প্ৰায় তিনিটা মনোযোগী ভাগত নিজৰ বৈজ্ঞানিক কাম কৰিছিল, প্ৰতিটো প্ৰায় নব্বৈ মিনিটৰ।
 বাকী সময়? শিলগুটিৰ এটা পথত দীঘল খোজ, যাক তেওঁ নিজৰ "চিন্তাৰ পথ" বুলি কৈছিল। চিঠি। জিৰণি।
 দিনে প্ৰায় চাৰে চাৰি ঘণ্টাৰ গভীৰ কাম। [short pause] আৰু তাৰ পৰাই ওলাল বিজ্ঞানৰ আটাইতকৈ গুৰুত্বপূৰ্ণ কিতাপবোৰৰ এখন।
+
+[knowingly] কিন্তু এতিয়া এই কাহিনীৰ সেই অংশটো, যিটো বেছিভাগ মানুহে কেতিয়াও নুশুনে। [short pause] বিখ্যাত "দহ হাজাৰ ঘণ্টা"।
 
 [intrigued] এতিয়া, আচৰিত কথাটো। "দহ হাজাৰ ঘণ্টা"ৰ নিয়মটো এই বাৰ্লিনৰ অধ্যয়নৰ পৰাই আহিছিল, যেতিয়া এখন জনপ্ৰিয় কিতাপে ইয়াক বিখ্যাত কৰি তুলিলে।
 কিন্তু দুহাজাৰ ঊনৈছ চনত, গৱেষকসকলে ক্লিভলেণ্ডৰ বেহেলা বাদকসকলৰ সৈতে এই অধ্যয়নটো পুনৰ কৰিলে। অনুশীলন তেতিয়াও গুৰুত্বপূৰ্ণ আছিল। কিন্তু কেৱল অনুশীলনৰ পৰিমাণে আটাইতকৈ ভাল আৰু ভালৰ মাজত পাৰ্থক্য দেখুৱাব নোৱাৰিলে।
@@ -155,5 +172,5 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 
 [friendly] কমেণ্টত কওক: এটা ভাল দিনত, আপুনি আচলতে কিমান ঘণ্টাৰ গভীৰ মনোযোগ পায়?
 [gently] সঁচাকৈ কওক। হয়তো আপুনি ভবাতকৈ কম। আৰু সেয়া একেবাৰে ঠিক আছে।
-আৰু চাবস্ক্ৰাইব কৰক। পিছৰ ভিডিঅ'ত: আমনি লগাটো কিয় আপোনাৰ মনোযোগৰ বাবে আটাইতকৈ ভাল কথাবোৰৰ এটা হ'ব পাৰে।
+[short pause] আৰু পিছৰ ভিডিঅ'ত: আমনি লগাটো কিয় আপোনাৰ মনোযোগৰ বাবে আটাইতকৈ ভাল কথাবোৰৰ এটা হ'ব পাৰে।
 ```
