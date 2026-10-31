@@ -8,6 +8,8 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 3. If the voice drifts, speeds up or cuts off near the end, generate **one section per run** with the same voice and style, then join the clips (add ~0.5s silence between sections).
 4. Name files like `02-procrastination-emotion_EN_s1-hook.wav`.
 
+**Changed (storytelling guide):** stakes in the first line; the series recap and the early reveal ("mood problem") are replaced by a lock-in; two new rehook lines (before the 1997 study and the guilt trap); one CTA, no subscribe ask. Generate 10 sections now (2 rehooks added).
+
 ⚠ Hindi and Assamese are machine-quality translations. Get a native speaker to read them before recording. The Hindi uses male verb forms ("कर लूँगा", "रहा हूँ") to match the male Charon voice; switch to female forms if you change the voice. Test the Assamese hook first.
 
 ---
@@ -15,19 +17,17 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 
 **Style instructions**
 ```
-You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "Procrastination isn't laziness, it's emotion". Speak directly to one listener ("you"), like a trusted older friend who has been there too. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses between short lines. Open with dry, knowing humour. Explain the research clearly and honestly, become serious on the cost, be warm and empathetic on guilt, then rise to warm, certain encouragement on the fix. End gently, with a friendly smile on the comment question. Never preachy, never like an advert.
+You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "Procrastination isn't laziness, it's emotion". Speak directly to one listener ("you"), like a trusted older friend who has been there too. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses between short lines. Open firm and close to the mic on the first line, then dry, knowing humour on the list. Build intrigue on the lock-in. Lean in on each transition. Explain the research clearly and honestly, become serious on the cost, be warm and empathetic on guilt, then rise to warm, certain encouragement on the fix. End gently, with a friendly smile on the comment question. Never preachy, never like an advert.
 ```
 
 **Text**
 ```
-[knowingly] You'll clean your whole room. Reply to old messages. Reorganise your phone.
-[short pause] Anything… except the one thing you're supposed to do.
-That's not laziness. Lazy people don't work this hard to avoid work.
+[firmly] Procrastination isn't laziness. And treating it like laziness is exactly why it keeps winning.
+[knowingly] You'll clean your whole room. Reply to old messages. Reorganise your phone. [short pause] Anything… except the one thing you're supposed to do.
 
-[calm] In the last video, we saw how unfinished tasks keep pulling at your mind. So why do we keep putting them off?
-For years, we were told it's a time-management problem. Get a better planner. Wake up earlier.
-But the researchers who study procrastination say it's something else.
-[short pause] It's a mood-management problem.
+[calm] For years, we were told it's a time problem. Get a better planner. Wake up earlier.
+[intrigued] But the researchers who study procrastination found something else. You're not avoiding the work. [short pause] You're avoiding something smaller… and sneakier.
+And at the end, I'll give you two small moves that break the cycle. [firmly] Neither one is a planner.
 
 [curious] Here's what really happens.
 You open the task. And something small hits you. Boredom. Confusion. A quiet voice saying, "What if I do this badly?"
@@ -41,10 +41,14 @@ In a 2009 brain-scan study at Stanford, when people thought about their future s
 So when you say, "I'll do it tomorrow," part of you is handing the job to a stranger.
 [short pause] A stranger who happens to be you.
 
+[leaning in] And that relief comes with a bill. [short pause] In 1997, two researchers actually measured it.
+
 [serious] That loan comes with interest.
 In 1997, psychologists Dianne Tice and Roy Baumeister followed college students through a semester. Early on, the procrastinators were doing great. Less stress. Fewer illnesses.
 But by the end of the term, everything flipped. They were more stressed, sicker, and got lower grades.
 The relief was real. It was just borrowed… from the version of them that had to pay it back.
+
+[knowingly] But here's the part that surprises most people. The way we usually fight procrastination… may make it worse.
 
 [gently] So what do most of us do next? We get angry at ourselves. "Why am I so lazy? What's wrong with me?"
 But think about it. Guilt is just another bad feeling. And what do you do with bad feelings? [short pause] You avoid them. With more procrastination.
@@ -59,7 +63,7 @@ You don't need to feel ready to start. [long pause] Very often, the feeling come
 [gently] So next time you're avoiding something, don't ask, "Why am I so lazy?"
 Ask, "What am I feeling?" [short pause] Then make the first step small enough to beat it.
 [friendly] Tell me in the comments: what's the task you're avoiding right now… and what's the feeling behind it?
-And subscribe. Next: why your Monday plans fall apart by Wednesday.
+[short pause] And next: why your Monday plans fall apart by Wednesday.
 ```
 
 ---
@@ -67,19 +71,17 @@ And subscribe. Next: why your Monday plans fall apart by Wednesday.
 
 **Style instructions**
 ```
-You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "Procrastination isn't laziness, it's emotion". Speak natural, conversational Hindi (common English words like "task", "mood", "file", "report" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a trusted older friend who has been there too. Unhurried, with deliberate pauses between short lines. Open with dry, knowing humour. Explain the research clearly and honestly, become serious on the cost, be warm and empathetic on guilt, then rise to warm, certain encouragement on the fix. End gently, with a friendly smile on the comment question.
+You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "Procrastination isn't laziness, it's emotion". Speak natural, conversational Hindi (common English words like "task", "mood", "file", "report" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a trusted older friend who has been there too. Unhurried, with deliberate pauses between short lines. Open firm and close to the mic on the first line, then dry, knowing humour on the list. Build intrigue on the lock-in. Lean in on each transition. Explain the research clearly and honestly, become serious on the cost, be warm and empathetic on guilt, then rise to warm, certain encouragement on the fix. End gently, with a friendly smile on the comment question.
 ```
 
 **Text**
 ```
-[knowingly] आप पूरा कमरा साफ़ कर देंगे। पुराने मैसेज का जवाब दे देंगे। फ़ोन की ऐप्स तक जमा देंगे।
-[short pause] सब कुछ… सिवाय उस एक काम के, जो करना है।
-ये आलस नहीं है। आलसी लोग काम से बचने के लिए इतनी मेहनत नहीं करते।
+[firmly] टालमटोल आलस नहीं है। और इसे आलस समझना ही वजह है, कि ये बार-बार जीत जाता है।
+[knowingly] आप पूरा कमरा साफ़ कर देंगे। पुराने मैसेज का जवाब दे देंगे। फ़ोन की ऐप्स तक जमा देंगे। [short pause] सब कुछ… सिवाय उस एक काम के, जो करना है।
 
-[calm] पिछले वीडियो में हमने देखा, अधूरे काम दिमाग़ को कैसे खींचते रहते हैं। तो फिर हम उन्हें टालते क्यों रहते हैं?
-सालों तक हमें बताया गया, ये टाइम-मैनेजमेंट की समस्या है। बेहतर प्लानर लो। जल्दी उठो।
-पर जो रिसर्चर्स टालमटोल पर काम करते हैं, वो कहते हैं, बात कुछ और है।
-[short pause] ये मूड-मैनेजमेंट की समस्या है।
+[calm] सालों तक हमें बताया गया, ये टाइम की समस्या है। बेहतर प्लानर लो। जल्दी उठो।
+[intrigued] पर जो रिसर्चर्स टालमटोल पर काम करते हैं, उन्हें कुछ और मिला। आप काम से नहीं बच रहे। [short pause] आप किसी छोटी… और चालाक चीज़ से बच रहे हैं।
+और आख़िर में, मैं आपको दो छोटे क़दम बताऊँगा, जो ये चक्र तोड़ते हैं। [firmly] और उनमें से कोई भी प्लानर नहीं है।
 
 [curious] असल में होता ये है।
 आप काम खोलते हैं। और एक छोटी-सी चीज़ चुभती है। बोरियत। उलझन। अंदर से एक धीमी आवाज़: "अगर मुझसे ठीक नहीं हुआ तो?"
@@ -93,10 +95,14 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 तो जब आप कहते हैं, "कल कर लूँगा," तो आपका एक हिस्सा ये काम किसी अजनबी को सौंप रहा होता है।
 [short pause] एक अजनबी, जो असल में आप ही हैं।
 
+[leaning in] और उस राहत का एक बिल आता है। [short pause] उन्नीस सौ सत्तानवे में, दो रिसर्चर्स ने उसे सच में मापा।
+
 [serious] और ये उधार ब्याज के साथ आता है।
 उन्नीस सौ सत्तानवे में, मनोवैज्ञानिक डायेन टाइस और रॉय बाउमाइस्टर ने कॉलेज स्टूडेंट्स को पूरे सेमेस्टर तक देखा। शुरुआत में, टालने वाले मज़े में थे। कम तनाव। कम बीमारियाँ।
 पर सेमेस्टर ख़त्म होते-होते, सब उलट गया। उनमें तनाव ज़्यादा था, बीमारी ज़्यादा थी, और नंबर कम।
 राहत सच्ची थी। बस वो उधार ली गई थी… उसी इंसान से, जिसे बाद में चुकाना था।
+
+[knowingly] पर अब वो बात, जो ज़्यादातर लोगों को चौंकाती है। हम टालमटोल से जिस तरह लड़ते हैं… वो शायद उसे और बढ़ा देता है।
 
 [gently] तो फिर हम में से ज़्यादातर लोग क्या करते हैं? ख़ुद पर ग़ुस्सा। "मैं इतना आलसी क्यों हूँ? मुझमें गड़बड़ क्या है?"
 पर सोचिए। गिल्ट भी तो बस एक और बुरी फ़ीलिंग है। और बुरी फ़ीलिंग्स के साथ आप क्या करते हैं? [short pause] उनसे बचते हैं। और ज़्यादा टालकर।
@@ -111,7 +117,7 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 [gently] तो अगली बार जब आप किसी काम से बच रहे हों, तो ये मत पूछिए, "मैं इतना आलसी क्यों हूँ?"
 पूछिए, "मैं क्या महसूस कर रहा हूँ?" [short pause] फिर पहला क़दम इतना छोटा बनाइए, कि आप उसे हरा सकें।
 [friendly] कमेंट में बताइए: अभी आप किस काम से बच रहे हैं… और उसके पीछे कौन-सी फ़ीलिंग है?
-और सब्सक्राइब कीजिए। अगले वीडियो में: आपके सोमवार के प्लान बुधवार तक क्यों बिखर जाते हैं।
+[short pause] और अगले वीडियो में: आपके सोमवार के प्लान बुधवार तक क्यों बिखर जाते हैं।
 ```
 
 ---
@@ -119,19 +125,17 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 
 **Style instructions**
 ```
-You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "Procrastination isn't laziness, it's emotion". Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a trusted older friend who has been there too. Unhurried, with deliberate pauses between short lines. Open with dry, knowing humour. Explain the research clearly and honestly, become serious on the cost, be warm and empathetic on guilt, then rise to warm, certain encouragement on the fix. End gently, with a friendly smile on the comment question.
+You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "Procrastination isn't laziness, it's emotion". Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a trusted older friend who has been there too. Unhurried, with deliberate pauses between short lines. Open firm and close to the mic on the first line, then dry, knowing humour on the list. Build intrigue on the lock-in. Lean in on each transition. Explain the research clearly and honestly, become serious on the cost, be warm and empathetic on guilt, then rise to warm, certain encouragement on the fix. End gently, with a friendly smile on the comment question.
 ```
 
 **Text**
 ```
-[knowingly] আপুনি গোটেই কোঠাটো চাফা কৰি পেলাব। পুৰণি মেছেজৰ উত্তৰ দি দিব। ফোনৰ এপবোৰো সজাই থ'ব।
-[short pause] সকলো… কেৱল সেই এটা কামৰ বাহিৰে, যিটো কৰিব লাগে।
-এইটো এলাহ নহয়। এলেহুৱা মানুহে কামৰ পৰা সাৰিবলৈ ইমান পৰিশ্ৰম নকৰে।
+[firmly] কাম পিছুৱাই দিয়াটো এলাহ নহয়। আৰু ইয়াক এলাহ বুলি ভবাটোৱেই কাৰণ, যে ই বাৰে বাৰে জিকি যায়।
+[knowingly] আপুনি গোটেই কোঠাটো চাফা কৰি পেলাব। পুৰণি মেছেজৰ উত্তৰ দি দিব। ফোনৰ এপবোৰো সজাই থ'ব। [short pause] সকলো… কেৱল সেই এটা কামৰ বাহিৰে, যিটো কৰিব লাগে।
 
-[calm] যোৱা ভিডিঅ'ত আমি দেখিলোঁ, আধৰুৱা কামে মনটোক কেনেকৈ টানি থাকে। তেন্তে আমি সেইবোৰ পিছুৱাই থাকোঁ কিয়?
-বছৰ বছৰ ধৰি আমাক কোৱা হৈছে, এইটো সময় পৰিচালনাৰ সমস্যা। ভাল প্লেনাৰ লওক। সোনকালে উঠক।
-কিন্তু যিসকল গৱেষকে কাম পিছুৱাই দিয়াৰ অভ্যাসৰ ওপৰত অধ্যয়ন কৰে, তেওঁলোকে কয়, কথাটো বেলেগ।
-[short pause] এইটো মুড পৰিচালনাৰ সমস্যা।
+[calm] বছৰ বছৰ ধৰি আমাক কোৱা হৈছে, এইটো সময়ৰ সমস্যা। ভাল প্লেনাৰ লওক। সোনকালে উঠক।
+[intrigued] কিন্তু যিসকল গৱেষকে এই অভ্যাসৰ ওপৰত অধ্যয়ন কৰে, তেওঁলোকে বেলেগ কথা পালে। আপুনি কামটোৰ পৰা আঁতৰি থকা নাই। [short pause] আপুনি আঁতৰি আছে এটা সৰু… আৰু চতুৰ বস্তুৰ পৰা।
+আৰু শেষত, মই আপোনাক দুটা সৰু পদক্ষেপ দেখুৱাম, যিয়ে এই চক্ৰটো ভাঙে। [firmly] আৰু তাৰ এটাও প্লেনাৰ নহয়।
 
 [curious] আচলতে যি হয়, সেয়া এনেকুৱা।
 আপুনি কামটো খোলে। আৰু এটা সৰু কথাই আপোনাক খুঁচি দিয়ে। বিৰক্তি। খেলিমেলি। ভিতৰৰ পৰা এটা মৃদু মাত: "যদি মই ভালদৰে কৰিব নোৱাৰোঁ?"
@@ -145,10 +149,14 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 গতিকে যেতিয়া আপুনি কয়, "কাইলৈ কৰিম," তেতিয়া আপোনাৰ এটা অংশই কামটো এজন অচিনাকি মানুহক গতাই দিয়ে।
 [short pause] এজন অচিনাকি, যিজন আচলতে আপুনিয়েই।
 
+[leaning in] আৰু সেই সকাহৰ এখন বিল আহে। [short pause] ঊনৈছ শ সাতানব্বৈত, দুজন গৱেষকে সেয়া সঁচাকৈ জুখিছিল।
+
 [serious] আৰু এই ধাৰ সুতৰ সৈতে আহে।
 ঊনৈছ শ সাতানব্বৈ চনত, মনোবিজ্ঞানী ডায়েন টাইছ আৰু ৰয় বাউমাইষ্টাৰে কলেজৰ ছাত্ৰ-ছাত্ৰীক গোটেই ছেমেষ্টাৰ জুৰি লক্ষ্য কৰিলে। আৰম্ভণিতে, কাম পিছুৱাই দিয়াসকল ভালেই আছিল। কম চাপ। কম অসুখ।
 কিন্তু ছেমেষ্টাৰৰ শেষলৈ, সকলো ওলোটা হৈ গ'ল। তেওঁলোকৰ চাপ বেছি, অসুখ বেছি, আৰু নম্বৰ কম।
 সকাহটো সঁচা আছিল। মাত্ৰ সেয়া ধাৰলৈ লোৱা আছিল… সেই মানুহজনৰ পৰাই, যিজনে পিছত পৰিশোধ কৰিব লাগিছিল।
+
+[knowingly] কিন্তু এতিয়া সেই কথাটো, যিয়ে বেছিভাগ মানুহক আচৰিত কৰে। আমি যিদৰে এই অভ্যাসৰ লগত যুঁজো… সেয়াই হয়তো ইয়াক আৰু বঢ়ায়।
 
 [gently] তেন্তে আমাৰ বেছিভাগেই তাৰ পিছত কি কৰোঁ? নিজৰ ওপৰত খং। "মই ইমান এলেহুৱা কিয়? মোৰ কি হৈছে?"
 কিন্তু ভাবক। অপৰাধবোধো আচলতে আন এটা বেয়া অনুভৱহে। আৰু বেয়া অনুভৱৰ সৈতে আপুনি কি কৰে? [short pause] সেইবোৰৰ পৰা আঁতৰি থাকে। আৰু বেছিকৈ পিছুৱাই।
@@ -163,5 +171,5 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 [gently] গতিকে পিছৰবাৰ যেতিয়া আপুনি কোনো কামৰ পৰা আঁতৰি থাকে, নুসুধিব, "মই ইমান এলেহুৱা কিয়?"
 সোধক, "মই কি অনুভৱ কৰি আছোঁ?" [short pause] তাৰ পিছত প্ৰথম খোজটো ইমান সৰু কৰক, যাতে আপুনি তাক জিকিব পাৰে।
 [friendly] কমেণ্টত কওক: এতিয়া আপুনি কোনটো কামৰ পৰা আঁতৰি আছে… আৰু তাৰ পিছফালে কি অনুভৱ আছে?
-আৰু চাবস্ক্ৰাইব কৰক। পিছৰ ভিডিঅ'ত: আপোনাৰ সোমবাৰৰ পৰিকল্পনা বুধবাৰলৈকে কিয় ভাঙি পৰে।
+[short pause] আৰু পিছৰ ভিডিঅ'ত: আপোনাৰ সোমবাৰৰ পৰিকল্পনা বুধবাৰলৈকে কিয় ভাঙি পৰে।
 ```

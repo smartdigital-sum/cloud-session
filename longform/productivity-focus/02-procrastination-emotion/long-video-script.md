@@ -5,11 +5,20 @@
 **Voiceover:** English, Hindi, Assamese → [long-video-voice.md](long-video-voice.md) · **Reel version:** [short-reel-script.md](short-reel-script.md)
 **Series:** follows [01 Unfinished tasks](../01-unfinished-tasks/long-video-script.md); teases idea #8 (Monday plans) next.
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook opened on a list; the subject and stakes came only in line 3. | **Hook:** subject + stakes in sentence one ("treating it like laziness is why it keeps winning"). |
+| 0:15–0:40 opened with a series recap ("In the last video…") and gave away the answer ("a mood problem"). | **Lock-in:** clarifying contrast (not a time problem) + magic box ("something smaller, and sneakier") + teased payoff ("two small moves… neither is a planner"). Recap removed. |
+| Beats 3 and 4 started cold. | **Rehooks** before the cost (~1:45) and the guilt trap (~2:20). |
+| Outro asked for a comment and a subscribe. | One **CTA** (comment question + next-video tease). |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 You're not lazy
-0:15 It's not a time problem
+0:10 It's not a time problem
 0:40 What really happens when you avoid a task
 1:15 Why "tomorrow you" gets the bill
 1:45 The 1997 study: relief now, pain later
@@ -20,32 +29,30 @@
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
-You'll clean your whole room. Reply to old messages. Reorganise your phone.
-(pause) Anything… except the one thing you're supposed to do.
-That's not laziness. Lazy people don't work *this* hard to avoid work.
+Procrastination isn't laziness. And treating it like laziness is exactly why it keeps winning.
+You'll clean your whole room. Reply to old messages. Reorganise your phone. (pause) Anything… except the one thing you're supposed to do.
 
-**[VISUAL]** Fast 2D montage: a figure scrubbing a spotless room, rearranging app icons, folding clothes at speed. In the corner, one untouched laptop with a blinking cursor. Freeze-frame on the figure looking at the laptop, then away.
+**[VISUAL]** Frame 1 is already moving: fast 2D montage of a figure scrubbing a spotless room, rearranging app icons, folding clothes at speed. In the corner, one untouched laptop with a blinking cursor. Freeze-frame on the figure glancing at the laptop, then away.
 
-_Tone: dry, knowing smile; quick rhythm on the list, slow on "except the one thing"._
+_Tone: firm on line one; dry, knowing smile on the list; slow on "except the one thing"._
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
-In the last video, we saw how unfinished tasks keep pulling at your mind. So why do we keep putting them off?
-For years, we were told it's a time-management problem. Get a better planner. Wake up earlier.
-But the researchers who study procrastination say it's something else.
-(pause) It's a *mood*-management problem.
+For years, we were told it's a time problem. Get a better planner. Wake up earlier.
+But the researchers who study procrastination found something else. You're not avoiding the work. (pause) You're avoiding something smaller… and sneakier.
+And at the end, I'll give you two small moves that break the cycle. Neither one is a planner.
 
-**[VISUAL]** The orbiting sticky notes from video 01 flash past. Planners, alarm clocks and productivity apps pile up, then get crossed out with a red line. Big title card: **NOT A TIME PROBLEM → A MOOD PROBLEM**.
+**[VISUAL]** Planners, alarm clocks and productivity apps pile up, then get crossed out with a red line: **NOT A TIME PROBLEM**. A sealed box labelled **WHAT YOU'RE REALLY AVOIDING** slides in with a "?" on it. Two glowing cards, **MOVE 1 · MOVE 2**, drop in face down.
 
-_Tone: steady; let "mood" land with weight._
+_Tone: steady, then intrigued; slow on "smaller… and sneakier"; firm on the last line._
 
 ## MAIN BODY
 
-### Beat 1: What really happens (0:40–1:15)
+### BODY 1: What really happens (0:40–1:15)
 
 **[NARRATION]**
 Here's what really happens.
@@ -59,7 +66,7 @@ In simple words: you're not running from the work. (pause) You're running from a
 
 _Tone: curious, then gentle insight on the last line._
 
-### Beat 2: Future you (1:15–1:45)
+### BODY 2: Future you (1:15–1:45)
 
 **[NARRATION]**
 And who pays for that relief? Future you.
@@ -71,7 +78,16 @@ So when you say, "I'll do it tomorrow," part of you is handing the job to a stra
 
 _Tone: thoughtful; a slight sting on "who happens to be you."_
 
-### Beat 3: The cost (1:45–2:20)
+### REHOOK 1 (1:45)
+
+**[NARRATION]**
+And that relief comes with a bill. (pause) In 1997, two researchers actually measured it.
+
+**[VISUAL]** The sun-cloud from Body 2 flips over; a receipt starts printing.
+
+_Tone: a lift; leaning in._
+
+### BODY 3: The cost (1:45–2:20)
 
 **[NARRATION]**
 That loan comes with interest.
@@ -83,7 +99,16 @@ The relief was real. It was just *borrowed*… from the version of them that had
 
 _Tone: serious, measured; slow on "borrowed."_
 
-### Beat 4: The guilt trap (2:20–3:00)
+### REHOOK 2 (2:20)
+
+**[NARRATION]**
+But here's the part that surprises most people. The way we usually fight procrastination… may make it worse.
+
+**[VISUAL]** A figure raises a fist at itself; a storm cloud labelled ? grows above.
+
+_Tone: knowing, a little conspiratorial._
+
+### BODY 4: The guilt trap (2:20–3:00)
 
 **[NARRATION]**
 So what do most of us do next? We get angry at ourselves. "Why am I so lazy? What's wrong with me?"
@@ -95,7 +120,9 @@ It's one small study. But it points somewhere surprising: shame may not fix proc
 
 _Tone: empathetic, almost a gentle laugh on "What's wrong with me?"; careful and honest on "one small study."_
 
-## PAYOFF / TWIST (3:00–3:30)
+## CLOSING (3:00–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 So the cure isn't more discipline. It's two small, kind moves.
@@ -107,13 +134,15 @@ You don't need to feel ready to start. (pause) Very often, the feeling comes *af
 
 _Tone: emotional peak, warm and certain; long pause before the last line._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: the comment question, plus the next-video tease. No subscribe ask._
 
 **[NARRATION]**
 So next time you're avoiding something, don't ask, "Why am I so lazy?"
 Ask, "What am I feeling?" (pause) Then make the first step small enough to beat it.
 Tell me in the comments: what's the task you're avoiding right now… and what's the feeling behind it?
-And subscribe. Next: why your Monday plans fall apart by Wednesday.
+(pause) And next: why your Monday plans fall apart by Wednesday.
 
 **[VISUAL]** Back to the clean room from the hook; the figure sits at the laptop, calm. Text swaps: ~~WHY AM I LAZY?~~ → **WHAT AM I FEELING?** End screen: comment prompt + next-video card **Why Your Monday Plans Collapse by Wednesday**.
 
@@ -125,14 +154,15 @@ _Tone: gentle, practical; friendly on the comment question._
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Knowing, dry humour | Quick list, slow on "except the one thing", smile on the last line |
-| Setup | Steady → reveal | Calm; weight on "mood" |
+| Hook | Firm → dry humour | Weight on "isn't laziness"; quick list; slow on "except the one thing" |
+| Lock-in | Steady → intrigued | Plain on the time problem; slow on "smaller… and sneakier"; firm last line |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | Beat 1 | Curious → insight | Mimic the inner voice softly; pause before "feeling" |
 | Beat 2 | Thoughtful | Unhurried; slight sting on "who happens to be you" |
 | Beat 3 | Serious | Measured; slow on "borrowed" |
 | Beat 4 | Empathetic, honest | Gentle on the self-talk; careful on "one small study" |
-| Payoff | Warm certainty (peak) | Clear "One / Two"; long pause before the last line |
-| Outro | Gentle, friendly | Practical, smile on the comment question |
+| Closing | Warm certainty (peak) | Clear "One / Two"; long pause before the last line |
+| Close + CTA | Gentle, friendly | Practical, smile on the comment question |
 
 ## Fact check
 
