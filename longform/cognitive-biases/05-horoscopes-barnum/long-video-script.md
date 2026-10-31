@@ -7,11 +7,20 @@
 
 **Tone rule for this video:** never mock astrology or the people who enjoy it. The subject is a perception effect that works on everyone, including sceptics.
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook was a quote; the claim about the viewer came in line 2. | **Hook:** stakes line first ("would feel just as accurate to almost anyone"), then the 1948 lines. |
+| 0:15–0:40 was respectful but promised nothing specific. | **Lock-in:** keeps the respectful framing + magic box (the 1948 class, where the words came from, today's quizzes) + teased payoff ("a five-second test"). |
+| Beats 3 and 4 started as labels. | **Rehooks** before "why it works" (~1:50) and today's quizzes (~2:25). |
+| Outro asked for a comment and a subscribe. | One **CTA** (comment question + next-video tease). |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 Does this sound like you?
-0:15 "How does it know me?"
+0:10 "How does it know me?"
 0:40 The 1948 classroom experiment
 1:15 Where the words came from
 1:50 Why it works on all of us
@@ -22,30 +31,32 @@
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
+That reading that feels scarily accurate? It would feel just as accurate to almost anyone.
 "You have a great need for other people to like you. You can be critical of yourself. At times you're outgoing, at other times, reserved."
 (pause) Sound like you? It sounded like everyone in a 1948 classroom.
 
-**[VISUAL]** A typewriter types the three lines onto a card in warm lamplight. The card slides across a desk toward the viewer, then the camera pulls back: dozens of identical cards on dozens of desks in a 1940s lecture hall.
+**[VISUAL]** Frame 1 is already moving: a typewriter types the three lines onto a card in warm lamplight. The card slides toward the viewer, then the camera pulls back: dozens of identical cards on dozens of desks in a 1940s lecture hall.
 
-_Tone: soft, intimate reading of the quote; mysterious reveal on the last line._
+_Tone: firm on line one; mysterious on the quote; a knowing smile on the last line._
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
-Have you ever read a horoscope, a personality quiz or a "which character are you" result, and thought: "How does it know me so well?"
-That feeling is real. But where it comes from might surprise you.
-(pause) This isn't about mocking anyone's beliefs. It's about a trick of perception that works on all of us.
+Have you ever read a horoscope or a personality quiz and thought: "How does it know me so well?"
+This isn't about mocking anyone's beliefs. It's about a trick of perception that works on all of us.
+In this video: a 1948 classroom experiment, where its magic words really came from, and the quizzes using them today.
+(pause) And a five-second test for any reading.
 
-**[VISUAL]** A phone screen cycles: a daily zodiac post, a "Which hero are you?" quiz result, a "Your personality type" card. A figure smiles and nods at each one. A soft lens effect blurs the edges of the text, as if the words are shaping themselves to the reader.
+**[VISUAL]** A phone cycles: a daily zodiac post, a "Which hero are you?" quiz, a "Your personality type" card. A figure smiles and nods at each. Three sealed cards: **1948 · THE WORDS · TODAY**. A glowing card **THE TEST** stays sealed.
 
-_Tone: curious, warm; sincere on "This isn't about mocking anyone's beliefs."_
+_Tone: warm, respectful; clear promise; firm on the last line._
 
 ## MAIN BODY
 
-### Beat 1: The 1948 classroom experiment (0:40–1:15)
+### BODY 1: The 1948 classroom experiment (0:40–1:15)
 
 **[NARRATION]**
 In 1948, psychologist Bertram Forer gave his students a personality test.
@@ -57,7 +68,7 @@ Then he asked: how accurate is this, from zero to five? The average rating was a
 
 _Tone: intrigued storyteller; slow, dramatic reveal at the end._
 
-### Beat 2: Where the words came from (1:15–1:50)
+### BODY 2: Where the words came from (1:15–1:50)
 
 **[NARRATION]**
 And where did that text come from? Forer had put it together largely from statements in a newsstand astrology book.
@@ -70,7 +81,16 @@ Not a lie. Not one person's trick. Just words wide enough for anyone to step int
 
 _Tone: mysterious, slightly theatrical on Barnum._
 
-### Beat 3: Why it works on all of us (1:50–2:25)
+### REHOOK 1 (1:50)
+
+**[NARRATION]**
+So why does a sentence written for everyone feel written for you? (pause) The answer is in your own memory.
+
+**[VISUAL]** A sentence on a card; the reader's memories float up and fill its gaps.
+
+_Tone: curious, leaning in._
+
+### BODY 3: Why it works on all of us (1:50–2:25)
 
 **[NARRATION]**
 Why does it work so well? Three reasons.
@@ -83,7 +103,16 @@ Third, we're told it's about us, so we search our memories for proof, and we alw
 
 _Tone: thoughtful, clear; quiet emphasis on "You fill it in."_
 
-### Beat 4: Quizzes, posts and "scientific" reports (2:25–3:00)
+### REHOOK 2 (2:25)
+
+**[NARRATION]**
+And it didn't stay in 1948. (pause) It's on your phone right now.
+
+**[VISUAL]** The lecture hall dissolves into a phone feed full of quizzes.
+
+_Tone: knowing._
+
+### BODY 4: Quizzes, posts and "scientific" reports (2:25–3:00)
 
 **[NARRATION]**
 And it's not just horoscopes. Viral personality quizzes. "Only true introverts will understand" posts. Even some personality reports that sound scientific can lean on vague, flattering lines.
@@ -94,7 +123,9 @@ In one later study, more than half of the students picked a fake, generic descri
 
 _Tone: knowing, gently wry; thoughtful on the last line._
 
-## PAYOFF / TWIST (3:00–3:30)
+## CLOSING (3:00–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 So here's a simple test for any reading, quiz or profile. Ask: "Would this fit my friend too? My cousin? Almost anyone?"
@@ -106,11 +137,13 @@ Try it with a friend: swap your horoscopes for a week, without telling each othe
 
 _Tone: warm, respectful (peak); calm last line._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: the comment question, plus the next-video tease. No subscribe ask._
 
 **[NARRATION]**
 Tell me in the comments: what's the most "scarily accurate" quiz or reading you've ever had?
-And subscribe. Next: why you keep watching movies you hate, and why it's the same mistake as staying in a bad plan.
+(pause) And next: why you keep watching movies you hate, and why it's the same mistake as staying in a bad plan.
 
 **[VISUAL]** Comment prompt with a zodiac wheel and a quiz-result card. End screen: next-video card **Why You Finish Movies You Hate** (a bored viewer in a cinema seat, popcorn untouched).
 
@@ -122,14 +155,15 @@ _Tone: friendly, light; curious tease._
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Soft, intimate → mysterious | Read the quote like a personal letter; reveal slowly |
-| Setup | Curious, warm | Sincere on not mocking beliefs |
+| Hook | Firm → mysterious | Plain stakes line; knowing smile on the last line |
+| Lock-in | Respectful → firm | Warm on "not about mocking"; firm "five-second test" |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | Beat 1 | Intrigued storyteller | Build to the reveal; pause before "Every student" |
 | Beat 2 | Mysterious, theatrical | Showman flourish on Barnum |
 | Beat 3 | Thoughtful, clear | Count "First… Second… Third…"; quiet last line |
 | Beat 4 | Knowing, gently wry | Thoughtful last line |
-| Payoff | Warm, respectful (peak) | Calm, non-judgemental |
-| Outro | Friendly | Curious tease |
+| Closing | Warm, respectful (peak) | Calm, non-judgemental |
+| Close + CTA | Friendly | Curious tease |
 
 ## Fact check
 
