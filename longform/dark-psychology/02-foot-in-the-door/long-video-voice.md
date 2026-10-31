@@ -8,6 +8,8 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 3. If the voice drifts, speeds up or cuts off near the end, generate **one section per run** with the same voice and style, then join the clips (add ~0.5s silence between sections).
 4. Name files like `dp02-foot-in-door_EN_s1-hook.wav`.
 
+**Changed (storytelling guide):** a stakes line opens the hook; the setup is replaced by a lock-in (1966, how a small yes changes you, scams, one question); two new rehook lines; one CTA, no subscribe ask. Generate 10 sections now (2 rehooks added).
+
 ⚠ Hindi and Assamese are machine-quality translations. Get a native speaker to read them before recording. The Hindi "क्या मैं हाँ कहता" / "मानता" uses the male form to match Charon. Test the Assamese hook first.
 
 ---
@@ -15,17 +17,19 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 
 **Style instructions**
 ```
-You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute awareness video called "The small yes that leads to a big one", about the foot-in-the-door technique. Your goal is to help the listener recognise and resist it. Speak directly to one listener ("you"), like a sharp, trusted guide. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses. Open curious and playful, an intrigued storyteller on the lawn-sign experiment, thoughtful on self-image, knowing and serious on everyday examples, fair and balanced on effect size, then warm and empowering on the defence. End friendly. Never preachy.
+You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute awareness video called "The small yes that leads to a big one", about the foot-in-the-door technique. Your goal is to help the listener recognise and resist it. Speak directly to one listener ("you"), like a sharp, trusted guide. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses. Open curious and playful, an intrigued storyteller on the lawn-sign experiment, thoughtful on self-image, knowing and serious on everyday examples, fair and balanced on effect size, then warm and empowering on the defence. End friendly. Never preachy. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] One tiny yes can lead you to a big yes you never meant to give. And people who want something from you know it.
 [curious] Would you let someone put a huge, ugly "Drive Carefully" sign on your front lawn?
 [short pause] Most people said no. Unless, two weeks earlier, they'd said yes to something tiny.
 
-[knowingly] Have you ever agreed to "just one small favour", and somehow ended up doing far more than you planned?
-That's the foot-in-the-door technique. Salespeople, scammers, and sometimes people close to us use it.
-[short pause] Once you see it, you can step back before the door swings open.
+[knowingly] Have you ever agreed to "just one small favour", and ended up doing far more than you planned?
+That's the foot-in-the-door technique.
+[calm] In this video: the 1966 experiment that proved it, why a small yes quietly changes you, and where scammers use it right now.
+[short pause] [firmly] And one question that stops it cold.
 
 [intrigued] In 1966, psychologists Jonathan Freedman and Scott Fraser ran a famous field experiment in California.
 A researcher asked homeowners to let them put a big, badly lettered "Drive Carefully" sign on their lawn.
@@ -36,10 +40,14 @@ Asked straight away, only about one in six agreed. But homeowners who, two weeks
 Saying no to the bigger request would clash with that new picture of themselves. We like to stay consistent with what we've already done.
 [short pause] The first request isn't really about the small thing. It's about changing how you see yourself.
 
+[leaning in] That's the lab. [short pause] Now here's where it shows up on your phone.
+
 [knowingly] You'll see it everywhere. A "free" sign-up that only needs your phone number, then your address, then your card.
 An online "friend" who first asks for a small recharge, then a loan. A "quick survey" at your door that ends in a sales pitch.
 [serious] In scams, it's often the first step: a tiny payment of one rupee to "verify" your account.
 [short pause] Each step feels small. Together, they walk you somewhere you never chose to go.
+
+[knowingly] But how strong is this, really? [short pause] The honest answer is smaller than the legend.
 
 [thoughtful] To be fair, the effect isn't magic. Later reviews of many studies found it's real, but usually smaller than in that famous lawn study.
 It works best when the first and second requests feel connected, and when the first one is done freely.
@@ -51,7 +59,7 @@ Your past yes doesn't own your next decision. And you can stop halfway up the st
 [long pause] Consistency is a strength, until someone else is steering it.
 
 [friendly] Tell me in the comments: when did a small favour turn into a big one for you?
-And subscribe. Next: why the first request is often ridiculous, and why that's on purpose.
+[short pause] And next: why the first request is often ridiculous, and why that's on purpose.
 ```
 
 ---
@@ -59,17 +67,19 @@ And subscribe. Next: why the first request is often ridiculous, and why that's o
 
 **Style instructions**
 ```
-You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute awareness video about the foot-in-the-door technique: the small yes that leads to a big one. Your goal is to help the listener recognise and resist it. Speak natural, conversational Hindi (common English words like "sign-up", "recharge", "survey", "sales pitch", "verify" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a sharp, trusted guide. Unhurried, with deliberate pauses. Curious and playful at the start, storyteller on the experiment, thoughtful on self-image, serious on scam examples, fair on effect size, warm and empowering on the defence. End friendly.
+You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute awareness video about the foot-in-the-door technique: the small yes that leads to a big one. Your goal is to help the listener recognise and resist it. Speak natural, conversational Hindi (common English words like "sign-up", "recharge", "survey", "sales pitch", "verify" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a sharp, trusted guide. Unhurried, with deliberate pauses. Curious and playful at the start, storyteller on the experiment, thoughtful on self-image, serious on scam examples, fair on effect size, warm and empowering on the defence. End friendly. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] एक छोटी-सी हाँ, आपसे वो बड़ी हाँ करवा सकती है, जो आप कभी देना नहीं चाहते थे। और जिन्हें आपसे कुछ चाहिए, वो ये जानते हैं।
 [curious] क्या आप किसी को अपने घर के लॉन में, "ड्राइव केयरफ़ुली" लिखा एक बड़ा, भद्दा बोर्ड लगाने देंगे?
 [short pause] ज़्यादातर लोगों ने मना कर दिया। जब तक कि, दो हफ़्ते पहले, उन्होंने किसी बहुत छोटी चीज़ के लिए हाँ न कहा हो।
 
-[knowingly] क्या कभी आपने "बस एक छोटा-सा एहसान" किया, और फिर किसी तरह, सोचे से कहीं ज़्यादा कर बैठे?
-इसे "फ़ुट-इन-द-डोर टेक्नीक" कहते हैं। सेल्समैन, ठग, और कभी-कभी हमारे क़रीबी लोग भी, इसका इस्तेमाल करते हैं।
-[short pause] एक बार इसे पहचान लें, तो दरवाज़ा पूरा खुलने से पहले, आप पीछे हट सकते हैं।
+[knowingly] क्या कभी आपने "बस एक छोटा-सा एहसान" माना, और फिर सोचे से कहीं ज़्यादा कर बैठे?
+इसे कहते हैं फ़ुट-इन-द-डोर तकनीक।
+[calm] इस वीडियो में: उन्नीस सौ छियासठ का वो प्रयोग, जिसने इसे साबित किया, छोटी हाँ आपको चुपचाप कैसे बदल देती है, और ठग आज इसे कहाँ इस्तेमाल करते हैं।
+[short pause] [firmly] और एक सवाल, जो इसे वहीं रोक देता है।
 
 [intrigued] उन्नीस सौ छियासठ में, मनोवैज्ञानिक जोनाथन फ़्रीडमैन और स्कॉट फ़्रेज़र ने, कैलिफ़ोर्निया में एक मशहूर फ़ील्ड एक्सपेरिमेंट किया।
 एक रिसर्चर ने घर के मालिकों से पूछा, क्या वो अपने लॉन में "ड्राइव केयरफ़ुली" का एक बड़ा, बेढंगा बोर्ड लगाने देंगे।
@@ -80,10 +90,14 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 बड़ी माँग को ना कहना, उस नई तस्वीर से टकराता है। हमें अपने पहले किए काम के साथ, एक जैसा बने रहना पसंद है।
 [short pause] पहली माँग, असल में छोटी चीज़ के बारे में नहीं होती। वो इस बारे में होती है, कि आप ख़ुद को कैसे देखते हैं।
 
+[leaning in] ये थी लैब की बात। [short pause] अब देखिए, ये आपके फ़ोन पर कहाँ दिखता है।
+
 [knowingly] ये आपको हर जगह दिखेगा। एक "फ़्री" साइन-अप, जिसे पहले सिर्फ़ आपका फ़ोन नंबर चाहिए, फिर पता, फिर कार्ड।
 एक ऑनलाइन "दोस्त", जो पहले एक छोटा रिचार्ज माँगता है, फिर उधार। दरवाज़े पर एक "छोटा-सा सर्वे", जो सेल्स पिच पर ख़त्म होता है।
 [serious] ठगी में, ये अक्सर पहला क़दम होता है: अकाउंट "वेरिफ़ाई" करने के लिए, एक रुपये का छोटा-सा पेमेंट।
 [short pause] हर क़दम छोटा लगता है। पर सब मिलकर, आपको ऐसी जगह ले जाते हैं, जहाँ जाना आपने कभी चुना ही नहीं।
+
+[knowingly] पर ये असल में कितना ताक़तवर है? [short pause] ईमानदार जवाब, किस्सों से छोटा है।
 
 [thoughtful] सच कहें, तो ये असर कोई जादू नहीं है। कई स्टडीज़ की बाद की समीक्षाओं में पाया गया, कि ये असली है, पर आम तौर पर उस मशहूर लॉन वाली स्टडी से छोटा।
 ये तब सबसे अच्छा काम करता है, जब पहली और दूसरी माँग आपस में जुड़ी लगें, और पहली माँग अपनी मर्ज़ी से पूरी की गई हो।
@@ -95,7 +109,7 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 [long pause] एक जैसा बने रहना ताक़त है, जब तक उसकी स्टीयरिंग किसी और के हाथ में न हो।
 
 [friendly] कमेंट में बताइए: कब कोई छोटा एहसान, आपके लिए बड़ा बन गया?
-और सब्सक्राइब कीजिए। अगले वीडियो में: पहली माँग अक्सर बेतुकी क्यों होती है, और वो जानबूझकर क्यों होती है।
+[short pause] और अगले वीडियो में: पहली माँग अक्सर बेतुकी क्यों होती है, और वो जानबूझकर क्यों होती है।
 ```
 
 ---
@@ -103,17 +117,19 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 
 **Style instructions**
 ```
-You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute awareness video about the foot-in-the-door technique: the small yes that leads to a big one. Your goal is to help the listener recognise and resist it. Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a sharp, trusted guide. Unhurried, with deliberate pauses. Curious and playful at the start, storyteller on the experiment, thoughtful on self-image, serious on scam examples, fair on effect size, warm and empowering on the defence. End friendly.
+You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute awareness video about the foot-in-the-door technique: the small yes that leads to a big one. Your goal is to help the listener recognise and resist it. Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a sharp, trusted guide. Unhurried, with deliberate pauses. Curious and playful at the start, storyteller on the experiment, thoughtful on self-image, serious on scam examples, fair on effect size, warm and empowering on the defence. End friendly. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] এটা সৰু "হয়"ই আপোনাক এনে এটা ডাঙৰ "হয়"লৈ লৈ যাব পাৰে, যিটো আপুনি কেতিয়াও দিব বিচৰা নাছিল। আৰু যিসকলে আপোনাৰ পৰা কিবা বিচাৰে, তেওঁলোকে এইটো জানে।
 [curious] আপুনি কাৰোবাক নিজৰ ঘৰৰ চোতালত "ড্ৰাইভ কেয়াৰফুলি" লিখা এখন ডাঙৰ, বেঢপ ফলক লগাবলৈ দিবনে?
 [short pause] বেছিভাগ মানুহে নাকচ কৰিলে। যদিহে, দুসপ্তাহ আগতে, তেওঁলোকে কোনো বহুত সৰু কথাত "হয়" কোৱা নাছিল।
 
-[knowingly] কেতিয়াবা "মাত্ৰ এটা সৰু উপকাৰ"ত মান্তি হৈ, কেনেকৈ জানো ভবাতকৈ বহুত বেছি কৰি পেলাইছেনে?
-ইয়াক "ফুট-ইন-দ্য-ড'ৰ কৌশল" বোলে। বিক্ৰেতা, ঠগ, আৰু কেতিয়াবা আমাৰ ওচৰৰ মানুহেও ইয়াক ব্যৱহাৰ কৰে।
-[short pause] এবাৰ চিনি পালে, দুৱাৰখন সম্পূৰ্ণ খোল খোৱাৰ আগতেই আপুনি পিছুৱাই আহিব পাৰে।
+[knowingly] কেতিয়াবা "মাত্ৰ এটা সৰু উপকাৰ"ত মান্তি হৈ, ভবাতকৈ বহুত বেছি কৰি পেলাইছেনে?
+ইয়াক কোৱা হয় ফুট-ইন-দ্য-ড'ৰ কৌশল।
+[calm] এই ভিডিঅ'ত: ঊনৈছ শ ছিয়াষষ্ঠিৰ সেই পৰীক্ষা, যিয়ে ইয়াক প্ৰমাণ কৰিলে, এটা সৰু "হয়"ই আপোনাক মনে মনে কেনেকৈ সলনি কৰে, আৰু ঠগবোৰে আজি ইয়াক ক'ত ব্যৱহাৰ কৰে।
+[short pause] [firmly] আৰু এটা প্ৰশ্ন, যিয়ে ইয়াক তাতেই ৰখাই দিয়ে।
 
 [intrigued] ঊনৈছ শ ছয়ষষ্ঠি চনত, মনোবিজ্ঞানী জোনাথন ফ্ৰিডমেন আৰু স্কট ফ্ৰেজাৰে কেলিফৰ্ণিয়াত এটা বিখ্যাত ফিল্ড পৰীক্ষা কৰিলে।
 এজন গৱেষকে ঘৰৰ গৰাকীসকলক সুধিলে, তেওঁলোকে নিজৰ চোতালত "ড্ৰাইভ কেয়াৰফুলি"ৰ এখন ডাঙৰ, বেয়াকৈ লিখা ফলক লগাবলৈ দিবনে।
@@ -124,10 +140,14 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 ডাঙৰ অনুৰোধত "নহয়" কোৱাটো, সেই নতুন ছবিৰ সৈতে খুন্দা খায়। আমি আগতে কৰা কামৰ সৈতে সংগতি ৰাখি চলিবলৈ ভাল পাওঁ।
 [short pause] প্ৰথম অনুৰোধটো আচলতে সৰু বস্তুটোৰ বিষয়ে নহয়। ই আপুনি নিজকে কেনেকৈ চায়, তাৰ বিষয়ে।
 
+[leaning in] এয়া আছিল গৱেষণাগাৰৰ কথা। [short pause] এতিয়া চাওক, ই আপোনাৰ ফোনত ক'ত দেখা দিয়ে।
+
 [knowingly] ই আপুনি সকলোতে দেখিব। এটা "বিনামূলীয়া" চাইন-আপ, যাক প্ৰথমে কেৱল আপোনাৰ ফোন নম্বৰ লাগে, তাৰ পিছত ঠিকনা, তাৰ পিছত কাৰ্ড।
 এজন অনলাইন "বন্ধু", যিয়ে প্ৰথমে এটা সৰু ৰিচাৰ্জ খোজে, তাৰ পিছত ধাৰ। দুৱাৰমুখত এটা "সৰু জৰীপ", যিটো বিক্ৰীৰ কথাৰে শেষ হয়।
 [serious] ঠগত, ই প্ৰায়ে প্ৰথম খোজ: একাউণ্ট "ভেৰিফাই" কৰিবলৈ এক টকাৰ এটা সৰু পেমেণ্ট।
 [short pause] প্ৰতিটো খোজ সৰু যেন লাগে। কিন্তু একেলগে, সেইবোৰে আপোনাক এনে ঠাইলৈ লৈ যায়, য'লৈ যোৱাটো আপুনি কেতিয়াও বাছি লোৱা নাছিল।
+
+[knowingly] কিন্তু ই সঁচাকৈ কিমান শক্তিশালী? [short pause] সঁচা উত্তৰটো কাহিনীতকৈ সৰু।
 
 [thoughtful] সঁচা কথা ক'বলৈ গ'লে, এই প্ৰভাৱ কোনো যাদু নহয়। বহুতো অধ্যয়নৰ পিছৰ পৰ্যালোচনাত দেখা গ'ল যে ই সঁচা, কিন্তু সাধাৰণতে সেই বিখ্যাত চোতালৰ অধ্যয়নটোতকৈ সৰু।
 ই তেতিয়া আটাইতকৈ ভাল কাম কৰে, যেতিয়া প্ৰথম আৰু দ্বিতীয় অনুৰোধ সংযুক্ত যেন লাগে, আৰু প্ৰথমটো নিজৰ ইচ্ছাৰে কৰা হয়।
@@ -139,5 +159,5 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 [long pause] সংগতি ৰখাটো শক্তি, যেতিয়ালৈকে তাৰ ষ্টিয়েৰিং আন কাৰোবাৰ হাতত নাথাকে।
 
 [friendly] কমেণ্টত কওক: কেতিয়া এটা সৰু উপকাৰ আপোনাৰ বাবে ডাঙৰ হৈ পৰিছিল?
-আৰু চাবস্ক্ৰাইব কৰক। পিছৰ ভিডিঅ'ত: প্ৰথম অনুৰোধটো প্ৰায়ে কিয় অযৌক্তিক হয়, আৰু সেয়া কিয় ইচ্ছাকৃত।
+[short pause] আৰু পিছৰ ভিডিঅ'ত: প্ৰথম অনুৰোধটো প্ৰায়ে কিয় অযৌক্তিক হয়, আৰু সেয়া কিয় ইচ্ছাকৃত।
 ```

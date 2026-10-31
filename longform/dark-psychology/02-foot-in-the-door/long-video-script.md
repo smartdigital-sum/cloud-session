@@ -5,11 +5,20 @@
 **Voiceover:** English, Hindi, Assamese → [long-video-voice.md](long-video-voice.md) · **Reel version:** [short-reel-script.md](short-reel-script.md)
 **Series:** follows [01 Scam urgency](../01-scam-urgency/long-video-script.md). Teases 03 (door-in-the-face) next.
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook was a question; the viewer's stakes were implied. | **Hook:** stakes line first ("a big yes you never meant to give"), then the lawn question. |
+| 0:15–0:40 named the technique but promised nothing specific. | **Lock-in:** magic box (the 1966 experiment, why a small yes changes you, where scammers use it) + teased payoff ("one question that stops it cold"). |
+| Beats 3 and 4 started as labels. | **Rehooks** before the real-life examples (~1:50) and the effect size (~2:25). |
+| Outro asked for a comment and a subscribe. | One **CTA** (comment question + next-video tease). |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 Would you put this sign on your lawn?
-0:15 "Just one small favour"
+0:10 "Just one small favour"
 0:40 The 1966 lawn-sign experiment
 1:15 Why a small yes changes you
 1:50 Where you'll see it
@@ -20,30 +29,32 @@
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
+One tiny yes can lead you to a big yes you never meant to give. And people who want something from you know it.
 Would you let someone put a huge, ugly "Drive Carefully" sign on your front lawn?
 (pause) Most people said no. Unless, two weeks earlier, they'd said yes to something tiny.
 
-**[VISUAL]** A neat suburban house with a perfect lawn. A giant, crooked, hand-painted "DRIVE CAREFULLY" board swings into frame and blocks most of the house. Rewind effect: a tiny square sign in the window, two weeks earlier.
+**[VISUAL]** Frame 1 is already moving: a door opens a crack and a shoe slides into the gap. Cut to a neat suburban house; a giant, crooked "DRIVE CAREFULLY" board swings into frame and blocks most of it. Rewind effect: a tiny square sign in the window, two weeks earlier.
 
-_Tone: curious, playful; intriguing turn on "Unless…"._
+_Tone: firm on line one; curious and playful on the lawn question._
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
-Have you ever agreed to "just one small favour", and somehow ended up doing far more than you planned?
-That's the foot-in-the-door technique. Salespeople, scammers, and sometimes people close to us use it.
-(pause) Once you see it, you can step back before the door swings open.
+Have you ever agreed to "just one small favour", and ended up doing far more than you planned?
+That's the foot-in-the-door technique.
+In this video: the 1966 experiment that proved it, why a small yes quietly changes you, and where scammers use it right now.
+(pause) And one question that stops it cold.
 
-**[VISUAL]** A door opens a crack; a shoe slides into the gap. The door slowly swings wider as more requests stack up behind it. Title card: **FOOT-IN-THE-DOOR**.
+**[VISUAL]** The door swings wider as requests stack up behind it. Title card: **FOOT-IN-THE-DOOR**. Three sealed cards: **1966 · YOU · SCAMS**. A glowing card **THE QUESTION** drops in and stays sealed.
 
-_Tone: knowing, protective._
+_Tone: knowing on the favour; clear promise; firm on "stops it cold"._
 
 ## MAIN BODY
 
-### Beat 1: The 1966 lawn-sign experiment (0:40–1:15)
+### BODY 1: The 1966 lawn-sign experiment (0:40–1:15)
 
 **[NARRATION]**
 In 1966, psychologists Jonathan Freedman and Scott Fraser ran a famous field experiment in California.
@@ -55,7 +66,7 @@ Asked straight away, only about one in six agreed. But homeowners who, two weeks
 
 _Tone: intrigued storyteller; satisfying last line._
 
-### Beat 2: Why a small yes changes you (1:15–1:50)
+### BODY 2: Why a small yes changes you (1:15–1:50)
 
 **[NARRATION]**
 Why? One explanation is self-image. After the first yes, people start to see themselves as "the kind of person who supports safe driving", or "the kind of person who helps".
@@ -66,7 +77,16 @@ Saying no to the bigger request would clash with that new picture of themselves.
 
 _Tone: thoughtful; quiet emphasis on the last line._
 
-### Beat 3: Where you'll see it (1:50–2:25)
+### REHOOK 1 (1:50)
+
+**[NARRATION]**
+That's the lab. (pause) Now here's where it shows up on your phone.
+
+**[VISUAL]** The lawn dissolves into a phone screen; a ₹1 payment request pops up.
+
+_Tone: a lift; leaning in._
+
+### BODY 3: Where you'll see it (1:50–2:25)
 
 **[NARRATION]**
 You'll see it everywhere. A "free" sign-up that only needs your phone number, then your address, then your card.
@@ -78,7 +98,16 @@ In scams, it's often the first step: a tiny payment of one rupee to "verify" you
 
 _Tone: knowing, serious; slow last line._
 
-### Beat 4: How strong is it, really? (2:25–3:00)
+### REHOOK 2 (2:25)
+
+**[NARRATION]**
+But how strong is this, really? (pause) The honest answer is smaller than the legend.
+
+**[VISUAL]** The giant sign shrinks a little; a scale wobbles.
+
+_Tone: honest, knowing._
+
+### BODY 4: How strong is it, really? (2:25–3:00)
 
 **[NARRATION]**
 To be fair, the effect isn't magic. Later reviews of many studies found it's real, but usually smaller than in that famous lawn study.
@@ -89,7 +118,9 @@ It works best when the first and second requests feel connected, and when the fi
 
 _Tone: fair, balanced._
 
-## PAYOFF / TWIST (3:00–3:30)
+## CLOSING (3:00–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 So here's your defence. When a request comes after an earlier "yes", pause and judge it on its own.
@@ -101,11 +132,13 @@ Your past yes doesn't own your next decision. And you can stop halfway up the st
 
 _Tone: warm, empowering (peak); firm last line._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: the comment question, plus the next-video tease. No subscribe ask._
 
 **[NARRATION]**
 Tell me in the comments: when did a small favour turn into a big one for you?
-And subscribe. Next: why the first request is often ridiculous, and why that's on purpose.
+(pause) And next: why the first request is often ridiculous, and why that's on purpose.
 
 **[VISUAL]** Comment prompt beside a tiny sticky note that grows into a giant poster. End screen: next-video card **Why the First Request Is Often Ridiculous** (a door slammed, then reopened).
 
@@ -117,14 +150,15 @@ _Tone: friendly; curious tease._
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Curious, playful → intriguing | Light on the sign; slow "Unless…" |
-| Setup | Knowing, protective | Steady |
+| Hook | Firm → playful | Weight on "never meant to give"; curious on the lawn question |
+| Lock-in | Knowing → firm | Clear promise; firm "stops it cold" |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | Beat 1 | Intrigued storyteller | Clear contrast; satisfying last line |
 | Beat 2 | Thoughtful | Quiet emphasis at the end |
 | Beat 3 | Knowing, serious | Slow last line |
 | Beat 4 | Fair, balanced | Even |
-| Payoff | Warm, empowering (peak) | Firm last line |
-| Outro | Friendly | Curious tease |
+| Closing | Warm, empowering (peak) | Firm last line |
+| Close + CTA | Friendly | Curious tease |
 
 ## Fact check
 
