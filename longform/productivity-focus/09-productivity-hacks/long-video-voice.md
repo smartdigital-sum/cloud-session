@@ -8,6 +8,8 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 3. If the voice drifts, speeds up or cuts off near the end, generate **one section per run** with the same voice and style, then join the clips (add ~0.5s silence between sections).
 4. Name files like `09-productivity-hacks_EN_s3-highlighter.wav`.
 
+**Changed (storytelling guide):** firm hook with the stakes in line one; the eight-video recap is replaced by a lock-in ("that's the trap", countdown promise, #1 tease); two new rehook lines (before #3 and #1); one CTA, no subscribe ask. Generate 11 sections now (2 rehooks added).
+
 ⚠ Hindi and Assamese are machine-quality translations. Get a native speaker to read them before recording. The Hindi quote "मैं एक बेहतरीन वकील बनूँगा" uses the male form to match Charon. Test the Assamese hook first.
 
 ---
@@ -15,16 +17,17 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 
 **Style instructions**
 ```
-You are a calm, deep-voiced, wise mentor narrating a 4-minute countdown video called "Five productivity hacks that secretly waste your time". Speak directly to one listener ("you"), like a trusted older friend with dry humour. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses between short lines. Open with a brisk, knowing list, then go quiet. Announce each number clearly, with a small lift. Be lightly teasing on the highlighter, curious on music, soft then grounded on visualising, fair and careful on announcing goals, and most serious on sleep. Then rise to warm, balanced certainty. End friendly. Never preachy, never mocking the viewer.
+You are a calm, deep-voiced, wise mentor narrating a 4-minute countdown video called "Five productivity hacks that secretly waste your time". Speak directly to one listener ("you"), like a trusted older friend with dry humour. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses between short lines. Open firm on the first line (never whispered), then a brisk, knowing list, then go quiet on "That's the trap." Lean in on each transition. Announce each number clearly, with a small lift. Be lightly teasing on the highlighter, curious on music, soft then grounded on visualising, fair and careful on announcing goals, and most serious on sleep. Then rise to warm, balanced certainty. End friendly. Never preachy, never mocking the viewer.
 ```
 
 **Text**
 ```
+[firmly] Five popular productivity hacks might be quietly wasting your time. And you're probably doing at least one.
 [knowingly] The highlighter. The study playlist. The vision board. Telling everyone your goal. Sleeping less to get more done.
-[short pause] They all feel productive. Science says… some of them might be quietly holding you back.
 
-[calm] Over the last eight videos, we've found what really protects your focus. Now let's clear out what doesn't.
-Here are five popular productivity hacks, counting down to the one that costs you most. For each one, we'll see what the research says, and what to do instead.
+[quieter] They all feel productive. [short pause] That's the trap.
+[calm] So let's count down, from the least harmful to the one that costs you most. For each, what the research says, and what to do instead.
+[knowingly] And number one? It's the one people brag about.
 
 [playfully] Number five: the highlighter.
 It feels like studying. The page turns yellow, and you feel progress.
@@ -38,6 +41,8 @@ Silence did best. Songs with lyrics did worst, even songs people liked.
 Your brain tries to process those words, while you're trying to read other words.
 Instead: silence, or music without lyrics, for anything that needs reading or writing.
 
+[knowingly] The next two feel the most motivating. [short pause] Which is exactly the problem.
+
 [thoughtful] Number three: just visualise your success.
 In 2011, psychologists at New York University found something surprising. When people fantasised about an ideal future, their energy dropped. Even their blood pressure dipped.
 The dream felt so good, the brain relaxed, as if part of the job was already done.
@@ -49,6 +54,8 @@ Being seen as that person gave them a premature sense of already being it.
 It's one set of studies, so don't treat it as law. But it's worth a thought.
 Instead: keep the goal quiet until you've started. Or share your progress, not your plans.
 
+[serious] And number one. The hack people brag about… and the one that costs the most.
+
 [serious] And number one, the hack that costs the most: sleeping less to get more done.
 In a 2003 study, people slept six hours a night for two weeks. By the end, their attention was as impaired as people who'd gone up to two nights without any sleep at all.
 But here's the scary part: they barely felt sleepy. They didn't notice how much they'd slipped.
@@ -59,7 +66,7 @@ Real focus often feels less exciting: testing yourself, silence, planning for ob
 [long pause] If something only feels productive, check it. If it actually works, keep it.
 
 [friendly] Tell me in the comments: which of these five were you doing? Be honest. Most of us do at least one.
-And subscribe. Next: seven silent signs your focus is being hijacked, and how many you can spot in yourself.
+[short pause] And next: seven silent signs your focus is being hijacked, and how many you can spot in yourself.
 ```
 
 ---
@@ -67,16 +74,17 @@ And subscribe. Next: seven silent signs your focus is being hijacked, and how ma
 
 **Style instructions**
 ```
-You are a calm, deep-voiced, wise mentor narrating a 4-minute countdown video called "Five productivity hacks that secretly waste your time". Speak natural, conversational Hindi (common English words like "highlighter", "playlist", "goal", "study", "hack" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a trusted older friend with dry humour. Unhurried, with deliberate pauses between short lines. Open with a brisk, knowing list, then go quiet. Announce each number clearly, with a small lift. Be lightly teasing on the highlighter, curious on music, soft then grounded on visualising, fair and careful on announcing goals, and most serious on sleep. Then rise to warm, balanced certainty. End friendly.
+You are a calm, deep-voiced, wise mentor narrating a 4-minute countdown video called "Five productivity hacks that secretly waste your time". Speak natural, conversational Hindi (common English words like "highlighter", "playlist", "goal", "study", "hack" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a trusted older friend with dry humour. Unhurried, with deliberate pauses between short lines. Open firm on the first line (never whispered), then a brisk, knowing list, then go quiet on "That's the trap." Lean in on each transition. Announce each number clearly, with a small lift. Be lightly teasing on the highlighter, curious on music, soft then grounded on visualising, fair and careful on announcing goals, and most serious on sleep. Then rise to warm, balanced certainty. End friendly.
 ```
 
 **Text**
 ```
+[firmly] पाँच मशहूर प्रोडक्टिविटी हैक्स, शायद चुपचाप आपका वक़्त बर्बाद कर रहे हैं। और आप इनमें से कम से कम एक तो कर ही रहे होंगे।
 [knowingly] हाइलाइटर। स्टडी प्लेलिस्ट। विज़न बोर्ड। सबको अपना गोल बताना। ज़्यादा काम के लिए कम सोना।
-[short pause] ये सब प्रोडक्टिव लगते हैं। पर साइंस कहती है… इनमें से कुछ, शायद चुपचाप आपको पीछे खींच रहे हैं।
 
-[calm] पिछले आठ वीडियो में, हमने देखा कि असल में आपके फ़ोकस को क्या बचाता है। अब, जो नहीं बचाता, उसे साफ़ करते हैं।
-ये रहे पाँच मशहूर प्रोडक्टिविटी हैक्स, उल्टी गिनती में, उस हैक तक, जो आपको सबसे महँगा पड़ता है। हर एक के लिए देखेंगे, रिसर्च क्या कहती है, और उसकी जगह क्या करें।
+[quieter] ये सब प्रोडक्टिव लगते हैं। [short pause] यही तो जाल है।
+[calm] तो उल्टी गिनती करते हैं, सबसे कम नुक़सान वाले से, उस तक जो सबसे महँगा पड़ता है। हर एक के लिए, रिसर्च क्या कहती है, और उसकी जगह क्या करें।
+[knowingly] और नंबर एक? वो, जिसकी लोग शेख़ी बघारते हैं।
 
 [playfully] नंबर पाँच: हाइलाइटर।
 ये पढ़ाई जैसा लगता है। पन्ना पीला हो जाता है, और लगता है कि काम हो रहा है।
@@ -90,6 +98,8 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute countdown video ca
 आपका दिमाग़ उन शब्दों को समझने की कोशिश करता है, जबकि आप दूसरे शब्द पढ़ रहे होते हैं।
 इसकी जगह: पढ़ने या लिखने वाले किसी भी काम के लिए, ख़ामोशी, या बिना बोल वाला संगीत।
 
+[knowingly] अगले दो सबसे ज़्यादा जोश दिलाते हैं। [short pause] और यही असली दिक़्क़त है।
+
 [thoughtful] नंबर तीन: बस अपनी कामयाबी की कल्पना कीजिए।
 दो हज़ार ग्यारह में, न्यूयॉर्क यूनिवर्सिटी के मनोवैज्ञानिकों ने कुछ हैरान करने वाला पाया। जब लोगों ने एक आदर्श भविष्य के सपने देखे, तो उनकी ऊर्जा गिर गई। उनका ब्लड प्रेशर तक कम हो गया।
 सपना इतना अच्छा लगा, कि दिमाग़ ढीला पड़ गया, जैसे काम का कुछ हिस्सा पहले ही हो गया हो।
@@ -101,6 +111,8 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute countdown video ca
 ये स्टडीज़ का बस एक सेट है, इसे पत्थर की लकीर मत मानिए। पर सोचने लायक़ ज़रूर है।
 इसकी जगह: शुरू करने तक लक्ष्य चुपचाप रखिए। या प्लान नहीं, प्रोग्रेस शेयर कीजिए।
 
+[serious] और नंबर एक। वो हैक, जिसकी लोग शेख़ी बघारते हैं… और जो सबसे महँगा पड़ता है।
+
 [serious] और नंबर एक, वो हैक, जो सबसे महँगा पड़ता है: ज़्यादा काम के लिए कम सोना।
 दो हज़ार तीन की एक स्टडी में, लोग दो हफ़्ते तक हर रात छह घंटे सोए। आख़िर तक, उनका ध्यान उतना ही बिगड़ चुका था, जितना उन लोगों का, जो दो रात तक बिल्कुल नहीं सोए थे।
 पर डराने वाली बात ये है: उन्हें मुश्किल से ही नींद महसूस हुई। उन्हें पता ही नहीं चला, कि वो कितना फिसल चुके हैं।
@@ -111,7 +123,7 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute countdown video ca
 [long pause] अगर कुछ सिर्फ़ प्रोडक्टिव लगता है, तो जाँचिए। अगर वो सच में काम करता है, तो रखिए।
 
 [friendly] कमेंट में बताइए: इन पाँच में से आप कौन-से कर रहे थे? सच-सच। हम में से ज़्यादातर कम से कम एक तो करते ही हैं।
-और सब्सक्राइब कीजिए। अगले वीडियो में: सात ख़ामोश संकेत, कि आपका फ़ोकस हाईजैक हो रहा है, और आप ख़ुद में कितने पहचान पाते हैं।
+[short pause] और अगले वीडियो में: सात ख़ामोश संकेत, कि आपका फ़ोकस हाईजैक हो रहा है, और आप ख़ुद में कितने पहचान पाते हैं।
 ```
 
 ---
@@ -119,16 +131,17 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute countdown video ca
 
 **Style instructions**
 ```
-You are a calm, deep-voiced, wise mentor narrating a 4-minute countdown video called "Five productivity hacks that secretly waste your time". Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a trusted older friend with dry humour. Unhurried, with deliberate pauses between short lines. Open with a brisk, knowing list, then go quiet. Announce each number clearly, with a small lift. Be lightly teasing on the highlighter, curious on music, soft then grounded on visualising, fair and careful on announcing goals, and most serious on sleep. Then rise to warm, balanced certainty. End friendly.
+You are a calm, deep-voiced, wise mentor narrating a 4-minute countdown video called "Five productivity hacks that secretly waste your time". Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a trusted older friend with dry humour. Unhurried, with deliberate pauses between short lines. Open firm on the first line (never whispered), then a brisk, knowing list, then go quiet on "That's the trap." Lean in on each transition. Announce each number clearly, with a small lift. Be lightly teasing on the highlighter, curious on music, soft then grounded on visualising, fair and careful on announcing goals, and most serious on sleep. Then rise to warm, balanced certainty. End friendly.
 ```
 
 **Text**
 ```
+[firmly] পাঁচটা জনপ্ৰিয় প্ৰডাক্টিভিটি হেকে হয়তো মনে মনে আপোনাৰ সময় নষ্ট কৰি আছে। আৰু আপুনি ইয়াৰ অন্ততঃ এটা নিশ্চয় কৰি আছে।
 [knowingly] হাইলাইটাৰ। ষ্টাডি প্লেলিষ্ট। ভিজন ব'ৰ্ড। সকলোকে নিজৰ লক্ষ্য কোৱা। বেছি কাম কৰিবলৈ কম শোৱা।
-[short pause] এইবোৰ সকলো প্ৰডাক্টিভ যেন লাগে। কিন্তু বিজ্ঞানে কয়… ইয়াৰে কিছুমানে হয়তো মনে মনে আপোনাক পিছুৱাই ৰাখিছে।
 
-[calm] যোৱা আঠটা ভিডিঅ'ত, আমি চালোঁ আচলতে কিহে আপোনাৰ মনোযোগ ৰক্ষা কৰে। এতিয়া, যিবোৰে নকৰে, সেইবোৰ আঁতৰাওঁ।
-এয়া পাঁচটা জনপ্ৰিয় প্ৰডাক্টিভিটি হেক, ওলোটা গণনাত, আটাইতকৈ বেছি মূল্য দিয়াবলগীয়াটোলৈকে। প্ৰতিটোৰ বাবে চাম, গৱেষণাই কি কয়, আৰু তাৰ সলনি কি কৰিব।
+[quieter] এইবোৰ সকলো প্ৰডাক্টিভ যেন লাগে। [short pause] সেইটোৱেই ফান্দ।
+[calm] গতিকে ওলোটা গণনা কৰোঁ, আটাইতকৈ কম ক্ষতিকাৰকটোৰ পৰা, আটাইতকৈ বেছি মূল্য দিয়াবলগীয়াটোলৈকে। প্ৰতিটোৰ বাবে, গৱেষণাই কি কয়, আৰু তাৰ সলনি কি কৰিব।
+[knowingly] আৰু এক নম্বৰ? যিটোক লৈ মানুহে গৌৰৱ কৰে।
 
 [playfully] পাঁচ নম্বৰ: হাইলাইটাৰ।
 ই পঢ়াৰ দৰে লাগে। পৃষ্ঠাটো হালধীয়া হয়, আৰু আগবাঢ়ি থকা যেন লাগে।
@@ -142,6 +155,8 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute countdown video ca
 আপোনাৰ মগজুৱে সেই শব্দবোৰ বুজিবলৈ চেষ্টা কৰে, যেতিয়া আপুনি আন শব্দ পঢ়ি থাকে।
 তাৰ সলনি: পঢ়া বা লিখাৰ যিকোনো কামৰ বাবে, নিস্তব্ধতা, বা কথা নথকা সংগীত।
 
+[knowingly] পিছৰ দুটাই আটাইতকৈ বেছি উৎসাহ দিয়ে। [short pause] আৰু সেইটোৱেই আচল সমস্যা।
+
 [thoughtful] তিনি নম্বৰ: কেৱল নিজৰ সফলতাৰ কল্পনা কৰক।
 দুহাজাৰ এঘাৰ চনত, নিউয়ৰ্ক বিশ্ববিদ্যালয়ৰ মনোবিজ্ঞানীসকলে এটা আচৰিত কথা পালে। যেতিয়া মানুহে এটা আদৰ্শ ভৱিষ্যতৰ সপোন দেখিলে, তেওঁলোকৰ শক্তি কমি গ'ল। আনকি ৰক্তচাপো কমিল।
 সপোনটো ইমান ভাল লাগিল যে মগজুটো ঢিলা হৈ পৰিল, যেন কামৰ কিছু অংশ আগতেই হৈ গ'ল।
@@ -153,6 +168,8 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute countdown video ca
 এইটো মাত্ৰ এটা অধ্যয়নৰ গোট, গতিকে ইয়াক শিলৰ ৰেখা বুলি নাভাবিব। কিন্তু ভাবি চোৱাৰ যোগ্য।
 তাৰ সলনি: আৰম্ভ নকৰালৈকে লক্ষ্যটো মনে মনে ৰাখক। বা পৰিকল্পনা নহয়, অগ্ৰগতি শ্বেয়াৰ কৰক।
 
+[serious] আৰু এক নম্বৰ। যিটো হেকক লৈ মানুহে গৌৰৱ কৰে… আৰু যিটোৰ মূল্য আটাইতকৈ বেছি।
+
 [serious] আৰু এক নম্বৰ, আটাইতকৈ বেছি মূল্য দিয়া হেকটো: বেছি কাম কৰিবলৈ কম শোৱা।
 দুহাজাৰ তিনি চনৰ এটা অধ্যয়নত, মানুহে দুসপ্তাহলৈ প্ৰতি ৰাতি ছয় ঘণ্টাকৈ শুইছিল। শেষলৈ, তেওঁলোকৰ মনোযোগ সিমানেই বেয়া হৈ পৰিছিল, যিমান দুৰাতিলৈকে একেবাৰে নুশোৱা মানুহৰ।
 কিন্তু ভয়লগা কথাটো এইটো: তেওঁলোকৰ প্ৰায় টোপনি অহা যেনেই লগা নাছিল। তেওঁলোকে গমেই নাপালে, কিমান পিছ পৰিছে।
@@ -163,5 +180,5 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute countdown video ca
 [long pause] যদি কিবা কেৱল প্ৰডাক্টিভ যেন লাগে, পৰীক্ষা কৰক। যদি সঁচাকৈ কাম কৰে, ৰাখক।
 
 [friendly] কমেণ্টত কওক: এই পাঁচটাৰ কোনকেইটা আপুনি কৰি আছিল? সঁচাকৈ। আমাৰ বেছিভাগেই অন্ততঃ এটা কৰোঁ।
-আৰু চাবস্ক্ৰাইব কৰক। পিছৰ ভিডিঅ'ত: আপোনাৰ মনোযোগ হাইজেক হোৱাৰ সাতটা নিমাত লক্ষণ, আৰু আপুনি নিজৰ মাজত কেইটা চিনিব পাৰে।
+[short pause] আৰু পিছৰ ভিডিঅ'ত: আপোনাৰ মনোযোগ হাইজেক হোৱাৰ সাতটা নিমাত লক্ষণ, আৰু আপুনি নিজৰ মাজত কেইটা চিনিব পাৰে।
 ```

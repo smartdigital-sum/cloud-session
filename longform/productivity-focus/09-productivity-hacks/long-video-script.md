@@ -7,11 +7,20 @@
 
 Countdown format: the main body runs 0:40–3:05 (five items of ~30s each) instead of the usual four beats.
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook opened with a list; the stakes were hedged at the end. | **Hook:** subject + stakes in sentence one ("quietly wasting your time… probably doing at least one"), then the list. |
+| 0:15–0:40 opened with an eight-video recap. | **Lock-in:** the trap ("they all feel productive") + countdown promise + a tease for #1 ("the one people brag about"). Recap removed. |
+| The countdown had no turns. | **Rehooks** before #3 (~1:35) and #1 (~2:35). |
+| Outro asked for a comment and a subscribe. | One **CTA** (comment question + next-video tease). |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 Hacks that feel productive
-0:15 The countdown
+0:10 The countdown
 0:40 #5 The highlighter
 1:05 #4 The study playlist
 1:35 #3 Visualising success
@@ -23,29 +32,30 @@ Countdown format: the main body runs 0:40–3:05 (five items of ~30s each) inste
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
+Five popular productivity hacks might be quietly wasting your time. And you're probably doing at least one.
 The highlighter. The study playlist. The vision board. Telling everyone your goal. Sleeping less to get more done.
-(pause) They all feel productive. Science says… some of them might be quietly holding you back.
 
-**[VISUAL]** Fast, bright montage of five objects popping onto a desk: a yellow highlighter, headphones, a vision board, a phone posting "NEW GOAL! 💪", an alarm clock at 4:30 a.m. Then the colour drains; a small "?" appears over each one.
+**[VISUAL]** Frame 1 is already moving: five objects drop onto a desk one by one with a thud each: a highlighter, headphones, a vision board, a phone showing a "big announcement" post, an alarm clock set to 4:30 a.m. A red **?** stamps over all five.
 
-_Tone: brisk, knowing list; slow and quiet on the second line._
+_Tone: firm on line one; brisk, knowing list._
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
-Over the last eight videos, we've found what really protects your focus. Now let's clear out what doesn't.
-Here are five popular productivity hacks, counting down to the one that costs you most. For each one, we'll see what the research says, and what to do instead.
+They all feel productive. (pause) That's the trap.
+So let's count down, from the least harmful to the one that costs you most. For each, what the research says, and what to do instead.
+And number one? It's the one people brag about.
 
-**[VISUAL]** A shelf of icons from videos 01–08 lights up warmly. The five hack objects sit on a separate shelf. A big countdown card flips: **5 · 4 · 3 · 2 · 1**.
+**[VISUAL]** The five objects line up on a podium, numbered 5 to 1. The #1 spot stays covered with a cloth; a little crown floats above it.
 
-_Tone: calm, organised; clear promise._
+_Tone: quiet on "That's the trap."; clear promise; a sly lift on "brag about"._
 
 ## MAIN BODY (COUNTDOWN)
 
-### #5 The highlighter (0:40–1:05)
+### BODY 1: #5 The highlighter (0:40–1:05)
 
 **[NARRATION]**
 Number five: the highlighter.
@@ -58,7 +68,7 @@ Instead: close the book, and try to recall what you just read.
 
 _Tone: light, slightly teasing on "the page turns yellow"; clear on the fix._
 
-### #4 The study playlist with lyrics (1:05–1:35)
+### BODY 2: #4 The study playlist with lyrics (1:05–1:35)
 
 **[NARRATION]**
 Number four: the study playlist with lyrics.
@@ -71,7 +81,16 @@ Instead: silence, or music without lyrics, for anything that needs reading or wr
 
 _Tone: curious, clear; a gentle "aha" on the brain line._
 
-### #3 Visualising success (1:35–2:05)
+### REHOOK 1 (1:35)
+
+**[NARRATION]**
+The next two feel the most motivating. (pause) Which is exactly the problem.
+
+**[VISUAL]** The vision board and the announcement post glow and sparkle… then flicker.
+
+_Tone: knowing, a little conspiratorial._
+
+### BODY 3: #3 Visualising success (1:35–2:05)
 
 **[NARRATION]**
 Number three: just visualise your success.
@@ -83,7 +102,7 @@ Instead: picture the goal, then picture the obstacle in your way. And make a pla
 
 _Tone: thoughtful; soft and dreamy on the fantasy, then grounded on "Instead."_
 
-### #2 Announcing your goals (2:05–2:35)
+### BODY 4: #2 Announcing your goals (2:05–2:35)
 
 **[NARRATION]**
 Number two: telling everyone your goal.
@@ -96,7 +115,16 @@ Instead: keep the goal quiet until you've started. Or share your progress, not y
 
 _Tone: knowing, fair; careful on the caveat._
 
-### #1 Sleeping less (2:35–3:05)
+### REHOOK 2 (2:35)
+
+**[NARRATION]**
+And number one. The hack people brag about… and the one that costs the most.
+
+**[VISUAL]** The cloth whips off the #1 spot: the 4:30 a.m. alarm clock.
+
+_Tone: serious, slow._
+
+### BODY 5: #1 Sleeping less (2:35–3:05)
 
 **[NARRATION]**
 And number one, the hack that costs the most: sleeping less to get more done.
@@ -108,7 +136,9 @@ Every hour you steal from sleep, you pay back in focus. (pause) With interest.
 
 _Tone: serious, the most weight in the video; slow on "With interest."_
 
-## PAYOFF (3:05–3:30)
+## CLOSING (3:05–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 So notice the pattern. Every one of these hacks feels productive. That's the trap.
@@ -119,11 +149,13 @@ Real focus often feels less exciting: testing yourself, silence, planning for ob
 
 _Tone: warm certainty (peak); slow, balanced final line._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: the comment question, plus the next-video tease. No subscribe ask._
 
 **[NARRATION]**
 Tell me in the comments: which of these five were you doing? Be honest. Most of us do at least one.
-And subscribe. Next: seven silent signs your focus is being hijacked, and how many you can spot in yourself.
+(pause) And next: seven silent signs your focus is being hijacked, and how many you can spot in yourself.
 
 **[VISUAL]** Comment prompt with the five icons and checkboxes. End screen: next-video card **7 Silent Signs Your Focus Is Being Hijacked** (a person at a desk with seven faint strings pulling at them).
 
@@ -135,15 +167,16 @@ _Tone: friendly, light; curious tease._
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Brisk → quiet | Quick list; slow, low second line |
-| Setup | Calm, organised | Clear promise |
+| Hook | Firm → brisk | Weight on "wasting your time"; quick list |
+| Lock-in | Quiet → clear | Pause before "That's the trap."; sly lift on "brag about" |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | #5 | Light, teasing | Smile on "the page turns yellow"; clear fix |
 | #4 | Curious | Gentle "aha" on the brain line |
 | #3 | Thoughtful | Dreamy on the fantasy; grounded on "Instead" |
 | #2 | Knowing, fair | Careful, honest caveat |
 | #1 | Serious (most weight) | Slow; pause before "With interest." |
-| Payoff | Warm certainty (peak) | Balanced final line |
-| Outro | Friendly | Light; curious tease |
+| Closing | Warm certainty (peak) | Balanced final line |
+| Close + CTA | Friendly | Light; curious tease |
 
 ## Fact check
 

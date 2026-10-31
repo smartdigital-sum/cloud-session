@@ -3,6 +3,8 @@ Reel version of [long-video-voice.md](long-video-voice.md) | Voice: **Charon** (
 One line = one scene from [short-reel-script.md](short-reel-script.md). Generate each language in one run. Without the [tags], the Text blocks double as subtitles.
 AI Studio steps and fixes: [../../../voice/google-ai-studio-tts.md](../../../voice/google-ai-studio-tts.md)
 
+**Changed (storytelling guide):** stakes added to the hook, a lock-in line (#1 tease), two rehooks, a closing rule, and a CTA to the full video before the question.
+
 ⚠ Hindi and Assamese need native review. Test Assamese line 1 first.
 
 ---
@@ -15,13 +17,15 @@ You are a calm, deep-voiced, wise mentor narrating a 60-second countdown reel ca
 
 **Text**
 ```
-[knowingly] These five productivity hacks might be wasting your time.
-[playfully] Five: highlighting. A big review rated it low in usefulness. Testing yourself works far better.
-[curious] Four: study songs with lyrics. In one study, reading scores were worst with lyrics. Even with songs people liked.
-[thoughtful] Three: just visualising success. Positive fantasies lowered people's energy. Picture the obstacle too.
-[knowingly] Two: announcing your goals. In one set of studies, people whose goals were noticed by others worked on them less.
-[serious] And one: sleeping less. Two weeks of six-hour nights impaired attention like up to two nights without sleep. And people barely noticed.
-[friendly] Which of these are you doing? Tell me below.
+[firmly] These five productivity hacks might be wasting your time. And you're probably doing one.
+[knowingly] Number one is the one people brag about.
+[playfully] Five: highlighting. A big review rated it low in usefulness. Test yourself instead. [curious] Four: study songs with lyrics. In one study, reading scores were worst with lyrics.
+[knowingly] The next two feel motivating. That's the problem.
+[thoughtful] Three: just visualising success. Positive fantasies lowered people's energy. [knowingly] Two: announcing your goals. People whose goals were noticed by others worked on them less.
+[serious] And number one…
+[serious] Sleeping less. Two weeks of six-hour nights impaired attention like up to two nights without sleep. And people barely noticed.
+[warmly] If something only feels productive, check it. If it works, keep it.
+[friendly] Full video's linked below. So, which one are you doing?
 ```
 
 ---
@@ -34,13 +38,15 @@ You are a calm, deep-voiced, wise mentor narrating a 60-second countdown reel ca
 
 **Text**
 ```
-[knowingly] ये पाँच प्रोडक्टिविटी हैक्स, शायद आपका वक़्त बर्बाद कर रहे हैं।
-[playfully] पाँच: हाइलाइटर। एक बड़ी समीक्षा ने इसे कम उपयोगी माना। ख़ुद का टेस्ट लेना कहीं बेहतर है।
-[curious] चार: बोल वाले गाने। एक स्टडी में, बोल वाले गानों के साथ रीडिंग स्कोर सबसे ख़राब रहे। पसंदीदा गानों के साथ भी।
-[thoughtful] तीन: सिर्फ़ कामयाबी की कल्पना। सुनहरे सपनों ने लोगों की ऊर्जा घटा दी। रुकावट की भी कल्पना कीजिए।
-[knowingly] दो: अपने गोल का ऐलान। कुछ स्टडीज़ में, जिनके गोल पर दूसरों ने ध्यान दिया, उन्होंने उस पर कम मेहनत की।
-[serious] और एक: कम सोना। दो हफ़्ते की छह घंटे वाली रातों ने ध्यान को उतना बिगाड़ा, जितना दो रात तक बिना नींद के। और लोगों को पता भी नहीं चला।
-[friendly] आप इनमें से कौन-सा कर रहे हैं? नीचे बताइए।
+[firmly] ये पाँच प्रोडक्टिविटी हैक्स, शायद आपका वक़्त बर्बाद कर रहे हैं। और आप इनमें से एक तो कर ही रहे होंगे।
+[knowingly] नंबर एक वो है, जिसकी लोग शेख़ी बघारते हैं।
+[playfully] पाँच: हाइलाइटर। एक बड़ी समीक्षा ने इसे कम उपयोगी माना। उसकी जगह ख़ुद का टेस्ट लीजिए। [curious] चार: बोल वाले गाने। एक स्टडी में, बोल वाले गानों के साथ रीडिंग स्कोर सबसे ख़राब रहे।
+[knowingly] अगले दो जोश दिलाते हैं। यही दिक़्क़त है।
+[thoughtful] तीन: सिर्फ़ कामयाबी की कल्पना। सुनहरे सपनों ने लोगों की ऊर्जा घटा दी। [knowingly] दो: अपने गोल का ऐलान। जिनके गोल पर दूसरों ने ध्यान दिया, उन्होंने उस पर कम मेहनत की।
+[serious] और नंबर एक…
+[serious] कम सोना। दो हफ़्ते की छह घंटे वाली रातों ने ध्यान को उतना बिगाड़ा, जितना दो रात तक बिना नींद के। और लोगों को पता भी नहीं चला।
+[warmly] जो सिर्फ़ प्रोडक्टिव लगे, उसे परखिए। जो सच में काम करे, उसे रखिए।
+[friendly] पूरी वीडियो का लिंक नीचे है। तो बताइए, आप इनमें से कौन-सा कर रहे हैं?
 ```
 
 ---
@@ -53,11 +59,13 @@ You are a calm, deep-voiced, wise mentor narrating a 60-second countdown reel ca
 
 **Text**
 ```
-[knowingly] এই পাঁচটা প্ৰডাক্টিভিটি হেকে হয়তো আপোনাৰ সময় নষ্ট কৰি আছে।
-[playfully] পাঁচ: হাইলাইটাৰ। এটা ডাঙৰ পৰ্যালোচনাই ইয়াক কম উপযোগী বুলি ক'লে। নিজকে নিজে পৰীক্ষা কৰাটো বহুত ভাল।
-[curious] চাৰি: কথা থকা গীত। এটা অধ্যয়নত, কথা থকা গীতৰ সৈতে পঢ়াৰ নম্বৰ আটাইতকৈ বেয়া আছিল। ভাল পোৱা গীতৰ সৈতেও।
-[thoughtful] তিনি: কেৱল সফলতাৰ কল্পনা। ধুনীয়া সপোনে মানুহৰ শক্তি কমাই দিলে। বাধাটোও কল্পনা কৰক।
-[knowingly] দুই: নিজৰ লক্ষ্য ঘোষণা কৰা। কিছুমান অধ্যয়নত, যিসকলৰ লক্ষ্য আনে মন কৰিছিল, তেওঁলোকে তাৰ বাবে কম পৰিশ্ৰম কৰিলে।
-[serious] আৰু এক: কম শোৱা। দুসপ্তাহৰ ছয় ঘণ্টাৰ টোপনিয়ে মনোযোগ সিমানেই বেয়া কৰিলে, যিমান দুৰাতিলৈকে নুশোৱাকৈ থাকিলে হয়। আৰু মানুহে গমেই নাপালে।
-[friendly] আপুনি ইয়াৰ কোনটো কৰি আছে? তলত লিখক।
+[firmly] এই পাঁচটা প্ৰডাক্টিভিটি হেকে হয়তো আপোনাৰ সময় নষ্ট কৰি আছে। আৰু আপুনি ইয়াৰ এটা নিশ্চয় কৰি আছে।
+[knowingly] এক নম্বৰটো সেইটো, যিটোক লৈ মানুহে গৌৰৱ কৰে।
+[playfully] পাঁচ: হাইলাইটাৰ। এটা ডাঙৰ পৰ্যালোচনাই ইয়াক কম উপযোগী বুলি ক'লে। তাৰ সলনি নিজকে পৰীক্ষা কৰক। [curious] চাৰি: কথা থকা গীত। এটা অধ্যয়নত, কথা থকা গীতৰ সৈতে পঢ়াৰ নম্বৰ আটাইতকৈ বেয়া আছিল।
+[knowingly] পিছৰ দুটাই উৎসাহ দিয়ে। সেইটোৱেই সমস্যা।
+[thoughtful] তিনি: কেৱল সফলতাৰ কল্পনা। ধুনীয়া সপোনে মানুহৰ শক্তি কমাই দিলে। [knowingly] দুই: নিজৰ লক্ষ্য ঘোষণা কৰা। যিসকলৰ লক্ষ্য আনে মন কৰিছিল, তেওঁলোকে তাৰ বাবে কম পৰিশ্ৰম কৰিলে।
+[serious] আৰু এক নম্বৰ…
+[serious] কম শোৱা। দুসপ্তাহৰ ছয় ঘণ্টাৰ টোপনিয়ে মনোযোগ সিমানেই বেয়া কৰিলে, যিমান দুৰাতিলৈকে নুশোৱাকৈ থাকিলে হয়। আৰু মানুহে গমেই নাপালে।
+[warmly] যিটো কেৱল প্ৰডাক্টিভ যেন লাগে, তাক পৰীক্ষা কৰক। যিটোৱে সঁচাকৈ কাম কৰে, তাক ৰাখক।
+[friendly] সম্পূৰ্ণ ভিডিঅ'ৰ লিংক তলত আছে। গতিকে কওক, আপুনি ইয়াৰ কোনটো কৰি আছে?
 ```
