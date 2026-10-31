@@ -5,11 +5,20 @@
 **Voiceover:** English, Hindi, Assamese → [long-video-voice.md](long-video-voice.md) · **Reel version:** [short-reel-script.md](short-reel-script.md)
 **Series:** follows [04 Free gift](../04-free-gift-reciprocity/long-video-script.md). Links back to [01 Scam urgency](../01-scam-urgency/long-video-script.md) (fake officials). Teases 06 (social proof) next.
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook was quiet; the viewer's stakes came at 0:25. | **Hook:** stakes line first ("a uniform can get you to do things you'd never do"), said firmly, then "Please continue." |
+| 0:15–0:40 asked a question but promised nothing specific. | **Lock-in:** magic box (the 1963 experiment, what critics found, fake uniforms today) + teased payoff ("a six-word rule… without making you paranoid"). |
+| Beats 3 and 4 started as labels. | **Rehooks** before the scams (~1:50) and "authority isn't the enemy" (~2:25). |
+| Outro asked for a comment and a subscribe. | One **CTA** (comment question + next-video tease). |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 "Please continue."
-0:15 The pull of a title
+0:10 The pull of a title
 0:40 The 1963 shock experiment
 1:15 What the critics found
 1:50 Fake uniforms, real money
@@ -20,30 +29,32 @@
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
+A uniform can get you to do things you'd never do on your own. And scammers know it.
 A man in a grey lab coat says calmly: "Please continue."
 (pause) In 1963, about two out of three people did, all the way to what they believed was a dangerous electric shock.
 
-**[VISUAL]** Close-up of a hand hovering over a row of switches labelled with rising voltages. Behind the chair, the silhouette of a man in a lab coat with a clipboard. The final switch, marked XXX, glows red.
+**[VISUAL]** Frame 1 is already moving: a hand hovers over a row of switches labelled with rising voltages. Behind the chair, the silhouette of a man in a lab coat with a clipboard. The final switch, marked XXX, glows red.
 
-_Tone: quiet, slightly ominous; land "two out of three"._
+_Tone: firm on line one; then quiet and slightly ominous._
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
 Have you ever done something just because someone in a uniform, or with an important title, told you to?
-That's the pull of authority. It keeps hospitals, flights and traffic running. But it's also why a fake "police officer" on a video call can empty a bank account.
-(pause) So how strong is that pull, really? The truth is more complicated than the textbooks say.
+That's the pull of authority.
+In this video: the 1963 experiment everyone quotes, what the critics found when they looked closer, and the fake uniforms emptying bank accounts today.
+(pause) And a six-word rule that protects you, without making you paranoid.
 
-**[VISUAL]** Quick montage: a traffic officer's raised hand, a pilot's cap, a doctor's stethoscope. Then a phone screen: a video call from someone in a police uniform, an official-looking logo behind him. Title card: **THE PULL OF AUTHORITY**.
+**[VISUAL]** Quick montage: a traffic officer's raised hand, a pilot's cap, a doctor's stethoscope. Title card: **THE PULL OF AUTHORITY**. Three sealed cards: **1963 · THE CRITICS · TODAY**. A glowing card **THE RULE** stays sealed.
 
-_Tone: knowing, protective; curious last line._
+_Tone: knowing; clear promise; warm and firm on the last line._
 
 ## MAIN BODY
 
-### Beat 1: The 1963 shock experiment (0:40–1:15)
+### BODY 1: The 1963 shock experiment (0:40–1:15)
 
 **[NARRATION]**
 At Yale University, psychologist Stanley Milgram told volunteers they were helping to study memory. Their job: give a "learner" an electric shock for every wrong answer, rising step by step to 450 volts.
@@ -55,7 +66,7 @@ In the version Milgram first reported, 26 of 40 people, about 65 percent, went a
 
 _Tone: intrigued storyteller, darkening; slow last line._
 
-### Beat 2: What the critics found (1:15–1:50)
+### BODY 2: What the critics found (1:15–1:50)
 
 **[NARRATION]**
 But the story isn't that simple. Milgram ran many versions of the experiment, and obedience varied a lot. When orders came by phone, or when other "volunteers" refused, far fewer people went to the end.
@@ -67,7 +78,16 @@ Still, in 2009, Jerry Burger ran a safer, partial repeat that stopped at 150 vol
 
 _Tone: fair, balanced; firm last line._
 
-### Beat 3: Fake uniforms, real money (1:50–2:25)
+### REHOOK 1 (1:50)
+
+**[NARRATION]**
+That was a lab. (pause) Today, the lab coat has been swapped for a police uniform on a video call.
+
+**[VISUAL]** The lab coat silhouette morphs into a uniform on a phone screen, an official-looking logo behind it.
+
+_Tone: serious, leaning in._
+
+### BODY 3: Fake uniforms, real money (1:50–2:25)
 
 **[NARRATION]**
 Scammers know this. A video call from someone in a police uniform, with a badge, an office backdrop, even a fake "court order". A caller who says he's from your bank's "head office", or a government department.
@@ -79,7 +99,16 @@ Indian authorities have warned: no real officer will "arrest" you over a video c
 
 _Tone: serious, protective; slow last line._
 
-### Beat 4: Authority isn't the enemy (2:25–3:00)
+### REHOOK 2 (2:25)
+
+**[NARRATION]**
+So should you distrust every uniform? (pause) That would be its own mistake.
+
+**[VISUAL]** The phone screen fades; a real doctor and a pilot step into frame.
+
+_Tone: honest, gentle._
+
+### BODY 4: Authority isn't the enemy (2:25–3:00)
 
 **[NARRATION]**
 To be fair, trusting real experts is usually sensible. We should listen to doctors, pilots and firefighters.
@@ -90,7 +119,9 @@ And even in Milgram's lab, people didn't obey blindly. Many argued, hesitated, a
 
 _Tone: fair, warm; thoughtful last line._
 
-## PAYOFF / TWIST (3:00–3:30)
+## CLOSING (3:00–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 So here's your defence. When someone uses a title, a uniform or an official logo to rush you, verify through a second channel. Hang up, find the official number yourself, and call back.
@@ -102,11 +133,13 @@ And if you've been targeted, report it on 1930, or at cybercrime.gov.in.
 
 _Tone: warm, empowering (peak); firm last line._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: the comment question, plus the next-video tease. No subscribe ask._
 
 **[NARRATION]**
 Tell me in the comments: have you, or someone you know, ever had a call from a fake "official"?
-And subscribe. Next: why fake reviews and crowds fool us so easily.
+(pause) And next: why fake reviews and crowds fool us so easily.
 
 **[VISUAL]** Comment prompt beside an empty uniform on a hanger. End screen: next-video card **Why Fake Reviews and Crowds Fool Us** (a wall of five-star reviews, one peeling off to show a robot face).
 
@@ -118,14 +151,15 @@ _Tone: friendly; curious tease._
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Quiet, slightly ominous | Calm quote; land "two out of three" |
-| Setup | Knowing, protective | Curious last line |
+| Hook | Firm → ominous | Plain stakes line; quiet "Please continue." |
+| Lock-in | Knowing → warm | Clear promise; firm last line |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | Beat 1 | Intrigued storyteller, darkening | Clear numbers; slow last line |
 | Beat 2 | Fair, balanced | Even; firm last line |
 | Beat 3 | Serious, protective | Slow last line |
 | Beat 4 | Fair, warm | Thoughtful last line |
-| Payoff | Warm, empowering (peak) | Helpline clear; firm last line |
-| Outro | Friendly | Curious tease |
+| Closing | Warm, empowering (peak) | Helpline clear; firm last line |
+| Close + CTA | Friendly | Curious tease |
 
 ## Fact check
 
