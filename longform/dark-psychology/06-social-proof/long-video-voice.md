@@ -9,6 +9,8 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 4. Name files like `dp06-social-proof_EN_s1-hook.wav`.
 
 If TTS mispronounces "Asch", write it as "Ash".
+**Changed (storytelling guide):** a stakes line opens the hook; the setup is replaced by a lock-in (the lines, the spell-breaker, crowds for sale, one habit); two new rehook lines; one CTA, no subscribe ask. Generate 10 sections now (2 rehooks added).
+
 ⚠ Hindi and Assamese are machine-quality translations. Get a native speaker to read them before recording. Test the Assamese hook first.
 
 ---
@@ -16,17 +18,18 @@ If TTS mispronounces "Asch", write it as "Ash".
 
 **Style instructions**
 ```
-You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute awareness video called "Why fake reviews and crowds fool us", about social proof. Your goal is to help the listener recognise and resist fake crowds. Speak directly to one listener ("you"), like a sharp, trusted guide. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses. Open curious and tense, an intrigued storyteller on the experiment, fair then hopeful on the findings, serious on scams, balanced on real reviews, then warm and empowering on the defence. End friendly. Never preachy.
+You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute awareness video called "Why fake reviews and crowds fool us", about social proof. Your goal is to help the listener recognise and resist fake crowds. Speak directly to one listener ("you"), like a sharp, trusted guide. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses. Open curious and tense, an intrigued storyteller on the experiment, fair then hopeful on the findings, serious on scams, balanced on real reviews, then warm and empowering on the defence. End friendly. Never preachy. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] A fake crowd can make you buy, and believe, things you'd never choose alone.
 [curious] Three lines on a card. One clearly matches the line beside it.
 [short pause] But everyone else in the room calmly picks the wrong one. Now it's your turn. What do you say?
 
-[knowingly] Have you ever picked a restaurant just because it was packed? Or bought something because "ten thousand people bought this"?
-That's social proof: when we're unsure, we copy the crowd. Most of the time, it's a smart shortcut.
-[short pause] But a crowd can be faked. And you'd never see the actors.
+[knowingly] Have you ever picked a restaurant just because it was packed? That's social proof: when we're unsure, we copy the crowd.
+[calm] In this video: the famous line experiment, the one thing that broke its spell, and the crowds you can now buy online.
+[short pause] [warmly] And the simple habit that checks any crowd.
 
 [intrigued] In the 1950s, psychologist Solomon Asch invited students to a simple "vision test": which of three lines matches the first one? Easy.
 But every other person in the room was secretly working with Asch. On certain rounds, they all calmly gave the same wrong answer.
@@ -37,10 +40,14 @@ On those rounds, people went along with the wrong answer about a third of the ti
 [hopeful] And Asch found something hopeful. When just one other person in the room gave the right answer, conformity dropped sharply.
 [short pause] One honest voice can break the spell.
 
+[serious] That was a room of actors. [short pause] Today, the actors are on your screen… and they're for sale.
+
 [knowingly] Crowds pull us outside the lab too. In a 1969 New York study, when one person stood on a pavement staring up at a window, a few passers-by stopped. When fifteen people did, around four in ten stopped.
 Today, the crowd lives on your screen: star ratings, "bestseller" badges, "two thousand people are viewing this", follower counts. All of it can be faked, with paid reviews, bot followers and invented "live" counters.
 [serious] In investment scams, it's a chat group full of "members" posting their profits. Many may be the scammer's own accounts.
 [short pause] A crowd on a screen can be one person with many accounts.
+
+[thoughtful] So should you ignore every review? [short pause] Not quite.
 
 [thoughtful] Of course, following others is often sensible. A busy food stall is often busy for a reason, and honest reviews can save you money.
 In 2022, the Bureau of Indian Standards published a standard to help platforms keep reviews genuine, including disclosing paid ones. But it's voluntary, so you still need your own filter.
@@ -52,7 +59,7 @@ And remember Asch's room: you can be that one honest voice.
 [long pause] Don't count the crowd. Check it.
 
 [friendly] Tell me in the comments: have you ever bought something because of the reviews, and regretted it?
-And subscribe. Next: gaslighting, when someone tries to rewrite your reality.
+[short pause] And next: gaslighting, when someone tries to rewrite your reality.
 ```
 
 ---
@@ -60,17 +67,18 @@ And subscribe. Next: gaslighting, when someone tries to rewrite your reality.
 
 **Style instructions**
 ```
-You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute awareness video about social proof: why fake reviews and crowds fool us. Your goal is to help the listener recognise and resist fake crowds. Speak natural, conversational Hindi (common English words like "review", "rating", "bestseller", "group", "followers" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a sharp, trusted guide. Unhurried, with deliberate pauses. Curious and tense at the start, storyteller on the experiment, fair then hopeful on the findings, serious on scams, balanced on real reviews, warm and empowering on the defence. End friendly.
+You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute awareness video about social proof: why fake reviews and crowds fool us. Your goal is to help the listener recognise and resist fake crowds. Speak natural, conversational Hindi (common English words like "review", "rating", "bestseller", "group", "followers" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a sharp, trusted guide. Unhurried, with deliberate pauses. Curious and tense at the start, storyteller on the experiment, fair then hopeful on the findings, serious on scams, balanced on real reviews, warm and empowering on the defence. End friendly. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] एक नक़ली भीड़, आपसे वो ख़रीदवा सकती है, और वो मनवा सकती है, जो आप अकेले कभी न चुनें।
 [curious] एक कार्ड पर तीन लाइनें। उनमें से एक, बगल वाली लाइन से साफ़-साफ़ मिलती है।
 [short pause] पर कमरे में बाक़ी सब, आराम से ग़लत लाइन चुनते हैं। अब आपकी बारी है। आप क्या कहेंगे?
 
-[knowingly] क्या आपने कभी कोई रेस्टोरेंट सिर्फ़ इसलिए चुना, क्योंकि वो भरा हुआ था? या कुछ इसलिए ख़रीदा, क्योंकि "दस हज़ार लोगों ने इसे ख़रीदा"?
-इसे "सोशल प्रूफ़" कहते हैं: जब हमें यक़ीन नहीं होता, तो हम भीड़ की नक़ल करते हैं। ज़्यादातर बार, ये एक समझदार शॉर्टकट है।
-[short pause] पर भीड़ नक़ली भी हो सकती है। और आपको एक्टर कभी दिखेंगे नहीं।
+[knowingly] क्या कभी कोई रेस्टोरेंट सिर्फ़ इसलिए चुना, क्योंकि वो भरा हुआ था? इसे कहते हैं सोशल प्रूफ़: जब हम पक्का नहीं जानते, तो भीड़ की नक़ल करते हैं।
+[calm] इस वीडियो में: लाइनों वाला मशहूर प्रयोग, वो एक चीज़ जिसने उसका जादू तोड़ा, और वो भीड़, जो अब ऑनलाइन ख़रीदी जा सकती है।
+[short pause] [warmly] और एक आसान आदत, जो किसी भी भीड़ को परख लेती है।
 
 [intrigued] उन्नीस सौ पचास के दशक में, मनोवैज्ञानिक सॉलोमन ऐश ने स्टूडेंट्स को एक आसान "आँखों के टेस्ट" के लिए बुलाया: तीन में से कौन-सी लाइन, पहली लाइन से मिलती है? आसान।
 पर कमरे में बाक़ी हर इंसान, चुपके से ऐश के साथ मिला हुआ था। कुछ ख़ास राउंड में, उन सबने आराम से एक ही ग़लत जवाब दिया।
@@ -81,10 +89,14 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 [hopeful] और ऐश को एक उम्मीद भरी बात मिली। जब कमरे में बस एक और इंसान ने सही जवाब दिया, तो भीड़ के साथ चलना तेज़ी से घट गया।
 [short pause] एक ईमानदार आवाज़, जादू तोड़ सकती है।
 
+[serious] वो एक्टर्स से भरा कमरा था। [short pause] आज, एक्टर्स आपकी स्क्रीन पर हैं… और वो बिकते हैं।
+
 [knowingly] लैब के बाहर भी भीड़ हमें खींचती है। उन्नीस सौ उनहत्तर की न्यूयॉर्क की एक स्टडी में, जब एक इंसान फ़ुटपाथ पर खड़ा होकर एक खिड़की की तरफ़ ऊपर देखता रहा, तो कुछ ही राहगीर रुके। जब पंद्रह लोगों ने ऐसा किया, तो लगभग दस में से चार रुक गए।
 आज, भीड़ आपकी स्क्रीन पर रहती है: स्टार रेटिंग, "बेस्टसेलर" बैज, "दो हज़ार लोग इसे देख रहे हैं", फ़ॉलोअर्स की गिनती। ये सब नक़ली हो सकता है: पैसे देकर लिखवाए रिव्यू, बॉट फ़ॉलोअर्स, और गढ़े हुए "लाइव" काउंटर।
 [serious] इन्वेस्टमेंट स्कैम में, ये एक चैट ग्रुप होता है, जिसमें "मेंबर्स" अपना मुनाफ़ा दिखाते हैं। उनमें से कई, ठग के अपने ही अकाउंट हो सकते हैं।
 [short pause] स्क्रीन पर भीड़, कई अकाउंट वाला एक ही इंसान हो सकती है।
+
+[thoughtful] तो क्या हर रिव्यू को नज़रअंदाज़ कर दें? [short pause] पूरी तरह नहीं।
 
 [thoughtful] बेशक, दूसरों के पीछे चलना अक्सर समझदारी है। भीड़ वाला खाने का ठेला, अक्सर किसी वजह से भीड़ वाला होता है, और ईमानदार रिव्यू आपके पैसे बचा सकते हैं।
 दो हज़ार बाईस में, भारतीय मानक ब्यूरो ने एक स्टैंडर्ड जारी किया, ताकि प्लैटफ़ॉर्म रिव्यू असली रखें, और पैसे देकर लिखवाए रिव्यू बताएँ। पर ये स्वैच्छिक है, इसलिए आपको अपनी छलनी ख़ुद रखनी होगी।
@@ -96,7 +108,7 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 [long pause] भीड़ को गिनिए मत। उसे जाँचिए।
 
 [friendly] कमेंट में बताइए: क्या आपने कभी रिव्यू देखकर कुछ ख़रीदा, और फिर पछताए?
-और सब्सक्राइब कीजिए। अगले वीडियो में: गैसलाइटिंग, जब कोई आपकी हक़ीक़त को दोबारा लिखने की कोशिश करता है।
+[short pause] और अगले वीडियो में: गैसलाइटिंग, जब कोई आपकी हक़ीक़त को दोबारा लिखने की कोशिश करता है।
 ```
 
 ---
@@ -104,17 +116,18 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 
 **Style instructions**
 ```
-You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute awareness video about social proof: why fake reviews and crowds fool us. Your goal is to help the listener recognise and resist fake crowds. Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a sharp, trusted guide. Unhurried, with deliberate pauses. Curious and tense at the start, storyteller on the experiment, fair then hopeful on the findings, serious on scams, balanced on real reviews, warm and empowering on the defence. End friendly.
+You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute awareness video about social proof: why fake reviews and crowds fool us. Your goal is to help the listener recognise and resist fake crowds. Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a sharp, trusted guide. Unhurried, with deliberate pauses. Curious and tense at the start, storyteller on the experiment, fair then hopeful on the findings, serious on scams, balanced on real reviews, warm and empowering on the defence. End friendly. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] এটা ভুৱা ভিৰে আপোনাক এনে বস্তু কিনাব পাৰে, আৰু বিশ্বাস কৰাব পাৰে, যিটো আপুনি অকলে কেতিয়াও বাছি নল'লেহেঁতেন।
 [curious] এখন কাৰ্ডত তিনিডাল ৰেখা। তাৰে এডাল কাষৰ ৰেখাডালৰ সৈতে স্পষ্টকৈ মিলে।
 [short pause] কিন্তু কোঠাটোৰ বাকী সকলোৱে শান্তভাৱে ভুলডাল বাছি লয়। এতিয়া আপোনাৰ পাল। আপুনি কি ক'ব?
 
-[knowingly] আপুনি কেতিয়াবা কোনো ৰেষ্টুৰেণ্ট কেৱল এইবাবেই বাছি লৈছেনে, কাৰণ সেয়া ভৰি আছিল? বা কিবা এইবাবেই কিনিছে, কাৰণ "দহ হাজাৰ মানুহে এইটো কিনিছে"?
-ইয়াক "ছ'চিয়েল প্ৰুফ" বোলে: যেতিয়া আমি নিশ্চিত নহওঁ, আমি ভিৰক অনুকৰণ কৰোঁ। বেছিভাগ সময়ত, ই এটা বুদ্ধিমান চুটি পথ।
-[short pause] কিন্তু ভিৰ ভুৱাও হ'ব পাৰে। আৰু অভিনেতাসকলক আপুনি কেতিয়াও নেদেখিব।
+[knowingly] কেতিয়াবা কোনো ৰেষ্টুৰেণ্ট কেৱল এইবাবেই বাছিছেনে, কাৰণ সেইখন ভৰি আছিল? ইয়াক কোৱা হয় চ'চিয়েল প্ৰুফ: যেতিয়া আমি নিশ্চিত নহয়, আমি ভিৰক অনুকৰণ কৰোঁ।
+[calm] এই ভিডিঅ'ত: ৰেখাৰ সেই বিখ্যাত পৰীক্ষা, যিটো কথাই তাৰ যাদু ভাঙিলে, আৰু সেই ভিৰ, যিটো এতিয়া অনলাইনত কিনিব পাৰি।
+[short pause] [warmly] আৰু এটা সহজ অভ্যাস, যিয়ে যিকোনো ভিৰ পৰীক্ষা কৰে।
 
 [intrigued] ঊনৈছ শ পঞ্চাশৰ দশকত, মনোবিজ্ঞানী চলোমন এশ্বে ছাত্ৰ-ছাত্ৰীক এটা সহজ "দৃষ্টি পৰীক্ষা"লৈ মাতিছিল: তিনিডাল ৰেখাৰ কোনডাল প্ৰথমডালৰ সৈতে মিলে? সহজ।
 কিন্তু কোঠাটোৰ আন প্ৰতিজন মানুহ গোপনে এশ্বৰ লগত কাম কৰি আছিল। কিছুমান বিশেষ পৰ্যায়ত, তেওঁলোক সকলোৱে শান্তভাৱে একেটা ভুল উত্তৰ দিছিল।
@@ -125,10 +138,14 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 [hopeful] আৰু এশ্বে এটা আশাৰ কথা পাইছিল। যেতিয়া কোঠাটোত মাত্ৰ আন এজনে শুদ্ধ উত্তৰ দিছিল, ভিৰৰ লগত যোৱাটো বহুত কমি গৈছিল।
 [short pause] এটা সৎ মাতে যাদু ভাঙিব পাৰে।
 
+[serious] সেয়া আছিল অভিনেতাৰে ভৰা এটা কোঠা। [short pause] আজি, অভিনেতাসকল আপোনাৰ স্ক্ৰীণত… আৰু তেওঁলোক বিক্ৰীৰ বাবে।
+
 [knowingly] লেবৰ বাহিৰতো ভিৰে আমাক টানে। ঊনৈছ শ ঊনসত্তৰ চনৰ নিউয়ৰ্কৰ এটা অধ্যয়নত, যেতিয়া এজন মানুহ পদপথত থিয় হৈ এখন খিৰিকীলৈ ওপৰলৈ চাই আছিল, মাত্ৰ কেইজনমান পথচাৰী ৰৈছিল। যেতিয়া পোন্ধৰজনে তেনে কৰিছিল, প্ৰায় দহজনৰ চাৰিজন ৰৈছিল।
 আজি, ভিৰ আপোনাৰ স্ক্ৰীণত থাকে: ষ্টাৰ ৰেটিং, "বেষ্টছেলাৰ" বেজ, "দুহাজাৰ মানুহে এইটো চাই আছে", ফল'ৱাৰৰ সংখ্যা। এই সকলোবোৰ ভুৱা হ'ব পাৰে: টকা দি লিখোৱা ৰিভিউ, বট ফল'ৱাৰ, আৰু সজা "লাইভ" কাউণ্টাৰ।
 [serious] বিনিয়োগৰ প্ৰৱঞ্চনাত, ই এটা চেট গ্ৰুপ, য'ত "সদস্য"সকলে নিজৰ লাভ দেখুৱায়। তাৰে বহুতো প্ৰৱঞ্চকৰ নিজৰে একাউণ্ট হ'ব পাৰে।
 [short pause] স্ক্ৰীণৰ ভিৰ, বহুতো একাউণ্ট থকা এজন মানুহো হ'ব পাৰে।
+
+[thoughtful] তেন্তে প্ৰতিটো ৰিভিউ আওকাণ কৰিব লাগে নেকি? [short pause] সম্পূৰ্ণকৈ নহয়।
 
 [thoughtful] অৱশ্যে, আনৰ পিছে পিছে যোৱাটো প্ৰায়ে বুদ্ধিমানৰ কাম। ভিৰ থকা খাদ্যৰ দোকান প্ৰায়ে কিবা কাৰণতে ভিৰ থাকে, আৰু সৎ ৰিভিউৱে আপোনাৰ টকা বচাব পাৰে।
 দুহেজাৰ বাইছ চনত, ভাৰতীয় মান ব্যুৰোৱে এটা মানদণ্ড প্ৰকাশ কৰিছিল, যাতে প্লেটফৰ্মবোৰে ৰিভিউ সঁচা ৰাখে, আৰু টকা দি লিখোৱা ৰিভিউ জনায়। কিন্তু ই স্বেচ্ছামূলক, গতিকে আপুনি নিজৰ চালনী নিজে ৰাখিব লাগিব।
@@ -140,5 +157,5 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 [long pause] ভিৰ গণনা নকৰিব। ভিৰ পৰীক্ষা কৰক।
 
 [friendly] কমেণ্টত কওক: আপুনি কেতিয়াবা ৰিভিউ চাই কিবা কিনি পিছত অনুতাপ কৰিছেনে?
-আৰু চাবস্ক্ৰাইব কৰক। পিছৰ ভিডিঅ'ত: গেছলাইটিং, যেতিয়া কোনোবাই আপোনাৰ বাস্তৱক নতুনকৈ লিখিবলৈ চেষ্টা কৰে।
+[short pause] আৰু পিছৰ ভিডিঅ'ত: গেছলাইটিং, যেতিয়া কোনোবাই আপোনাৰ বাস্তৱক নতুনকৈ লিখিবলৈ চেষ্টা কৰে।
 ```

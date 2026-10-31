@@ -5,11 +5,20 @@
 **Voiceover:** English, Hindi, Assamese → [long-video-voice.md](long-video-voice.md) · **Reel version:** [short-reel-script.md](short-reel-script.md)
 **Series:** follows [05 Authority](../05-authority-uniform/long-video-script.md). Teases 07 (gaslighting) next.
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook was a gripping scene, but the viewer's stakes stayed hidden. | **Hook:** stakes line first ("a fake crowd can make you buy and believe things you'd never choose alone"), then the line test. |
+| 0:15–0:40 explained social proof but promised nothing specific. | **Lock-in:** magic box (the line experiment, the one thing that broke it, crowds for sale) + teased payoff ("the habit that checks any crowd"). |
+| Beats 3 and 4 started as labels. | **Rehooks** before bought crowds (~1:50) and "the crowd isn't always wrong" (~2:25). |
+| Outro asked for a comment and a subscribe. | One **CTA** (comment question + next-video tease). |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 Everyone picks the wrong line
-0:15 Why we copy the crowd
+0:10 Why we copy the crowd
 0:40 The Asch line experiment
 1:15 One honest voice
 1:50 Crowds you can buy
@@ -20,30 +29,31 @@
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
+A fake crowd can make you buy, and believe, things you'd never choose alone.
 Three lines on a card. One clearly matches the line beside it.
 (pause) But everyone else in the room calmly picks the wrong one. Now it's your turn. What do you say?
 
-**[VISUAL]** A card with a target line and three options, A, B and C; C obviously matches. A row of faces says "A… A… A… A…". The camera turns to the last chair: an empty silhouette labelled YOU, a bead of sweat.
+**[VISUAL]** Frame 1 is already moving: a card with a target line and three options, A, B and C; C obviously matches. A row of faces says "A… A… A… A…". The camera turns to the last chair: an empty silhouette labelled YOU, a bead of sweat.
 
-_Tone: curious, tense; quiet question at the end._
+_Tone: firm on line one; curious and tense on the test._
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
-Have you ever picked a restaurant just because it was packed? Or bought something because "ten thousand people bought this"?
-That's social proof: when we're unsure, we copy the crowd. Most of the time, it's a smart shortcut.
-(pause) But a crowd can be faked. And you'd never see the actors.
+Have you ever picked a restaurant just because it was packed? That's social proof: when we're unsure, we copy the crowd.
+In this video: the famous line experiment, the one thing that broke its spell, and the crowds you can now buy online.
+(pause) And the simple habit that checks any crowd.
 
-**[VISUAL]** A busy food stall next to an empty one; the figure joins the queue. A phone screen: "10,000+ bought this!" Pull back: the crowd at the stall are cardboard cut-outs on wheels. Title card: **SOCIAL PROOF**.
+**[VISUAL]** A busy food stall next to an empty one; the figure joins the queue. Pull back: the crowd are cardboard cut-outs on wheels. Title card: **SOCIAL PROOF**. Three sealed cards: **THE LINES · THE SPELL-BREAKER · CROWDS FOR SALE**. A glowing card **THE HABIT** stays sealed.
 
-_Tone: knowing; mysterious last line._
+_Tone: knowing; clear promise; warm and firm on the last line._
 
 ## MAIN BODY
 
-### Beat 1: The Asch line experiment (0:40–1:15)
+### BODY 1: The Asch line experiment (0:40–1:15)
 
 **[NARRATION]**
 In the 1950s, psychologist Solomon Asch invited students to a simple "vision test": which of three lines matches the first one? Easy.
@@ -55,7 +65,7 @@ On those rounds, people went along with the wrong answer about a third of the ti
 
 _Tone: intrigued storyteller; pointed last line._
 
-### Beat 2: One honest voice (1:15–1:50)
+### BODY 2: One honest voice (1:15–1:50)
 
 **[NARRATION]**
 To be fair, most answers were still correct, and about a quarter of people never gave in at all. Later reviews of many studies found that conformity changes with time and culture.
@@ -66,7 +76,16 @@ And Asch found something hopeful. When just one other person in the room gave th
 
 _Tone: fair, then hopeful; warm last line._
 
-### Beat 3: Crowds you can buy (1:50–2:25)
+### REHOOK 1 (1:50)
+
+**[NARRATION]**
+That was a room of actors. (pause) Today, the actors are on your screen… and they're for sale.
+
+**[VISUAL]** The faces in the room turn into star ratings and profile pictures on a phone.
+
+_Tone: serious, leaning in._
+
+### BODY 3: Crowds you can buy (1:50–2:25)
 
 **[NARRATION]**
 Crowds pull us outside the lab too. In a 1969 New York study, when one person stood on a pavement staring up at a window, a few passers-by stopped. When fifteen people did, around four in ten stopped.
@@ -78,7 +97,16 @@ In investment scams, it's a chat group full of "members" posting their profits. 
 
 _Tone: knowing, serious; slow last line._
 
-### Beat 4: The crowd isn't always wrong (2:25–3:00)
+### REHOOK 2 (2:25)
+
+**[NARRATION]**
+So should you ignore every review? (pause) Not quite.
+
+**[VISUAL]** A star rating flickers between 1 and 5.
+
+_Tone: honest, balanced._
+
+### BODY 4: The crowd isn't always wrong (2:25–3:00)
 
 **[NARRATION]**
 Of course, following others is often sensible. A busy food stall is often busy for a reason, and honest reviews can save you money.
@@ -89,7 +117,9 @@ In 2022, the Bureau of Indian Standards published a standard to help platforms k
 
 _Tone: fair, balanced; firm last line._
 
-## PAYOFF / TWIST (3:00–3:30)
+## CLOSING (3:00–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 So here's your defence. When a crowd is pushing you, check whether it's real. Read the worst reviews, not just the best. Look at the dates, and whether reviews sound copied.
@@ -101,11 +131,13 @@ And remember Asch's room: you can be that one honest voice.
 
 _Tone: warm, empowering (peak); firm last line._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: the comment question, plus the next-video tease. No subscribe ask._
 
 **[NARRATION]**
 Tell me in the comments: have you ever bought something because of the reviews, and regretted it?
-And subscribe. Next: gaslighting, when someone tries to rewrite your reality.
+(pause) And next: gaslighting, when someone tries to rewrite your reality.
 
 **[VISUAL]** Comment prompt beside a five-star rating with one star cracking. End screen: next-video card **Gaslighting: When Someone Rewrites Your Reality** (an old gas lamp flickering beside a mirror).
 
@@ -117,14 +149,15 @@ _Tone: friendly; curious tease._
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Curious, tense | Quiet question at the end |
-| Setup | Knowing | Mysterious last line |
+| Hook | Firm → tense | Plain stakes line; tense on "What do you say?" |
+| Lock-in | Knowing → warm | Clear promise; firm last line |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | Beat 1 | Intrigued storyteller | Clear numbers; pointed last line |
 | Beat 2 | Fair → hopeful | Warm last line |
 | Beat 3 | Knowing, serious | Slow last line |
 | Beat 4 | Fair, balanced | Firm last line |
-| Payoff | Warm, empowering (peak) | Firm last line |
-| Outro | Friendly | Curious tease |
+| Closing | Warm, empowering (peak) | Firm last line |
+| Close + CTA | Friendly | Curious tease |
 
 ## Fact check
 
