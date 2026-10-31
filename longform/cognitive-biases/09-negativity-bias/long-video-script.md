@@ -5,11 +5,20 @@
 **Voiceover:** English, Hindi, Assamese → [long-video-voice.md](long-video-voice.md) · **Reel version:** [short-reel-script.md](short-reel-script.md)
 **Series:** follows [08 Above average](../08-above-average/long-video-script.md). Teases 10 (experiments that fell apart, finale) next.
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook was a soft question; the stakes stayed implied. | **Hook:** stakes line first ("one insult can outweigh ten compliments… not because you're too sensitive"), said firmly, then the question. |
+| 0:15–0:40 explained the bias but promised nothing specific. | **Lock-in:** magic box (the review that named it, the cockroach rule, 17 countries, an ancient alarm) + teased payoff ("one small habit"). |
+| Beats 3 and 4 started as labels. | **Rehooks** before the 17-country study (~1:50) and the evolution story (~2:25). |
+| Outro asked for a comment and a subscribe. | One **CTA** (comment question + next-video tease). |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 Ten compliments, one insult
-0:15 Why bad sticks
+0:10 Why bad sticks
 0:40 "Bad is stronger than good"
 1:15 The cockroach and the cherries
 1:50 Seventeen countries, one pattern (mostly)
@@ -20,30 +29,31 @@
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
+One insult can outweigh ten compliments in your head. And it's not because you're too sensitive.
 Ten people praise your post. One person leaves a nasty comment.
 (pause) Which one are you still thinking about tonight?
 
-**[VISUAL]** A phone screen: ten warm comments with heart reactions scroll by in soft colours. One sharp red comment appears; the camera zooms in on it until it fills the screen. Cut to night: the figure lies awake, the red comment glowing above them.
+**[VISUAL]** Frame 1 is already moving: a phone screen: ten warm comments with heart reactions scroll by in soft colours. One sharp red comment appears; the camera zooms in until it fills the screen. Cut to night: the figure lies awake, the red comment glowing above them.
 
-_Tone: soft, intimate; a quiet sting on the question._
+_Tone: firm on line one (not whispered); soft and intimate on the question._
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
-Have you ever noticed how one criticism can wipe out a whole day of compliments? Or how bad news grabs you faster than good news?
-You're not being dramatic. Psychologists call it negativity bias: bad things weigh more in the mind than good things of the same size.
-(pause) And there may be a very old reason for it.
+Have you ever noticed how one criticism can wipe out a whole day of compliments? Psychologists call it negativity bias.
+In this video: the review that named it, the cockroach rule, a test across seventeen countries, and the ancient alarm behind it all.
+(pause) And one small habit that gives the good a fighting chance.
 
-**[VISUAL]** A balance scale: a stack of ten small golden hearts on one side, one dark stone on the other; the stone side slams down. Title card: **NEGATIVITY BIAS**. A faint cave-painting texture flickers at the edge.
+**[VISUAL]** A balance scale: ten small golden hearts on one side, one dark stone on the other; the stone side slams down. Title card: **NEGATIVITY BIAS**. Three sealed cards: **THE REVIEW · THE COCKROACH · 17 COUNTRIES**. A glowing card **THE HABIT** stays sealed.
 
-_Tone: curious, reassuring on "You're not being dramatic"; mysterious last line._
+_Tone: reassuring, intrigued; playful on "the cockroach rule"; warm on the last line._
 
 ## MAIN BODY
 
-### Beat 1: "Bad is stronger than good" (0:40–1:15)
+### BODY 1: "Bad is stronger than good" (0:40–1:15)
 
 **[NARRATION]**
 In 2001, psychologist Roy Baumeister and his colleagues reviewed a huge range of research: on relationships, feedback, memory, health and more.
@@ -55,7 +65,7 @@ Bad feedback tends to hit harder than good feedback. Bad moments are remembered 
 
 _Tone: thoughtful, authoritative; measured last line._
 
-### Beat 2: The cockroach and the cherries (1:15–1:50)
+### BODY 2: The cockroach and the cherries (1:15–1:50)
 
 **[NARRATION]**
 Psychologist Paul Rozin put it in one unforgettable image.
@@ -66,7 +76,16 @@ A single cockroach in a bowl of cherries ruins the whole bowl. But a single cher
 
 _Tone: intrigued, slightly playful; crisp last line._
 
-### Beat 3: Seventeen countries, one pattern (mostly) (1:50–2:25)
+### REHOOK 1 (1:50)
+
+**[NARRATION]**
+But is everyone wired this way? (pause) Researchers checked, in seventeen countries.
+
+**[VISUAL]** A globe spins; seventeen pins drop.
+
+_Tone: curious, leaning in._
+
+### BODY 3: Seventeen countries, one pattern (mostly) (1:50–2:25)
 
 **[NARRATION]**
 And this isn't just one culture. In 2019, researchers measured the bodies of over a thousand people across seventeen countries, on six continents, as they watched news stories.
@@ -78,7 +97,16 @@ But here's the hopeful part: people varied a lot, and some reacted more to posit
 
 _Tone: thoughtful; hopeful lift; firm last line._
 
-### Beat 4: A very old alarm system (2:25–3:00)
+### REHOOK 2 (2:25)
+
+**[NARRATION]**
+So why would we have a brain that dwells on the bad? (pause) The answer is very old.
+
+**[VISUAL]** A cave-painting texture spreads across the screen; a shadow moves in the grass.
+
+_Tone: mysterious._
+
+### BODY 4: A very old alarm system (2:25–3:00)
 
 **[NARRATION]**
 So why would a brain be built this way? One leading explanation is survival.
@@ -90,7 +118,9 @@ Think of a smoke alarm: better a hundred false alarms than one missed fire.
 
 _Tone: mysterious storyteller → modern, a little wry._
 
-## PAYOFF / TWIST (3:00–3:30)
+## CLOSING (3:00–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 So how do you live with it? First, notice it: when one comment ruins your day, say, "That's negativity bias." Naming it shrinks it.
@@ -102,11 +132,13 @@ Third, ask: "Is this one thing the whole story?" Usually, it isn't. And choose y
 
 _Tone: warm, encouraging (peak); gentle last line._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: the comment question, plus the next-video tease. No subscribe ask._
 
 **[NARRATION]**
 Tell me in the comments: what's one compliment you still remember years later? Let's fill this comment section with good ones.
-And subscribe. Next, the finale: five famous psychology experiments that fell apart, and the ones that still stand.
+(pause) And next, the finale: five famous psychology experiments that fell apart, and the ones that still stand.
 
 **[VISUAL]** The comment section on screen fills with golden hearts. End screen: next-video card **5 Famous Psychology Experiments That Fell Apart** (a cracked lab flask and a "REPLICATED?" stamp).
 
@@ -118,14 +150,15 @@ _Tone: friendly, warm; intriguing tease for the finale._
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Soft, intimate | Quiet sting on the question |
-| Setup | Curious → reassuring | Kind on "You're not being dramatic"; mysterious last line |
+| Hook | Firm → intimate | Plain stakes line; soft on the question |
+| Lock-in | Reassuring → warm | Playful on the cockroach; warm last line |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | Beat 1 | Thoughtful, authoritative | Measured "Not always. But again and again." |
 | Beat 2 | Intrigued, slightly playful | Crisp last line |
 | Beat 3 | Thoughtful → hopeful | Firm "But it doesn't own us." |
 | Beat 4 | Mysterious → wry | Storyteller, then modern |
-| Payoff | Warm, encouraging (peak) | Gentle last line |
-| Outro | Friendly, warm | Intriguing finale tease |
+| Closing | Warm, encouraging (peak) | Gentle last line |
+| Close + CTA | Friendly, warm | Intriguing finale tease |
 
 ## Fact check
 

@@ -8,6 +8,8 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 3. If the voice drifts, speeds up or cuts off near the end, generate **one section per run** with the same voice and style, then join the clips (add ~0.5s silence between sections).
 4. Name files like `cb09-negativity_EN_s1-hook.wav`.
 
+**Changed (storytelling guide):** a firm stakes line opens the hook (then soft); the setup is replaced by a lock-in (the review, the cockroach, 17 countries, the alarm, one habit); two new rehook lines; one CTA, no subscribe ask. Generate 10 sections now (2 rehooks added).
+
 ⚠ Hindi and Assamese are machine-quality translations. Get a native speaker to read them before recording. Test the Assamese hook first.
 
 ---
@@ -15,17 +17,18 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 
 **Style instructions**
 ```
-You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute psychology video called "Why one insult outweighs ten compliments", about negativity bias. Speak directly to one listener ("you"), like a sharp, trusted guide who is also kind. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses between short lines. Open soft and intimate, with a quiet sting. Be reassuring on "you're not being dramatic", thoughtful and authoritative on the research, slightly playful on the cockroach image, hopeful on individual differences, a mysterious storyteller on our ancestors, then warm and encouraging on the advice. End friendly and warm. Never preachy.
+You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute psychology video called "Why one insult outweighs ten compliments", about negativity bias. Speak directly to one listener ("you"), like a sharp, trusted guide who is also kind. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses between short lines. Open soft and intimate, with a quiet sting. Be reassuring on "you're not being dramatic", thoughtful and authoritative on the research, slightly playful on the cockroach image, hopeful on individual differences, a mysterious storyteller on our ancestors, then warm and encouraging on the advice. End friendly and warm. Never preachy. Open firm and clear on the first line (never whispered), then soften. Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] One insult can outweigh ten compliments in your head. And it's not because you're too sensitive.
 [softly] Ten people praise your post. One person leaves a nasty comment.
 [short pause] Which one are you still thinking about tonight?
 
-[curious] Have you ever noticed how one criticism can wipe out a whole day of compliments? Or how bad news grabs you faster than good news?
-[reassuring] You're not being dramatic. Psychologists call it negativity bias: bad things weigh more in the mind than good things of the same size.
-[short pause] And there may be a very old reason for it.
+[reassuring] Have you ever noticed how one criticism can wipe out a whole day of compliments? Psychologists call it negativity bias.
+[intrigued] In this video: the review that named it, the cockroach rule, a test across seventeen countries, and the ancient alarm behind it all.
+[short pause] [warmly] And one small habit that gives the good a fighting chance.
 
 [thoughtful] In 2001, psychologist Roy Baumeister and his colleagues reviewed a huge range of research: on relationships, feedback, memory, health and more.
 Their conclusion was right there in the title: "Bad is stronger than good."
@@ -36,10 +39,14 @@ Bad feedback tends to hit harder than good feedback. Bad moments are remembered 
 A single cockroach in a bowl of cherries ruins the whole bowl. But a single cherry in a bowl of cockroaches does nothing to make it appetising. It's why one rude remark can colour how we see a whole person.
 [short pause] A little bad contaminates a lot of good. The reverse rarely works.
 
+[curious] But is everyone wired this way? [short pause] Researchers checked, in seventeen countries.
+
 [thoughtful] And this isn't just one culture. In 2019, researchers measured the bodies of over a thousand people across seventeen countries, on six continents, as they watched news stories.
 On average, negative stories triggered stronger physical reactions, like changes in skin sweat and pulse.
 But here's the hopeful part: people varied a lot, and some reacted more to positive news.
 [short pause] Negativity grabs us. But it doesn't own us.
+
+[mysterious] So why would we have a brain that dwells on the bad? [short pause] The answer is very old.
 
 [mysterious] So why would a brain be built this way? One leading explanation is survival.
 For our ancestors, missing a meal was bad. Missing a snake could be the end. A mind that paid extra attention to threats was more likely to survive.
@@ -52,7 +59,7 @@ Third, ask: "Is this one thing the whole story?" Usually, it isn't. And choose y
 [long pause] Bad is stronger than good. So give good a little help.
 
 [friendly] Tell me in the comments: what's one compliment you still remember years later? Let's fill this comment section with good ones.
-And subscribe. Next, the finale: five famous psychology experiments that fell apart, and the ones that still stand.
+[short pause] And next, the finale: five famous psychology experiments that fell apart, and the ones that still stand.
 ```
 
 ---
@@ -60,17 +67,18 @@ And subscribe. Next, the finale: five famous psychology experiments that fell ap
 
 **Style instructions**
 ```
-You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute psychology video about negativity bias: why one insult outweighs ten compliments. Speak natural, conversational Hindi (common English words like "post", "comment", "feedback", "review", "notification", "news" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a sharp, trusted guide who is also kind. Unhurried, with deliberate pauses. Open soft and intimate, reassuring, thoughtful and authoritative on the research, slightly playful on the cockroach image, hopeful on individual differences, mysterious on our ancestors, warm and encouraging on the advice. End friendly and warm.
+You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute psychology video about negativity bias: why one insult outweighs ten compliments. Speak natural, conversational Hindi (common English words like "post", "comment", "feedback", "review", "notification", "news" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a sharp, trusted guide who is also kind. Unhurried, with deliberate pauses. Open soft and intimate, reassuring, thoughtful and authoritative on the research, slightly playful on the cockroach image, hopeful on individual differences, mysterious on our ancestors, warm and encouraging on the advice. End friendly and warm. Open firm and clear on the first line (never whispered), then soften. Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] दिमाग़ में एक ताना, दस तारीफ़ों पर भारी पड़ सकता है। और इसकी वजह ये नहीं कि आप ज़्यादा सेंसिटिव हैं।
 [softly] दस लोग आपकी पोस्ट की तारीफ़ करते हैं। एक इंसान एक बुरा कमेंट छोड़ जाता है।
 [short pause] आज रात आप किसके बारे में सोच रहे होंगे?
 
-[curious] क्या आपने कभी ग़ौर किया है, कि एक आलोचना, पूरे दिन की तारीफ़ों को मिटा सकती है? या बुरी ख़बर, अच्छी ख़बर से जल्दी पकड़ लेती है?
-[reassuring] आप ड्रामा नहीं कर रहे। मनोवैज्ञानिक इसे "नेगेटिविटी बायस" कहते हैं: बुरी चीज़ें, उतनी ही बड़ी अच्छी चीज़ों से, दिमाग़ में ज़्यादा भारी होती हैं।
-[short pause] और इसकी एक बहुत पुरानी वजह हो सकती है।
+[reassuring] क्या आपने ग़ौर किया है, कि एक आलोचना पूरे दिन की तारीफ़ों पर पानी फेर देती है? मनोवैज्ञानिक इसे नेगेटिविटी बायस कहते हैं।
+[intrigued] इस वीडियो में: वो समीक्षा, जिसने इसे नाम दिया, कॉकरोच वाला नियम, सत्रह देशों में एक टेस्ट, और इन सबके पीछे का एक पुराना अलार्म।
+[short pause] [warmly] और एक छोटी-सी आदत, जो अच्छी बातों को लड़ने का मौक़ा देती है।
 
 [thoughtful] दो हज़ार एक में, मनोवैज्ञानिक रॉय बाउमाइस्टर और उनके साथियों ने, रिश्तों, फ़ीडबैक, याददाश्त, सेहत और कई चीज़ों पर, ढेर सारी रिसर्च की समीक्षा की।
 उनका निष्कर्ष, टाइटल में ही था: "बुरा, अच्छे से ज़्यादा ताक़तवर है।"
@@ -81,10 +89,14 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 चेरी से भरे कटोरे में एक कॉकरोच, पूरा कटोरा बर्बाद कर देता है। पर कॉकरोचों से भरे कटोरे में एक चेरी, उसे ज़रा भी खाने लायक़ नहीं बनाती। इसीलिए एक बदतमीज़ बात, पूरे इंसान को देखने का नज़रिया बदल सकती है।
 [short pause] थोड़ा-सा बुरा, बहुत सारे अच्छे को दूषित कर देता है। उल्टा कम ही होता है।
 
+[curious] पर क्या हर कोई ऐसा ही बना है? [short pause] रिसर्चर्स ने सत्रह देशों में जाँचा।
+
 [thoughtful] और ये सिर्फ़ किसी एक संस्कृति की बात नहीं। दो हज़ार उन्नीस में, रिसर्चर्स ने छह महाद्वीपों के सत्रह देशों में, एक हज़ार से ज़्यादा लोगों के शरीर की प्रतिक्रियाएँ मापीं, जब वो न्यूज़ स्टोरीज़ देख रहे थे।
 औसतन, नेगेटिव ख़बरों पर शरीर ने ज़्यादा तेज़ प्रतिक्रिया दी, जैसे त्वचा के पसीने और नब्ज़ में बदलाव।
 पर उम्मीद वाली बात ये है: लोगों में बहुत फ़र्क़ था, और कुछ लोगों ने पॉज़िटिव ख़बरों पर ज़्यादा प्रतिक्रिया दी।
 [short pause] नकारात्मकता हमें पकड़ती है। पर हमें अपना ग़ुलाम नहीं बनाती।
+
+[mysterious] तो हमारा दिमाग़ बुरी बातों पर ही क्यों अटकता है? [short pause] जवाब बहुत पुराना है।
 
 [mysterious] तो दिमाग़ ऐसा बना ही क्यों? एक प्रमुख व्याख्या है, ज़िंदा रहना।
 हमारे पूर्वजों के लिए, एक वक़्त का खाना छूटना बुरा था। पर एक साँप को नज़रअंदाज़ करना, अंत हो सकता था। जो दिमाग़ ख़तरों पर ज़्यादा ध्यान देता था, उसके बचने की संभावना ज़्यादा थी।
@@ -97,7 +109,7 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 [long pause] बुरा, अच्छे से ज़्यादा ताक़तवर है। तो अच्छे की थोड़ी मदद कीजिए।
 
 [friendly] कमेंट में बताइए: कौन-सी एक तारीफ़, आपको सालों बाद भी याद है? चलिए, इस कमेंट सेक्शन को अच्छी बातों से भर दें।
-और सब्सक्राइब कीजिए। अगले वीडियो में, फ़िनाले: साइकोलॉजी के पाँच मशहूर प्रयोग, जो बिखर गए, और वो, जो आज भी टिके हैं।
+[short pause] और अगले वीडियो में, फ़िनाले: साइकोलॉजी के पाँच मशहूर प्रयोग, जो बिखर गए, और वो, जो आज भी टिके हैं।
 ```
 
 ---
@@ -105,17 +117,18 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 
 **Style instructions**
 ```
-You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute psychology video about negativity bias: why one insult outweighs ten compliments. Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a sharp, trusted guide who is also kind. Unhurried, with deliberate pauses. Open soft and intimate, reassuring, thoughtful and authoritative on the research, slightly playful on the cockroach image, hopeful on individual differences, mysterious on our ancestors, warm and encouraging on the advice. End friendly and warm.
+You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute psychology video about negativity bias: why one insult outweighs ten compliments. Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a sharp, trusted guide who is also kind. Unhurried, with deliberate pauses. Open soft and intimate, reassuring, thoughtful and authoritative on the research, slightly playful on the cockroach image, hopeful on individual differences, mysterious on our ancestors, warm and encouraging on the advice. End friendly and warm. Open firm and clear on the first line (never whispered), then soften. Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] মনৰ ভিতৰত এটা অপমানে দহটা প্ৰশংসাক ছাপৰ পেলাব পাৰে। আৰু ইয়াৰ কাৰণ এইটো নহয় যে আপুনি বেছি স্পৰ্শকাতৰ।
 [softly] দহজন মানুহে আপোনাৰ পোষ্টৰ প্ৰশংসা কৰে। এজনে এটা বেয়া কমেণ্ট এৰি যায়।
 [short pause] আজি ৰাতি আপুনি কাৰ কথা ভাবি থাকিব?
 
-[curious] কেতিয়াবা মন কৰিছেনে, এটা সমালোচনাই গোটেই দিনৰ প্ৰশংসা মচি পেলাব পাৰে? বা বেয়া খবৰে ভাল খবৰতকৈ সোনকালে মন টানে?
-[reassuring] আপুনি নাটক কৰা নাই। মনোবিজ্ঞানীসকলে ইয়াক "নেগেটিভিটি বায়াছ" বোলে: সমান ডাঙৰ ভাল কথাতকৈ বেয়া কথা মনত বেছি গধুৰ হয়।
-[short pause] আৰু ইয়াৰ এটা বহুত পুৰণি কাৰণ থাকিব পাৰে।
+[reassuring] কেতিয়াবা মন কৰিছেনে, এটা সমালোচনাই গোটেই দিনৰ প্ৰশংসা মচি পেলায়? মনোবিজ্ঞানীসকলে ইয়াক নেগেটিভিটি বায়াছ বোলে।
+[intrigued] এই ভিডিঅ'ত: সেই পৰ্যালোচনা, যিয়ে ইয়াক নাম দিলে, আৰছোলাৰ নিয়ম, সোতৰখন দেশত এটা পৰীক্ষা, আৰু এই সকলোৰে পিছৰ এটা পুৰণি এলাৰ্ম।
+[short pause] [warmly] আৰু এটা সৰু অভ্যাস, যিয়ে ভাল কথাবোৰক যুঁজিবলৈ সুযোগ দিয়ে।
 
 [thoughtful] দুহাজাৰ এক চনত, মনোবিজ্ঞানী ৰয় বাউমাইষ্টাৰ আৰু তেওঁৰ সহযোগীসকলে সম্পৰ্ক, মতামত, স্মৃতি, স্বাস্থ্য আৰু আন বহুতো বিষয়ৰ গৱেষণা পৰ্যালোচনা কৰিলে।
 তেওঁলোকৰ সিদ্ধান্ত শিৰোনামতেই আছিল: "বেয়া, ভালতকৈ শক্তিশালী।"
@@ -126,10 +139,14 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 চেৰীৰে ভৰা বাটিত এটা আৰছোলাই গোটেই বাটিটো নষ্ট কৰি দিয়ে। কিন্তু আৰছোলাৰে ভৰা বাটিত এটা চেৰীয়ে, তাক অকণো খাব পৰা নকৰে। সেইবাবেই এটা অভদ্ৰ কথাই গোটেই মানুহজনক চোৱাৰ দৃষ্টিভংগী সলনি কৰিব পাৰে।
 [short pause] অলপ বেয়াই বহুত ভালক দূষিত কৰে। ওলোটাটো কমেই হয়।
 
+[curious] কিন্তু সকলোৱেই এনেকৈ গঢ় লোৱা নেকি? [short pause] গৱেষকসকলে সোতৰখন দেশত পৰীক্ষা কৰিলে।
+
 [thoughtful] আৰু এইটো কেৱল কোনো এটা সংস্কৃতিৰ কথা নহয়। দুহাজাৰ ঊনৈছ চনত, গৱেষকসকলে ছটা মহাদেশৰ সোঁতৰখন দেশত, এহাজাৰতকৈ বেছি মানুহৰ শৰীৰৰ প্ৰতিক্ৰিয়া জুখিলে, যেতিয়া তেওঁলোকে বাতৰিৰ কাহিনী চাই আছিল।
 গড়ে, নেতিবাচক বাতৰিয়ে বেছি শক্তিশালী শাৰীৰিক প্ৰতিক্ৰিয়া জগাইছিল, যেনে ছালৰ ঘাম আৰু নাড়ীৰ পৰিৱৰ্তন।
 কিন্তু আশাৰ কথাটো হ'ল: মানুহৰ মাজত বহুত পাৰ্থক্য আছিল, আৰু কিছুমানে ইতিবাচক বাতৰিত বেছি প্ৰতিক্ৰিয়া দেখুৱাইছিল।
 [short pause] নেতিবাচকতাই আমাক টানে। কিন্তু আমাক নিজৰ দাস নকৰে।
+
+[mysterious] তেন্তে আমাৰ মগজু বেয়া কথাতে কিয় আটকি থাকে? [short pause] উত্তৰটো বহুত পুৰণি।
 
 [mysterious] তেন্তে মগজু এনেকৈ কিয় গঢ় লৈছে? এটা প্ৰধান ব্যাখ্যা হৈছে, জীয়াই থকা।
 আমাৰ পূৰ্বপুৰুষসকলৰ বাবে, এসাজ খোৱা হেৰুওৱাটো বেয়া আছিল। কিন্তু এটা সাপ নেদেখাটো, শেষ হ'ব পাৰিলেহেঁতেন। যি মগজুৱে বিপদৰ প্ৰতি বেছি মনোযোগ দিছিল, তাৰ জীয়াই থকাৰ সম্ভাৱনা বেছি আছিল।
@@ -142,5 +159,5 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 [long pause] বেয়া, ভালতকৈ শক্তিশালী। গতিকে ভালক অলপ সহায় কৰক।
 
 [friendly] কমেণ্টত কওক: কোনটো প্ৰশংসা আপোনাৰ বছৰ বছৰ পিছতো মনত আছে? আহক, এই কমেণ্ট চেকচনটো ভাল কথাৰে ভৰাই দিওঁ।
-আৰু চাবস্ক্ৰাইব কৰক। পিছৰ ভিডিঅ'ত, অন্তিম পৰ্ব: মনোবিজ্ঞানৰ পাঁচটা বিখ্যাত পৰীক্ষা, যিবোৰ ভাঙি পৰিল, আৰু যিবোৰ আজিও টিকি আছে।
+[short pause] আৰু পিছৰ ভিডিঅ'ত, অন্তিম পৰ্ব: মনোবিজ্ঞানৰ পাঁচটা বিখ্যাত পৰীক্ষা, যিবোৰ ভাঙি পৰিল, আৰু যিবোৰ আজিও টিকি আছে।
 ```
