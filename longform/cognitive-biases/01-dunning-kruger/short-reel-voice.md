@@ -3,6 +3,8 @@ Reel version of [long-video-voice.md](long-video-voice.md) | Voice: **Charon** (
 One line = one scene from [short-reel-script.md](short-reel-script.md). Generate each language in one run. Without the [tags], the Text blocks double as subtitles.
 AI Studio steps and fixes: [../../../voice/google-ai-studio-tts.md](../../../voice/google-ai-studio-tts.md)
 
+**Changed (storytelling guide):** a lock-in line (you've probably shared it), two rehooks, the lesson as the closing, and a CTA to the full video before the question.
+
 ⚠ Hindi and Assamese need native review. Test Assamese line 1 first.
 
 ---
@@ -15,13 +17,15 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 60-seco
 
 **Text**
 ```
-[intrigued] The famous Dunning-Kruger graph isn't in the study.
-[curious] In 1999, people who scored around the 12th percentile on a logic test guessed they were around the 62nd.
-[thoughtful] The idea: the skills you need to do well are the skills you need to spot your mistakes.
-[intrigued] But the top scorers underestimated themselves. And "Mount Stupid"? An internet drawing.
-[serious] Statisticians later showed noise alone can create a similar pattern. The real effect is probably smaller than the meme.
+[firmly] The famous Dunning-Kruger graph isn't in the study.
+[knowingly] And you've probably shared it.
+[calm] In 1999, people who scored around the 12th percentile on a logic test guessed they were around the 62nd. The skills you need to do well are the skills you need to spot your mistakes.
+[intrigued] But here's what nobody shares.
+[intrigued] The top scorers underestimated themselves. [dryly] And "Mount Stupid"? An internet drawing.
+[serious] Then statisticians checked.
+[thoughtful] Noise alone can create a similar pattern. The real effect is probably smaller than the meme.
 [warmly] The lesson that survives: everyone misjudges their own skill. Certainty is a feeling, not evidence.
-[friendly] Where have you seen this meme used wrong? Tell me below.
+[friendly] Full video's linked below. Where have you seen this meme used wrong?
 ```
 
 ---
@@ -34,13 +38,15 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 60-seco
 
 **Text**
 ```
-[intrigued] डनिंग-क्रूगर का मशहूर ग्राफ़, उस स्टडी में है ही नहीं।
-[curious] उन्नीस सौ निन्यानवे में, लॉजिक टेस्ट में बारहवें पर्सेंटाइल के आसपास स्कोर करने वालों ने अंदाज़ा लगाया, कि वो बासठवें के आसपास हैं।
-[thoughtful] आइडिया ये था: अच्छा करने के लिए जो हुनर चाहिए, वही अपनी ग़लतियाँ पकड़ने के लिए भी चाहिए।
-[intrigued] पर टॉप स्कोर करने वालों ने ख़ुद को कम आँका। और "माउंट स्टूपिड"? इंटरनेट की एक ड्रॉइंग।
-[serious] बाद में स्टैटिस्टिशियन्स ने दिखाया, कि सिर्फ़ शोर से भी ऐसा पैटर्न बन सकता है। असली इफ़ेक्ट शायद मीम से छोटा है।
-[warmly] जो सबक़ बचता है: हर कोई अपने हुनर को ग़लत आँकता है। पक्का यक़ीन एक फ़ीलिंग है, सबूत नहीं।
-[friendly] आपने ये मीम कहाँ ग़लत इस्तेमाल होते देखा है? नीचे बताइए।
+[firmly] डनिंग-क्रूगर का मशहूर ग्राफ़, स्टडी में है ही नहीं।
+[knowingly] और शायद आपने उसे शेयर किया है।
+[calm] उन्नीस सौ निन्यानवे में, लॉजिक टेस्ट में लगभग बारहवें पर्सेंटाइल वाले लोगों ने अंदाज़ा लगाया कि वो लगभग बासठवें पर हैं। अच्छा करने के लिए जो हुनर चाहिए, वही हुनर अपनी ग़लतियाँ पकड़ने के लिए भी चाहिए।
+[intrigued] पर वो बात, जो कोई शेयर नहीं करता।
+[intrigued] टॉप स्कोर करने वालों ने ख़ुद को कम आँका। [dryly] और "माउंट स्टुपिड"? इंटरनेट की एक ड्रॉइंग।
+[serious] फिर सांख्यिकीविदों ने जाँचा।
+[thoughtful] सिर्फ़ शोर भी, ऐसा ही पैटर्न बना सकता है। असली असर शायद मीम से छोटा है।
+[warmly] जो सीख बचती है: हर कोई अपने हुनर का ग़लत अंदाज़ा लगाता है। यक़ीन एक एहसास है, सबूत नहीं।
+[friendly] पूरी वीडियो का लिंक नीचे है। आपने ये मीम ग़लत तरीक़े से कहाँ इस्तेमाल होते देखा है?
 ```
 
 ---
@@ -53,11 +59,13 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 60-seco
 
 **Text**
 ```
-[intrigued] ডানিং-ক্ৰুগাৰৰ বিখ্যাত গ্ৰাফখন সেই অধ্যয়নটোত নাইয়েই।
-[curious] ঊনৈছ শ নিৰানব্বৈ চনত, যুক্তিৰ পৰীক্ষাত বাৰ পাৰ্চেণ্টাইলৰ আশে-পাশে নম্বৰ পোৱাসকলে অনুমান কৰিছিল, তেওঁলোক বাষষ্ঠিৰ আশে-পাশে।
-[thoughtful] ধাৰণাটো আছিল: ভাল কৰিবলৈ যি দক্ষতা লাগে, নিজৰ ভুল ধৰিবলৈকো সেই একেটা দক্ষতাই লাগে।
-[intrigued] কিন্তু শীৰ্ষ নম্বৰ পোৱাসকলে নিজকে কম বুলি ভাবিছিল। আৰু "মাউণ্ট ষ্টুপিড"? ইণ্টাৰনেটৰ এখন ছবি।
-[serious] পিছত পৰিসংখ্যাবিদসকলে দেখুৱালে, কেৱল কোলাহলৰ পৰাও এনে আৰ্হি ওলাব পাৰে। আচল প্ৰভাৱটো হয়তো মীমটোতকৈ সৰু।
-[warmly] যি শিক্ষাটো থাকি যায়: সকলোৱে নিজৰ দক্ষতা ভুলকৈ জোখে। নিশ্চিত অনুভৱ এটা অনুভৱহে, প্ৰমাণ নহয়।
-[friendly] এই মীমটো আপুনি ক'ত ভুলকৈ ব্যৱহাৰ হোৱা দেখিছে? তলত লিখক।
+[firmly] ডানিং-ক্ৰুগাৰৰ বিখ্যাত গ্ৰাফটো অধ্যয়নটোত নাইয়েই।
+[knowingly] আৰু হয়তো আপুনি সেইটো শ্বেয়াৰ কৰিছে।
+[calm] ঊনৈছ শ নিৰানব্বৈত, লজিক পৰীক্ষাত প্ৰায় বাৰ নম্বৰ পাৰ্চেণ্টাইলৰ মানুহে অনুমান কৰিছিল যে তেওঁলোক প্ৰায় বাষষ্ঠি নম্বৰত। ভাল কৰিবলৈ যি দক্ষতা লাগে, নিজৰ ভুল ধৰিবলৈও সেই একেই দক্ষতা লাগে।
+[intrigued] কিন্তু এতিয়া সেই কথাটো, যিটো কোনেও শ্বেয়াৰ নকৰে।
+[intrigued] শীৰ্ষ নম্বৰ পোৱাসকলে নিজকে কম বুলি ভাবিছিল। [dryly] আৰু "মাউণ্ট ষ্টুপিড"? ইণ্টাৰনেটৰ এখন ছবি।
+[serious] তাৰ পিছত পৰিসংখ্যাবিদসকলে পৰীক্ষা কৰিলে।
+[thoughtful] কেৱল অনিয়মিত হেৰফেৰেও এনে আৰ্হি সৃষ্টি কৰিব পাৰে। আচল প্ৰভাৱ হয়তো মিমটোতকৈ সৰু।
+[warmly] যি শিক্ষা টিকি থাকে: সকলোৱে নিজৰ দক্ষতাৰ ভুল অনুমান কৰে। নিশ্চয়তা এটা অনুভৱ, প্ৰমাণ নহয়।
+[friendly] সম্পূৰ্ণ ভিডিঅ'ৰ লিংক তলত আছে। এই মিমটো ভুলকৈ ব্যৱহাৰ হোৱা আপুনি ক'ত দেখিছে?
 ```

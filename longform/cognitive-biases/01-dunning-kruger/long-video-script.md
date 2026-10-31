@@ -5,11 +5,20 @@
 **Voiceover:** English, Hindi, Assamese → [long-video-voice.md](long-video-voice.md) · **Reel version:** [short-reel-script.md](short-reel-script.md)
 **Series:** opens the Cognitive Biases series. Teases 02 (₹499 vs ₹500) next.
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook was strong, but the viewer's stakes stayed implicit. | **Hook:** stakes line first ("you've probably shared a 'fact'… the study never said"), then the graph. |
+| 0:15–0:40 asked questions but promised nothing specific. | **Lock-in:** magic box (what 1999 found, the forgotten finding about top scorers, the statisticians) + teased payoff ("the one lesson that survives"). |
+| Beats 3 and 4 started as labels. | **Rehooks** before the forgotten finding (~1:50) and the statisticians (~2:25). |
+| Outro asked for a comment and a subscribe. | One **CTA** (comment question + next-video tease). |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 The graph everyone shares
-0:15 The loudest person in the room
+0:10 The loudest person in the room
 0:40 The 1999 study
 1:15 The double burden
 1:50 "Mount Stupid" and the forgotten finding
@@ -20,29 +29,31 @@
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
+You've probably shared a "fact" about overconfidence that the original study never said.
 You've seen this graph. A little knowledge, a huge peak of confidence they call "Mount Stupid", then a valley of despair.
 (pause) Here's the twist: that graph isn't in the famous study. And the real story is stranger.
 
-**[VISUAL]** A hand-drawn curve draws itself on a chalkboard: a sharp peak labelled MOUNT STUPID, a dip labelled VALLEY OF DESPAIR, a slow climb. Meme-style shares and likes pile up around it. A red stamp hits the peak: **NOT IN THE STUDY**.
+**[VISUAL]** Frame 1 is already moving: a hand-drawn curve draws itself on a chalkboard: a sharp peak labelled MOUNT STUPID, a dip labelled VALLEY OF DESPAIR, a slow climb. Meme-style shares and likes pile up around it. A red stamp hits the peak: **NOT IN THE STUDY**.
 
-_Tone: knowing, intriguing; a mysterious drop on "stranger."_
+_Tone: firm on line one; knowing and intriguing on the twist._
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
-Have you ever noticed that the loudest person in the room is often the one who knows least? The Dunning-Kruger effect is supposed to explain that. It's one of the most shared ideas in psychology.
-But what did the study actually find? And is the effect even real? (pause) Let's look.
+Have you ever noticed that the loudest person in the room is often the one who knows least? The Dunning-Kruger effect is supposed to explain that.
+In this video: what the 1999 study really found, a finding about the top scorers that almost nobody mentions, and the statisticians who asked if the effect is even real.
+(pause) And the one lesson that survives all of it.
 
-**[VISUAL]** A meeting room in silhouette: one figure talks loudly with huge speech bubbles; quieter figures hold notes. Zoom out to a phone feed full of "Dunning-Kruger!" comments. A magnifying glass moves onto a 1999 journal page.
+**[VISUAL]** A meeting room in silhouette: one figure talks loudly with huge speech bubbles; quieter figures hold notes. A magnifying glass moves onto a 1999 journal page. Three sealed cards: **1999 · THE FORGOTTEN FINDING · IS IT REAL?** A glowing card **THE LESSON** stays sealed.
 
-_Tone: curious, slightly mysterious._
+_Tone: knowing; clear promise; firm on the last line._
 
 ## MAIN BODY
 
-### Beat 1: The 1999 study (0:40–1:15)
+### BODY 1: The 1999 study (0:40–1:15)
 
 **[NARRATION]**
 In 1999, psychologists Justin Kruger and David Dunning at Cornell University tested people on logic, grammar and humour. Then they asked: how well do you think you did, compared to everyone else?
@@ -53,7 +64,7 @@ People who scored in the bottom quarter on the logic test were, on average, arou
 
 _Tone: clear, documentary; a beat of quiet irony on the last line._
 
-### Beat 2: The double burden (1:15–1:50)
+### BODY 2: The double burden (1:15–1:50)
 
 **[NARRATION]**
 Dunning and Kruger's explanation was elegant. The skills you need to do something well are often the same skills you need to notice you're doing it badly.
@@ -64,7 +75,16 @@ If you don't know grammar, you can't spot your own grammar mistakes. It's like s
 
 _Tone: thoughtful; a mysterious turn on the last line._
 
-### Beat 3: "Mount Stupid" and the forgotten finding (1:50–2:25)
+### REHOOK 1 (1:50)
+
+**[NARRATION]**
+But that's only half the graph. (pause) The other half is the part nobody shares.
+
+**[VISUAL]** The graph's right side, faded until now, lights up.
+
+_Tone: a lift; revealing._
+
+### BODY 3: "Mount Stupid" and the forgotten finding (1:50–2:25)
 
 **[NARRATION]**
 First, that famous graph. A hump of confidence, a valley, a slow climb. It's an internet drawing. Nothing like it appears in the 1999 paper.
@@ -75,7 +95,16 @@ Second, the study found something people forget: the top performers underestimat
 
 _Tone: intrigued, revealing._
 
-### Beat 4: The statisticians step in (2:25–3:00)
+### REHOOK 2 (2:25)
+
+**[NARRATION]**
+And then statisticians asked a harder question. (pause) Is the effect even real?
+
+**[VISUAL]** A scatter of random dots slides over the graph.
+
+_Tone: serious, leaning in._
+
+### BODY 4: The statisticians step in (2:25–3:00)
 
 **[NARRATION]**
 And then statisticians stepped in. Some showed that when you plot even random numbers this way, you can get a similar pattern, because of noise and "regression to the mean".
@@ -86,7 +115,9 @@ A 2020 study of over 900 people found little sign of the classic effect when it 
 
 _Tone: serious, fair; balanced on the last line._
 
-## PAYOFF / TWIST (3:00–3:30)
+## CLOSING (3:00–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 Here's the lesson that survives all the debate. Everyone, not just "other people", is bad at judging their own skill.
@@ -97,11 +128,13 @@ The fix isn't to call others stupid. It's to check yourself: ask for feedback, t
 
 _Tone: warm, authoritative (peak); slow, weighty last line._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: the comment question, plus the next-video tease. No subscribe ask._
 
 **[NARRATION]**
 Tell me in the comments: where have you seen the Dunning-Kruger meme used wrongly?
-And subscribe. Next: why ₹499 feels so much cheaper than ₹500, even though you know it isn't.
+(pause) And next: why ₹499 feels so much cheaper than ₹500, even though you know it isn't.
 
 **[VISUAL]** Comment prompt over the peeled-off meme. End screen: next-video card **Why ₹499 Feels Way Cheaper Than ₹500** (two price tags, ₹499 glowing).
 
@@ -113,14 +146,15 @@ _Tone: friendly; playful on the tease._
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Knowing, intriguing | Light on the meme; low and mysterious on "stranger" |
-| Setup | Curious | "Have you ever noticed…" with a half-smile |
+| Hook | Firm → intriguing | Plain stakes line; knowing on the twist |
+| Lock-in | Knowing → firm | Clear promise; firm last line |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | Beat 1 | Clear, documentary | Crisp numbers; quiet irony at the end |
 | Beat 2 | Thoughtful | Explain simply; mysterious turn at the end |
 | Beat 3 | Intrigued, revealing | Emphasise "underestimated" |
 | Beat 4 | Serious, fair | Even-handed; slow last line |
-| Payoff | Warm, authoritative (peak) | Long pause before "Certainty is a feeling" |
-| Outro | Friendly | Playful tease |
+| Closing | Warm, authoritative (peak) | Long pause before "Certainty is a feeling" |
+| Close + CTA | Friendly | Playful tease |
 
 ## Fact check
 
