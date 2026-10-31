@@ -5,11 +5,20 @@
 **Voiceover:** English, Hindi, Assamese → [long-video-voice.md](long-video-voice.md) · **Reel version:** [short-reel-script.md](short-reel-script.md)
 **Series:** follows [02 Foot-in-the-door](../02-foot-in-the-door/long-video-script.md) (its mirror image). Teases 04 (reciprocity) next.
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook was a playful two-step with no plain stakes line. | **Hook:** stakes line first ("meant to be refused"), then the two asks. |
+| 0:15–0:40 spent time recapping video 02. | **Lock-in:** magic box (the 1975 experiment, why a no pulls you to yes, where you'll meet it) + teased payoff ("the one test"). Recap removed. |
+| Beats 3 and 4 started as labels. | **Rehooks** before the everyday examples (~1:50) and the manipulation test (~2:25). |
+| Outro asked for a comment and a subscribe. | One **CTA** (comment question + next-video tease). |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 Two years? No. One afternoon? Yes.
-0:15 The reverse of the small yes
+0:10 The reverse of the small yes
 0:40 The 1975 zoo-trip experiment
 1:15 Why a big "no" leads to a "yes"
 1:50 Bargains, plans and relatives
@@ -20,30 +29,32 @@
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
+Sometimes the first request is meant to be refused, so the second one sounds reasonable.
 "Would you volunteer two hours a week, for two years?"
 (pause) No? Okay. "Then just one afternoon?" You said yes. And that was the plan all along.
 
-**[VISUAL]** A clipboard holder at a campus gate; a calendar flips through 104 weeks and the passer-by shakes their head. The clipboard flips to a single sunny afternoon; the passer-by nods. Pull back: the clipboard's hidden first page reads PLAN: ASK BIG, THEN SMALL.
+**[VISUAL]** Frame 1 is already moving: a door slams shut on a giant box ("NO"), then reopens a crack with a small box held out ("YES"). Cut to a clipboard holder at a campus gate; a calendar flips through 104 weeks and the passer-by shakes their head. The clipboard flips to a single sunny afternoon; the passer-by nods. Pull back: the hidden first page reads PLAN: ASK BIG, THEN SMALL.
 
-_Tone: knowing, playful; a quiet reveal on "all along."_
+_Tone: firm on line one; knowing and playful on the two asks._
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
-Have you ever been asked for something huge, said no, and then felt oddly relieved to agree to something smaller?
-That's the door-in-the-face technique: the reverse of the last video.
-(pause) Last time, a small yes led to a big one. This time, a big no leads to the yes they wanted all along.
+Have you ever said no to something huge, then felt oddly relieved to agree to something smaller?
+That's the door-in-the-face technique.
+In this video: the 1975 experiment that tested it, why a big no pulls you toward a yes, and where you'll meet it this week.
+(pause) And the one test that tells a fair bargain from a trap.
 
-**[VISUAL]** Callback: the shoe in the doorway from video 02, mirrored. Now a door slams shut ("NO"), then reopens a crack with a smaller box held out ("YES"). Title card: **DOOR-IN-THE-FACE**.
+**[VISUAL]** Title card: **DOOR-IN-THE-FACE**. Three sealed cards: **1975 · WHY · WHERE**. A glowing card **THE TEST** drops in, sealed.
 
-_Tone: curious; clear contrast._
+_Tone: knowing; clear promise; firm on "a fair bargain from a trap"._
 
 ## MAIN BODY
 
-### Beat 1: The 1975 zoo-trip experiment (0:40–1:15)
+### BODY 1: The 1975 zoo-trip experiment (0:40–1:15)
 
 **[NARRATION]**
 In 1975, psychologist Robert Cialdini and his team stopped students on a university campus.
@@ -55,7 +66,7 @@ Then came the real request: would you take a group of these young people on a on
 
 _Tone: intrigued storyteller; pointed last line._
 
-### Beat 2: Why a big "no" leads to a "yes" (1:15–1:50)
+### BODY 2: Why a big "no" leads to a "yes" (1:15–1:50)
 
 **[NARRATION]**
 Cialdini's explanation: reciprocal concessions. When someone "gives up" their big request, it feels like they've made a concession, a step back for you.
@@ -66,7 +77,16 @@ And we feel pressure to step back too, to meet them halfway. There's also contra
 
 _Tone: thoughtful; quietly revealing last line._
 
-### Beat 3: Bargains, plans and relatives (1:50–2:25)
+### REHOOK 1 (1:50)
+
+**[NARRATION]**
+And it doesn't stay in the lab. (pause) You've probably met it at a market stall.
+
+**[VISUAL]** The campus gate dissolves into a busy market; a shopkeeper names an absurd price.
+
+_Tone: a lift; playful._
+
+### BODY 3: Bargains, plans and relatives (1:50–2:25)
 
 **[NARRATION]**
 You'll see it in bargaining: a shopkeeper's opening price that's clearly absurd, so his "final offer" feels generous.
@@ -78,7 +98,16 @@ And unlike some famous findings, this one has been repeated. A preregistered rep
 
 _Tone: knowing, confident._
 
-### Beat 4: When it becomes manipulation (2:25–3:00)
+### REHOOK 2 (2:25)
+
+**[NARRATION]**
+So is every big first ask a trick? (pause) No. And here's how to tell.
+
+**[VISUAL]** The absurd price tag flips; a magnifying glass hovers over it.
+
+_Tone: honest, leaning in._
+
+### BODY 4: When it becomes manipulation (2:25–3:00)
 
 **[NARRATION]**
 Of course, not every big-then-small request is a trick. Sometimes people genuinely ask high, then adjust. Negotiation is normal.
@@ -90,7 +119,9 @@ Watch for the pattern: a huge ask, an instant "compromise", and pressure to agre
 
 _Tone: fair, thoughtful; firm last line._
 
-## PAYOFF / TWIST (3:00–3:30)
+## CLOSING (3:00–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 So here's your defence. When a smaller request follows a big refusal, wipe the first one from your mind.
@@ -102,11 +133,13 @@ And remember: refusing something unreasonable doesn't create a debt.
 
 _Tone: warm, empowering (peak); firm, kind last line._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: the comment question, plus the next-video tease. No subscribe ask._
 
 **[NARRATION]**
 Tell me in the comments: what's the most outrageous "first price" you've ever been quoted?
-And subscribe. Next: why a free gift makes you say yes.
+(pause) And next: why a free gift makes you say yes.
 
 **[VISUAL]** Comment prompt with a bazaar price tag. End screen: next-video card **Why a "Free Gift" Makes You Say Yes** (a ribbon-wrapped box with a hook hidden in the ribbon).
 
@@ -118,14 +151,15 @@ _Tone: friendly; curious tease._
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Knowing, playful | Quote the two requests; quiet reveal |
-| Setup | Curious | Clear contrast with video 02 |
+| Hook | Firm → playful | Plain stakes line; knowing two-step |
+| Lock-in | Knowing → firm | Clear promise; firm last line |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | Beat 1 | Intrigued storyteller | Clear numbers; pointed last line |
 | Beat 2 | Thoughtful | Revealing last line |
 | Beat 3 | Knowing, confident | "It's a tool." firm |
 | Beat 4 | Fair, thoughtful | Firm last line |
-| Payoff | Warm, empowering (peak) | Kind, firm last line |
-| Outro | Friendly | Curious tease |
+| Closing | Warm, empowering (peak) | Kind, firm last line |
+| Close + CTA | Friendly | Curious tease |
 
 ## Fact check
 

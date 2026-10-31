@@ -9,6 +9,8 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 4. Name files like `dp03-door-in-face_EN_s1-hook.wav`.
 
 If TTS mispronounces "Cialdini", write it as "Chee-al-dee-nee".
+**Changed (storytelling guide):** a stakes line opens the hook; the video-02 recap is replaced by a lock-in (1975, why, where, the test); two new rehook lines; one CTA, no subscribe ask. Generate 10 sections now (2 rehooks added).
+
 ⚠ Hindi and Assamese are machine-quality translations. Get a native speaker to read them before recording. The Hindi "क्या मैं हाँ कहता" uses the male form to match Charon. Test the Assamese hook first.
 
 ---
@@ -16,17 +18,19 @@ If TTS mispronounces "Cialdini", write it as "Chee-al-dee-nee".
 
 **Style instructions**
 ```
-You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute awareness video called "Why the first request is often ridiculous", about the door-in-the-face technique. Your goal is to help the listener recognise and resist it. Speak directly to one listener ("you"), like a sharp, trusted guide. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses. Open knowing and playful, an intrigued storyteller on the experiment, thoughtful on why it works, confident that it replicates, fair about normal negotiation, then warm and empowering on the defence. End friendly. Never preachy.
+You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute awareness video called "Why the first request is often ridiculous", about the door-in-the-face technique. Your goal is to help the listener recognise and resist it. Speak directly to one listener ("you"), like a sharp, trusted guide. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses. Open knowing and playful, an intrigued storyteller on the experiment, thoughtful on why it works, confident that it replicates, fair about normal negotiation, then warm and empowering on the defence. End friendly. Never preachy. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] Sometimes the first request is meant to be refused, so the second one sounds reasonable.
 [knowingly] "Would you volunteer two hours a week, for two years?"
 [short pause] No? Okay. "Then just one afternoon?" You said yes. And that was the plan all along.
 
-[curious] Have you ever been asked for something huge, said no, and then felt oddly relieved to agree to something smaller?
-That's the door-in-the-face technique: the reverse of the last video.
-[short pause] Last time, a small yes led to a big one. This time, a big no leads to the yes they wanted all along.
+[knowingly] Have you ever said no to something huge, then felt oddly relieved to agree to something smaller?
+That's the door-in-the-face technique.
+[calm] In this video: the 1975 experiment that tested it, why a big no pulls you toward a yes, and where you'll meet it this week.
+[short pause] [firmly] And the one test that tells a fair bargain from a trap.
 
 [intrigued] In 1975, psychologist Robert Cialdini and his team stopped students on a university campus.
 First, they asked them to counsel young offenders for two hours a week, for at least two years. Almost everyone refused.
@@ -37,10 +41,14 @@ Then came the real request: would you take a group of these young people on a on
 And we feel pressure to step back too, to meet them halfway. There's also contrast: after something huge, the smaller request suddenly looks reasonable.
 [short pause] Your "yes" feels like your choice. But the stage was built for it.
 
+[playfully] And it doesn't stay in the lab. [short pause] You've probably met it at a market stall.
+
 [knowingly] You'll see it in bargaining: a shopkeeper's opening price that's clearly absurd, so his "final offer" feels generous.
 In "premium" plans shown first, so the middle plan looks sensible. In a relative who asks for a huge loan, then "only" a smaller one.
 [confident] And unlike some famous findings, this one has been repeated. A preregistered replication published decades later found a similar effect.
 [short pause] It's not a myth. It's a tool.
+
+[leaning in] So is every big first ask a trick? [short pause] No. And here's how to tell.
 
 [thoughtful] Of course, not every big-then-small request is a trick. Sometimes people genuinely ask high, then adjust. Negotiation is normal.
 It becomes manipulation when the first request was never meant to be accepted. When it's built only to make you feel you owe a concession.
@@ -53,7 +61,7 @@ And remember: refusing something unreasonable doesn't create a debt.
 [long pause] You don't owe anyone a "yes" for saying "no".
 
 [friendly] Tell me in the comments: what's the most outrageous "first price" you've ever been quoted?
-And subscribe. Next: why a free gift makes you say yes.
+[short pause] And next: why a free gift makes you say yes.
 ```
 
 ---
@@ -61,17 +69,19 @@ And subscribe. Next: why a free gift makes you say yes.
 
 **Style instructions**
 ```
-You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute awareness video about the door-in-the-face technique: why the first request is often ridiculous. Your goal is to help the listener recognise and resist it. Speak natural, conversational Hindi (common English words like "volunteer", "plan", "premium", "offer" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a sharp, trusted guide. Unhurried, with deliberate pauses. Knowing and playful at the start, storyteller on the experiment, thoughtful on why it works, confident that it replicates, fair about negotiation, warm and empowering on the defence. End friendly.
+You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute awareness video about the door-in-the-face technique: why the first request is often ridiculous. Your goal is to help the listener recognise and resist it. Speak natural, conversational Hindi (common English words like "volunteer", "plan", "premium", "offer" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a sharp, trusted guide. Unhurried, with deliberate pauses. Knowing and playful at the start, storyteller on the experiment, thoughtful on why it works, confident that it replicates, fair about negotiation, warm and empowering on the defence. End friendly. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] कभी-कभी पहली माँग इसीलिए की जाती है कि आप उसे ठुकरा दें, ताकि दूसरी माँग ठीक लगे।
 [knowingly] "क्या आप दो साल तक, हर हफ़्ते दो घंटे, वॉलंटियर करेंगे?"
 [short pause] नहीं? ठीक है। "तो बस एक दोपहर?" आपने हाँ कह दी। और प्लान शुरू से यही था।
 
-[curious] क्या कभी आपसे कोई बहुत बड़ी चीज़ माँगी गई, आपने मना किया, और फिर किसी छोटी चीज़ के लिए हाँ कहकर अजीब-सी राहत महसूस हुई?
-इसे "डोर-इन-द-फ़ेस टेक्नीक" कहते हैं: पिछले वीडियो का उल्टा।
-[short pause] पिछली बार, एक छोटी "हाँ" बड़ी "हाँ" तक ले गई। इस बार, एक बड़ी "ना", उस "हाँ" तक ले जाती है, जो वो शुरू से चाहते थे।
+[knowingly] क्या कभी आपने किसी बहुत बड़ी चीज़ को ना कहा, और फिर किसी छोटी चीज़ को हाँ कहकर अजीब-सी राहत महसूस की?
+इसे कहते हैं डोर-इन-द-फ़ेस तकनीक।
+[calm] इस वीडियो में: उन्नीस सौ पचहत्तर का वो प्रयोग, जिसने इसे परखा, एक बड़ी ना आपको हाँ की तरफ़ क्यों खींचती है, और इस हफ़्ते ये आपको कहाँ मिलेगी।
+[short pause] [firmly] और वो एक कसौटी, जो सही मोलभाव और जाल में फ़र्क़ बताती है।
 
 [intrigued] उन्नीस सौ पचहत्तर में, मनोवैज्ञानिक रॉबर्ट चियाल्डीनी और उनकी टीम ने, एक यूनिवर्सिटी कैंपस में स्टूडेंट्स को रोका।
 पहले, उनसे कहा गया कि वो कम से कम दो साल तक, हर हफ़्ते दो घंटे, बाल अपराधियों की काउंसलिंग करें। लगभग सबने मना कर दिया।
@@ -82,10 +92,14 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 और हम पर दबाव बनता है, कि हम भी एक क़दम पीछे लें, बीच में मिलें। साथ में तुलना भी है: किसी बहुत बड़ी चीज़ के बाद, छोटी माँग अचानक वाजिब लगने लगती है।
 [short pause] आपकी "हाँ" आपका अपना फ़ैसला लगती है। पर मंच उसी के लिए सजाया गया था।
 
+[playfully] और ये लैब तक नहीं रुकता। [short pause] शायद आप इससे किसी बाज़ार की दुकान पर मिल चुके हैं।
+
 [knowingly] ये आपको मोल-भाव में दिखेगा: दुकानदार का पहला दाम, जो साफ़ बेतुका है, ताकि उसका "आख़िरी दाम" दरियादिली लगे।
 सबसे पहले दिखाए गए "प्रीमियम" प्लान, ताकि बीच वाला प्लान समझदारी लगे। कोई रिश्तेदार, जो पहले बहुत बड़ा उधार माँगता है, फिर "बस" उससे छोटा।
 [confident] और कुछ मशहूर नतीजों के उलट, ये दोहराया जा चुका है। दशकों बाद छपी, पहले से दर्ज एक दोहराई गई स्टडी में, मिलता-जुलता असर मिला।
 [short pause] ये कोई मिथक नहीं है। ये एक औज़ार है।
+
+[leaning in] तो क्या हर बड़ी पहली माँग एक चाल है? [short pause] नहीं। और फ़र्क़ ऐसे पहचानिए।
 
 [thoughtful] बेशक, हर बड़ी-फिर-छोटी माँग चाल नहीं होती। कभी-कभी लोग सच में ज़्यादा माँगते हैं, फिर बदल लेते हैं। मोल-भाव आम बात है।
 ये मैनिपुलेशन तब बनता है, जब पहली माँग कभी मानी जाने के लिए थी ही नहीं। जब वो सिर्फ़ इसलिए बनाई गई, कि आपको लगे, आप पर एक रियायत बकाया है।
@@ -98,7 +112,7 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 [long pause] "ना" कहने के बदले, आप किसी को "हाँ" के कर्ज़दार नहीं हैं।
 
 [friendly] कमेंट में बताइए: आपको अब तक का सबसे बेतुका "पहला दाम" कौन-सा बताया गया?
-और सब्सक्राइब कीजिए। अगले वीडियो में: एक "फ़्री गिफ़्ट" आपसे हाँ क्यों कहलवा लेता है।
+[short pause] और अगले वीडियो में: एक "फ़्री गिफ़्ट" आपसे हाँ क्यों कहलवा लेता है।
 ```
 
 ---
@@ -106,17 +120,19 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 
 **Style instructions**
 ```
-You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute awareness video about the door-in-the-face technique: why the first request is often ridiculous. Your goal is to help the listener recognise and resist it. Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a sharp, trusted guide. Unhurried, with deliberate pauses. Knowing and playful at the start, storyteller on the experiment, thoughtful on why it works, confident that it replicates, fair about negotiation, warm and empowering on the defence. End friendly.
+You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute awareness video about the door-in-the-face technique: why the first request is often ridiculous. Your goal is to help the listener recognise and resist it. Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a sharp, trusted guide. Unhurried, with deliberate pauses. Knowing and playful at the start, storyteller on the experiment, thoughtful on why it works, confident that it replicates, fair about negotiation, warm and empowering on the defence. End friendly. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] কেতিয়াবা প্ৰথম অনুৰোধটো এইবাবেই কৰা হয়, যাতে আপুনি তাক নাকচ কৰে, আৰু দ্বিতীয়টো যুক্তিসংগত যেন লাগে।
 [knowingly] "আপুনি দুবছৰলৈ, প্ৰতি সপ্তাহত দুঘণ্টাকৈ স্বেচ্ছাসেৱা কৰিবনে?"
 [short pause] নহয়? ঠিক আছে। "তেন্তে মাত্ৰ এটা আবেলি?" আপুনি "হয়" ক'লে। আৰু আৰম্ভণিৰ পৰাই পৰিকল্পনাটো এইটোৱেই আছিল।
 
-[curious] কেতিয়াবা আপোনাৰ পৰা বহুত ডাঙৰ কিবা বিচৰা হৈছেনে, আপুনি নাকচ কৰিছে, আৰু তাৰ পিছত কিবা সৰু কথাত "হয়" কৈ এটা আচৰিত সকাহ পাইছে?
-ইয়াক "ড'ৰ-ইন-দ্য-ফেচ কৌশল" বোলে: যোৱা ভিডিঅ'টোৰ ওলোটা।
-[short pause] যোৱাবাৰ, এটা সৰু "হয়"ই ডাঙৰ "হয়"লৈ লৈ গৈছিল। এইবাৰ, এটা ডাঙৰ "নহয়"ই সেই "হয়"লৈ লৈ যায়, যিটো তেওঁলোকে আৰম্ভণিৰ পৰাই বিচাৰিছিল।
+[knowingly] কেতিয়াবা কোনো বহুত ডাঙৰ কথাত "নহয়" কৈ, তাৰ পিছত সৰু কথা এটাত "হয়" কৈ অদ্ভুত সকাহ পাইছেনে?
+ইয়াক কোৱা হয় ড'ৰ-ইন-দ্য-ফেচ কৌশল।
+[calm] এই ভিডিঅ'ত: ঊনৈছ শ পঁয়সত্তৰৰ সেই পৰীক্ষা, যিয়ে ইয়াক পৰীক্ষা কৰিলে, এটা ডাঙৰ "নহয়"ই আপোনাক "হয়"ৰ ফালে কিয় টানে, আৰু এই সপ্তাহত ইয়াক আপুনি ক'ত লগ পাব।
+[short pause] [firmly] আৰু সেই এটা পৰীক্ষা, যিয়ে ন্যায্য দৰদাম আৰু ফান্দৰ পাৰ্থক্য দেখুৱায়।
 
 [intrigued] ঊনৈছ শ পঁচাত্তৰ চনত, মনোবিজ্ঞানী ৰবাৰ্ট চিয়ালডিনি আৰু তেওঁৰ দলে এখন বিশ্ববিদ্যালয়ৰ চৌহদত ছাত্ৰ-ছাত্ৰীক ৰখালে।
 প্ৰথমে, তেওঁলোকক অন্ততঃ দুবছৰলৈ, প্ৰতি সপ্তাহত দুঘণ্টাকৈ কিশোৰ অপৰাধীৰ পৰামৰ্শদাতা হ'বলৈ কোৱা হ'ল। প্ৰায় সকলোৱে নাকচ কৰিলে।
@@ -127,10 +143,14 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 আৰু আমাৰ ওপৰত হেঁচা পৰে, আমিও এখোজ পিছুৱাই আহোঁ, মাজত লগ পাওঁ। লগতে তুলনাও আছে: কিবা বহুত ডাঙৰৰ পিছত, সৰু অনুৰোধটো হঠাতে যুক্তিসংগত যেন লাগে।
 [short pause] আপোনাৰ "হয়"টো আপোনাৰ নিজৰ সিদ্ধান্ত যেন লাগে। কিন্তু মঞ্চখন তাৰ বাবেই সজোৱা হৈছিল।
 
+[playfully] আৰু ই গৱেষণাগাৰতে ৰৈ নাথাকে। [short pause] হয়তো আপুনি ইয়াক কোনো বজাৰৰ দোকানত লগ পাইছে।
+
 [knowingly] এইটো আপুনি দৰদামত দেখিব: দোকানীৰ প্ৰথম দাম, যিটো স্পষ্টকৈ অযৌক্তিক, যাতে তেওঁৰ "শেষ দাম" উদাৰ যেন লাগে।
 প্ৰথমে দেখুওৱা "প্ৰিমিয়াম" প্লেন, যাতে মাজৰটো বুদ্ধিমান বাছনি যেন লাগে। কোনো আত্মীয়, যিয়ে প্ৰথমে বহুত ডাঙৰ ধাৰ খোজে, তাৰ পিছত "মাত্ৰ" তাতকৈ সৰু।
 [confident] আৰু কিছুমান বিখ্যাত ফলাফলৰ বিপৰীতে, এইটো পুনৰ কৰা হৈছে। দশকৰ পিছত প্ৰকাশিত, আগতীয়াকৈ পঞ্জীয়ন কৰা এটা পুনৰাবৃত্ত অধ্যয়নত, একে ধৰণৰ প্ৰভাৱ পোৱা গৈছিল।
 [short pause] এইটো কোনো কিংবদন্তি নহয়। ই এটা সঁজুলি।
+
+[leaning in] তেন্তে প্ৰতিটো ডাঙৰ প্ৰথম অনুৰোধেই কৌশল নেকি? [short pause] নহয়। আৰু পাৰ্থক্যটো এনেকৈ চিনিব।
 
 [thoughtful] অৱশ্যে, প্ৰতিটো ডাঙৰ-তাৰপিছত-সৰু অনুৰোধ কৌশল নহয়। কেতিয়াবা মানুহে সঁচাকৈয়ে বেছি বিচাৰে, তাৰ পিছত সলনি কৰে। দৰদাম স্বাভাৱিক কথা।
 ই তেতিয়াহে মেনিপুলেচন হয়, যেতিয়া প্ৰথম অনুৰোধটো কেতিয়াও মানি লোৱাৰ বাবে নাছিল। যেতিয়া সেয়া কেৱল আপোনাক এইটো অনুভৱ কৰাবলৈ বনোৱা হৈছিল যে আপুনি এটা ৰেহাই দিবলগীয়া।
@@ -143,5 +163,5 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 [long pause] "নহয়" কোৱাৰ বাবে, আপুনি কাৰোবাক "হয়" দিবলৈ বাধ্য নহয়।
 
 [friendly] কমেণ্টত কওক: আপোনাক কোৱা আটাইতকৈ অযৌক্তিক "প্ৰথম দাম"টো কি আছিল?
-আৰু চাবস্ক্ৰাইব কৰক। পিছৰ ভিডিঅ'ত: এটা "বিনামূলীয়া উপহাৰে" কিয় আপোনাক "হয়" কোৱায়।
+[short pause] আৰু পিছৰ ভিডিঅ'ত: এটা "বিনামূলীয়া উপহাৰে" কিয় আপোনাক "হয়" কোৱায়।
 ```
