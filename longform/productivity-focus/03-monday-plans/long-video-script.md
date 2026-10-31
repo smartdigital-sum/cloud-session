@@ -5,11 +5,20 @@
 **Voiceover:** English, Hindi, Assamese → [long-video-voice.md](long-video-voice.md) · **Reel version:** [short-reel-script.md](short-reel-script.md)
 **Series:** follows [02 Procrastination](../02-procrastination-emotion/long-video-script.md); teases idea #2 (The Truth About Multitasking) next.
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| The hook was a fun contrast, but the stakes ("never possible") only came at 0:30. | **Hook:** subject + stakes in sentence one ("never possible… not your fault"). |
+| 0:15–0:40 opened with a two-video recap. | **Lock-in:** magic box (two hidden forces, one fooled a world-famous landmark) + teased payoff (three changes, "none of them is trying harder"). Recap removed. |
+| Beats 3 and 4 started cold. | **Rehooks** before the Opera House (~1:50) and before "why every plan breaks" (~2:20). |
+| Outro asked for a comment and a subscribe. | One **CTA** (comment question + next-video tease). |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 Monday you vs Wednesday you
-0:15 Two hidden forces
+0:10 Two hidden forces
 0:40 Why Monday feels magic
 1:15 The planning fallacy
 1:50 Even the Sydney Opera House
@@ -20,31 +29,31 @@
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
-Monday you: a perfect plan. Gym at six. Ten tasks. Read twenty pages.
+Your Monday plan was never possible. And that's not your fault.
+Monday you: gym at six. Ten tasks. Read twenty pages.
 Wednesday you: (pause) …what plan?
-If this is your week, every week, you're not broken. Your brain is just doing what it always does.
 
-**[VISUAL]** Split screen. Left, MONDAY: a bright, tidy figure ticking a colourful planner, sunrise, a gym bag by the door. Right, WEDNESDAY: the same figure, messy hair, half-eaten lunch, the planner buried under papers. The planner page tears down the middle.
+**[VISUAL]** Frame 1 is already moving: split screen. Left, MONDAY: a bright, tidy figure ticking a colourful planner, sunrise, a gym bag by the door. Right, WEDNESDAY: the same figure, messy hair, half-eaten lunch, the planner buried under papers. The planner page tears down the middle on "never possible".
 
-_Tone: playful, knowing; a comic beat on "…what plan?", then reassuring._
+_Tone: firm on line one; playful on Monday; deadpan comic beat on "…what plan?"._
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
-Over the last two videos, we looked at unfinished tasks, and why we put them off. Today: the plan itself.
-Because two hidden forces shape every Monday plan. One makes you feel unstoppable. The other quietly makes sure the plan was never possible.
-(pause) Let's start with why Monday feels so magic.
+Two hidden forces shape every Monday plan. One makes you feel unstoppable. The other quietly makes sure the plan was never possible.
+That second one is so strong, it fooled the builders of one of the most famous buildings on Earth.
+And at the end, I'll give you three small changes that make a plan survive the week. (pause) None of them is "try harder".
 
-**[VISUAL]** Quick callbacks: the orbiting sticky notes (01), the storm-cloud loop (02). Then two glowing forces appear around the planner: a golden one labelled FRESH START and a shadowy one labelled ???.
+**[VISUAL]** Two glowing forces circle the planner: a golden one labelled **FRESH START** and a shadowy one labelled **???**. A silhouette of a famous building flashes behind the shadow (sails, not yet named). Three face-down cards drop in: **FIX 1 · 2 · 3**. A "TRY HARDER" badge is crossed out.
 
-_Tone: steady; mysterious on "never possible."_
+_Tone: steady, then mysterious on "never possible"; firm on the last line._
 
 ## MAIN BODY
 
-### Beat 1: The fresh start effect (0:40–1:15)
+### BODY 1: The fresh start effect (0:40–1:15)
 
 **[NARRATION]**
 In 2014, researchers at the Wharton School studied years of Google searches for one word: "diet." Searches rose at the start of every new year, every new month… and every new week.
@@ -56,7 +65,7 @@ That's real, and useful. (pause) But here's the catch. The "new you" writes the 
 
 _Tone: curious and light; a wry smile on "the old you has to live it."_
 
-### Beat 2: The planning fallacy (1:15–1:50)
+### BODY 2: The planning fallacy (1:15–1:50)
 
 **[NARRATION]**
 In 1979, psychologists Daniel Kahneman and Amos Tversky named the second force: the planning fallacy. We underestimate how long our own tasks will take, even when we've been wrong before.
@@ -68,7 +77,16 @@ Only around a third finished by the date they predicted. (pause) These were smar
 
 _Tone: thoughtful; let the gap between 34 and 56 land with a pause._
 
-### Beat 3: Even experts (1:50–2:20)
+### REHOOK 1 (1:50)
+
+**[NARRATION]**
+And if you think experts are immune… (pause) the most famous building in Australia says otherwise.
+
+**[VISUAL]** The shadow force grows; the sails silhouette from the lock-in sharpens into view.
+
+_Tone: a lift; leaning in._
+
+### BODY 3: Even experts (1:50–2:20)
 
 **[NARRATION]**
 And it's not just students.
@@ -80,7 +98,16 @@ The writer Douglas Hofstadter even turned this into a law: "It always takes long
 
 _Tone: serious, then a gentle laugh on the Hofstadter quote._
 
-### Beat 4: Why every plan breaks (2:20–3:00)
+### REHOOK 2 (2:20)
+
+**[NARRATION]**
+So why does every plan break, even the experts'? (pause) The answer is hiding in the space you didn't leave.
+
+**[VISUAL]** A perfect, zero-gap planner grid fills the screen. A single bird flies toward it.
+
+_Tone: curious; a small pause before the answer._
+
+### BODY 4: Why every plan breaks (2:20–3:00)
 
 **[NARRATION]**
 So why do we keep doing this?
@@ -94,7 +121,9 @@ Then Wednesday arrives. Real life shows up. The plan breaks… and it feels like
 
 _Tone: empathetic, building; slow and quiet on "you failed."_
 
-## PAYOFF / TWIST (3:00–3:30)
+## CLOSING (3:00–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 So don't plan for Monday you. Plan for Wednesday you.
@@ -107,13 +136,15 @@ A plan that bends… (pause) is a plan that survives.
 
 _Tone: warm certainty (peak); slow on the last line._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: the comment question, plus the next-video tease. No subscribe ask._
 
 **[NARRATION]**
 Your plans don't fail because you're weak. They fail because they were written for someone who doesn't exist.
 This Monday, write a plan for the real you.
 Tell me in the comments: how many things were on your list this Monday… and how many are done?
-And subscribe. Next: the truth about multitasking.
+(pause) And next: the truth about multitasking.
 
 **[VISUAL]** Back to the split screen; the Monday and Wednesday figures turn and face each other, then merge into one calm figure holding the new, gappy planner. End screen: comment prompt "Monday list vs done?" + next-video card **The Truth About Multitasking**.
 
@@ -125,14 +156,15 @@ _Tone: gentle and kind; friendly on the comment question._
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Playful → reassuring | Bright on Monday, deadpan on "…what plan?", then calm |
-| Setup | Steady, mysterious | Callback tone; dip on "never possible" |
+| Hook | Firm → playful | Weight on "never possible"; bright Monday; deadpan "…what plan?" |
+| Lock-in | Steady → mysterious | Dip on "never possible"; slow, firm "None of them is 'try harder'." |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | Beat 1 | Curious, light | Lift on "every new week"; wry on the catch |
 | Beat 2 | Thoughtful | Clear numbers; pause between 34 and 56 |
 | Beat 3 | Serious → amused | Weight on "fourteen times"; smile on the quote |
 | Beat 4 | Empathetic, building | Slow on "you failed"; soft link back to video 02 |
-| Payoff | Warm certainty (peak) | Clear "One / Two / Three"; pause before "is a plan that survives" |
-| Outro | Gentle, friendly | Kind on "weak", smile on the comment question |
+| Closing | Warm certainty (peak) | Clear "One / Two / Three"; pause before "is a plan that survives" |
+| Close + CTA | Gentle, friendly | Kind on "weak", smile on the comment question |
 
 ## Fact check
 

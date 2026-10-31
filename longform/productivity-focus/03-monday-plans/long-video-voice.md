@@ -8,6 +8,8 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 3. If the voice drifts, speeds up or cuts off near the end, generate **one section per run** with the same voice and style, then join the clips (add ~0.5s silence between sections).
 4. Name files like `03-monday-plans_EN_s1-hook.wav`.
 
+**Changed (storytelling guide):** firm hook with the stakes in line one; the two-video recap is replaced by a lock-in (two forces, a famous building, three fixes); two new rehook lines; one CTA, no subscribe ask. Generate 10 sections now (2 rehooks added).
+
 ⚠ Hindi and Assamese are machine-quality translations. Get a native speaker to read them before recording. Money is in Indian units (सत्तर लाख / দহ কোটি) so viewers get the scale; check that it sounds natural. Test the Assamese hook first.
 
 ---
@@ -15,18 +17,18 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 
 **Style instructions**
 ```
-You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "Why your Monday plans collapse by Wednesday". Speak directly to one listener ("you"), like a trusted older friend with a sense of humour. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses between short lines. Open playful and knowing, with a deadpan comic beat on "what plan?". Explain the research with light curiosity, say numbers clearly, become empathetic when the plan breaks, then rise to warm, certain encouragement on the three fixes. End kind and friendly. Never preachy, never like an advert.
+You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "Why your Monday plans collapse by Wednesday". Speak directly to one listener ("you"), like a trusted older friend with a sense of humour. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses between short lines. Open firm on the first line (never whispered), then playful and knowing, with a deadpan comic beat on "what plan?". Explain the research with light curiosity, say numbers clearly, become empathetic when the plan breaks, then rise to warm, certain encouragement on the three fixes. End kind and friendly. Never preachy, never like an advert.
 ```
 
 **Text**
 ```
-[playfully] Monday you: a perfect plan. Gym at six. Ten tasks. Read twenty pages.
+[firmly] Your Monday plan was never possible. And that's not your fault.
+[playfully] Monday you: gym at six. Ten tasks. Read twenty pages.
 Wednesday you: [short pause] …what plan?
-[reassuring] If this is your week, every week, you're not broken. Your brain is just doing what it always does.
 
-[calm] Over the last two videos, we looked at unfinished tasks, and why we put them off. Today: the plan itself.
-Because two hidden forces shape every Monday plan. One makes you feel unstoppable. The other quietly makes sure the plan was never possible.
-[short pause] Let's start with why Monday feels so magic.
+[intrigued] Two hidden forces shape every Monday plan. One makes you feel unstoppable. The other quietly makes sure the plan was never possible.
+That second one is so strong, it fooled the builders of one of the most famous buildings on Earth.
+And at the end, I'll give you three small changes that make a plan survive the week. [short pause] [firmly] None of them is "try harder".
 
 [curious] In 2014, researchers at the Wharton School studied years of Google searches for one word: "diet." Searches rose at the start of every new year, every new month… and every new week.
 They saw the same pattern at a university gym. More visits at the start of a week, a month, a semester.
@@ -38,10 +40,14 @@ In a 1994 study, students guessed how long their final-year thesis would take. O
 The real average? About fifty-six.
 Only around a third finished by the date they predicted. [short pause] These were smart, motivated people. Planning their own work.
 
+[leaning in] And if you think experts are immune… [short pause] the most famous building in Australia says otherwise.
+
 [serious] And it's not just students.
 When work began on the Sydney Opera House, it was planned to take about four years and cost seven million Australian dollars.
 It opened in 1973. A decade late. At a cost of around a hundred and two million: about fourteen times the estimate.
 [amused] The writer Douglas Hofstadter even turned this into a law: "It always takes longer than you expect, even when you take into account Hofstadter's Law."
+
+[curious] So why does every plan break, even the experts'? [short pause] The answer is hiding in the space you didn't leave.
 
 [gently] So why do we keep doing this?
 Because when you plan, you imagine the task going right. You picture the work… not the interruptions.
@@ -59,7 +65,7 @@ A plan that bends… [long pause] is a plan that survives.
 [gently] Your plans don't fail because you're weak. They fail because they were written for someone who doesn't exist.
 This Monday, write a plan for the real you.
 [friendly] Tell me in the comments: how many things were on your list this Monday… and how many are done?
-And subscribe. Next: the truth about multitasking.
+[short pause] And next: the truth about multitasking.
 ```
 
 ---
@@ -67,18 +73,18 @@ And subscribe. Next: the truth about multitasking.
 
 **Style instructions**
 ```
-You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "Why your Monday plans collapse by Wednesday". Speak natural, conversational Hindi (common English words like "plan", "gym", "list", "study" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a trusted older friend with a sense of humour. Unhurried, with deliberate pauses between short lines. Open playful and knowing, with a deadpan comic beat on "kaun-sa plan?". Explain the research with light curiosity, say numbers clearly, become empathetic when the plan breaks, then rise to warm, certain encouragement on the three fixes. End kind and friendly.
+You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "Why your Monday plans collapse by Wednesday". Speak natural, conversational Hindi (common English words like "plan", "gym", "list", "study" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a trusted older friend with a sense of humour. Unhurried, with deliberate pauses between short lines. Open firm on the first line (never whispered), then playful and knowing, with a deadpan comic beat on "kaun-sa plan?". Explain the research with light curiosity, say numbers clearly, become empathetic when the plan breaks, then rise to warm, certain encouragement on the three fixes. End kind and friendly.
 ```
 
 **Text**
 ```
-[playfully] सोमवार वाले आप: एकदम परफ़ेक्ट प्लान। सुबह छह बजे जिम। दस काम। बीस पेज पढ़ना।
+[firmly] आपका सोमवार वाला प्लान कभी मुमकिन था ही नहीं। और इसमें आपकी ग़लती नहीं है।
+[playfully] सोमवार वाले आप: सुबह छह बजे जिम। दस काम। बीस पेज पढ़ना।
 बुधवार वाले आप: [short pause] …कौन-सा प्लान?
-[reassuring] अगर हर हफ़्ता आपका ऐसा ही जाता है, तो आपमें कोई ख़राबी नहीं है। आपका दिमाग़ बस वही कर रहा है, जो वो हमेशा करता है।
 
-[calm] पिछले दो वीडियो में, हमने अधूरे काम देखे, और ये भी कि हम उन्हें टालते क्यों हैं। आज बात ख़ुद प्लान की।
-क्योंकि हर सोमवार के प्लान के पीछे दो छुपी ताक़तें होती हैं। एक आपको ऐसा महसूस कराती है, जैसे आपको कोई रोक नहीं सकता। दूसरी चुपचाप पक्का कर देती है, कि ये प्लान कभी मुमकिन था ही नहीं।
-[short pause] पहले देखते हैं, सोमवार इतना जादुई क्यों लगता है।
+[intrigued] हर सोमवार के प्लान के पीछे दो छुपी ताक़तें होती हैं। एक आपको ऐसा महसूस कराती है, जैसे आपको कोई रोक नहीं सकता। दूसरी चुपचाप पक्का कर देती है, कि ये प्लान कभी मुमकिन था ही नहीं।
+वो दूसरी ताक़त इतनी तगड़ी है, कि उसने दुनिया की सबसे मशहूर इमारतों में से एक बनाने वालों को भी धोखा दे दिया।
+और आख़िर में, मैं आपको तीन छोटे बदलाव बताऊँगा, जिनसे प्लान पूरा हफ़्ता टिकता है। [short pause] [firmly] और उनमें से कोई भी "और ज़ोर लगाओ" नहीं है।
 
 [curious] दो हज़ार चौदह में, व्हार्टन स्कूल के रिसर्चर्स ने सालों की गूगल सर्च देखीं, एक शब्द के लिए: "डाइट"। ये सर्च हर नए साल, हर नए महीने… और हर नए हफ़्ते की शुरुआत में बढ़ जाती थीं।
 एक यूनिवर्सिटी जिम में भी यही पैटर्न दिखा। हफ़्ते, महीने और सेमेस्टर की शुरुआत में ज़्यादा लोग।
@@ -90,10 +96,14 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 असली औसत? लगभग छप्पन दिन।
 सिर्फ़ क़रीब एक-तिहाई ने अपनी बताई तारीख़ तक काम पूरा किया। [short pause] ये समझदार, मेहनती लोग थे। अपना ही काम प्लान कर रहे थे।
 
+[leaning in] और अगर आपको लगता है कि एक्सपर्ट्स इससे बचे रहते हैं… [short pause] तो ऑस्ट्रेलिया की सबसे मशहूर इमारत कुछ और कहती है।
+
 [serious] और ये सिर्फ़ स्टूडेंट्स की बात नहीं।
 जब सिडनी ओपेरा हाउस पर काम शुरू हुआ, तो उसे लगभग चार साल और सत्तर लाख ऑस्ट्रेलियन डॉलर में बनना था।
 वो खुला उन्नीस सौ तिहत्तर में। दस साल देरी से। लगभग दस करोड़ बीस लाख डॉलर की लागत पर: अंदाज़े से क़रीब चौदह गुना।
 [amused] लेखक डगलस हॉफ़स्टैडर ने तो इस पर एक नियम ही बना दिया: "काम हमेशा उम्मीद से ज़्यादा वक़्त लेता है, तब भी, जब आप हॉफ़स्टैडर के नियम को ध्यान में रखें।"
+
+[curious] तो हर प्लान टूटता क्यों है, एक्सपर्ट्स का भी? [short pause] जवाब उस जगह में छुपा है, जो आपने ख़ाली नहीं छोड़ी।
 
 [gently] तो हम बार-बार ऐसा करते क्यों हैं?
 क्योंकि प्लान बनाते वक़्त, हम काम को ठीक से होते हुए सोचते हैं। हम काम देखते हैं… रुकावटें नहीं।
@@ -111,7 +121,7 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 [gently] आपके प्लान इसलिए फ़ेल नहीं होते कि आप कमज़ोर हैं। वो इसलिए फ़ेल होते हैं, क्योंकि वो किसी ऐसे इंसान के लिए लिखे गए थे, जो है ही नहीं।
 इस सोमवार, असली आप के लिए प्लान लिखिए।
 [friendly] कमेंट में बताइए: इस सोमवार आपकी लिस्ट में कितने काम थे… और कितने पूरे हुए?
-और सब्सक्राइब कीजिए। अगले वीडियो में: मल्टीटास्किंग का सच।
+[short pause] और अगले वीडियो में: मल्टीटास्किंग का सच।
 ```
 
 ---
@@ -119,18 +129,18 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 
 **Style instructions**
 ```
-You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "Why your Monday plans collapse by Wednesday". Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a trusted older friend with a sense of humour. Unhurried, with deliberate pauses between short lines. Open playful and knowing, with a deadpan comic beat on the "which plan?" line. Explain the research with light curiosity, say numbers clearly, become empathetic when the plan breaks, then rise to warm, certain encouragement on the three fixes. End kind and friendly.
+You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "Why your Monday plans collapse by Wednesday". Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a trusted older friend with a sense of humour. Unhurried, with deliberate pauses between short lines. Open firm on the first line (never whispered), then playful and knowing, with a deadpan comic beat on the "which plan?" line. Explain the research with light curiosity, say numbers clearly, become empathetic when the plan breaks, then rise to warm, certain encouragement on the three fixes. End kind and friendly.
 ```
 
 **Text**
 ```
-[playfully] সোমবাৰৰ আপুনি: এক নিখুঁত পৰিকল্পনা। ৰাতিপুৱা ছয় বজাত জিম। দহটা কাম। বিশ পৃষ্ঠা পঢ়া।
+[firmly] আপোনাৰ সোমবাৰৰ পৰিকল্পনা কেতিয়াও সম্ভৱেই নাছিল। আৰু ইয়াত আপোনাৰ দোষ নাই।
+[playfully] সোমবাৰৰ আপুনি: ৰাতিপুৱা ছয় বজাত জিম। দহটা কাম। বিশ পৃষ্ঠা পঢ়া।
 বুধবাৰৰ আপুনি: [short pause] …কোনটো পৰিকল্পনা?
-[reassuring] যদি আপোনাৰ প্ৰতিটো সপ্তাহ এনেকৈয়ে যায়, আপোনাৰ একো দোষ নাই। আপোনাৰ মগজুৱে মাত্ৰ সেইটোৱেই কৰি আছে, যিটো ই সদায় কৰে।
 
-[calm] যোৱা দুটা ভিডিঅ'ত, আমি আধৰুৱা কামবোৰ চালোঁ, আৰু আমি সেইবোৰ কিয় পিছুৱাওঁ, সেয়াও। আজি কথা পৰিকল্পনাটোৰ।
-কিয়নো প্ৰতিটো সোমবাৰৰ পৰিকল্পনাৰ পিছত দুটা লুকাই থকা শক্তি থাকে। এটাই আপোনাক এনে অনুভৱ কৰায়, যেন আপোনাক কোনেও ৰখাব নোৱাৰে। আনটোৱে মনে মনে নিশ্চিত কৰে, যে পৰিকল্পনাটো কেতিয়াও সম্ভৱেই নাছিল।
-[short pause] প্ৰথমে চাওঁ, সোমবাৰটো কিয় ইমান যাদুকৰী যেন লাগে।
+[intrigued] প্ৰতিটো সোমবাৰৰ পৰিকল্পনাৰ পিছত দুটা লুকাই থকা শক্তি থাকে। এটাই আপোনাক এনে অনুভৱ কৰায়, যেন আপোনাক কোনেও ৰখাব নোৱাৰে। আনটোৱে মনে মনে নিশ্চিত কৰে, যে পৰিকল্পনাটো কেতিয়াও সম্ভৱেই নাছিল।
+সেই দ্বিতীয় শক্তিটো ইমান শক্তিশালী, যে ই পৃথিৱীৰ আটাইতকৈ বিখ্যাত অট্টালিকাবোৰৰ এটা সজাসকলকো ঠগিলে।
+আৰু শেষত, মই আপোনাক তিনিটা সৰু সলনি দেখুৱাম, যাৰ বাবে পৰিকল্পনা গোটেই সপ্তাহ টিকি থাকে। [short pause] [firmly] আৰু তাৰ এটাও "আৰু বেছি চেষ্টা কৰক" নহয়।
 
 [curious] দুহাজাৰ চৌধ্য চনত, হোৱাৰ্টন স্কুলৰ গৱেষকসকলে বহু বছৰৰ গুগল ছাৰ্চ চালে, এটা শব্দৰ বাবে: "ডায়েট"। এই ছাৰ্চবোৰ প্ৰতিটো নতুন বছৰ, প্ৰতিটো নতুন মাহ… আৰু প্ৰতিটো নতুন সপ্তাহৰ আৰম্ভণিতে বাঢ়ি গৈছিল।
 এখন বিশ্ববিদ্যালয়ৰ জিমতো একেই আৰ্হি দেখা গ'ল। সপ্তাহ, মাহ আৰু ছেমেষ্টাৰৰ আৰম্ভণিতে বেছি মানুহ।
@@ -142,10 +152,14 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 আচল গড়? প্ৰায় ছাপন্ন দিন।
 মাত্ৰ প্ৰায় এক-তৃতীয়াংশইহে নিজে কোৱা তাৰিখৰ ভিতৰত কাম শেষ কৰিলে। [short pause] এওঁলোক বুদ্ধিমান, পৰিশ্ৰমী মানুহ আছিল। নিজৰেই কামৰ পৰিকল্পনা কৰি আছিল।
 
+[leaning in] আৰু যদি আপুনি ভাবে বিশেষজ্ঞসকল ইয়াৰ পৰা ৰক্ষা পায়… [short pause] অষ্ট্ৰেলিয়াৰ আটাইতকৈ বিখ্যাত অট্টালিকাটোৱে বেলেগ কথা কয়।
+
 [serious] আৰু এইটো কেৱল ছাত্ৰ-ছাত্ৰীৰ কথা নহয়।
 ছিডনী অপেৰা হাউছৰ কাম যেতিয়া আৰম্ভ হৈছিল, তেতিয়া ইয়াক প্ৰায় চাৰি বছৰত আৰু সত্তৰ লাখ অষ্ট্ৰেলিয়ান ডলাৰত সাজি উলিওৱাৰ কথা আছিল।
 ই মুকলি হ'ল ঊনৈছ শ তিয়াত্তৰ চনত। দহ বছৰ পলমকৈ। প্ৰায় দহ কোটি বিশ লাখ ডলাৰ খৰচত: অনুমানতকৈ প্ৰায় চৌধ্য গুণ।
 [amused] লেখক ডগলাছ হফষ্টাডাৰে ইয়াক লৈ এটা নিয়মেই বনাই দিলে: "কামত সদায় আশা কৰাতকৈ বেছি সময় লাগে, হফষ্টাডাৰৰ নিয়মটো মনত ৰাখিলেও।"
+
+[curious] তেন্তে প্ৰতিটো পৰিকল্পনা ভাঙে কিয়, বিশেষজ্ঞৰো? [short pause] উত্তৰটো লুকাই আছে সেই ঠাইখিনিত, যিটো আপুনি খালী নাৰাখিলে।
 
 [gently] তেন্তে আমি বাৰে বাৰে এনে কিয় কৰোঁ?
 কিয়নো পৰিকল্পনা কৰোঁতে, আমি কামটো ঠিকমতে হোৱা বুলি কল্পনা কৰোঁ। আমি কামটো দেখোঁ… বাধাবোৰ নেদেখোঁ।
@@ -163,5 +177,5 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 [gently] আপোনাৰ পৰিকল্পনা এই কাৰণে বিফল নহয় যে আপুনি দুৰ্বল। বিফল হয়, কাৰণ সেইবোৰ এনে এজন মানুহৰ বাবে লিখা হৈছিল, যিজন আচলতে নাই।
 এই সোমবাৰে, আচল আপোনাৰ বাবে পৰিকল্পনা লিখক।
 [friendly] কমেণ্টত কওক: এই সোমবাৰে আপোনাৰ তালিকাত কেইটা কাম আছিল… আৰু কেইটা শেষ হ'ল?
-আৰু চাবস্ক্ৰাইব কৰক। পিছৰ ভিডিঅ'ত: মাল্টিটাস্কিংৰ আচল কথা।
+[short pause] আৰু পিছৰ ভিডিঅ'ত: মাল্টিটাস্কিংৰ আচল কথা।
 ```
