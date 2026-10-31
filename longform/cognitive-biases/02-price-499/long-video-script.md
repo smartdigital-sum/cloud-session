@@ -5,11 +5,20 @@
 **Voiceover:** English, Hindi, Assamese → [long-video-voice.md](long-video-voice.md) · **Reel version:** [short-reel-script.md](short-reel-script.md)
 **Series:** follows [01 Dunning-Kruger](../01-dunning-kruger/long-video-script.md). Teases 03 (anchoring) next.
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook was a playful puzzle; the stakes for the viewer were implied. | **Hook:** stakes line first ("built to trick your brain… even fool professionals"), then ₹499 vs ₹500. |
+| 0:15–0:40 described the pattern but promised nothing specific. | **Lock-in:** magic box (the brain quirk, the dress that sold more at a higher price, the car dealers) + teased payoff ("a two-second habit that undoes it"). |
+| Beats 3 and 4 started as labels. | **Rehooks** before the car dealers (~1:50) and "when nines backfire" (~2:25). |
+| Outro asked for a comment and a subscribe. | One **CTA** (comment question + next-video tease). |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 One rupee apart
-0:15 Why nothing costs a round number
+0:10 Why nothing costs a round number
 0:40 The left-digit effect
 1:15 The catalogue experiments
 1:50 Even professional car dealers
@@ -20,30 +29,31 @@
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
+Prices ending in nine are built to trick your brain. And they even fool professionals.
 ₹499. ₹500. One rupee apart.
 (pause) So why does one feel like "four hundred-something", and the other feel like "five hundred"?
 
-**[VISUAL]** Two price tags swing side by side on a shop rack: ₹499 and ₹500. A balance scale under them tips dramatically toward ₹500 as if it weighs far more. Close-up on the "4" glowing.
+**[VISUAL]** Frame 1 is already moving: two price tags swing side by side on a shop rack: ₹499 and ₹500. A balance scale under them tips dramatically toward ₹500 as if it weighs far more. Close-up on the "4" glowing.
 
-_Tone: intriguing, playful-mysterious._
+_Tone: firm on line one; playful and intriguing on the puzzle._
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
-Have you ever noticed that almost nothing in a shop costs a round number? ₹99. ₹499. ₹19,999.
-That's not an accident. It's built on a quirk in how your brain reads numbers.
-(pause) And it works on experts too.
+Have you ever noticed that almost nothing in a shop costs a round number? ₹99. ₹499. ₹19,999. That's not an accident.
+In this video: the quirk in how your brain reads numbers, a dress that sold more at a *higher* price, and professional car dealers who fell for it too.
+(pause) And a two-second habit that undoes it.
 
-**[VISUAL]** Fast montage of Indian price displays: a ₹99 store sign, an app sale banner "₹499 ONLY", a phone ad "₹19,999". Every price ends in 9; a small spotlight lands on each final 9. A silhouette of a suit-wearing "expert" appears with a question mark.
+**[VISUAL]** Fast montage of Indian price displays: a ₹99 store sign, an app sale banner "₹499 ONLY", a phone ad "₹19,999"; a spotlight lands on each final 9. Three sealed cards: **YOUR BRAIN · THE DRESS · THE DEALERS**. A glowing card **THE HABIT** stays sealed.
 
-_Tone: curious; a slight mysterious lift on "experts too."_
+_Tone: knowing; playful on "higher"; firm on the last line._
 
 ## MAIN BODY
 
-### Beat 1: The left-digit effect (0:40–1:15)
+### BODY 1: The left-digit effect (0:40–1:15)
 
 **[NARRATION]**
 We read numbers left to right. And the brain gives the first digit far more weight than the rest.
@@ -55,7 +65,7 @@ Quick test: which feels bigger, the gap between ₹299 and ₹300, or between �
 
 _Tone: clear, explanatory._
 
-### Beat 2: The catalogue experiments (1:15–1:50)
+### BODY 2: The catalogue experiments (1:15–1:50)
 
 **[NARRATION]**
 Shops discovered this long before scientists measured it.
@@ -67,7 +77,16 @@ In one test, a dress sold more at $39 than at a cheaper $34.
 
 _Tone: playful surprise on the last line._
 
-### Beat 3: Even professional car dealers (1:50–2:25)
+### REHOOK 1 (1:50)
+
+**[NARRATION]**
+You'd think professionals would be immune. (pause) They're not.
+
+**[VISUAL]** A car lot; a dealer in a suit squints at an odometer.
+
+_Tone: a lift; slightly incredulous._
+
+### BODY 3: Even professional car dealers (1:50–2:25)
 
 **[NARRATION]**
 And it's not just shoppers in a hurry.
@@ -79,7 +98,16 @@ Prices dropped sharply every time the odometer crossed a 10,000-mile mark. A car
 
 _Tone: serious, slightly incredulous on the last line._
 
-### Beat 4: When nines backfire (2:25–3:00)
+### REHOOK 2 (2:25)
+
+**[NARRATION]**
+So should every price end in nine? (pause) Not if you're selling luxury.
+
+**[VISUAL]** A luxury shop window with a clean round price tag.
+
+_Tone: knowing, balanced._
+
+### BODY 4: When nines backfire (2:25–3:00)
 
 **[NARRATION]**
 But nines aren't magic everywhere. A price ending in 9 can also whisper "discount", which is why many luxury shops prefer clean, round numbers.
@@ -90,7 +118,9 @@ And how strong the effect is depends on the product and the shopper. Some studie
 
 _Tone: thoughtful, balanced; knowing on the last line._
 
-## PAYOFF / TWIST (3:00–3:30)
+## CLOSING (3:00–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 So here's your defence. Round up, in your head, every time. ₹499 is ₹500. ₹19,999 is ₹20,000. ₹99 a month is about ₹1,200 a year.
@@ -101,11 +131,13 @@ And compare by unit, not by sticker.
 
 _Tone: warm, empowering (peak); slow last line._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: the comment question, plus the next-video tease. No subscribe ask._
 
 **[NARRATION]**
 Tell me in the comments: what's the silliest "ninety-nine" price you've ever seen?
-And subscribe. Next: why the first number you hear can quietly control your choices, even when it's obviously random.
+(pause) And next: why the first number you hear can quietly control your choices, even when it's obviously random.
 
 **[VISUAL]** Comment prompt surrounded by ₹…99 tags. End screen: next-video card **The First Number You Hear Controls Your Choices** (a spinning wheel of fortune).
 
@@ -117,14 +149,15 @@ _Tone: friendly, playful; mysterious tease._
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Intriguing, playful | Say both prices clearly; lift on the question |
-| Setup | Curious | Rhythm on the list of prices; mysterious "experts too" |
+| Hook | Firm → playful | Plain stakes line; playful puzzle |
+| Lock-in | Knowing → firm | Clear promise; firm "two-second habit" |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | Beat 1 | Clear, explanatory | Even pace |
 | Beat 2 | Playful surprise | Pause before "A higher price, and more buyers." |
 | Beat 3 | Serious, incredulous | Slow the final three short sentences |
 | Beat 4 | Thoughtful, balanced | Knowing last line |
-| Payoff | Warm, empowering (peak) | Steady list of round-ups; slow last line |
-| Outro | Friendly | Mysterious tease |
+| Closing | Warm, empowering (peak) | Steady list of round-ups; slow last line |
+| Close + CTA | Friendly | Mysterious tease |
 
 ## Fact check
 
