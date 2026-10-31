@@ -9,11 +9,20 @@ Countdown format: the main body runs 0:40–3:05 (five items of ~30s each) inste
 
 **Tone rule:** this is about how science corrects itself, not about mocking researchers. Name people only where they are part of the public record (e.g. a co-author's own statement).
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook listed famous ideas; the viewer's stakes were implied. | **Hook:** stakes line first ("you've probably repeated at least one"), then the list. |
+| 0:15–0:40 opened with a series reference and a long explanation. | **Lock-in:** the scientists' own bias + the countdown promise + a tease for #1 ("the biggest of all") + what still stands. |
+| The countdown had no turns. | **Rehooks** before #3 (~1:35) and #1 (~2:35). |
+| Outro asked for a comment and a subscribe. | **CTA:** the comment question, closing the series; no subscribe ask. |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 "Facts" you've probably heard
-0:15 When scientists re-ran the classics
+0:10 When scientists re-ran the classics
 0:40 #5 The marshmallow test
 1:05 #4 Power posing
 1:35 #3 The slow walkers
@@ -25,30 +34,31 @@ Countdown format: the main body runs 0:40–3:05 (five items of ~30s each) inste
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
+Some of the most famous "facts" in psychology fell apart when scientists checked them again. And you've probably repeated at least one.
 Power poses. The marshmallow test. Willpower as a battery.
-(pause) You've probably heard these "facts" in a talk or a self-help book. Some of them fell apart.
+(pause) You've heard them in talks and self-help books. Some of them didn't survive.
 
-**[VISUAL]** Three glossy self-help book covers float in: a superhero pose silhouette, a marshmallow on a plate, a battery icon. A crack runs down each cover; small pieces fall away.
+**[VISUAL]** Frame 1 is already moving: three glossy self-help book covers float in: a superhero pose silhouette, a marshmallow on a plate, a battery icon. A crack runs down each cover; small pieces fall away.
 
-_Tone: intriguing, knowing; quiet weight on "fell apart."_
+_Tone: firm on line one; intriguing and knowing on the list._
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
-This is the finale of our cognitive biases series, and it's about a bias scientists have too: believing exciting results too quickly.
-In the last decade or so, scientists began re-running famous experiments with bigger samples. Some survived. Some didn't.
-(pause) Let's count down five famous findings that didn't hold up the way we were told. And then, what still stands.
+It's about a bias scientists have too: believing exciting results too quickly.
+In the last decade or so, they began re-running famous experiments with bigger samples. Let's count down five that didn't hold up the way we were told.
+(pause) Number one is the biggest of all. And at the end, what still stands.
 
-**[VISUAL]** A lab bench with old journals; a new team in lab coats re-runs an experiment with a much larger crowd of participants. Two stamps alternate on old papers: HELD UP ✓ and DIDN'T HOLD ✗. Countdown card: **5 · 4 · 3 · 2 · 1**.
+**[VISUAL]** A lab bench with old journals; a new team re-runs an experiment with a much larger crowd. Stamps alternate on old papers: HELD UP ✓ and DIDN'T HOLD ✗. Countdown card: **5 · 4 · 3 · 2 · 1**, the 1 covered with a cloth.
 
-_Tone: calm, fair; intriguing lift at the end._
+_Tone: knowing; clear promise; intrigued on "the biggest of all"._
 
 ## MAIN BODY (COUNTDOWN)
 
-### #5 The marshmallow test (0:40–1:05)
+### BODY 1: #5 The marshmallow test (0:40–1:05)
 
 **[NARRATION]**
 Number five: the marshmallow test.
@@ -60,7 +70,7 @@ But in 2018, researchers re-tested the idea with around nine hundred children, a
 
 _Tone: curious, fair; balanced last line._
 
-### #4 Power posing (1:05–1:35)
+### BODY 2: #4 Power posing (1:05–1:35)
 
 **[NARRATION]**
 Number four: power posing.
@@ -72,7 +82,16 @@ But a larger study in 2015 found no hormone changes. And in 2016, one of the ori
 
 _Tone: knowing, respectful; careful on the last line._
 
-### #3 The slow walkers (1:35–2:05)
+### REHOOK 1 (1:35)
+
+**[NARRATION]**
+The next one sounds almost like magic. (pause) Which should have been the first clue.
+
+**[VISUAL]** A wand sparkles over an old journal page, then fizzles.
+
+_Tone: playful, knowing._
+
+### BODY 3: #3 The slow walkers (1:35–2:05)
 
 **[NARRATION]**
 Number three: the slow walkers.
@@ -84,7 +103,7 @@ In 2012, a team in Belgium repeated it, timing the walk with infrared sensors. N
 
 _Tone: mysterious, then a quiet reveal._
 
-### #2 Willpower as a battery (2:05–2:35)
+### BODY 4: #2 Willpower as a battery (2:05–2:35)
 
 **[NARRATION]**
 Number two: willpower as a battery.
@@ -96,7 +115,16 @@ Then in 2016, twenty-three labs tested it together, with about two thousand peop
 
 _Tone: thoughtful, fair; firm last line._
 
-### #1 The 100-study check-up (2:35–3:05)
+### REHOOK 2 (2:35)
+
+**[NARRATION]**
+And number one isn't a single study. (pause) It's a hundred of them.
+
+**[VISUAL]** The cloth whips off the 1: a stack of 100 papers.
+
+_Tone: serious, leaning in._
+
+### BODY 5: #1 The 100-study check-up (2:35–3:05)
 
 **[NARRATION]**
 And number one: the discovery behind all of this.
@@ -107,7 +135,9 @@ In 2015, two hundred and seventy researchers tried to repeat one hundred publish
 
 _Tone: serious, the most weight in the video._
 
-## PAYOFF / TWIST (3:05–3:30)
+## CLOSING (3:05–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 But here's the hopeful twist: science noticed, and fixed its habits. Bigger samples. Plans registered before the data comes in. Many labs testing the same idea.
@@ -118,12 +148,14 @@ And some findings passed: anchoring came back strong across dozens of labs, and 
 
 _Tone: warm, hopeful, authoritative (peak); clear final question._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: the comment question, closing the series. No subscribe ask._
 
 **[NARRATION]**
 That's why, in this series, we always told you when a study was debated.
 Tell me in the comments: which of these five did you believe?
-And subscribe. A new series is coming soon.
+(pause) Thanks for watching the whole series.
 
 **[VISUAL]** A quick grid of the 10 series thumbnails, with small "debated" tags on the ones that discussed replications (01, 04, 07, 10). End screen: full series playlist + "NEW SERIES SOON" card.
 
@@ -135,15 +167,16 @@ _Tone: friendly, grateful; anticipation on the last line._
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Intriguing, knowing | Quiet weight on "fell apart" |
-| Setup | Calm, fair | Lift on "what still stands" |
+| Hook | Firm → knowing | Plain stakes line; knowing list |
+| Lock-in | Knowing → intrigued | Clear promise; lift on "the biggest of all" |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | #5 | Curious, fair | Balanced last line |
 | #4 | Knowing, respectful | Careful last line |
 | #3 | Mysterious → quiet reveal | Slow last line |
 | #2 | Thoughtful, fair | Firm last line |
 | #1 | Serious (most weight) | Slow; pause before the last line |
-| Payoff | Warm, hopeful (peak) | Clear two-part question |
-| Outro | Friendly, grateful | Anticipation |
+| Closing | Warm, hopeful (peak) | Clear two-part question |
+| Close + CTA | Friendly, grateful | Anticipation |
 
 ## Fact check
 
