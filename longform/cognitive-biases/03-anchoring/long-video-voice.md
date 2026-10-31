@@ -9,6 +9,8 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 4. Name files like `cb03-anchoring_EN_s1-hook.wav`.
 
 Prices are written as words so the TTS reads them correctly.
+**Changed (storytelling guide):** a stakes line opens the hook; the setup is replaced by a lock-in (the wheel, the judges, why, one move); two new rehook lines; one CTA, no subscribe ask. Generate 10 sections now (2 rehooks added).
+
 ⚠ Hindi and Assamese are machine-quality translations. Get a native speaker to read them before recording. The Hindi line "क्या इतना देता" uses the male form to match Charon. Test the Assamese hook first.
 
 ---
@@ -16,17 +18,18 @@ Prices are written as words so the TTS reads them correctly.
 
 **Style instructions**
 ```
-You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute psychology video called "The first number you hear controls your choices", about anchoring. Speak directly to one listener ("you"), like a sharp, trusted guide revealing a hidden influence. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses between short lines. Open quiet and mysterious. Be curious on everyday examples, an intrigued storyteller on the wheel experiment, serious on the judges, clear on the explanations, confident that this finding holds up, then warm and empowering on the defence. End friendly. Never sensational.
+You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute psychology video called "The first number you hear controls your choices", about anchoring. Speak directly to one listener ("you"), like a sharp, trusted guide revealing a hidden influence. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses between short lines. Open quiet and mysterious. Be curious on everyday examples, an intrigued storyteller on the wheel experiment, serious on the judges, clear on the explanations, confident that this finding holds up, then warm and empowering on the defence. End friendly. Never sensational. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] The first number you hear quietly controls the numbers you choose after it. Even when it's obviously random.
 [mysterious] A wheel of fortune spins. It lands on ten. Then you're asked a question that has nothing to do with the wheel.
 [short pause] And your answer moves anyway.
 
-[curious] Have you ever noticed how a shopkeeper always names a price first? Or how "MRP nineteen ninety-nine, now nine ninety-nine" makes nine ninety-nine feel like a steal?
-That's anchoring: the first number you hear quietly pulls every number after it. And it works even when you know the number is random.
-[short pause] Let's see how far it goes.
+[knowingly] Have you ever noticed how a shopkeeper always names a price first? Or how a crossed-out MRP makes the sale price feel like a steal? That's anchoring.
+[calm] In this video: a rigged wheel of fortune, judges and loaded dice, and why it works on all of us.
+[short pause] [firmly] And one move that takes the anchor's power away.
 
 [intrigued] In 1974, psychologists Amos Tversky and Daniel Kahneman ran a strange experiment. They spun a wheel of fortune, secretly rigged to stop on either ten or sixty-five.
 Then they asked people: is the percentage of African countries in the United Nations higher or lower than that number? And what's your best guess?
@@ -38,9 +41,13 @@ Before sentencing, the judges rolled dice that were secretly loaded to land on a
 Judges who rolled the higher number gave longer sentences. These weren't students guessing trivia. These were people whose job is to weigh evidence.
 [short pause] The dice had nothing to do with the crime. The judges knew it. And it still mattered.
 
+[curious] So why does a number you know is random still pull you? [short pause] Researchers have two answers.
+
 [thoughtful] Why does this happen? One explanation: when you're unsure, you start from the number in front of you and adjust, but you stop adjusting too early. It's like starting a walk from the wrong door: you move, but you never get far enough away.
 Another: the anchor quietly makes your mind search for reasons that fit it. If someone says nineteen ninety-nine, your brain starts noticing everything that makes the item seem worth a lot.
 [short pause] Either way, the first number becomes the centre of gravity.
+
+[confident] And unlike some famous findings… [short pause] this one held up.
 
 [knowingly] And it's everywhere. The MRP printed above a "sale" price. The first offer in a salary negotiation. The "was four thousand nine hundred and ninety-nine" crossed out in red. Bazaar bargaining, where the first price sets the whole game.
 And unlike some famous findings, this one holds up. In a large 2014 project that re-tested classic effects across dozens of labs, anchoring came back strong.
@@ -51,7 +58,7 @@ Before you shop, decide what something is worth to you. Before a negotiation, wr
 [long pause] The first number isn't a fact. It's a move.
 
 [friendly] Tell me in the comments: what's the most outrageous "original price" you've ever seen crossed out?
-And subscribe. Next: why losing a hundred rupees hurts more than winning a hundred rupees feels good.
+[short pause] And next: why losing a hundred rupees hurts more than winning a hundred rupees feels good.
 ```
 
 ---
@@ -59,17 +66,18 @@ And subscribe. Next: why losing a hundred rupees hurts more than winning a hundr
 
 **Style instructions**
 ```
-You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute psychology video about anchoring: how the first number you hear controls your choices. Speak natural, conversational Hindi (common English words like "MRP", "sale", "offer", "anchor", "lab" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a sharp, trusted guide revealing a hidden influence. Unhurried, with deliberate pauses between short lines. Open quiet and mysterious, curious on everyday examples, intrigued on the wheel experiment, serious on the judges, clear on the explanations, confident that the finding holds up, warm and empowering on the defence. End friendly.
+You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute psychology video about anchoring: how the first number you hear controls your choices. Speak natural, conversational Hindi (common English words like "MRP", "sale", "offer", "anchor", "lab" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a sharp, trusted guide revealing a hidden influence. Unhurried, with deliberate pauses between short lines. Open quiet and mysterious, curious on everyday examples, intrigued on the wheel experiment, serious on the judges, clear on the explanations, confident that the finding holds up, warm and empowering on the defence. End friendly. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] जो पहला नंबर आप सुनते हैं, वो चुपचाप तय करता है कि आप बाद में कौन-से नंबर चुनेंगे। तब भी, जब वो साफ़-साफ़ रैंडम हो।
 [mysterious] एक व्हील ऑफ़ फ़ॉर्च्यून घूमता है। दस पर रुकता है। फिर आपसे एक सवाल पूछा जाता है, जिसका उस व्हील से कोई लेना-देना नहीं।
 [short pause] और फिर भी, आपका जवाब खिसक जाता है।
 
-[curious] क्या आपने कभी ग़ौर किया है, कि दुकानदार हमेशा पहले ख़ुद दाम बताता है? या कैसे "एमआरपी उन्नीस सौ निन्यानवे, अब सिर्फ़ नौ सौ निन्यानवे", नौ सौ निन्यानवे को ज़बरदस्त डील बना देता है?
-इसे "एंकरिंग" कहते हैं: आपका सुना हुआ पहला नंबर, उसके बाद के हर नंबर को चुपचाप अपनी ओर खींचता है। और ये तब भी काम करता है, जब आपको पता हो कि नंबर रैंडम है।
-[short pause] चलिए देखते हैं, ये कहाँ तक जाता है।
+[knowingly] क्या आपने ग़ौर किया है, कि दुकानदार हमेशा पहले दाम बताता है? या कैसे कटी हुई एमआरपी, सेल वाले दाम को सस्ता सौदा बना देती है? इसे कहते हैं एंकरिंग।
+[calm] इस वीडियो में: एक सेट किया हुआ पहिया, जज और पहले से सेट पासे, और ये हम सब पर क्यों काम करता है।
+[short pause] [firmly] और एक क़दम, जो एंकर की ताक़त छीन लेता है।
 
 [intrigued] उन्नीस सौ चौहत्तर में, मनोवैज्ञानिक एमॉस ट्वर्स्की और डेनियल काह्नमैन ने एक अजीब प्रयोग किया। उन्होंने एक व्हील ऑफ़ फ़ॉर्च्यून घुमाया, जिसे चुपके से इस तरह सेट किया गया था, कि वो या तो दस पर रुके, या पैंसठ पर।
 फिर लोगों से पूछा: संयुक्त राष्ट्र में अफ़्रीकी देशों का प्रतिशत, इस नंबर से ज़्यादा है या कम? और आपका सबसे अच्छा अंदाज़ा क्या है?
@@ -81,9 +89,13 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 जिन जजों के पासे पर बड़ा नंबर आया, उन्होंने लंबी सज़ा दी। ये क्विज़ में अंदाज़ा लगाते स्टूडेंट्स नहीं थे। ये वो लोग थे, जिनका काम ही सबूत तौलना है।
 [short pause] पासों का अपराध से कोई लेना-देना नहीं था। जज ये जानते थे। फिर भी, फ़र्क़ पड़ा।
 
+[curious] तो जो नंबर आप जानते हैं कि रैंडम है, वो भी आपको क्यों खींचता है? [short pause] रिसर्चर्स के पास दो जवाब हैं।
+
 [thoughtful] ऐसा होता क्यों है? एक व्याख्या: जब आप पक्के नहीं होते, तो सामने रखे नंबर से शुरू करते हैं, और उससे दूर हटते हैं, पर बहुत जल्दी रुक जाते हैं। जैसे ग़लत दरवाज़े से टहलना शुरू करना: आप चलते तो हैं, पर कभी उतनी दूर नहीं पहुँचते।
 दूसरी व्याख्या: एंकर चुपचाप आपके दिमाग़ को ऐसी वजहें ढूँढने पर लगा देता है, जो उससे मेल खाएँ। अगर कोई कहे "उन्नीस सौ निन्यानवे", तो आपका दिमाग़ वो सब नोटिस करने लगता है, जो चीज़ को क़ीमती दिखाता है।
 [short pause] दोनों ही तरह, पहला नंबर गुरुत्वाकर्षण का केंद्र बन जाता है।
+
+[confident] और कुछ मशहूर नतीजों से अलग… [short pause] ये वाला टिका रहा।
 
 [knowingly] और ये हर जगह है। सेल वाली क़ीमत के ऊपर छपी एमआरपी। सैलरी की बातचीत में पहला ऑफ़र। लाल रंग से कटा हुआ "पहले चार हज़ार नौ सौ निन्यानवे"। बाज़ार का मोल-भाव, जहाँ पहला दाम पूरा खेल तय करता है।
 और कुछ मशहूर नतीजों के उलट, ये वाला टिकता है। दो हज़ार चौदह के एक बड़े प्रोजेक्ट में, जिसने दर्जनों लैब्स में पुराने इफ़ेक्ट्स दोबारा जाँचे, एंकरिंग मज़बूती से दोबारा साबित हुई।
@@ -94,7 +106,7 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 [long pause] पहला नंबर कोई तथ्य नहीं है। वो एक चाल है।
 
 [friendly] कमेंट में बताइए: आपने अब तक की सबसे बेतुकी कटी हुई "असली क़ीमत" कौन-सी देखी है?
-और सब्सक्राइब कीजिए। अगले वीडियो में: सौ रुपये खोने का दर्द, सौ रुपये जीतने की ख़ुशी से ज़्यादा क्यों होता है।
+[short pause] और अगले वीडियो में: सौ रुपये खोने का दर्द, सौ रुपये जीतने की ख़ुशी से ज़्यादा क्यों होता है।
 ```
 
 ---
@@ -102,17 +114,18 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 
 **Style instructions**
 ```
-You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute psychology video about anchoring: how the first number you hear controls your choices. Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a sharp, trusted guide revealing a hidden influence. Unhurried, with deliberate pauses between short lines. Open quiet and mysterious, curious on everyday examples, intrigued on the wheel experiment, serious on the judges, clear on the explanations, confident that the finding holds up, warm and empowering on the defence. End friendly.
+You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute psychology video about anchoring: how the first number you hear controls your choices. Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a sharp, trusted guide revealing a hidden influence. Unhurried, with deliberate pauses between short lines. Open quiet and mysterious, curious on everyday examples, intrigued on the wheel experiment, serious on the judges, clear on the explanations, confident that the finding holds up, warm and empowering on the defence. End friendly. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] আপুনি শুনা প্ৰথম সংখ্যাটোৱে মনে মনে ঠিক কৰে, পিছত আপুনি কোন সংখ্যা বাছিব। আনকি যেতিয়া সেইটো স্পষ্টকৈ ৰেণ্ডম।
 [mysterious] এটা ভাগ্যৰ চকা ঘূৰে। দহত ৰয়। তাৰ পিছত আপোনাক এনে এটা প্ৰশ্ন সোধা হয়, যাৰ সৈতে সেই চকাৰ কোনো সম্পৰ্ক নাই।
 [short pause] তথাপিও, আপোনাৰ উত্তৰটো সলনি হৈ যায়।
 
-[curious] কেতিয়াবা মন কৰিছেনে, দোকানীয়ে সদায় প্ৰথমে নিজেই দাম কয়? বা "এমআৰপি ঊনৈছ শ নিৰানব্বৈ, এতিয়া মাত্ৰ ন শ নিৰানব্বৈ" দেখি ন শ নিৰানব্বৈ কিয় এটা ডাঙৰ লাভ যেন লাগে?
-ইয়াক "এংকৰিং" বোলে: আপুনি শুনা প্ৰথম সংখ্যাটোৱে তাৰ পিছৰ প্ৰতিটো সংখ্যাক মনে মনে নিজৰ ফালে টানে। আৰু ই তেতিয়াও কাম কৰে, যেতিয়া আপুনি জানে যে সংখ্যাটো ৰেণ্ডম।
-[short pause] আহক চাওঁ, ই কিমান দূৰলৈ যায়।
+[knowingly] কেতিয়াবা মন কৰিছেনে, দোকানীয়ে সদায় প্ৰথমে দাম কয়? বা কেনেকৈ কটা এমআৰপিয়ে ছেলৰ দামটোক সস্তা সুযোগ যেন দেখুৱায়? ইয়াক কোৱা হয় এংকৰিং।
+[calm] এই ভিডিঅ'ত: সজোৱা এটা চকা, বিচাৰক আৰু আগতে সজোৱা পাশা, আৰু ই আমাৰ সকলোৰে ওপৰত কিয় কাম কৰে।
+[short pause] [firmly] আৰু এটা পদক্ষেপ, যিয়ে এংকৰৰ শক্তি কাঢ়ি লয়।
 
 [intrigued] ঊনৈছ শ চৌসত্তৰ চনত, মনোবিজ্ঞানী এমছ টভাৰ্স্কি আৰু ডেনিয়েল কানেমানে এটা অদ্ভুত পৰীক্ষা কৰিলে। তেওঁলোকে এটা ভাগ্যৰ চকা ঘূৰালে, যিটো গোপনে এনেকৈ সজোৱা আছিল যে ই হয় দহত, নহয় পঁয়ষষ্ঠিত ৰয়।
 তাৰ পিছত মানুহক সুধিলে: ৰাষ্ট্ৰসংঘত আফ্ৰিকাৰ দেশৰ শতাংশ এই সংখ্যাতকৈ বেছি নে কম? আৰু আপোনাৰ আটাইতকৈ ভাল অনুমান কি?
@@ -124,9 +137,13 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 যিসকল বিচাৰকৰ পাশাত ডাঙৰ সংখ্যা পৰিছিল, তেওঁলোকে দীঘলীয়া শাস্তি দিলে। এওঁলোক কুইজত অনুমান কৰা ছাত্ৰ-ছাত্ৰী নাছিল। এওঁলোক এনে মানুহ, যিসকলৰ কামেই প্ৰমাণ জোখা।
 [short pause] পাশাৰ সৈতে অপৰাধৰ কোনো সম্পৰ্ক নাছিল। বিচাৰকসকলে সেয়া জানিছিল। তথাপিও, প্ৰভাৱ পৰিল।
 
+[curious] তেন্তে যিটো সংখ্যা ৰেণ্ডম বুলি আপুনি জানে, সেইটোৱেও আপোনাক কিয় টানে? [short pause] গৱেষকসকলৰ ওচৰত দুটা উত্তৰ আছে।
+
 [thoughtful] এনে কিয় হয়? এটা ব্যাখ্যা: যেতিয়া আপুনি নিশ্চিত নহয়, আপুনি সন্মুখত থকা সংখ্যাটোৰ পৰা আৰম্ভ কৰে, আৰু তাৰ পৰা আঁতৰি যায়, কিন্তু বহুত সোনকালে ৰৈ যায়। ভুল দুৱাৰৰ পৰা খোজ কাঢ়িবলৈ আৰম্ভ কৰাৰ দৰে: আপুনি আগবাঢ়ে, কিন্তু কেতিয়াও যথেষ্ট দূৰলৈ নাযায়।
 আন এটা ব্যাখ্যা: এংকৰে মনে মনে আপোনাৰ মগজুক তাৰ সৈতে মিলা কাৰণবোৰ বিচাৰিবলৈ লগায়। যদি কোনোবাই "ঊনৈছ শ নিৰানব্বৈ" কয়, আপোনাৰ মগজুৱে বস্তুটো মূল্যৱান যেন দেখুওৱা সকলো কথা মন কৰিবলৈ ধৰে।
 [short pause] দুয়োটা ধৰণেই, প্ৰথম সংখ্যাটো মাধ্যাকৰ্ষণৰ কেন্দ্ৰ হৈ পৰে।
+
+[confident] আৰু কিছুমান বিখ্যাত ফলাফলৰ দৰে নহয়… [short pause] এইটো টিকি থাকিল।
 
 [knowingly] আৰু ই সকলো ঠাইতে আছে। চেলৰ দামৰ ওপৰত ছপা এমআৰপি। দৰমহাৰ আলোচনাত প্ৰথম প্ৰস্তাৱ। ৰঙা ৰঙেৰে কটা "আগতে চাৰি হাজাৰ ন শ নিৰানব্বৈ"। বজাৰৰ দৰদাম, য'ত প্ৰথম দামটোৱে গোটেই খেলখন নিৰ্ধাৰণ কৰে।
 আৰু কিছুমান বিখ্যাত ফলাফলৰ বিপৰীতে, এইটো টিকি থাকে। দুহাজাৰ চৌধ্যৰ এটা ডাঙৰ প্ৰকল্পত, যিয়ে কেইবাকুৰি লেবত পুৰণি প্ৰভাৱবোৰ পুনৰ পৰীক্ষা কৰিছিল, এংকৰিং শক্তিশালীভাৱে পুনৰ প্ৰমাণিত হ'ল।
@@ -137,5 +154,5 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 [long pause] প্ৰথম সংখ্যাটো কোনো সত্য নহয়। ই এটা চাল।
 
 [friendly] কমেণ্টত কওক: আপুনি দেখা আটাইতকৈ অযৌক্তিক কটা "আচল দাম"টো কি আছিল?
-আৰু চাবস্ক্ৰাইব কৰক। পিছৰ ভিডিঅ'ত: এশ টকা হেৰুওৱাৰ দুখ, এশ টকা জিকাৰ আনন্দতকৈ কিয় বেছি।
+[short pause] আৰু পিছৰ ভিডিঅ'ত: এশ টকা হেৰুওৱাৰ দুখ, এশ টকা জিকাৰ আনন্দতকৈ কিয় বেছি।
 ```

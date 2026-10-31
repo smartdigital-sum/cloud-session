@@ -5,11 +5,20 @@
 **Voiceover:** English, Hindi, Assamese → [long-video-voice.md](long-video-voice.md) · **Reel version:** [short-reel-script.md](short-reel-script.md)
 **Series:** follows [02 ₹499](../02-price-499/long-video-script.md). Teases 04 (loss aversion) next.
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook was a quiet, mysterious scene; the stakes for the viewer were implied. | **Hook:** stakes line first ("the first number you hear quietly controls the numbers you choose after it"), then the wheel. |
+| 0:15–0:40 explained anchoring but promised nothing specific. | **Lock-in:** magic box (a rigged wheel, judges and loaded dice, why it works on everyone) + teased payoff ("one move that takes the anchor's power away"). |
+| Beats 3 and 4 started as labels. | **Rehooks** before "why anchors work" (~1:50) and the replication result (~2:25). |
+| Outro asked for a comment and a subscribe. | One **CTA** (comment question + next-video tease). |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 A wheel that changes your answer
-0:15 Why the shopkeeper speaks first
+0:10 Why the shopkeeper speaks first
 0:40 The rigged wheel of fortune
 1:15 Judges and loaded dice
 1:50 Why anchors work
@@ -20,30 +29,31 @@
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
+The first number you hear quietly controls the numbers you choose after it. Even when it's obviously random.
 A wheel of fortune spins. It lands on ten. Then you're asked a question that has nothing to do with the wheel.
 (pause) And your answer moves anyway.
 
-**[VISUAL]** A colourful game-show wheel spins in a dark studio and clicks to a stop on **10**. A question card slides in: "How many…?" A pencil hovers, then writes a small number. Ghostly "10" lingers in the background like a watermark.
+**[VISUAL]** Frame 1 is already moving: a colourful game-show wheel spins in a dark studio and clicks to a stop on **10**. A question card slides in: "How many…?" A pencil hovers, then writes a small number. A ghostly "10" lingers in the background like a watermark.
 
-_Tone: mysterious, quiet; ominous on "moves anyway."_
+_Tone: firm on line one; then quiet and mysterious._
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
-Have you ever noticed how a shopkeeper always names a price first? Or how "MRP ₹1,999, now ₹999" makes ₹999 feel like a steal?
-That's anchoring: the first number you hear quietly pulls every number after it. And it works even when you know the number is random.
-(pause) Let's see how far it goes.
+Have you ever noticed how a shopkeeper always names a price first? Or how a crossed-out MRP makes the sale price feel like a steal? That's anchoring.
+In this video: a rigged wheel of fortune, judges and loaded dice, and why it works on all of us.
+(pause) And one move that takes the anchor's power away.
 
-**[VISUAL]** A bazaar stall: the shopkeeper raises a hand-written price card first. Then an online sale tile: ~~MRP ₹1,999~~ **₹999**. A boat's anchor drops from the crossed-out price and every later number swings toward it on a chain.
+**[VISUAL]** A bazaar stall: the shopkeeper raises a hand-written price card first. An online sale tile: ~~MRP ₹1,999~~ **₹999**. A boat's anchor drops from the crossed-out price. Three sealed cards: **THE WHEEL · THE JUDGES · WHY**. A glowing card **THE MOVE** stays sealed.
 
-_Tone: curious, knowing._
+_Tone: knowing; clear promise; firm on the last line._
 
 ## MAIN BODY
 
-### Beat 1: The rigged wheel of fortune (0:40–1:15)
+### BODY 1: The rigged wheel of fortune (0:40–1:15)
 
 **[NARRATION]**
 In 1974, psychologists Amos Tversky and Daniel Kahneman ran a strange experiment. They spun a wheel of fortune, secretly rigged to stop on either 10 or 65.
@@ -55,7 +65,7 @@ People who saw 10 guessed, on average, about 25 percent. People who saw 65 guess
 
 _Tone: intrigued storyteller; slow on the last two short sentences._
 
-### Beat 2: Judges and loaded dice (1:15–1:50)
+### BODY 2: Judges and loaded dice (1:15–1:50)
 
 **[NARRATION]**
 You might think experts are immune. In 2006, German researchers gave experienced judges a realistic shoplifting case.
@@ -67,7 +77,16 @@ Judges who rolled the higher number gave longer sentences. These weren't student
 
 _Tone: serious; three slow beats at the end._
 
-### Beat 3: Why anchors work (1:50–2:25)
+### REHOOK 1 (1:50)
+
+**[NARRATION]**
+So why does a number you *know* is random still pull you? (pause) Researchers have two answers.
+
+**[VISUAL]** The anchor swings on its chain; two arrows appear beside it.
+
+_Tone: curious, leaning in._
+
+### BODY 3: Why anchors work (1:50–2:25)
 
 **[NARRATION]**
 Why does this happen? One explanation: when you're unsure, you start from the number in front of you and adjust, but you stop adjusting too early. It's like starting a walk from the wrong door: you move, but you never get far enough away.
@@ -78,7 +97,16 @@ Another: the anchor quietly makes your mind search for reasons that fit it. If s
 
 _Tone: thoughtful, clear._
 
-### Beat 4: Anchors everywhere, and a finding that holds up (2:25–3:00)
+### REHOOK 2 (2:25)
+
+**[NARRATION]**
+And unlike some famous findings… (pause) this one held up.
+
+**[VISUAL]** A stack of lab reports; a green check stamps on top.
+
+_Tone: confident._
+
+### BODY 4: Anchors everywhere, and a finding that holds up (2:25–3:00)
 
 **[NARRATION]**
 And it's everywhere. The MRP printed above a "sale" price. The first offer in a salary negotiation. The "was ₹4,999" crossed out in red. Bazaar bargaining, where the first price sets the whole game.
@@ -89,7 +117,9 @@ And unlike some famous findings, this one holds up. In a large 2014 project that
 
 _Tone: knowing, then firm and confident on "This bias is real."_
 
-## PAYOFF / TWIST (3:00–3:30)
+## CLOSING (3:00–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 So how do you fight a number you can't un-hear? Make your own anchor first.
@@ -100,11 +130,13 @@ Before you shop, decide what something is worth to you. Before a negotiation, wr
 
 _Tone: warm, empowering (peak); crisp last line._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: the comment question, plus the next-video tease. No subscribe ask._
 
 **[NARRATION]**
 Tell me in the comments: what's the most outrageous "original price" you've ever seen crossed out?
-And subscribe. Next: why losing ₹100 hurts more than winning ₹100 feels good.
+(pause) And next: why losing ₹100 hurts more than winning ₹100 feels good.
 
 **[VISUAL]** Comment prompt surrounded by crossed-out price tags. End screen: next-video card **Losing ₹100 Hurts More Than Winning ₹100 Feels Good** (a ₹100 note torn vs a ₹100 note gained).
 
@@ -116,14 +148,15 @@ _Tone: friendly; curious tease._
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Mysterious, quiet | Slow; ominous last line |
-| Setup | Curious, knowing | Light on the shop examples |
+| Hook | Firm → mysterious | Plain stakes line; quiet "And your answer moves anyway." |
+| Lock-in | Knowing → firm | Clear promise; firm "one move" |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | Beat 1 | Intrigued storyteller | Clear numbers; slow final beats |
 | Beat 2 | Serious | Three slow beats at the end |
 | Beat 3 | Thoughtful, clear | Even explanation |
 | Beat 4 | Knowing → confident | Firm "This bias is real." |
-| Payoff | Warm, empowering (peak) | Crisp last line |
-| Outro | Friendly | Curious tease |
+| Closing | Warm, empowering (peak) | Crisp last line |
+| Close + CTA | Friendly | Curious tease |
 
 ## Fact check
 
