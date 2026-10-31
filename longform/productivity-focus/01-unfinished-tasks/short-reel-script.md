@@ -1,36 +1,49 @@
 # 01 · Reel: Why Won't Your Brain Let Go?
 
-Short version of [long-video-script.md](long-video-script.md) for YouTube Shorts / Instagram Reels.
-**Format:** 9:16 vertical · **Length:** ~60s · **Words:** ~140 English (calm mentor pace, ~140 wpm)
+Short version of [long-video-script.md](long-video-script.md) for YouTube Shorts / Instagram Reels, written with the *Short-Form Storytelling* guide: Hook → Lock-In → Body → Rehook → Body → Rehook → Body → Closing → CTA.
+**Format:** 9:16 vertical · **Length:** ~60s · **Words:** ~150 English (~150 wpm, short pauses only)
 **Voiceover:** English, Hindi, Assamese → [short-reel-voice.md](short-reel-voice.md) (same voice as the long video: Charon)
 
 Rules: hook on screen + voice in the first 2 seconds, no intro or logo. One idea per scene. The last line asks a question, to get comments and loop viewers back to the start.
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Opened whispered, with a question and no stakes. | **Hook:** subject + stakes in line one ("stealing your sleep"), said firmly. |
+| Went straight into the café with no reason to stay. | **Lock-in:** "the famous experiment… most videos get it wrong". |
+| "But here's the twist" was the only turn. | Two **rehooks** (~0:23 and ~0:38) reset attention. |
+| Ended on advice plus a question. | **Closing** pays off with the plan; **CTA** = full video + question that loops to scene 1. |
+
 ## Scene table
 
-| # | Time | Visual (9:16) | On-screen text | Voiceover (English) |
-|---|---|---|---|---|
-| 1 | 0:00–0:03 | Dark bedroom, face lit by phone glow; sticky notes orbit the head | **WHY WON'T YOUR BRAIN LET GO?** | Why won't your brain let go of the things you *haven't* done? |
-| 2 | 0:03–0:12 | 2D sepia café, Berlin. Waiter with glowing order bubbles; coins drop, one bubble pops | BERLIN · 1920s | Berlin, the 1920s. A waiter remembers every unpaid order, with no notepad. The moment the bill is paid… he forgets it. |
-| 3 | 0:12–0:21 | Task cards; half get a red STOP stamp; interrupted cards float up into a memory cloud | ZEIGARNIK EFFECT · 1927 | Psychologist Bluma Zeigarnik tested it. People remembered interrupted tasks far more often than finished ones. She published it in 1927. |
-| 4 | 0:21–0:31 | Record-scratch glitch. "Memory" bar shrinks with a "?"; a magnet pulls a half-built clay figure back into frame | **THE TWIST** → THE URGE TO FINISH | But here's the twist. A 2025 review found that memory effect isn't reliable. What *is*? The urge to go back and finish. |
-| 5 | 0:31–0:41 | Phone with dozens of open apps; battery drains red; then the head full of glowing loops | OPEN LOOPS DRAIN YOU | And that urge costs you. In a 2011 study, an unfinished task kept pulling people's thoughts away, and made them worse at puzzles. |
-| 6 | 0:41–0:50 | Notebook: WHAT · WHEN · WHERE writes itself; one loop closes with a soft click | THE FIX: A PLAN | The fix wasn't finishing it. It was a plan: what, when, where. Your brain just needs to *trust* it'll get done. |
-| 7 | 0:50–1:00 | Hand writes a short list by lamplight; lamp clicks off; cut back to the sticky notes of scene 1, now still | WHAT'S YOUR OPEN LOOP? 👇 | So tonight, write tomorrow's list, and close the loop on paper. What's the one task stuck in *your* head? Tell me below. |
+| # | Part | Time | Visual (9:16) | On-screen text | Voiceover (English) |
+|---|---|---|---|---|---|
+| 1 | Hook | 0:00–0:04 | Dark bedroom, face lit by phone glow; sticky notes orbit the head, pulsing | **YOUR UNFINISHED TASKS WON'T LET YOU SLEEP** | Your unfinished tasks are stealing your sleep, and your brain won't let them go. |
+| 2 | Lock-in | 0:04–0:10 | Notes freeze; sepia café sign swings in; a "WRONG" stamp hovers over a lab card | **MOST VIDEOS GET THIS WRONG** | A waiter in 1920s Berlin showed why. But the famous experiment that followed? Most videos get it wrong. |
+| 3 | Body 1 | 0:10–0:22 | Waiter with glowing order bubbles; coins drop, one bubble pops; task cards with red STOP stamps float up | ZEIGARNIK EFFECT · 1927 | The waiter remembered every unpaid order, no notepad. The moment the bill was paid, he forgot it. In 1927, Bluma Zeigarnik tested it: interrupted tasks were remembered far more often. |
+| 4 | Rehook 1 | 0:22–0:25 | Record-scratch glitch | **HERE'S WHAT THEY SKIP** | Here's what most videos skip. |
+| 5 | Body 2 | 0:25–0:34 | "Memory" bar shrinks with a "?"; a magnet pulls a half-built clay figure back into frame | THE URGE TO FINISH | A 2025 review found that memory effect isn't reliable. What did hold up? The urge to go back and finish. |
+| 6 | Rehook 2 | 0:34–0:37 | A price tag flips onto the glowing loop | IT HAS A PRICE | And that urge has a price. |
+| 7 | Body 3 | 0:37–0:45 | Phone with dozens of open apps; battery drains red | OPEN LOOPS DRAIN YOU | In a 2011 study, an unfinished task kept pulling people's thoughts away, and made them worse at puzzles. |
+| 8 | Closing | 0:45–0:54 | Notebook: WHAT · WHEN · WHERE writes itself; loops close with soft clicks; lamp clicks off | THE FIX: A PLAN | The fix wasn't finishing it. It was a plan: what, when, where. So tonight, write tomorrow's list. |
+| 9 | CTA | 0:54–1:00 | Question pops up over the dark bedroom, then cut to scene 1 | WHAT'S YOUR OPEN LOOP? 👇 | Full story's linked below. So, what's the one task stuck in your head? |
 
-**Loop:** scene 7 ends on the same bedroom and sticky notes as scene 1, so a replay feels seamless.
+**Loop:** scene 9 ends on the same bedroom and sticky notes as scene 1, so a replay feels seamless.
 
 ## Voice direction
 
 | # | Emotion | Delivery |
 |---|---|---|
-| 1 | Intimate, restless | Low, near-whisper; lift on "haven't" |
-| 2 | Playful curiosity | Storyteller; pause before "he forgets it" |
-| 3 | Clear, explanatory | Steady; stress "far more often" |
-| 4 | Surprise → weight | Snap on "twist"; build on "the urge to go back" |
-| 5 | Serious | Slowest scene; weight on "costs you" |
-| 6 | Warm certainty (peak) | Pause before "trust"; land it softly |
-| 7 | Gentle, friendly | Practical, then a smile on the question |
+| 1 | Firm, close | No whisper; weight on "stealing your sleep" |
+| 2 | Intrigued | Storyteller lean-in; lift on "most videos get it wrong" |
+| 3 | Playful → clear | Pause before "he forgot it"; stress "far more often" |
+| 4 | Knowing | Short, conspiratorial |
+| 5 | Honest surprise | Plain on "isn't reliable"; build on "the urge to go back" |
+| 6 | Serious | Slow, weighted |
+| 7 | Serious | Steady; weight on "worse" |
+| 8 | Warm certainty (peak) | Slow on "what, when, where" |
+| 9 | Friendly | Quick on the link; curious question |
 
 ## Facts
 Same sources as the long video (see the fact-check table in [long-video-script.md](long-video-script.md)). ⚠ "far more often" stays vague on purpose: the exact "nearly twice" figure is still unverified.

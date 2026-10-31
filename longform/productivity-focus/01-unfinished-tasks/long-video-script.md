@@ -4,46 +4,53 @@
 **Narration style:** calm, deep, wise mentor; second person; short lines; deliberate pauses; empowering close
 **Voiceover:** English, Hindi, Assamese → [long-video-voice.md](long-video-voice.md) · **Reel version:** [short-reel-script.md](short-reel-script.md)
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook was whispered, and the subject arrived only as a question at 0:12. | **Hook:** subject + stakes in sentence one ("stealing your sleep and your focus"), said firmly. |
+| 0:15–0:40 reassured ("not weak, not lazy") but gave no reason to stay. | **Lock-in:** magic box (waiter → experiment → a twist most videos get wrong) + teased payoff ("a five-minute fix… it isn't finishing the task"). |
+| Beats were labelled, not hooked. | **Rehooks** at ~1:35 and ~2:15 open a new loop each time. |
+| Outro asked for a comment *and* a subscribe *and* teased the next video. | **Closing** pays off the hook (the plan + tonight's list); one **CTA** (comment question + next-video tease). |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 Why your mind won't switch off
-0:40 The waiter who never wrote anything down
-1:15 The 1927 experiment
-1:45 What science found 100 years later
-2:20 The hidden cost of open loops
-3:00 The fix
-3:30 Try this tonight
+0:30 The waiter who never wrote anything down
+1:05 The 1927 experiment
+1:35 What most videos get wrong
+2:15 The hidden cost of open loops
+2:55 The fix (it isn't finishing)
+3:25 Try this tonight
 ```
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
-It's midnight. Your body is done… but your mind is still running.
-The message you never replied to. The work you didn't start.
-(pause) Why do the things you *haven't* done shout louder than everything you *have*?
+The tasks you haven't finished are stealing your sleep and your focus.
+It's midnight. Your body is done… and your mind is still replaying the message you never answered.
 
-**[VISUAL]** Dark bedroom, a figure lying awake in phone glow. Sticky notes ("reply to Riya", "assignment", "call bank") peel off the wall and orbit the figure's head, getting louder (speech-bubble pulses).
+**[VISUAL]** Frame 1 is already moving: a dark bedroom, a figure lying awake in phone glow. Sticky notes ("reply to Riya", "assignment", "call bank") peel off the wall and orbit the head, pulsing louder.
 
-_Tone: low, intimate, almost a whisper; a slight lift on the question._
+_Tone: firm and close on line one, not whispered; quieter and slower on "midnight"._
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:30)
 
 **[NARRATION]**
-This isn't you being weak. It isn't you being lazy.
-It's a pattern psychologists have been studying for nearly a hundred years.
-And once you understand it, you can use it. You can switch the noise off.
-(pause) It starts in Berlin, in the 1920s… with a waiter who never wrote anything down.
+Psychologists have chased this for almost a hundred years.
+It started with a waiter who never wrote anything down. Then a famous experiment. Then, in 2025, a twist that most videos about it still get wrong.
+And at the end, I'll give you a five-minute fix you can try tonight. (pause) It isn't finishing the task.
 
-**[VISUAL]** The sticky notes freeze mid-air. The bedroom dissolves into a sepia 1920s Berlin street, a café sign swinging. Title card: **BERLIN · 1920s**.
+**[VISUAL]** The sticky notes freeze. Three sealed cards slide in: **THE WAITER · THE EXPERIMENT · THE TWIST**. A fourth glowing card, **THE FIX**, drops in and stays sealed. A "JUST FINISH IT" badge is crossed out on the last line. The bedroom dissolves into a sepia 1920s Berlin street. Title card: **BERLIN · 1920s**.
 
-_Tone: reassuring on "not weak, not lazy", then a storyteller's lean-in on the last line._
+_Tone: intrigued, building; three quick beats on the three cards; slow and firm on "It isn't finishing the task."_
 
 ## MAIN BODY
 
-### Beat 1: The waiter (0:40–1:15)
+### BODY 1: The waiter (0:30–1:05)
 
 **[NARRATION]**
 As the story goes, a group of psychologists sat in a café. Among them: Kurt Lewin… and his student, Bluma Zeigarnik.
@@ -56,7 +63,7 @@ Zeigarnik wanted to know: is this true for everyone?
 
 _Tone: playful curiosity on the café story; a beat of silence before "Completely."_
 
-### Beat 2: The experiment (1:15–1:45)
+### BODY 2: The experiment (1:05–1:35)
 
 **[NARRATION]**
 So she ran an experiment. People were given a series of small tasks: puzzles, sums, little clay figures.
@@ -70,7 +77,9 @@ She published it in 1927. Today, we call it the Zeigarnik effect.
 
 _Tone: steady, explanatory; a knowing smile on "the part most videos skip."_
 
-### Beat 3: Science gets honest (1:45–2:20)
+### REHOOK 1 (1:35): "But here's the part most videos skip" (last line of Body 2)
+
+### BODY 3: What most videos get wrong (1:35–2:15)
 
 **[NARRATION]**
 In 2025, researchers gathered nearly a century of these studies and checked them all again.
@@ -83,7 +92,9 @@ So your mind may not remember every open task… but it keeps *pulling* you back
 
 _Tone: honest, slightly surprised on "didn't hold up"; build weight on "even more powerful."_
 
-### Beat 4: The hidden cost (2:20–3:00)
+### REHOOK 2 (2:15): "And that pull has a price"
+
+### BODY 4: The hidden cost (2:15–2:55)
 
 **[NARRATION]**
 And that pull has a price.
@@ -97,7 +108,9 @@ Now imagine every half-done thing in your life… running at the same time.
 
 _Tone: serious and grounded; slow down on "quietly draining your battery"; hopeful lift on the last line._
 
-## PAYOFF / TWIST (3:00–3:30)
+## CLOSING: The fix (2:55–3:40)
+
+_Pays off the lock-in: the fix isn't finishing the task._
 
 **[NARRATION]**
 The people who escaped it had not finished their task.
@@ -110,14 +123,17 @@ A clear plan is a promise your mind believes.
 
 _Tone: the emotional peak, warm and certain; long pause before "trust"; land the last line slowly._
 
-## OUTRO (3:30–4:00)
+### Tonight (closing, part 2)
 
 **[NARRATION]**
 So tonight, try this. Before bed, take five minutes and write tomorrow's to-do list. Be specific.
 In one sleep study, people who did this fell asleep faster than people who wrote about tasks they'd already finished.
 Close the loop on paper… so your mind can finally let go.
-Now tell me in the comments: what's the one unfinished task living in your head right now?
-And subscribe. Next, we find out why we put these tasks off in the first place.
+
+## CTA (3:40–3:55)
+
+**[NARRATION]**
+Tell me in the comments: what's the one unfinished task living in your head right now? (pause) And next, we find out why we put these tasks off in the first place.
 
 **[VISUAL]** Back in the opening bedroom, now calm. A hand writes a short list by lamplight; the lamp clicks off; the figure falls asleep. End screen: comment prompt "What's YOUR open loop?" + next-video card **Procrastination Isn't Laziness**.
 
@@ -129,14 +145,14 @@ _Tone: gentle, practical; a warm smile on the comment question; quiet confidence
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Intimate, restless | Low and slow, near-whisper; lift on the final question |
-| Setup | Reassuring → intrigued | Firm comfort on "not weak, not lazy"; lean in on the café teaser |
+| Hook | Firm, close | No whisper. Weight on "stealing"; quieter on "midnight" |
+| Lock-in | Intrigued, building | Three quick beats; slow, firm "It isn't finishing the task." |
 | Beat 1 | Playful curiosity | Storyteller pace; pause before "Completely"; stress *open* / *closed* |
 | Beat 2 | Clear, explanatory | Steady; punch "twice"; knowing smile on the last line |
 | Beat 3 | Honest surprise → weight | Slight drop on "didn't hold up"; build on "even more powerful" |
 | Beat 4 | Serious, grounded | Slowest section; let the battery image breathe; hopeful lift at the end |
-| Payoff | Warm certainty (peak) | Long pause before "trust"; final line slow and quiet |
-| Outro | Gentle, practical | Friendly on the CTA; calm, confident close |
+| Closing | Warm certainty (peak) | Long pause before "trust"; final line slow and quiet |
+| CTA | Friendly | One question, warm smile; curious lift on the next-video tease |
 
 ## Fact check
 

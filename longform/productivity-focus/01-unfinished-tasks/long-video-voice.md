@@ -1,4 +1,6 @@
 # Google AI Studio prompts: 01 Why Your Unfinished Tasks Won't Leave Your Head
+
+**Changed (storytelling guide):** firm hook with the stakes in line one (no whisper); the reassurance setup is replaced by a lock-in (waiter → experiment → twist, plus a fix that "isn't finishing the task"); one CTA, no subscribe ask. Body lines are unchanged.
 Niche: Self-improvement (wise mentor) | Voice: **Charon** (also try Gacrux, Algenib) | Target: ~3:50–4:15 per language
 Use the same voice for all three languages. AI Studio steps and fixes: [../../../voice/google-ai-studio-tts.md](../../../voice/google-ai-studio-tts.md)
 
@@ -15,19 +17,17 @@ Use the same voice for all three languages. AI Studio steps and fixes: [../../..
 
 **Style instructions**
 ```
-You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video about why unfinished tasks won't leave your head. Speak directly to one listener ("you"), like a trusted older friend at night. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses between short lines. Start low and intimate, almost a whisper. Tell the café story with gentle curiosity, explain the science clearly and honestly, become serious and slow when describing the hidden cost, then rise to warm, certain reassurance at "It needs to trust that it will be done." End gently and practically, with a friendly smile on the comment question. Never sound like an advert or a news reader.
+You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video about why unfinished tasks won't leave your head. Speak directly to one listener ("you"), like a trusted older friend at night. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses between short lines. Open firm and close to the mic, never whispered, then soften on the midnight image. Build intrigue as you tease the waiter, the experiment and the twist. Tell the café story with gentle curiosity, explain the science clearly and honestly, become serious and slow when describing the hidden cost, then rise to warm, certain reassurance at "It needs to trust that it will be done." End gently and practically, with a friendly smile on the comment question. Never sound like an advert or a news reader.
 ```
 
 **Text**
 ```
-[whispers] It's midnight. Your body is done… but your mind is still running.
-The message you never replied to. The work you didn't start.
-[short pause] Why do the things you haven't done shout louder than everything you have?
+[firmly] The tasks you haven't finished are stealing your sleep and your focus.
+[quieter] It's midnight. Your body is done… and your mind is still replaying the message you never answered.
 
-[reassuring] This isn't you being weak. It isn't you being lazy.
-It's a pattern psychologists have been studying for nearly a hundred years.
-And once you understand it, you can use it. You can switch the noise off.
-[short pause] It starts in Berlin, in the 1920s… with a waiter who never wrote anything down.
+[intrigued] Psychologists have chased this for almost a hundred years.
+It started with a waiter who never wrote anything down. Then a famous experiment. Then, in 2025, a twist that most videos about it still get wrong.
+And at the end, I'll give you a five-minute fix you can try tonight. [short pause] [firmly] It isn't finishing the task.
 
 [curious] As the story goes, a group of psychologists sat in a café. Among them: Kurt Lewin… and his student, Bluma Zeigarnik.
 They noticed something strange. Their waiter remembered every order perfectly, with no notepad, as long as the bill was still unpaid.
@@ -64,8 +64,7 @@ A clear plan is a promise your mind believes.
 [gently] So tonight, try this. Before bed, take five minutes and write tomorrow's to-do list. Be specific.
 In one sleep study, people who did this fell asleep faster than people who wrote about tasks they'd already finished.
 Close the loop on paper… so your mind can finally let go.
-[friendly] Now tell me in the comments: what's the one unfinished task living in your head right now?
-And subscribe. Next, we find out why we put these tasks off in the first place.
+[friendly] Tell me in the comments: what's the one unfinished task living in your head right now? [short pause] And next, we find out why we put these tasks off in the first place.
 ```
 
 ---
@@ -73,19 +72,17 @@ And subscribe. Next, we find out why we put these tasks off in the first place.
 
 **Style instructions**
 ```
-You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video about why unfinished tasks won't leave your head. Speak natural, conversational Hindi (common English words like "task", "plan", "to-do list" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a trusted older friend at night. Unhurried, with deliberate pauses between short lines. Start low and intimate, almost a whisper. Tell the café story with gentle curiosity, explain the science clearly and honestly, become serious and slow when describing the hidden cost, then rise to warm, certain reassurance at the line about trust. End gently and practically, with a friendly smile on the comment question.
+You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video about why unfinished tasks won't leave your head. Speak natural, conversational Hindi (common English words like "task", "plan", "to-do list" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a trusted older friend at night. Unhurried, with deliberate pauses between short lines. Open firm and close to the mic, never whispered, then soften on the midnight image. Build intrigue as you tease the waiter, the experiment and the twist. Tell the café story with gentle curiosity, explain the science clearly and honestly, become serious and slow when describing the hidden cost, then rise to warm, certain reassurance at the line about trust. End gently and practically, with a friendly smile on the comment question.
 ```
 
 **Text**
 ```
-[whispers] आधी रात है। शरीर थक चुका है… पर दिमाग़ अब भी दौड़ रहा है।
-वो मैसेज, जिसका जवाब नहीं दिया। वो काम, जो शुरू ही नहीं किया।
-[short pause] जो काम आपने नहीं किए, वो उन सब कामों से ज़्यादा शोर क्यों मचाते हैं, जो आपने कर लिए?
+[firmly] जो काम आपने पूरे नहीं किए, वो आपकी नींद और आपका फ़ोकस चुरा रहे हैं।
+[quieter] आधी रात है। शरीर थक चुका है… और दिमाग़ अब भी वो मैसेज दोहरा रहा है, जिसका जवाब आपने नहीं दिया।
 
-[reassuring] ये आपकी कमज़ोरी नहीं है। ये आलस भी नहीं है।
-ये एक ऐसा पैटर्न है, जिसे मनोवैज्ञानिक लगभग सौ साल से समझ रहे हैं।
-और एक बार आप इसे समझ गए, तो इसे इस्तेमाल कर सकते हैं। ये शोर बंद कर सकते हैं।
-[short pause] कहानी शुरू होती है उन्नीस सौ बीस के दशक के बर्लिन से… एक ऐसे वेटर से, जो कभी कुछ लिखता ही नहीं था।
+[intrigued] मनोवैज्ञानिक लगभग सौ साल से इसके पीछे हैं।
+शुरुआत हुई एक ऐसे वेटर से, जो कभी कुछ लिखता नहीं था। फिर एक मशहूर प्रयोग। और फिर, दो हज़ार पच्चीस में, एक ट्विस्ट, जिसे ज़्यादातर वीडियो आज भी ग़लत बताते हैं।
+और आख़िर में, मैं आपको पाँच मिनट का एक तरीक़ा दूँगा, जो आप आज रात ही आज़मा सकते हैं। [short pause] [firmly] और वो काम पूरा करना नहीं है।
 
 [curious] कहते हैं, कुछ मनोवैज्ञानिक एक कैफ़े में बैठे थे। उनमें थे कर्ट लेविन… और उनकी स्टूडेंट, ब्लूमा ज़ायगार्निक।
 उन्होंने कुछ अजीब देखा। उनका वेटर बिना नोटपैड के हर ऑर्डर बिल्कुल सही याद रखता था… जब तक बिल नहीं चुका था।
@@ -122,8 +119,7 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video abou
 [gently] तो आज रात, ये आज़माइए। सोने से पहले, पाँच मिनट निकालिए और कल की टू-डू लिस्ट लिखिए। साफ़-साफ़।
 एक स्लीप स्टडी में, जिन लोगों ने ऐसा किया, वो उन लोगों से जल्दी सो गए, जिन्होंने पूरे हो चुके कामों के बारे में लिखा था।
 अपने लूप काग़ज़ पर बंद कीजिए… ताकि आपका दिमाग़ आख़िरकार उन्हें छोड़ सके।
-[friendly] अब कमेंट में बताइए: वो कौन-सा एक अधूरा काम है, जो अभी आपके दिमाग़ में घूम रहा है?
-और सब्सक्राइब कीजिए। अगले वीडियो में जानेंगे, हम ये काम टालते ही क्यों हैं।
+[friendly] कमेंट में बताइए: वो कौन-सा एक अधूरा काम है, जो अभी आपके दिमाग़ में घूम रहा है? [short pause] और अगले वीडियो में जानेंगे, हम ये काम टालते ही क्यों हैं।
 ```
 
 ---
@@ -131,19 +127,17 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video abou
 
 **Style instructions**
 ```
-You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video about why unfinished tasks won't leave your head. Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a trusted older friend at night. Unhurried, with deliberate pauses between short lines. Start low and intimate, almost a whisper. Tell the café story with gentle curiosity, explain the science clearly and honestly, become serious and slow when describing the hidden cost, then rise to warm, certain reassurance at the line about trust. End gently and practically, with a friendly smile on the comment question.
+You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video about why unfinished tasks won't leave your head. Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a trusted older friend at night. Unhurried, with deliberate pauses between short lines. Open firm and close to the mic, never whispered, then soften on the midnight image. Build intrigue as you tease the waiter, the experiment and the twist. Tell the café story with gentle curiosity, explain the science clearly and honestly, become serious and slow when describing the hidden cost, then rise to warm, certain reassurance at the line about trust. End gently and practically, with a friendly smile on the comment question.
 ```
 
 **Text**
 ```
-[whispers] মাজনিশা। শৰীৰটো ভাগৰি পৰিছে… কিন্তু মনটো এতিয়াও দৌৰি আছে।
-উত্তৰ নিদিয়া সেই মেছেজটো। আৰম্ভই নকৰা সেই কামটো।
-[short pause] যিবোৰ কাম আপুনি কৰা নাই, সেইবোৰে কিয় কৰি পেলোৱা সকলো কামতকৈ বেছি জোৰেৰে চিঞৰে?
+[firmly] যিবোৰ কাম আপুনি শেষ কৰা নাই, সেইবোৰে আপোনাৰ টোপনি আৰু মনোযোগ চুৰ কৰি আছে।
+[quieter] মাজনিশা। শৰীৰটো ভাগৰি পৰিছে… আৰু মগজুৱে এতিয়াও সেই মেছেজটোৰ কথা ভাবি আছে, যাৰ উত্তৰ আপুনি দিয়া নাই।
 
-[reassuring] এইটো আপোনাৰ দুৰ্বলতা নহয়। এলাহো নহয়।
-এইটো এনে এটা আৰ্হি, যিটো মনোবিজ্ঞানীসকলে প্ৰায় এশ বছৰ ধৰি অধ্যয়ন কৰি আছে।
-এবাৰ বুজি পালে, আপুনি ইয়াক ব্যৱহাৰ কৰিব পাৰিব। এই কোলাহল বন্ধ কৰিব পাৰিব।
-[short pause] কাহিনীটো আৰম্ভ হয় ঊনৈছ শ বিশৰ দশকৰ বাৰ্লিনত… এজন ৱেইটাৰৰ পৰা, যিয়ে কেতিয়াও একো লিখি নলৈছিল।
+[intrigued] মনোবিজ্ঞানীসকলে প্ৰায় এশ বছৰ ধৰি ইয়াৰ পিছত লাগি আছে।
+আৰম্ভণি হৈছিল এজন ৱেইটাৰৰ পৰা, যিয়ে একো লিখি নাৰাখিছিল। তাৰ পিছত এটা বিখ্যাত পৰীক্ষা। আৰু তাৰ পিছত, দুহাজাৰ পঁচিশত, এটা টুইষ্ট, যিটো বেছিভাগ ভিডিঅ'ই আজিও ভুলকৈ কয়।
+আৰু শেষত, মই আপোনাক পাঁচ মিনিটৰ এটা উপায় দিম, যিটো আপুনি আজি ৰাতিয়েই চাব পাৰে। [short pause] [firmly] আৰু সেয়া কামটো শেষ কৰা নহয়।
 
 [curious] কোৱা হয়, কেইজনমান মনোবিজ্ঞানী এখন কেফেত বহি আছিল। তেওঁলোকৰ মাজত আছিল কাৰ্ট লেভিন… আৰু তেওঁৰ ছাত্ৰী, ব্লুমা জেইগাৰ্নিক।
 তেওঁলোকে এটা আচৰিত কথা মন কৰিলে। ৱেইটাৰজনে নোটপেড নোহোৱাকৈয়ে প্ৰতিটো অৰ্ডাৰ নিখুঁতকৈ মনত ৰাখিছিল… যেতিয়ালৈকে বিলৰ পইচা দিয়া হোৱা নাছিল।
@@ -180,8 +174,7 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video abou
 [gently] গতিকে আজি ৰাতি, এইটো চেষ্টা কৰক। শোৱাৰ আগতে পাঁচ মিনিট সময় লওক, আৰু কাইলৈৰ কামৰ তালিকা লিখক। স্পষ্টকৈ।
 এটা টোপনিৰ অধ্যয়নত, যিসকলে এনে কৰিছিল, তেওঁলোকে শেষ কৰা কামৰ বিষয়ে লিখা লোকসকলতকৈ সোনকালে টোপনি গৈছিল।
 আপোনাৰ লুপবোৰ কাগজতে বন্ধ কৰক… যাতে আপোনাৰ মনে অৱশেষত সেইবোৰ এৰি দিব পাৰে।
-[friendly] এতিয়া কমেণ্টত কওক: কোনটো আধৰুৱা কাম এই মুহূৰ্তত আপোনাৰ মনত ঘূৰি আছে?
-আৰু চাবস্ক্ৰাইব কৰক। পিছৰ ভিডিঅ'ত জানিম, আমি এই কামবোৰ পিছুৱাই দিওঁ কিয়।
+[friendly] কমেণ্টত কওক: কোনটো আধৰুৱা কাম এই মুহূৰ্তত আপোনাৰ মনত ঘূৰি আছে? [short pause] আৰু পিছৰ ভিডিঅ'ত জানিম, আমি এই কামবোৰ পিছুৱাই দিওঁ কিয়।
 ```
 
 ---
