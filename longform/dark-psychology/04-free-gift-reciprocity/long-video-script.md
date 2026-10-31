@@ -5,11 +5,20 @@
 **Voiceover:** English, Hindi, Assamese → [long-video-voice.md](long-video-voice.md) · **Reel version:** [short-reel-script.md](short-reel-script.md)
 **Series:** follows [03 Door-in-the-face](../03-door-in-the-face/long-video-script.md). Teases 05 (authority) next.
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook was a story with the stakes only in line 3. | **Hook:** stakes line first ("can buy a much bigger yes than it cost"), then the drink. |
+| 0:15–0:40 explained reciprocity but promised nothing specific. | **Lock-in:** magic box (the 1971 drink, why the pull is strong, "free" offers that are bait) + teased payoff ("keep the gift and still say no"). |
+| Beats 3 and 4 started as labels. | **Rehooks** before everyday offers (~1:50) and "not every gift is a trap" (~2:25). |
+| Outro asked for a comment and a subscribe. | One **CTA** (comment question + next-video tease). |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 A free drink, then a request
-0:15 The rule of repaying
+0:10 The rule of repaying
 0:40 The 1971 Coke experiment
 1:15 Why the pull is so strong
 1:50 Sweets, samples and "helpful" strangers
@@ -20,30 +29,32 @@
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
+A free gift can buy a much bigger yes from you than it ever cost.
 A stranger hands you a free cold drink. A few minutes later, he asks you to buy raffle tickets for his cause.
 (pause) In one famous experiment, people in your place bought about *twice* as many. The drink was the reason.
 
-**[VISUAL]** A friendly figure holds out a chilled bottle with a bow on it. The viewer-figure takes it and smiles. Minutes later, a fan of raffle tickets appears in the stranger's other hand. Zoom in on the bow: it's tied to a tiny fishing hook.
+**[VISUAL]** Frame 1 is already moving: a friendly figure holds out a chilled bottle with a bow on it; the viewer-figure takes it and smiles. Minutes later, a fan of raffle tickets appears in the stranger's other hand. Zoom in on the bow: it's tied to a tiny fishing hook.
 
-_Tone: curious, slightly mysterious; land "twice"._
+_Tone: firm on line one; curious and slightly mysterious on the story._
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
-Have you ever noticed how hard it is to walk out of a shop after they've offered you free tea? Or to refuse someone who's just done you a small favour?
-That's reciprocity: the feeling that we must repay what we're given. It's one of the oldest rules of human life, and one of the easiest to exploit.
-(pause) So how does a tiny gift turn into a big "yes"?
+Have you ever found it hard to walk out of a shop after they've offered you free tea?
+That's reciprocity: the feeling that we must repay what we're given.
+In this video: a 1971 experiment with a drink worth a few cents, why the pull is so strong, and the "free" offers that are really bait.
+(pause) And the one sentence that lets you keep the gift, and still say no.
 
-**[VISUAL]** A cosy shop: a cup of tea is set down, and the shopkeeper unrolls fabric after fabric. The viewer-figure glances at the door, then back at the tea. Title card: **RECIPROCITY**, with a balance scale that tips toward "REPAY".
+**[VISUAL]** A cosy shop: a cup of tea is set down, and the shopkeeper unrolls fabric after fabric. Title card: **RECIPROCITY**, a balance scale tipping toward "REPAY". Three sealed cards: **1971 · WHY · BAIT**. A glowing card **THE SENTENCE** stays sealed.
 
-_Tone: knowing, warm; curious last line._
+_Tone: knowing on the shop; clear promise; warm and firm on "still say no"._
 
 ## MAIN BODY
 
-### Beat 1: The 1971 Coke experiment (0:40–1:15)
+### BODY 1: The 1971 Coke experiment (0:40–1:15)
 
 **[NARRATION]**
 In 1971, psychologist Dennis Regan ran an experiment at Cornell University. Participants thought they were simply rating paintings, alongside another student who was secretly working with the researcher.
@@ -55,7 +66,7 @@ Later, he asked each participant to buy raffle tickets, at twenty-five cents eac
 
 _Tone: intrigued storyteller; pointed last line._
 
-### Beat 2: Why the pull is so strong (1:15–1:50)
+### BODY 2: Why the pull is so strong (1:15–1:50)
 
 **[NARRATION]**
 Sociologist Alvin Gouldner argued that some version of this rule, "repay what you receive", is found across human societies. It's how people learn to trust and cooperate.
@@ -67,7 +78,16 @@ And the debt can feel bigger than the gift. In Regan's study, many people paid b
 
 _Tone: thoughtful; quiet emphasis on the last line._
 
-### Beat 3: Sweets, samples and "helpful" strangers (1:50–2:25)
+### REHOOK 1 (1:50)
+
+**[NARRATION]**
+And it's not just cold drinks. (pause) The same pull is built into offers you see every day.
+
+**[VISUAL]** The bottle multiplies into free samples, a "free prize" SMS and a free tea cup.
+
+_Tone: a lift; leaning in._
+
+### BODY 3: Sweets, samples and "helpful" strangers (1:50–2:25)
 
 **[NARRATION]**
 You'll see it everywhere. In a 2002 restaurant study, diners who got a sweet with the bill left bigger tips. When the server gave one sweet, walked away, then turned back to offer a second, "just for you", tips rose the most.
@@ -79,7 +99,16 @@ In scams, it's a "free gift" parcel that needs only a small delivery fee, or a p
 
 _Tone: knowing, serious; slow last line._
 
-### Beat 4: Not every gift is a trap (2:25–3:00)
+### REHOOK 2 (2:25)
+
+**[NARRATION]**
+But does that mean every gift is a trap? (pause) No. And the difference matters.
+
+**[VISUAL]** The fishing hook fades from one bow; a plain bow stays.
+
+_Tone: honest, gentle._
+
+### BODY 4: Not every gift is a trap (2:25–3:00)
 
 **[NARRATION]**
 To be fair, most gifts are just kindness. Reciprocity is what makes friendship, family and community work.
@@ -91,7 +120,9 @@ Watch the timing. A gift, then an ask, close together, especially from someone y
 
 _Tone: fair, warm; firm last line._
 
-## PAYOFF / TWIST (3:00–3:30)
+## CLOSING (3:00–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 So here's your defence. Accept real gifts warmly. But if a gift turns out to be a sales tool, call it that, in your own head.
@@ -103,11 +134,13 @@ And never pay a fee to receive something "free".
 
 _Tone: warm, empowering (peak); firm last line._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: the comment question, plus the next-video tease. No subscribe ask._
 
 **[NARRATION]**
 Tell me in the comments: what's the sneakiest "free" offer you've ever been given?
-And subscribe. Next: why we obey a uniform, and the famous experiment that still divides psychologists.
+(pause) And next: why we obey a uniform, and the famous experiment that still divides psychologists.
 
 **[VISUAL]** Comment prompt beside a gift box with a hook. End screen: next-video card **Why We Obey a Uniform** (a peaked cap and a lab coat on a hanger, casting a long shadow).
 
@@ -119,14 +152,15 @@ _Tone: friendly; curious tease._
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Curious, slightly mysterious | Land "twice"; quiet last line |
-| Setup | Knowing, warm | Curious question at the end |
+| Hook | Firm → curious | Plain stakes line; slightly mysterious on the story |
+| Lock-in | Knowing → warm | Clear promise; firm "still say no" |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | Beat 1 | Intrigued storyteller | Clear numbers; pointed last line |
 | Beat 2 | Thoughtful | Quiet emphasis at the end |
 | Beat 3 | Knowing, serious | Slow last line |
 | Beat 4 | Fair, warm | Firm, kind last line |
-| Payoff | Warm, empowering (peak) | Firm last line |
-| Outro | Friendly | Curious tease |
+| Closing | Warm, empowering (peak) | Firm last line |
+| Close + CTA | Friendly | Curious tease |
 
 ## Fact check
 
