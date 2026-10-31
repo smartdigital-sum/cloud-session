@@ -5,11 +5,20 @@
 **Voiceover:** English, Hindi, Assamese → [long-video-voice.md](long-video-voice.md) · **Reel version:** [short-reel-script.md](short-reel-script.md)
 **Series:** opens a new chapter after the focus series (01–05); follows [05 Silent phone](../05-silent-phone/long-video-script.md). Teases idea #7 (elite performers & 4 hours) next.
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook was a charming story opener with no stakes for the viewer. | **Hook:** subject + stakes in sentence one ("changed how people study… the secret isn't the twenty-five minutes"), then the story. |
+| 0:15–0:40 included a five-video recap. | **Lock-in:** magic box (two reasons you already know, a third hiding in the break) + teased payoff ("the real magic… isn't the clock"). Recap removed. |
+| Beats 3 and 4 started as labels. | **Rehooks** before the break (~1:50) and the science (~2:25). |
+| Outro asked for a comment and a subscribe. | One **CTA** (comment question + next-video tease). |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 A student who couldn't focus
-0:15 Why a cheap timer?
+0:10 Why a cheap timer?
 0:40 The tomato story
 1:15 Why it works (you already know)
 1:50 The secret is the break
@@ -20,31 +29,31 @@
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
-In the late 1980s, a university student in Italy had a problem. He couldn't focus.
-So he picked up the strangest study tool you can imagine…
-(pause) a kitchen timer, shaped like a tomato.
+A kitchen timer shaped like a tomato changed how people around the world study. And the secret isn't the twenty-five minutes.
+In the late 1980s, a university student in Italy couldn't focus.
+So he picked up the strangest study tool you can imagine… (pause) a kitchen timer, shaped like a tomato.
 
-**[VISUAL]** Warm 2D animation, late-80s Italian student room: textbooks, a desk lamp, a window over terracotta rooftops. The student stares at a page, eyes drifting. A hand reaches into a kitchen drawer and pulls out a bright red tomato-shaped timer. Close-up as it's twisted: *tick-tick-tick*.
+**[VISUAL]** Frame 1 is already moving: extreme close-up, a hand twists a bright red tomato-shaped timer, *tick-tick-tick*. Pull back to a warm 2D late-80s Italian student room: textbooks, desk lamp, terracotta rooftops. The student stares at a page, eyes drifting.
 
-_Tone: storyteller, curious; a small smile on "shaped like a tomato."_
+_Tone: firm and clear on line one; then a curious storyteller; small smile on "shaped like a tomato."_
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
-That little tomato became one of the most famous focus methods in the world.
-Over the last five videos, we found what pulls your focus away. Now, a tool to protect it.
-But why would a cheap kitchen timer work? (pause) And does science actually back it up?
+So why would a cheap timer work? You already know two of the reasons, from this series. The third is hiding in the break.
+And does science actually back it up? (pause) The honest answer is more interesting than "yes".
+Stay to the end, and I'll show you where the real magic is. It isn't the clock.
 
-**[VISUAL]** The tomato timer spins and multiplies into phone apps, browser extensions and a split-screen "study with me" livestream. Quick strip of the five focus-series icons, then a shield forms around the tomato. Two question cards: **WHY?** · **PROOF?**
+**[VISUAL]** The tomato timer spins and multiplies into phone apps and browser extensions. Three cards slide in: **REASON 1 · REASON 2 · ???** (the third glowing, labelled BREAK). A sealed card **THE REAL MAGIC** drops in; a clock icon on it is crossed out.
 
-_Tone: calm, inviting; lift on the two questions._
+_Tone: inviting; intrigued on "hiding in the break"; firm on "It isn't the clock."_
 
 ## MAIN BODY
 
-### Beat 1: The tomato (0:40–1:15)
+### BODY 1: The tomato (0:40–1:15)
 
 **[NARRATION]**
 The student was Francesco Cirillo. In his own words: "I couldn't focus on my university studies."
@@ -57,7 +66,7 @@ Today there are books, apps, and countless study-with-me videos built on it. (pa
 
 _Tone: warm storytelling; affectionate on "All from a tomato."_
 
-### Beat 2: Why it works (you already know) (1:15–1:50)
+### BODY 2: Why it works (you already know) (1:15–1:50)
 
 **[NARRATION]**
 If you've watched this series, you already know why it works.
@@ -70,7 +79,16 @@ And while it's ticking, there's one rule: one thing only. No switching.
 
 _Tone: knowing, friendly; satisfying "three problems at once."_
 
-### Beat 3: The secret is the break (1:50–2:25)
+### REHOOK 1 (1:50)
+
+**[NARRATION]**
+But the part almost everyone skips… (pause) is the part that matters most. The break.
+
+**[VISUAL]** The rhythm diagram freezes; the small green gaps start to glow.
+
+_Tone: a lift; leaning in._
+
+### BODY 3: The secret is the break (1:50–2:25)
 
 **[NARRATION]**
 But the cleverest part isn't the work. It's the break.
@@ -83,7 +101,16 @@ The researchers argued that the brain starts to tune out anything constant. (pau
 
 _Tone: curious; a playful "Wait…" beat; clear on the difference._
 
-### Beat 4: Does science back Pomodoro? (2:25–3:00)
+### REHOOK 2 (2:25)
+
+**[NARRATION]**
+So does science actually back the tomato? (pause) One study put it to a direct test.
+
+**[VISUAL]** A lab door swings open; two groups of students sit down.
+
+_Tone: curious; a small pause._
+
+### BODY 4: Does science back Pomodoro? (2:25–3:00)
 
 **[NARRATION]**
 So does the Pomodoro method itself work? In 2023, researchers at Maastricht University in the Netherlands tested it with eighty-seven students.
@@ -96,7 +123,9 @@ But honesty, as always: it was a small, one-day study, and one study is never th
 
 _Tone: thoughtful and fair; a light smile on the last line._
 
-## PAYOFF / TWIST (3:00–3:30)
+## CLOSING (3:00–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 So here's the truth about the tomato. The magic isn't twenty-five minutes. It's the deal.
@@ -108,12 +137,14 @@ And make the break a real one: stand up, look out of a window, drink water. Not 
 
 _Tone: warm certainty (peak); a firm, kind last line._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: the comment question, plus the next-video tease. No subscribe ask._
 
 **[NARRATION]**
 Tonight, try one round. One task. Phone in another room. Twist the timer.
 Tell me in the comments: how many pomodoros can you do before you need a long break?
-And subscribe. Next: why some of the world's best performers rarely do more than four hours of hard practice a day.
+(pause) And next: why some of the world's best performers rarely do more than four hours of hard practice a day.
 
 **[VISUAL]** Back in the 1980s student room, now the viewer's modern desk: a hand twists a tomato timer; *tick-tick-tick*. End screen: comment prompt "How many 🍅🍅🍅?" + next-video card **Why Elite Performers Rarely Work More Than 4 Hours** (a violin and a clock).
 
@@ -125,14 +156,15 @@ _Tone: gentle, practical; friendly on the question; intrigued on the tease._
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Curious storyteller | Set the scene; small smile on "shaped like a tomato" |
-| Setup | Calm, inviting | Lift on the two questions |
+| Hook | Firm → storyteller | Clear on "the secret isn't the twenty-five minutes"; smile on "shaped like a tomato" |
+| Lock-in | Inviting → intrigued | Lift on "hiding in the break"; firm "It isn't the clock." |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | Beat 1 | Warm, affectionate | Storytelling pace; read the quote simply; fond "All from a tomato" |
 | Beat 2 | Knowing, friendly | Three clear beats; satisfied close |
 | Beat 3 | Curious, clear | Playful "Wait…"; clear contrast on "planned pause" |
 | Beat 4 | Thoughtful, fair | Plain numbers; honest caveat; smile on "twenty-five" |
-| Payoff | Warm certainty (peak) | Slow three-part "One thing. A clear end. A real break." |
-| Outro | Gentle, practical | Calm instructions; friendly question; intrigued tease |
+| Closing | Warm certainty (peak) | Slow three-part "One thing. A clear end. A real break." |
+| Close + CTA | Gentle, practical | Calm instructions; friendly question; intrigued tease |
 
 ## Fact check
 

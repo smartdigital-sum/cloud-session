@@ -8,6 +8,8 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 3. If the voice drifts, speeds up or cuts off near the end, generate **one section per run** with the same voice and style, then join the clips (add ~0.5s silence between sections).
 4. Name files like `06-tomato-timer_EN_s1-hook.wav`.
 
+**Changed (storytelling guide):** hook now states the subject and stakes first; the five-video recap is replaced by a lock-in (two known reasons, a third in the break, the real magic); two new rehook lines; one CTA, no subscribe ask. Generate 10 sections now (2 rehooks added).
+
 ⚠ Hindi and Assamese are machine-quality translations. Get a native speaker to read them before recording. If "Cirillo" is mispronounced in English, write it as "Chee-reel-lo". Test the Assamese hook first.
 
 ---
@@ -15,18 +17,18 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 
 **Style instructions**
 ```
-You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "The tomato timer that changed how we study". Speak directly to one listener ("you"), like a trusted older friend telling a charming true story. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses between short lines. Open as a curious storyteller with a small smile on the tomato. Tell Cirillo's story warmly, connect it to earlier videos with a knowing tone, be curious and clear on the science of breaks, fair and honest about study limits, then rise to warm, certain advice. End gently and practically, with a friendly question and an intrigued tease. Never preachy, never like an advert.
+You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "The tomato timer that changed how we study". Speak directly to one listener ("you"), like a trusted older friend telling a charming true story. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses between short lines. Open firm and clear on the first line (never whispered), then a curious storyteller with a small smile on the tomato. Tell Cirillo's story warmly, connect it to earlier videos with a knowing tone, be curious and clear on the science of breaks, fair and honest about study limits, then rise to warm, certain advice. End gently and practically, with a friendly question and an intrigued tease. Never preachy, never like an advert.
 ```
 
 **Text**
 ```
-[curious] In the late 1980s, a university student in Italy had a problem. He couldn't focus.
-So he picked up the strangest study tool you can imagine…
-[short pause] a kitchen timer, shaped like a tomato.
+[firmly] A kitchen timer shaped like a tomato changed how people around the world study. And the secret isn't the twenty-five minutes.
+[curious] In the late 1980s, a university student in Italy couldn't focus.
+So he picked up the strangest study tool you can imagine… [short pause] a kitchen timer, shaped like a tomato.
 
-[calm] That little tomato became one of the most famous focus methods in the world.
-Over the last five videos, we found what pulls your focus away. Now, a tool to protect it.
-But why would a cheap kitchen timer work? [short pause] And does science actually back it up?
+[intrigued] So why would a cheap timer work? You already know two of the reasons, from this series. The third is hiding in the break.
+And does science actually back it up? [short pause] The honest answer is more interesting than "yes".
+Stay to the end, and I'll show you where the real magic is. [firmly] It isn't the clock.
 
 [warmly] The student was Francesco Cirillo. In his own words: "I couldn't focus on my university studies."
 So he made a deal with himself. Twist the timer. Work on one thing until it rings. Nothing else.
@@ -40,11 +42,15 @@ A timer is a plan with a clear end. Your brain can relax, because it knows when 
 And while it's ticking, there's one rule: one thing only. No switching.
 [short pause] The tomato quietly fixes three problems at once.
 
+[leaning in] But the part almost everyone skips… [short pause] is the part that matters most. The break.
+
 [curious] But the cleverest part isn't the work. It's the break.
 In 2011, psychologists at the University of Illinois tested a long, boring focus task, the kind where attention slowly slips.
 People who worked straight through got worse over time. But people who briefly switched to something else, just twice… didn't drop.
 [playfully] Wait, didn't we say switching costs you? It does. But this is different: a planned pause, not constant jumping.
 The researchers argued that the brain starts to tune out anything constant. [short pause] A short break makes the task feel new again.
+
+[curious] So does science actually back the tomato? [short pause] One study put it to a direct test.
 
 [thoughtful] So does the Pomodoro method itself work? In 2023, researchers at Maastricht University in the Netherlands tested it with eighty-seven students.
 Some took breaks whenever they felt like it. Others took fixed breaks on a timer.
@@ -59,7 +65,7 @@ And make the break a real one: stand up, look out of a window, drink water. Not 
 
 [gently] Tonight, try one round. One task. Phone in another room. Twist the timer.
 [friendly] Tell me in the comments: how many pomodoros can you do before you need a long break?
-And subscribe. Next: why some of the world's best performers rarely do more than four hours of hard practice a day.
+[short pause] And next: why some of the world's best performers rarely do more than four hours of hard practice a day.
 ```
 
 ---
@@ -67,18 +73,18 @@ And subscribe. Next: why some of the world's best performers rarely do more than
 
 **Style instructions**
 ```
-You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "The tomato timer that changed how we study". Speak natural, conversational Hindi (common English words like "timer", "break", "study", "app" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a trusted older friend telling a charming true story. Unhurried, with deliberate pauses between short lines. Open as a curious storyteller with a small smile on the tomato. Tell Cirillo's story warmly, connect it to earlier videos with a knowing tone, be curious and clear on the science of breaks, fair and honest about study limits, then rise to warm, certain advice. End gently and practically, with a friendly question and an intrigued tease.
+You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "The tomato timer that changed how we study". Speak natural, conversational Hindi (common English words like "timer", "break", "study", "app" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a trusted older friend telling a charming true story. Unhurried, with deliberate pauses between short lines. Open firm and clear on the first line (never whispered), then a curious storyteller with a small smile on the tomato. Tell Cirillo's story warmly, connect it to earlier videos with a knowing tone, be curious and clear on the science of breaks, fair and honest about study limits, then rise to warm, certain advice. End gently and practically, with a friendly question and an intrigued tease.
 ```
 
 **Text**
 ```
-[curious] उन्नीस सौ अस्सी के दशक के आख़िर में, इटली के एक यूनिवर्सिटी स्टूडेंट को एक दिक़्क़त थी। उसका ध्यान नहीं लगता था।
-तो उसने पढ़ाई के लिए वो चीज़ उठाई, जिसकी आप सबसे कम उम्मीद करेंगे…
-[short pause] टमाटर जैसा दिखने वाला एक किचन टाइमर।
+[firmly] टमाटर जैसे दिखने वाले एक किचन टाइमर ने दुनिया भर में लोगों के पढ़ने का तरीक़ा बदल दिया। और राज़ पच्चीस मिनट में नहीं है।
+[curious] उन्नीस सौ अस्सी के दशक के आख़िर में, इटली के एक यूनिवर्सिटी स्टूडेंट का ध्यान नहीं लगता था।
+तो उसने पढ़ाई के लिए वो चीज़ उठाई, जिसकी आप सबसे कम उम्मीद करेंगे… [short pause] टमाटर जैसा दिखने वाला एक किचन टाइमर।
 
-[calm] वही छोटा-सा टमाटर, दुनिया के सबसे मशहूर फ़ोकस तरीक़ों में से एक बन गया।
-पिछले पाँच वीडियो में, हमने देखा कि आपका ध्यान किन चीज़ों से खिंचता है। अब, उसे बचाने का एक औज़ार।
-पर एक सस्ता-सा किचन टाइमर काम क्यों करेगा? [short pause] और क्या साइंस सच में इसका साथ देती है?
+[intrigued] तो एक सस्ता-सा टाइमर काम क्यों करेगा? दो वजहें आप इस सीरीज़ से पहले ही जानते हैं। तीसरी ब्रेक में छुपी है।
+और क्या साइंस सच में इसका साथ देती है? [short pause] ईमानदार जवाब "हाँ" से ज़्यादा दिलचस्प है।
+आख़िर तक रुकिए, मैं दिखाऊँगा कि असली जादू कहाँ है। [firmly] वो घड़ी में नहीं है।
 
 [warmly] वो स्टूडेंट थे फ़्रांचेस्को चिरिल्लो। उन्हीं के शब्दों में: "मेरा अपनी यूनिवर्सिटी की पढ़ाई में ध्यान नहीं लगता था।"
 तो उन्होंने ख़ुद से एक सौदा किया। टाइमर घुमाओ। जब तक घंटी न बजे, एक ही काम करो। और कुछ नहीं।
@@ -92,11 +98,15 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 और जब तक वो टिक-टिक कर रहा है, नियम एक ही है: सिर्फ़ एक काम। कोई स्विचिंग नहीं।
 [short pause] ये टमाटर चुपचाप तीन समस्याएँ एक साथ सुलझा देता है।
 
+[leaning in] पर जिस हिस्से को लगभग सब छोड़ देते हैं… [short pause] वही सबसे ज़रूरी है। ब्रेक।
+
 [curious] पर सबसे चालाक हिस्सा काम नहीं है। ब्रेक है।
 दो हज़ार ग्यारह में, यूनिवर्सिटी ऑफ़ इलिनॉय के मनोवैज्ञानिकों ने एक लंबा, उबाऊ फ़ोकस टास्क टेस्ट किया, ऐसा, जिसमें ध्यान धीरे-धीरे फिसलता है।
 जो लोग बिना रुके लगे रहे, वो वक़्त के साथ ख़राब होते गए। पर जिन्होंने बीच में सिर्फ़ दो बार, थोड़ी देर के लिए कुछ और किया… उनका प्रदर्शन नहीं गिरा।
 [playfully] रुकिए, क्या हमने नहीं कहा था कि स्विचिंग की क़ीमत होती है? होती है। पर ये अलग है: ये एक सोचा-समझा ठहराव है, लगातार उछल-कूद नहीं।
 रिसर्चर्स का तर्क था, कि दिमाग़ हर लगातार चलती चीज़ को अनदेखा करने लगता है। [short pause] एक छोटा ब्रेक, काम को फिर से नया बना देता है।
+
+[curious] तो क्या साइंस सच में टमाटर का साथ देती है? [short pause] एक स्टडी ने इसे सीधे परखा।
 
 [thoughtful] तो क्या पोमोडोरो तरीक़ा ख़ुद काम करता है? दो हज़ार तेईस में, नीदरलैंड्स की मास्ट्रिख्ट यूनिवर्सिटी के रिसर्चर्स ने इसे सत्तासी स्टूडेंट्स पर टेस्ट किया।
 कुछ ने जब मन किया, तब ब्रेक लिया। बाकियों ने टाइमर पर तय ब्रेक लिए।
@@ -111,7 +121,7 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 
 [gently] आज रात, एक राउंड आज़माइए। एक काम। फ़ोन दूसरे कमरे में। टाइमर घुमाइए।
 [friendly] कमेंट में बताइए: लंबे ब्रेक से पहले, आप कितने पोमोडोरो कर पाते हैं?
-और सब्सक्राइब कीजिए। अगले वीडियो में: दुनिया के कुछ सबसे बेहतरीन परफ़ॉर्मर्स, दिन में चार घंटे से ज़्यादा कड़ी प्रैक्टिस क्यों नहीं करते।
+[short pause] और अगले वीडियो में: दुनिया के कुछ सबसे बेहतरीन परफ़ॉर्मर्स, दिन में चार घंटे से ज़्यादा कड़ी प्रैक्टिस क्यों नहीं करते।
 ```
 
 ---
@@ -119,18 +129,18 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 
 **Style instructions**
 ```
-You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "The tomato timer that changed how we study". Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a trusted older friend telling a charming true story. Unhurried, with deliberate pauses between short lines. Open as a curious storyteller with a small smile on the tomato. Tell Cirillo's story warmly, connect it to earlier videos with a knowing tone, be curious and clear on the science of breaks, fair and honest about study limits, then rise to warm, certain advice. End gently and practically, with a friendly question and an intrigued tease.
+You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "The tomato timer that changed how we study". Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a trusted older friend telling a charming true story. Unhurried, with deliberate pauses between short lines. Open firm and clear on the first line (never whispered), then a curious storyteller with a small smile on the tomato. Tell Cirillo's story warmly, connect it to earlier videos with a knowing tone, be curious and clear on the science of breaks, fair and honest about study limits, then rise to warm, certain advice. End gently and practically, with a friendly question and an intrigued tease.
 ```
 
 **Text**
 ```
-[curious] ঊনৈছ শ আশীৰ দশকৰ শেষৰ ফালে, ইটালীৰ এজন বিশ্ববিদ্যালয়ৰ ছাত্ৰৰ এটা সমস্যা আছিল। তেওঁ মনোযোগ দিব পৰা নাছিল।
-গতিকে তেওঁ পঢ়াৰ বাবে এনে এটা বস্তু তুলি ল'লে, যিটো আপুনি আটাইতকৈ কম আশা কৰিব…
-[short pause] বিলাহীৰ দৰে দেখিবলৈ এটা কিচেন টাইমাৰ।
+[firmly] বিলাহীৰ দৰে দেখিবলৈ এটা কিচেন টাইমাৰে পৃথিৱীজুৰি মানুহৰ পঢ়াৰ ধৰণ সলনি কৰি দিলে। আৰু ৰহস্যটো পঁচিশ মিনিটত নাই।
+[curious] ঊনৈছ শ আশীৰ দশকৰ শেষৰ ফালে, ইটালীৰ এজন বিশ্ববিদ্যালয়ৰ ছাত্ৰই মনোযোগ দিব পৰা নাছিল।
+গতিকে তেওঁ পঢ়াৰ বাবে এনে এটা বস্তু তুলি ল'লে, যিটো আপুনি আটাইতকৈ কম আশা কৰিব… [short pause] বিলাহীৰ দৰে দেখিবলৈ এটা কিচেন টাইমাৰ।
 
-[calm] সেই সৰু বিলাহীটোৱেই পৃথিৱীৰ আটাইতকৈ বিখ্যাত মনোযোগৰ পদ্ধতিবোৰৰ এটা হৈ পৰিল।
-যোৱা পাঁচটা ভিডিঅ'ত, আমি চালোঁ আপোনাৰ মনোযোগ কিহে টানি নিয়ে। এতিয়া, তাক ৰক্ষা কৰাৰ এটা সঁজুলি।
-কিন্তু এটা সস্তীয়া কিচেন টাইমাৰে কিয় কাম কৰিব? [short pause] আৰু বিজ্ঞানে সঁচাকৈ ইয়াক সমৰ্থন কৰে নে?
+[intrigued] তেন্তে এটা সস্তীয়া টাইমাৰে কিয় কাম কৰিব? দুটা কাৰণ আপুনি এই ছিৰিজৰ পৰাই জানে। তৃতীয়টো লুকাই আছে বিৰতিত।
+আৰু বিজ্ঞানে সঁচাকৈ ইয়াক সমৰ্থন কৰে নে? [short pause] সঁচা উত্তৰটো "হয়"তকৈ বেছি আকৰ্ষণীয়।
+শেষলৈকে থাকক, মই দেখুৱাম আচল যাদু ক'ত আছে। [firmly] সেয়া ঘড়ীটোত নাই।
 
 [warmly] সেই ছাত্ৰজন আছিল ফ্ৰান্সেস্কো চিৰিল্লো। তেওঁৰ নিজৰ ভাষাত: "মই মোৰ বিশ্ববিদ্যালয়ৰ পঢ়াত মনোযোগ দিব পৰা নাছিলোঁ।"
 গতিকে তেওঁ নিজৰ লগত এটা চুক্তি কৰিলে। টাইমাৰটো ঘূৰোৱা। ঘণ্টা নবজালৈকে এটাই কাম কৰা। আন একো নহয়।
@@ -144,11 +154,15 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 আৰু যেতিয়ালৈকে ই টিক-টিক কৰি থাকে, নিয়ম এটাই: মাত্ৰ এটা কাম। কোনো ছুইচিং নাই।
 [short pause] এই বিলাহীটোৱে মনে মনে একেলগে তিনিটা সমস্যা সমাধান কৰি দিয়ে।
 
+[leaning in] কিন্তু যিটো অংশ প্ৰায় সকলোৱে এৰি দিয়ে… [short pause] সেইটোৱেই আটাইতকৈ গুৰুত্বপূৰ্ণ। বিৰতি।
+
 [curious] কিন্তু আটাইতকৈ চতুৰ অংশটো কাম নহয়। বিৰতিহে।
 দুহাজাৰ এঘাৰ চনত, ইলিনয় বিশ্ববিদ্যালয়ৰ মনোবিজ্ঞানীসকলে এটা দীঘল, আমনিদায়ক মনোযোগৰ কাম পৰীক্ষা কৰিলে, এনে কাম, য'ত মনোযোগ লাহে লাহে পিছলি যায়।
 যিসকলে একেৰাহে কাম কৰি গ'ল, তেওঁলোক সময়ৰ লগে লগে বেয়া হৈ গ'ল। কিন্তু যিসকলে মাজতে মাত্ৰ দুবাৰ, অলপ সময়ৰ বাবে আন কিবা কৰিলে… তেওঁলোকৰ প্ৰদৰ্শন নামি নগ'ল।
 [playfully] ৰ'ব, আমি নকৈছিলোঁনে, যে ছুইচিঙৰ মূল্য আছে? আছে। কিন্তু এইটো বেলেগ: এইটো পৰিকল্পিত বিৰতি, একেৰাহে জাঁপ মৰা নহয়।
 গৱেষকসকলৰ যুক্তি আছিল, মগজুৱে যিকোনো একেৰাহে চলি থকা বস্তুক আওকাণ কৰিবলৈ ধৰে। [short pause] এটা সৰু বিৰতিয়ে কামটোক আকৌ নতুন কৰি তোলে।
+
+[curious] তেন্তে বিজ্ঞানে সঁচাকৈ বিলাহীটোক সমৰ্থন কৰে নে? [short pause] এটা অধ্যয়নে ইয়াক পোনপটীয়াকৈ পৰীক্ষা কৰিলে।
 
 [thoughtful] তেন্তে পোমোডোৰো পদ্ধতিয়ে নিজে কাম কৰে নে? দুহাজাৰ তেইশ চনত, নেদাৰলেণ্ডছৰ মাষ্ট্ৰিখ্ট বিশ্ববিদ্যালয়ৰ গৱেষকসকলে ইয়াক সাতাশীজন ছাত্ৰ-ছাত্ৰীৰ ওপৰত পৰীক্ষা কৰিলে।
 কিছুমানে যেতিয়া মন যায়, তেতিয়া বিৰতি ল'লে। বাকীসকলে টাইমাৰ অনুসৰি নিৰ্দিষ্ট বিৰতি ল'লে।
@@ -163,5 +177,5 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 
 [gently] আজি ৰাতি, এটা ৰাউণ্ড চেষ্টা কৰক। এটা কাম। ফোন আন কোঠাত। টাইমাৰটো ঘূৰাওক।
 [friendly] কমেণ্টত কওক: দীঘল বিৰতিৰ আগতে আপুনি কেইটা পোমোডোৰো কৰিব পাৰে?
-আৰু চাবস্ক্ৰাইব কৰক। পিছৰ ভিডিঅ'ত: পৃথিৱীৰ কিছুমান শ্ৰেষ্ঠ শিল্পী আৰু খেলুৱৈয়ে দিনটোত চাৰি ঘণ্টাতকৈ বেছি কঠোৰ অনুশীলন কিয় নকৰে।
+[short pause] আৰু পিছৰ ভিডিঅ'ত: পৃথিৱীৰ কিছুমান শ্ৰেষ্ঠ শিল্পী আৰু খেলুৱৈয়ে দিনটোত চাৰি ঘণ্টাতকৈ বেছি কঠোৰ অনুশীলন কিয় নকৰে।
 ```
