@@ -6,11 +6,20 @@
 **Series:** follows [06 Social proof](../06-social-proof/long-video-script.md). Teases 08 (love bombing) next.
 **Sensitivity:** viewers may be living this. No "how to gaslight" angle, no labelling of real people, helplines on screen in the payoff and pinned comment.
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook was an atmospheric scene; the stakes for the viewer were implied. | **Hook:** a calm, firm stakes line first ("teaches you to stop trusting your own mind"), then the dimming lamp. |
+| 0:15–0:40 asked "what is it, really?" but promised nothing specific. | **Lock-in:** magic box (where the word came from, what it looks like, what research can and can't say) + teased payoff ("one quiet habit that protects your memory"). |
+| Beats 3 and 4 started as labels. | **Rehooks** before the research (~1:50) and "don't diagnose, document" (~2:25). |
+| Outro asked for a comment and a subscribe. | One **CTA** (comment question + next-video tease). |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 "You're imagining things."
-0:15 The word of the year
+0:10 The word of the year
 0:40 Where the word came from
 1:15 What it looks like
 1:50 What research says, and doesn't
@@ -21,30 +30,32 @@
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
+Gaslighting doesn't just change an argument. It teaches you to stop trusting your own mind.
 The lights in the house are dimming. You can see it.
 (pause) But he looks you in the eye and says: "Nothing's changing. You're imagining things."
 
-**[VISUAL]** A Victorian sitting room at night. A gas lamp on the wall slowly dims. A woman looks up at it. A man's shadow falls across her, calm and certain. The lamp keeps dimming as he speaks.
+**[VISUAL]** Frame 1 is already moving: a Victorian sitting room at night. A gas lamp on the wall slowly dims. A woman looks up at it. A man's shadow falls across her, calm and certain. The lamp keeps dimming as he speaks.
 
-_Tone: quiet, unsettling; calm, cold quote._
+_Tone: calm but firm on line one (not whispered); then quiet and unsettling._
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
 Have you ever walked away from an argument unsure what had actually happened, even though you were there?
-That feeling has a name: gaslighting. In 2022, it was Merriam-Webster's word of the year, after lookups jumped by about 1,740 percent.
-(pause) But the word is used so often now that its real meaning gets lost. So what is it, really?
+In 2022, "gaslighting" was Merriam-Webster's word of the year, after lookups jumped by about 1,740 percent. And it's used so often now that its real meaning gets lost.
+In this video: where the word came from, what it really looks like, and what the research can, and can't, tell us.
+(pause) And one quiet habit that protects your memory.
 
-**[VISUAL]** A figure replays a conversation in their head; the memory flickers and rewrites itself. A dictionary page flips open to **GASLIGHTING**, with a "2022 WORD OF THE YEAR" ribbon and a graph line shooting up. The word then appears on dozens of phone screens, blurring.
+**[VISUAL]** A figure replays a conversation; the memory flickers and rewrites itself. A dictionary page flips open to **GASLIGHTING**, with a "2022 WORD OF THE YEAR" ribbon and a graph line shooting up. Three sealed cards: **THE ORIGIN · THE SIGNS · THE RESEARCH**. A softly glowing card **THE HABIT** stays sealed.
 
-_Tone: thoughtful, curious._
+_Tone: gentle, intrigued; clear promise; warm on the last line._
 
 ## MAIN BODY
 
-### Beat 1: Where the word came from (0:40–1:15)
+### BODY 1: Where the word came from (0:40–1:15)
 
 **[NARRATION]**
 The word comes from a 1938 play, "Gas Light", and its famous 1944 film version, "Gaslight".
@@ -56,7 +67,7 @@ His goal is to make her doubt her own mind, so she depends on him and stops aski
 
 _Tone: intrigued storyteller, darkening; quiet last line._
 
-### Beat 2: What it looks like (1:15–1:50)
+### BODY 2: What it looks like (1:15–1:50)
 
 **[NARRATION]**
 Gaslighting is a pattern, not one argument. Common signs: being told "That never happened" about things you clearly remember. "You're too sensitive" whenever you raise a concern. Your memory, your feelings, or your sanity questioned again and again.
@@ -67,7 +78,16 @@ Over time, you might start apologising constantly, second-guessing small decisio
 
 _Tone: thoughtful, serious; firm last line._
 
-### Beat 3: What research says, and doesn't (1:50–2:25)
+### REHOOK 1 (1:50)
+
+**[NARRATION]**
+But the word is everywhere now. (pause) So how do you tell gaslighting from an ordinary disagreement?
+
+**[VISUAL]** The word blurs across dozens of phone screens; one screen sharpens.
+
+_Tone: thoughtful, leaning in._
+
+### BODY 3: What research says, and doesn't (1:50–2:25)
 
 **[NARRATION]**
 To be honest, research on gaslighting is still young. It isn't a medical diagnosis, and there's no simple test for it.
@@ -79,7 +99,16 @@ And not every disagreement is gaslighting. People remember things differently, a
 
 _Tone: honest, balanced; clear last line._
 
-### Beat 4: Don't diagnose, document (2:25–3:00)
+### REHOOK 2 (2:25)
+
+**[NARRATION]**
+So if you think it's happening to you, what do you actually do? (pause) It isn't winning the argument.
+
+**[VISUAL]** The argument bubbles fade; a small notebook slides into frame.
+
+_Tone: warm, steady._
+
+### BODY 4: Don't diagnose, document (2:25–3:00)
 
 **[NARRATION]**
 So this video won't help you label anyone. That's not the point. The point is to protect your own sense of reality.
@@ -90,7 +119,9 @@ One practical step: keep a private record. Write down what happened, when, and w
 
 _Tone: warm, practical; gentle last line._
 
-## PAYOFF / TWIST (3:00–3:30)
+## CLOSING (3:00–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 And talk to someone you trust outside the situation: a friend, a family member, a counsellor. Gaslighting works best in isolation.
@@ -102,11 +133,13 @@ In India, the domestic violence law also recognises emotional abuse.
 
 _Tone: warm, empowering (peak); soft, firm last line._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: the comment question, plus the next-video tease. No subscribe ask._
 
 **[NARRATION]**
 Tell me in the comments: what helps you trust your own judgement when someone makes you doubt it?
-And subscribe. Next: love bombing, when too much, too fast is a warning.
+(pause) And next: love bombing, when too much, too fast is a warning.
 
 **[VISUAL]** Comment prompt beside a steady, bright lamp. End screen: next-video card **Love Bombing: When Too Much, Too Fast Is a Warning** (a sky full of heart balloons, one with a string tied to a padlock).
 
@@ -118,14 +151,15 @@ _Tone: friendly, gentle; curious tease._
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Quiet, unsettling | Calm, cold quote |
-| Setup | Thoughtful, curious | Even |
+| Hook | Calm, firm → unsettling | Steady stakes line; quiet on "You're imagining things." |
+| Lock-in | Gentle → warm | Clear promise; warm "one quiet habit" |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | Beat 1 | Intrigued storyteller, darkening | Quiet last line |
 | Beat 2 | Thoughtful, serious | Firm last line |
 | Beat 3 | Honest, balanced | Clear last line |
 | Beat 4 | Warm, practical | Gentle last line |
-| Payoff | Warm, empowering (peak) | Helplines slow and clear; soft, firm last line |
-| Outro | Friendly, gentle | Curious tease |
+| Closing | Warm, empowering (peak) | Helplines slow and clear; soft, firm last line |
+| Close + CTA | Friendly, gentle | Curious tease |
 
 ## Fact check
 
