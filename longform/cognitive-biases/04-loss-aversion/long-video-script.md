@@ -5,11 +5,20 @@
 **Voiceover:** English, Hindi, Assamese → [long-video-voice.md](long-video-voice.md) · **Reel version:** [short-reel-script.md](short-reel-script.md)
 **Series:** follows [03 Anchoring](../03-anchoring/long-video-script.md). Teases 05 (horoscopes / Barnum effect) next.
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook was a playful bet; the viewer's stakes were implied. | **Hook:** stakes line first ("your fear of losing is costing you good decisions"), then the bet. |
+| 0:15–0:40 asked a question but promised nothing specific. | **Lock-in:** magic box (the theory, the mug, the "don't miss out" tricks) + a twist tease (the famous number may not hold) + payoff ("one question that flips the frame"). |
+| Beats 3 and 4 started as labels. | **Rehooks** before marketing (~1:50) and the twist (~2:25). |
+| Outro asked for a comment and a subscribe. | One **CTA** (comment question + next-video tease). |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 A good bet you'll refuse
-0:15 Why losses ruin your day
+0:10 Why losses ruin your day
 0:40 Prospect theory: losses loom larger
 1:15 The coffee mug experiment
 1:50 "Don't miss out!"
@@ -20,30 +29,31 @@
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
+Your fear of losing is quietly costing you good decisions. And marketers count on it.
 I'll flip a coin. Heads, you win ₹150. Tails, you lose ₹100.
 (pause) It's a good bet. So why do most people say no?
 
-**[VISUAL]** A silver coin spins in slow motion above a table. Two piles: ₹150 (green glow) and ₹100 (red glow). The red pile looks bigger and heavier than the green one. A hand pulls back from the table.
+**[VISUAL]** Frame 1 is already moving: a silver coin spins in slow motion above a table. Two piles: ₹150 (green glow) and ₹100 (red glow). The red pile looks bigger and heavier than the green one. A hand pulls back from the table.
 
-_Tone: playful challenge, then intriguing question._
+_Tone: firm on line one; a playful challenge on the bet._
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
-Have you ever noticed that losing ₹100 can ruin your day, but finding ₹100 barely makes it?
-That feeling has a name: loss aversion. It's one of the most famous ideas in behavioural economics, and it helped win a Nobel Prize.
-(pause) But lately, some scientists have asked: is it as strong as we thought?
+Have you ever noticed that losing ₹100 can ruin your day, but finding ₹100 barely makes it? That's loss aversion. It helped win a Nobel Prize.
+In this video: the theory behind it, a coffee mug that doubled in value the moment people owned it, and the "don't miss out" tricks built on it.
+(pause) Then a twist: the famous number may be smaller than you've heard. And one question that flips the frame.
 
-**[VISUAL]** Split day: a figure discovers a missing ₹100 note and a storm cloud follows them all day; another finds ₹100 on the road, smiles briefly, and forgets it. A Nobel-style medal glints. A question mark cracks across the medal's surface.
+**[VISUAL]** Split day: a figure loses a ₹100 note and a storm cloud follows them; another finds ₹100, smiles briefly, and forgets it. A Nobel-style medal glints; a hairline crack appears. Three sealed cards: **THE THEORY · THE MUG · THE TRICKS**. A glowing card **THE QUESTION** stays sealed.
 
-_Tone: curious; a mysterious lift at the end._
+_Tone: knowing; amused on the mug; intrigued on the twist._
 
 ## MAIN BODY
 
-### Beat 1: Prospect theory, losses loom larger (0:40–1:15)
+### BODY 1: Prospect theory, losses loom larger (0:40–1:15)
 
 **[NARRATION]**
 In 1979, Daniel Kahneman and Amos Tversky published prospect theory. One of its central ideas: losses loom larger than gains.
@@ -55,7 +65,7 @@ That's why many people turn down a fair coin flip unless the possible win is abo
 
 _Tone: thoughtful, clear; knowing on the last line._
 
-### Beat 2: The coffee mug experiment (1:15–1:50)
+### BODY 2: The coffee mug experiment (1:15–1:50)
 
 **[NARRATION]**
 Then came a famous experiment with coffee mugs. In 1990, economists gave half of a group of students a university mug. Then they let them trade.
@@ -67,7 +77,16 @@ Same mug. Minutes of ownership.
 
 _Tone: intrigued; amused on "Minutes of ownership."_
 
-### Beat 3: "Don't miss out!" (1:50–2:25)
+### REHOOK 1 (1:50)
+
+**[NARRATION]**
+And the people selling to you know all this. (pause) Very well.
+
+**[VISUAL]** A countdown timer pops up on a shopping app: "Offer ends in 09:59".
+
+_Tone: knowing, wry._
+
+### BODY 3: "Don't miss out!" (1:50–2:25)
 
 **[NARRATION]**
 You'll see it everywhere once you look. "Don't miss out!" sale timers. Free trials that feel hard to cancel, because losing access feels worse than never having it.
@@ -78,7 +97,16 @@ Investors holding falling shares, waiting to "get back to even" rather than acce
 
 _Tone: knowing, slightly wry._
 
-### Beat 4: The twist, smaller than we thought? (2:25–3:00)
+### REHOOK 2 (2:25)
+
+**[NARRATION]**
+But here's the twist. (pause) The famous "twice as painful" number may not hold.
+
+**[VISUAL]** The crack on the medal widens; a stack of 600+ estimates slides in.
+
+_Tone: serious, leaning in._
+
+### BODY 4: The twist, smaller than we thought? (2:25–3:00)
 
 **[NARRATION]**
 But here's the twist. In 2018, psychologists David Gal and Derek Rucker argued that loss aversion isn't a general law of the mind. Many classic results, they said, can be explained in other ways, like simply preferring to do nothing.
@@ -89,7 +117,9 @@ Then in 2024, a huge review pooled more than six hundred estimates from 150 stud
 
 _Tone: serious, balanced; careful on the conclusion._
 
-## PAYOFF / TWIST (3:00–3:30)
+## CLOSING (3:00–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 So how do you protect yourself? When a choice feels scary, flip the frame.
@@ -101,11 +131,13 @@ And look at the whole picture: one small loss inside many good bets is normal.
 
 _Tone: warm, empowering (peak); slow last line._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: the comment question, plus the next-video tease. No subscribe ask._
 
 **[NARRATION]**
 Tell me in the comments: what's something you kept only because giving it up felt like losing?
-And subscribe. Next: why horoscopes feel scarily accurate, and what a 1948 classroom experiment revealed.
+(pause) And next: why horoscopes feel scarily accurate, and what a 1948 classroom experiment revealed.
 
 **[VISUAL]** Comment prompt over a drawer of kept-but-unused items. End screen: next-video card **Why Horoscopes Feel Scarily Accurate** (a zodiac wheel and a typed personality report).
 
@@ -117,14 +149,15 @@ _Tone: friendly, reflective; mysterious tease._
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Playful → intriguing | Clear amounts; lift on the question |
-| Setup | Curious | Mysterious last line |
+| Hook | Firm → playful | Plain stakes line; playful challenge |
+| Lock-in | Knowing → intrigued | Amused on the mug; lift on the twist |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | Beat 1 | Thoughtful, clear | Knowing last line |
 | Beat 2 | Intrigued, amused | Smile on "Minutes of ownership." |
 | Beat 3 | Knowing, wry | Light list |
 | Beat 4 | Serious, balanced | Careful conclusion |
-| Payoff | Warm, empowering (peak) | Slow last line |
-| Outro | Friendly, reflective | Mysterious tease |
+| Closing | Warm, empowering (peak) | Slow last line |
+| Close + CTA | Friendly, reflective | Mysterious tease |
 
 ## Fact check
 

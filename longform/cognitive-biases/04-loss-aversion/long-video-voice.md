@@ -9,6 +9,8 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 4. Name files like `cb04-loss-aversion_EN_s1-hook.wav`.
 
 Amounts are written as words so the TTS reads them correctly.
+**Changed (storytelling guide):** a stakes line opens the hook; the setup is replaced by a lock-in (theory, mug, tricks, the twist, one question); two new rehook lines; one CTA, no subscribe ask. Generate 10 sections now (2 rehooks added).
+
 ⚠ Hindi and Assamese are machine-quality translations. Get a native speaker to read them before recording. The Hindi uses male forms ("उछालता हूँ", "ख़रीदता", "बच रहा हूँ") to match Charon. Test the Assamese hook first.
 
 ---
@@ -16,17 +18,18 @@ Amounts are written as words so the TTS reads them correctly.
 
 **Style instructions**
 ```
-You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute psychology video called "Losing a hundred rupees hurts more than winning a hundred feels good", about loss aversion. Speak directly to one listener ("you"), like a sharp, trusted guide. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses between short lines. Open with a playful challenge. Be curious on everyday feelings, thoughtful and clear on prospect theory, intrigued and amused on the mug experiment, knowing and wry on marketing, serious and balanced on the scientific debate, then warm and empowering on the defence. End friendly with a mysterious tease. Never sensational.
+You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute psychology video called "Losing a hundred rupees hurts more than winning a hundred feels good", about loss aversion. Speak directly to one listener ("you"), like a sharp, trusted guide. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses between short lines. Open with a playful challenge. Be curious on everyday feelings, thoughtful and clear on prospect theory, intrigued and amused on the mug experiment, knowing and wry on marketing, serious and balanced on the scientific debate, then warm and empowering on the defence. End friendly with a mysterious tease. Never sensational. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] Your fear of losing is quietly costing you good decisions. And marketers count on it.
 [playfully] I'll flip a coin. Heads, you win a hundred and fifty rupees. Tails, you lose a hundred.
 [short pause] It's a good bet. So why do most people say no?
 
-[curious] Have you ever noticed that losing a hundred rupees can ruin your day, but finding a hundred rupees barely makes it?
-That feeling has a name: loss aversion. It's one of the most famous ideas in behavioural economics, and it helped win a Nobel Prize.
-[short pause] But lately, some scientists have asked: is it as strong as we thought?
+[knowingly] Have you ever noticed that losing a hundred rupees can ruin your day, but finding a hundred rupees barely makes it? That's loss aversion. It helped win a Nobel Prize.
+[calm] In this video: the theory behind it, a coffee mug that doubled in value the moment people owned it, and the "don't miss out" tricks built on it.
+[short pause] [intrigued] Then a twist: the famous number may be smaller than you've heard. And one question that flips the frame.
 
 [thoughtful] In 1979, Daniel Kahneman and Amos Tversky published prospect theory. One of its central ideas: losses loom larger than gains.
 In their later estimates, a loss hurt roughly twice as much as an equal gain felt good.
@@ -38,9 +41,13 @@ The mug owners asked for roughly twice as much, or more, to sell it as the other
 Same mug. Minutes of ownership.
 [short pause] Once something is yours, giving it up feels like a loss. It's called the endowment effect.
 
+[knowingly] And the people selling to you know all this. [short pause] Very well.
+
 [knowingly] You'll see it everywhere once you look. "Don't miss out!" sale timers. Free trials that feel hard to cancel, because losing access feels worse than never having it.
 Investors holding falling shares, waiting to "get back to even" rather than accept the loss. Even an app's "Your streak will be lost!" message plays the same trick.
 [short pause] Marketers often frame offers as something you're about to lose.
+
+[serious] But here's the twist. [short pause] The famous "twice as painful" number may not hold.
 
 [serious] But here's the twist. In 2018, psychologists David Gal and Derek Rucker argued that loss aversion isn't a general law of the mind. Many classic results, they said, can be explained in other ways, like simply preferring to do nothing.
 Then in 2024, a huge review pooled more than six hundred estimates from a hundred and fifty studies. The average? Losses weighed about one point nine six times as much as gains.
@@ -52,7 +59,7 @@ And look at the whole picture: one small loss inside many good bets is normal.
 [long pause] Losses feel louder. That doesn't make them bigger.
 
 [friendly] Tell me in the comments: what's something you kept only because giving it up felt like losing?
-And subscribe. Next: why horoscopes feel scarily accurate, and what a 1948 classroom experiment revealed.
+[short pause] And next: why horoscopes feel scarily accurate, and what a 1948 classroom experiment revealed.
 ```
 
 ---
@@ -60,17 +67,18 @@ And subscribe. Next: why horoscopes feel scarily accurate, and what a 1948 class
 
 **Style instructions**
 ```
-You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute psychology video about loss aversion: why losing 100 rupees hurts more than winning 100 feels good. Speak natural, conversational Hindi (common English words like "loss aversion", "theory", "free trial", "share", "sale" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a sharp, trusted guide. Unhurried, with deliberate pauses between short lines. Open with a playful challenge, curious on everyday feelings, clear on prospect theory, amused on the mug experiment, wry on marketing, serious and balanced on the debate, warm and empowering on the defence. End friendly with a mysterious tease.
+You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute psychology video about loss aversion: why losing 100 rupees hurts more than winning 100 feels good. Speak natural, conversational Hindi (common English words like "loss aversion", "theory", "free trial", "share", "sale" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a sharp, trusted guide. Unhurried, with deliberate pauses between short lines. Open with a playful challenge, curious on everyday feelings, clear on prospect theory, amused on the mug experiment, wry on marketing, serious and balanced on the debate, warm and empowering on the defence. End friendly with a mysterious tease. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] खोने का डर, चुपचाप आपसे अच्छे फ़ैसले छीन रहा है। और मार्केटर्स इसी पर भरोसा करते हैं।
 [playfully] मैं एक सिक्का उछालता हूँ। हेड आया, तो आप डेढ़ सौ रुपये जीतेंगे। टेल आया, तो सौ रुपये हारेंगे।
 [short pause] ये फ़ायदे का दाँव है। तो फिर ज़्यादातर लोग "ना" क्यों कहते हैं?
 
-[curious] क्या आपने कभी ग़ौर किया है, कि सौ रुपये खो जाएँ, तो पूरा दिन ख़राब हो सकता है, पर सौ रुपये मिल जाएँ, तो दिन मुश्किल से बनता है?
-इस एहसास का एक नाम है: "लॉस अवर्ज़न"। ये बिहेवियरल इकोनॉमिक्स के सबसे मशहूर आइडियाज़ में से एक है, और इसने एक नोबेल पुरस्कार जिताने में मदद की।
-[short pause] पर हाल में, कुछ वैज्ञानिकों ने पूछा है: क्या ये उतना ताक़तवर है, जितना हमने सोचा था?
+[knowingly] क्या आपने ग़ौर किया है, कि सौ रुपये खोना पूरा दिन ख़राब कर देता है, पर सौ रुपये मिलना मुश्किल से ख़ुशी देता है? इसे कहते हैं लॉस एवर्ज़न। इसने एक नोबेल प्राइज़ जिताने में मदद की।
+[calm] इस वीडियो में: इसके पीछे की थ्योरी, एक कॉफ़ी मग जिसकी क़ीमत, अपना होते ही दोगुनी हो गई, और इस पर बनी "मौक़ा मत गँवाइए" वाली चालें।
+[short pause] [intrigued] फिर एक ट्विस्ट: मशहूर नंबर, शायद आपकी सुनी बात से छोटा है। और एक सवाल, जो पूरी तस्वीर पलट देता है।
 
 [thoughtful] उन्नीस सौ उन्यासी में, डेनियल काह्नमैन और एमॉस ट्वर्स्की ने "प्रॉस्पेक्ट थ्योरी" छापी। उसका एक मुख्य विचार: नुक़सान, फ़ायदे से बड़ा दिखता है।
 उनके बाद के अंदाज़ों में, नुक़सान का दर्द, उतने ही फ़ायदे की ख़ुशी से लगभग दोगुना था।
@@ -82,9 +90,13 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 वही मग। कुछ ही मिनट का मालिकाना हक़।
 [short pause] जो चीज़ आपकी हो जाए, उसे छोड़ना नुक़सान जैसा लगता है। इसे "एंडाउमेंट इफ़ेक्ट" कहते हैं।
 
+[knowingly] और जो आपको चीज़ें बेचते हैं, वो ये सब जानते हैं। [short pause] बहुत अच्छी तरह।
+
 [knowingly] एक बार देखना शुरू कीजिए, तो ये हर जगह दिखेगा। सेल पर "मिस मत कीजिए!" वाले टाइमर। फ़्री ट्रायल, जिन्हें कैंसल करना मुश्किल लगता है, क्योंकि ऐक्सेस खोना, उसके कभी न होने से बुरा लगता है।
 गिरते शेयर पकड़े बैठे निवेशक, जो नुक़सान मानने के बजाय, "बराबर पर लौटने" का इंतज़ार करते हैं। किसी ऐप का "आपकी स्ट्रीक टूट जाएगी!" वाला मैसेज भी यही चाल चलता है।
 [short pause] मार्केटर्स अक्सर ऑफ़र को ऐसे पेश करते हैं, जैसे आप कुछ खोने वाले हों।
+
+[serious] पर ये रहा ट्विस्ट। [short pause] मशहूर "दोगुना दर्द" वाला नंबर, शायद टिकता नहीं।
 
 [serious] पर ट्विस्ट ये है। दो हज़ार अठारह में, मनोवैज्ञानिक डेविड गॉल और डेरेक रकर ने तर्क दिया, कि लॉस अवर्ज़न दिमाग़ का कोई आम नियम नहीं है। उनके मुताबिक़, कई पुराने नतीजों को दूसरी तरह भी समझाया जा सकता है, जैसे बस कुछ न करने की पसंद।
 फिर दो हज़ार चौबीस में, एक बहुत बड़ी समीक्षा ने, एक सौ पचास स्टडीज़ से छह सौ से ज़्यादा अंदाज़े जोड़े। औसत? नुक़सान का वज़न, फ़ायदे से लगभग एक दशमलव नौ छह गुना।
@@ -96,7 +108,7 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 [long pause] नुक़सान ज़्यादा ज़ोर से बोलते हैं। इससे वो बड़े नहीं हो जाते।
 
 [friendly] कमेंट में बताइए: ऐसी कौन-सी चीज़ है, जो आपने सिर्फ़ इसलिए रखी, क्योंकि उसे छोड़ना हारने जैसा लगा?
-और सब्सक्राइब कीजिए। अगले वीडियो में: राशिफल इतने डरावने तरीक़े से सही क्यों लगते हैं, और उन्नीस सौ अड़तालीस की एक क्लास के प्रयोग ने क्या दिखाया।
+[short pause] और अगले वीडियो में: राशिफल इतने डरावने तरीक़े से सही क्यों लगते हैं, और उन्नीस सौ अड़तालीस की एक क्लास के प्रयोग ने क्या दिखाया।
 ```
 
 ---
@@ -104,17 +116,18 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 
 **Style instructions**
 ```
-You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute psychology video about loss aversion: why losing 100 rupees hurts more than winning 100 feels good. Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a sharp, trusted guide. Unhurried, with deliberate pauses between short lines. Open with a playful challenge, curious on everyday feelings, clear on prospect theory, amused on the mug experiment, wry on marketing, serious and balanced on the debate, warm and empowering on the defence. End friendly with a mysterious tease.
+You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute psychology video about loss aversion: why losing 100 rupees hurts more than winning 100 feels good. Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a sharp, trusted guide. Unhurried, with deliberate pauses between short lines. Open with a playful challenge, curious on everyday feelings, clear on prospect theory, amused on the mug experiment, wry on marketing, serious and balanced on the debate, warm and empowering on the defence. End friendly with a mysterious tease. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] হেৰুওৱাৰ ভয়ে মনে মনে আপোনাৰ পৰা ভাল সিদ্ধান্ত কাঢ়ি লৈছে। আৰু মাৰ্কেটাৰসকলে ইয়াৰ ওপৰতেই ভৰসা কৰে।
 [playfully] মই এটা মুদ্ৰা দলিয়াওঁ। হেড পৰিলে, আপুনি এশ পঞ্চাশ টকা জিকিব। টেইল পৰিলে, এশ টকা হেৰুৱাব।
 [short pause] এইটো লাভৰ বাজি। তেন্তে বেছিভাগ মানুহে "নাই" কিয় কয়?
 
-[curious] কেতিয়াবা মন কৰিছেনে, এশ টকা হেৰালে গোটেই দিনটো বেয়া হ'ব পাৰে, কিন্তু এশ টকা পালে দিনটো প্ৰায় ভাল নহয়েই?
-এই অনুভৱৰ এটা নাম আছে: "লছ এভাৰ্চন"। আচৰণগত অৰ্থনীতিৰ আটাইতকৈ বিখ্যাত ধাৰণাবোৰৰ ই এটা, আৰু ই এটা ন'বেল বঁটা জিকাত সহায় কৰিছিল।
-[short pause] কিন্তু শেহতীয়াকৈ কিছুমান বিজ্ঞানীয়ে সুধিছে: ই আমি ভবাৰ দৰে ইমান শক্তিশালী নে?
+[knowingly] কেতিয়াবা মন কৰিছেনে, এশ টকা হেৰালে গোটেই দিনটো বেয়া হৈ যায়, কিন্তু এশ টকা পালে মুহূৰ্ততে পাহৰি যাওঁ? ইয়াক কোৱা হয় লছ এভাৰ্চন। ই এটা ন'বেল বঁটা জিকাত সহায় কৰিছিল।
+[calm] এই ভিডিঅ'ত: ইয়াৰ পিছৰ তত্ত্ব, এটা কফি মগ যাৰ মূল্য, নিজৰ হোৱাৰ লগে লগে দুগুণ হৈ গ'ল, আৰু ইয়াৰ ওপৰত গঢ় লোৱা "সুযোগ নেহেৰুৱাব" কৌশলবোৰ।
+[short pause] [intrigued] তাৰ পিছত এটা টুইষ্ট: বিখ্যাত সংখ্যাটো, হয়তো আপুনি শুনাতকৈ সৰু। আৰু এটা প্ৰশ্ন, যিয়ে গোটেই ছবিখন ওলোটা কৰি দিয়ে।
 
 [thoughtful] ঊনৈছ শ ঊনআশী চনত, ডেনিয়েল কানেমান আৰু এমছ টভাৰ্স্কিয়ে "প্ৰছপেক্ট থিয়ৰী" প্ৰকাশ কৰিলে। ইয়াৰ এটা মূল ধাৰণা: লোকচান লাভতকৈ ডাঙৰ যেন লাগে।
 তেওঁলোকৰ পিছৰ অনুমানত, লোকচানৰ দুখ, সমান লাভৰ আনন্দতকৈ প্ৰায় দুগুণ আছিল।
@@ -126,9 +139,13 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 একেটা মগ। মাত্ৰ কেইমিনিটমানৰ মালিকানা।
 [short pause] যিটো বস্তু আপোনাৰ হৈ যায়, তাক এৰি দিয়াটো লোকচানৰ দৰে লাগে। ইয়াক "এণ্ড'মেণ্ট প্ৰভাৱ" বোলে।
 
+[knowingly] আৰু যিসকলে আপোনাক বস্তু বিক্ৰী কৰে, তেওঁলোকে এইবোৰ জানে। [short pause] খুব ভালদৰে।
+
 [knowingly] এবাৰ চাবলৈ আৰম্ভ কৰিলে, ই সকলো ঠাইতে দেখা পাব। চেলত "মিছ নকৰিব!" টাইমাৰ। বিনামূলীয়া ট্ৰায়েল, যিবোৰ বাতিল কৰা কঠিন লাগে, কাৰণ সুবিধা হেৰুওৱাটো কেতিয়াও নোপোৱাতকৈ বেয়া লাগে।
 নামি থকা শ্বেয়াৰ ধৰি ৰখা বিনিয়োগকাৰী, যিসকলে লোকচান মানি লোৱাৰ সলনি "সমানলৈ ঘূৰি অহাৰ" অপেক্ষা কৰে। আনকি কোনো এপৰ "আপোনাৰ ষ্ট্ৰিক ভাঙি যাব!" মেছেজেও একেটা কৌশল খাটে।
 [short pause] বিপণনকাৰীসকলে প্ৰায়ে প্ৰস্তাৱবোৰ এনেকৈ দেখুৱায়, যেন আপুনি কিবা হেৰুৱাবলৈ ওলাইছে।
+
+[serious] কিন্তু এয়া টুইষ্ট। [short pause] বিখ্যাত "দুগুণ বেদনা"ৰ সংখ্যাটো হয়তো নিটিকে।
 
 [serious] কিন্তু আচৰিত কথাটো এইটো। দুহাজাৰ ওঠৰ চনত, মনোবিজ্ঞানী ডেভিদ গাল আৰু ডেৰেক ৰাকাৰে যুক্তি দিলে যে লছ এভাৰ্চন মনৰ কোনো সাধাৰণ নিয়ম নহয়। তেওঁলোকৰ মতে, বহুতো পুৰণি ফলাফল আন ধৰণেও বুজাব পাৰি, যেনে কেৱল একো নকৰাটো পছন্দ কৰা।
 তাৰ পিছত দুহাজাৰ চৌবিশ চনত, এটা বিশাল পৰ্যালোচনাই এশ পঞ্চাশটা অধ্যয়নৰ পৰা ছশতকৈ বেছি অনুমান একেলগ কৰিলে। গড়? লোকচানৰ ওজন লাভতকৈ প্ৰায় এক দশমিক ন ছয় গুণ।
@@ -140,5 +157,5 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 [long pause] লোকচানে বেছি জোৰেৰে কথা কয়। তাৰ বাবে সেইবোৰ ডাঙৰ নহয়।
 
 [friendly] কমেণ্টত কওক: এনে কি বস্তু আছে, যিটো আপুনি কেৱল এইবাবেই ৰাখিছিল, কাৰণ এৰি দিয়াটো হৰাৰ দৰে লাগিছিল?
-আৰু চাবস্ক্ৰাইব কৰক। পিছৰ ভিডিঅ'ত: ৰাশিফল ইমান আচৰিত ধৰণে শুদ্ধ কিয় লাগে, আৰু ঊনৈছ শ আঠচল্লিশৰ এটা শ্ৰেণীকোঠাৰ পৰীক্ষাই কি দেখুৱালে।
+[short pause] আৰু পিছৰ ভিডিঅ'ত: ৰাশিফল ইমান আচৰিত ধৰণে শুদ্ধ কিয় লাগে, আৰু ঊনৈছ শ আঠচল্লিশৰ এটা শ্ৰেণীকোঠাৰ পৰীক্ষাই কি দেখুৱালে।
 ```
