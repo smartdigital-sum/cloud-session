@@ -3,6 +3,8 @@ Reel version of [long-video-voice.md](long-video-voice.md) | Voice: **Charon** (
 One line = one scene from [short-reel-script.md](short-reel-script.md). Generate each language in one run. Without the [tags], the Text blocks double as subtitles.
 AI Studio steps and fixes: [../../../voice/google-ai-studio-tts.md](../../../voice/google-ai-studio-tts.md)
 
+**Changed (storytelling guide):** stakes added to the hook, a lock-in line (the clown and the rare group), two rehooks, and a CTA to the full video before the question.
+
 ⚠ Hindi and Assamese need native review. Test Assamese line 1 first.
 
 ---
@@ -15,13 +17,15 @@ You are a calm, deep-voiced, wise mentor narrating a 60-second vertical reel cal
 
 **Text**
 ```
-[calm] You can't multitask. Not really.
-[curious] For anything that needs thinking, your brain doesn't do two things at once. It switches. And every switch costs time.
-[playfully] In one study, a clown rode a unicycle across a campus. Of people talking on their phones, only about one in four noticed.
+[firmly] You can't multitask. Not really. And every time you try, it's costing you.
+[intrigued] It took a clown on a unicycle to prove it. And a tiny group of people who break the rule.
+[curious] Your brain doesn't do two thinking tasks at once. It switches. [playfully] In one study, a clown rode a unicycle across a campus. Of people on their phones, only about one in four noticed.
+[leaning in] Now put that behind the wheel.
 [serious] In a driving simulator, phone talkers, even hands-free, were as impaired as drunk drivers at the US legal limit.
-[intrigued] Only about two and a half percent of people tested could do both without slipping. "Supertaskers." The rest of us? No.
+[playfully] So can anyone do it?
+[intrigued] About two and a half percent of people tested. "Supertaskers." [dryly] The rest of us? No.
 [warmly] So do one thing at a time. Batch your messages. Put the phone out of reach.
-[friendly] How many tabs do you have open right now? Be honest. Tell me below.
+[friendly] Full video's linked below. So, how many tabs do you have open right now?
 ```
 
 ---
@@ -34,13 +38,15 @@ You are a calm, deep-voiced, wise mentor narrating a 60-second vertical reel cal
 
 **Text**
 ```
-[calm] आप मल्टीटास्क नहीं कर सकते। सच में नहीं।
-[curious] जिस काम में सोच लगती है, उसमें दिमाग़ दो काम एक साथ नहीं करता। वो स्विच करता है। और हर स्विच में वक़्त जाता है।
-[playfully] एक स्टडी में, एक जोकर यूनिसाइकिल पर कैंपस से गुज़रा। फ़ोन पर बात कर रहे लोगों में, सिर्फ़ चार में से एक ने उसे देखा।
+[firmly] आप मल्टीटास्क नहीं कर सकते। सच में नहीं। और जब भी कोशिश करते हैं, उसकी क़ीमत चुकाते हैं।
+[intrigued] इसे साबित करने के लिए यूनिसाइकिल पर एक जोकर चाहिए था। और लोगों का एक छोटा ग्रुप, जो ये नियम तोड़ता है।
+[curious] सोचने वाले दो काम दिमाग़ एक साथ नहीं करता। वो स्विच करता है। [playfully] एक स्टडी में, एक जोकर यूनिसाइकिल पर कैंपस से गुज़रा। फ़ोन पर लगे लोगों में, सिर्फ़ चार में से एक ने उसे देखा।
+[leaning in] अब यही चीज़ स्टीयरिंग के पीछे सोचिए।
 [serious] ड्राइविंग सिम्युलेटर में, फ़ोन पर बात करने वाले, हैंड्स-फ़्री वाले भी, अमेरिका की क़ानूनी सीमा तक नशे वाले ड्राइवरों जितने कमज़ोर निकले।
-[intrigued] टेस्ट किए गए लोगों में, सिर्फ़ लगभग ढाई प्रतिशत दोनों काम बिना चूके कर पाए। "सुपरटास्कर्स।" बाकी हम? नहीं।
+[playfully] तो क्या कोई ये कर सकता है?
+[intrigued] टेस्ट किए गए लोगों में से लगभग ढाई प्रतिशत। "सुपरटास्कर्स।" [dryly] बाकी हम? नहीं।
 [warmly] तो एक वक़्त में एक काम कीजिए। मैसेज एक साथ देखिए। फ़ोन पहुँच से दूर रखिए।
-[friendly] अभी आपके कितने टैब खुले हैं? सच-सच। नीचे बताइए।
+[friendly] पूरी वीडियो का लिंक नीचे है। तो बताइए, अभी आपके कितने टैब खुले हैं?
 ```
 
 ---
@@ -53,11 +59,13 @@ You are a calm, deep-voiced, wise mentor narrating a 60-second vertical reel cal
 
 **Text**
 ```
-[calm] আপুনি মাল্টিটাস্ক কৰিব নোৱাৰে। সঁচাকৈয়ে নোৱাৰে।
-[curious] যি কামত চিন্তা লাগে, তাত মগজুৱে একেলগে দুটা কাম নকৰে। ই সলনি কৰে। আৰু প্ৰতিবাৰ সলনি কৰোঁতে সময় যায়।
-[playfully] এটা অধ্যয়নত, এজন জোকাৰে ইউনিচাইকেলত কেম্পাছেৰে পাৰ হৈছিল। ফোনত কথা পাতি থকাসকলৰ মাত্ৰ চাৰিজনৰ এজনেহে তেওঁক দেখিছিল।
+[firmly] আপুনি মাল্টিটাস্ক কৰিব নোৱাৰে। সঁচাকৈয়ে নোৱাৰে। আৰু যেতিয়াই চেষ্টা কৰে, তাৰ মূল্য দিয়ে।
+[intrigued] ইয়াক প্ৰমাণ কৰিবলৈ লাগিছিল ইউনিচাইকেলত এজন জোকাৰ। আৰু মানুহৰ এটা সৰু দল, যিয়ে এই নিয়ম ভাঙে।
+[curious] চিন্তা লগা দুটা কাম মগজুৱে একেলগে নকৰে। ই সলনি কৰে। [playfully] এটা অধ্যয়নত, এজন জোকাৰে ইউনিচাইকেলত কেম্পাছেৰে পাৰ হৈছিল। ফোনত ব্যস্ত মানুহৰ মাত্ৰ চাৰিজনৰ এজনেহে তেওঁক দেখিছিল।
+[leaning in] এতিয়া এই কথাটো ষ্টিয়েৰিঙৰ পিছত ভাবক।
 [serious] ড্ৰাইভিং ছিমুলেটৰত, ফোনত কথা পতাসকল, হেণ্ডছ-ফ্ৰীৰেও, আমেৰিকাৰ আইনী সীমালৈকে মদ খোৱা চালকৰ সমানেই দুৰ্বল আছিল।
-[intrigued] পৰীক্ষা কৰা মানুহৰ মাত্ৰ প্ৰায় আঢ়ৈ শতাংশইহে দুয়োটা কাম ভুল নকৰাকৈ কৰিব পাৰিলে। "ছুপাৰটাস্কাৰ।" বাকী আমি? নহয়।
+[playfully] তেন্তে কোনোবাই এইটো কৰিব পাৰেনে?
+[intrigued] পৰীক্ষা কৰা মানুহৰ প্ৰায় আঢ়ৈ শতাংশই। "ছুপাৰটাস্কাৰ।" [dryly] বাকী আমি? নোৱাৰোঁ।
 [warmly] গতিকে এবাৰত এটা কাম কৰক। মেছেজবোৰ একেলগে চাওক। ফোনটো নাগালৰ বাহিৰত ৰাখক।
-[friendly] এতিয়া আপোনাৰ কেইটা টেব খোলা আছে? সঁচাকৈ। তলত লিখক।
+[friendly] সম্পূৰ্ণ ভিডিঅ'ৰ লিংক তলত আছে। গতিকে কওক, এতিয়া আপোনাৰ কেইটা টেব খোলা আছে?
 ```

@@ -5,11 +5,20 @@
 **Voiceover:** English, Hindi, Assamese → [long-video-voice.md](long-video-voice.md) · **Reel version:** [short-reel-script.md](short-reel-script.md)
 **Series:** follows [03 Monday plans](../03-monday-plans/long-video-script.md); teases idea #1 (Your Phone Steals Focus Even When It's Silent) next.
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook started with a soft "you might be…"; the claim came in line 3. | **Hook:** subject + stakes in sentence one ("you can't multitask… every time you try, it costs you"). |
+| 0:15–0:40 opened with a recap of video 03. | **Lock-in:** magic box (four truths, one with a clown, the last one nobody expects) + teased payoff (the setup that works). Recap removed. |
+| Truths 3 and 4 started as labels. | **Rehooks** before Truth 3 (~1:50) and Truth 4 (~2:20). |
+| Outro asked for a comment and a subscribe. | One **CTA** (comment question + next-video tease). |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 You're not doing three things at once
-0:15 The truth, in four parts
+0:10 The truth, in four parts
 0:40 Truth 1: Your brain switches
 1:15 Truth 2: The unicycling clown
 1:50 Truth 3: Hands-free isn't brain-free
@@ -20,31 +29,31 @@
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
-Right now, you might be watching this… while replying to a message, eating, or scrolling something else.
-It feels like you're doing three things at once.
-(pause) You're not. You're doing one thing at a time, and switching. Fast. And every switch costs you.
+You can't multitask. And every time you try, it costs you.
+Right now, you might be watching this… while replying to a message, eating, or scrolling something else. It feels like three things at once.
+(pause) It's one thing at a time, switching. Fast.
 
-**[VISUAL]** A figure on a sofa: phone in one hand, snack in the other, a laptop with this video playing. A spotlight labelled ATTENTION jumps rapidly between the three objects; each jump leaves a small spark and a "−" mark.
+**[VISUAL]** Frame 1 is already moving: a figure on a sofa, phone in one hand, snack in the other, a laptop with this video playing. A spotlight labelled ATTENTION jumps rapidly between the three objects; each jump leaves a small spark and a "−" mark.
 
-_Tone: knowing, almost conspiratorial; slow down on "every switch costs you."_
+_Tone: firm on line one; knowing, almost conspiratorial on the sofa; slow on "switching. Fast."_
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
-Last time, we saw how real-life interruptions break our Monday plans. But a lot of those interruptions… we create ourselves. Ten tabs. Two screens. One phone that never goes quiet.
-We call it multitasking, and we're proud of it.
-So here's the truth about multitasking, in four parts. (pause) And the last one surprised even the researchers.
+We call it multitasking, and we're proud of it. Ten tabs. Two screens. One phone that never goes quiet.
+So here's the truth about it, in four parts. One involves a clown on a unicycle. (pause) And the last one is the one nobody expects.
+Then I'll show you the simple setup that actually works.
 
-**[VISUAL]** Callback: the gappy planner from video 03 gets hit by self-made interruptions (tab pop-ups, notification bells). Pull back to a desk with ten tabs and two screens. Title card counts up: **THE TRUTH · 1 2 3 4**, with the 4 glowing.
+**[VISUAL]** Desk with ten tabs and two screens. Title card counts up: **THE TRUTH · 1 2 3 4**; a tiny unicycle wheel rolls across the 2; the 4 glows and stays sealed. A fifth card, **WHAT WORKS**, drops in face down.
 
-_Tone: calm; a teasing lift on "surprised even the researchers."_
+_Tone: calm list; playful on the clown; a teasing lift on "nobody expects"._
 
 ## MAIN BODY
 
-### Truth 1: Your brain switches (0:40–1:15)
+### BODY 1: Truth 1, Your brain switches (0:40–1:15)
 
 **[NARRATION]**
 Truth one: for anything that needs real thinking, your brain mostly doesn't do two things at once. It switches.
@@ -56,7 +65,7 @@ And sometimes, a fraction of a second is all it takes.
 
 _Tone: clear, explanatory; ominous on the last line._
 
-### Truth 2: The unicycling clown (1:15–1:50)
+### BODY 2: Truth 2, The unicycling clown (1:15–1:50)
 
 **[NARRATION]**
 Truth two: when you split your attention, you miss things you'd swear you'd see.
@@ -68,7 +77,16 @@ Of people walking alone, about half said yes. Of people talking on their phones?
 
 _Tone: playful, building to a deadpan three-beat "A clown. On a unicycle. Right in front of them."_
 
-### Truth 3: Hands-free isn't brain-free (1:50–2:20)
+### REHOOK 1 (1:50)
+
+**[NARRATION]**
+But walking past a clown is harmless. (pause) The next truth happens behind the wheel.
+
+**[VISUAL]** The campus scene slides away; a dashboard and steering wheel fill the frame.
+
+_Tone: a lift, then serious._
+
+### BODY 3: Truth 3, Hands-free isn't brain-free (1:50–2:20)
 
 **[NARRATION]**
 Truth three: hands-free doesn't mean brain-free.
@@ -80,7 +98,16 @@ The problem isn't your hands. (pause) It's that your attention is somewhere else
 
 _Tone: serious and steady; no drama, let the facts do it._
 
-### Truth 4: The myth and the supertaskers (2:20–3:00)
+### REHOOK 2 (2:20)
+
+**[NARRATION]**
+So is anyone actually good at this? (pause) Yes. A tiny group. And you're probably not in it.
+
+**[VISUAL]** Hundreds of tiny figures; a handful start to glow.
+
+_Tone: playful, conspiratorial._
+
+### BODY 4: Truth 4, The myth and the supertaskers (2:20–3:00)
 
 **[NARRATION]**
 Truth four is where it gets interesting.
@@ -93,7 +120,9 @@ And then there's the surprise. In 2010, the same Utah team tested two hundred pe
 
 _Tone: intrigued, honest on "not proven"; playful reveal on "supertaskers"; gentle punchline at the end._
 
-## PAYOFF / TWIST (3:00–3:30)
+## CLOSING (3:00–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 So here's the real truth. For thinking tasks, multitasking isn't a superpower most of us have. It's a cost you keep paying.
@@ -105,12 +134,14 @@ One thing, fully. (pause) Then the next.
 
 _Tone: warm certainty (peak); slow, spaced final line._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: the comment question, plus the next-video tease. No subscribe ask._
 
 **[NARRATION]**
 Doing one thing at a time feels slower. It isn't. It's the speed at which your brain does its best work.
 Tell me in the comments: how many tabs do you have open right now? Be honest.
-And subscribe. Next: why your phone can steal your focus… even when it's silent.
+(pause) And next: why your phone can steal your focus… even when it's silent.
 
 **[VISUAL]** The figure from the hook closes tabs one by one; the spotlight steadies. End screen: comment prompt "How many tabs? 👀" + next-video card **Your Phone Steals Focus Even When It's Silent** (a face-down phone with a faint glow).
 
@@ -122,14 +153,15 @@ _Tone: gentle; a friendly grin on "Be honest."_
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Knowing, conspiratorial | Low and close; slow on "every switch costs you" |
-| Setup | Calm → teasing | Light list; lift on "surprised even the researchers" |
+| Hook | Firm → knowing | Weight on "can't" and "costs you"; slow on "switching. Fast." |
+| Lock-in | Calm → teasing | Light list; smile on the clown; lift on "nobody expects" |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | Truth 1 | Clear, explanatory | Even pace; ominous last line |
 | Truth 2 | Playful | Storyteller; deadpan three beats at the end |
 | Truth 3 | Serious, steady | No drama; weight on "somewhere else" |
 | Truth 4 | Intrigued, honest | Straight on "not proven"; playful "supertaskers"; soft punchline |
-| Payoff | Warm certainty (peak) | Clear tips; long pause before "Then the next" |
-| Outro | Gentle, friendly | Grin on "Be honest" |
+| Closing | Warm certainty (peak) | Clear tips; long pause before "Then the next" |
+| Close + CTA | Gentle, friendly | Grin on "Be honest" |
 
 ## Fact check
 

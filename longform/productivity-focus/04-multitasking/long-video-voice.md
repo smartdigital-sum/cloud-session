@@ -8,6 +8,8 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 3. If the voice drifts, speeds up or cuts off near the end, generate **one section per run** with the same voice and style, then join the clips (add ~0.5s silence between sections).
 4. Name files like `04-multitasking_EN_s1-hook.wav`.
 
+**Changed (storytelling guide):** firm hook with the stakes in line one; the video-03 recap is replaced by a lock-in (four truths, a clown, the one nobody expects, the setup that works); two new rehook lines; one CTA, no subscribe ask. Generate 10 sections now (2 rehooks added).
+
 ⚠ Hindi and Assamese are machine-quality translations. Get a native speaker to read them before recording. Test the Assamese hook first.
 
 ---
@@ -15,18 +17,18 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 
 **Style instructions**
 ```
-You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "The truth about multitasking". Speak directly to one listener ("you"), like a trusted older friend with a dry sense of humour. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses between short lines. Open low and knowing. Count the four truths clearly. Be playful on the clown story with a deadpan three-beat ending, steady and serious on driving, honest on what science has not proven, playful on the "supertaskers" reveal, then rise to warm, certain advice. End gently, with a grin on "Be honest." Never preachy, never like an advert.
+You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "The truth about multitasking". Speak directly to one listener ("you"), like a trusted older friend with a dry sense of humour. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses between short lines. Open firm on the first line (never whispered), then low and knowing. Count the four truths clearly. Be playful on the clown story with a deadpan three-beat ending, steady and serious on driving, honest on what science has not proven, playful on the "supertaskers" reveal, then rise to warm, certain advice. End gently, with a grin on "Be honest." Never preachy, never like an advert.
 ```
 
 **Text**
 ```
-[knowingly] Right now, you might be watching this… while replying to a message, eating, or scrolling something else.
-It feels like you're doing three things at once.
-[short pause] You're not. You're doing one thing at a time, and switching. Fast. And every switch costs you.
+[firmly] You can't multitask. And every time you try, it costs you.
+[knowingly] Right now, you might be watching this… while replying to a message, eating, or scrolling something else. It feels like three things at once.
+[short pause] It's one thing at a time, switching. Fast.
 
-[calm] Last time, we saw how real-life interruptions break our Monday plans. But a lot of those interruptions… we create ourselves. Ten tabs. Two screens. One phone that never goes quiet.
-We call it multitasking, and we're proud of it.
-So here's the truth about multitasking, in four parts. [short pause] And the last one surprised even the researchers.
+[calm] We call it multitasking, and we're proud of it. Ten tabs. Two screens. One phone that never goes quiet.
+[intrigued] So here's the truth about it, in four parts. One involves a clown on a unicycle. [short pause] And the last one is the one nobody expects.
+Then I'll show you the simple setup that actually works.
 
 [curious] Truth one: for anything that needs real thinking, your brain mostly doesn't do two things at once. It switches.
 In 2001, psychologists Joshua Rubinstein, David Meyer and Jeffrey Evans measured this. Every time people switched between two tasks, they lost time. And the more complex the tasks, the more each switch cost.
@@ -38,10 +40,14 @@ In a 2010 study, researchers at Western Washington University sent a clown on a 
 Afterwards, they asked people who'd walked through: did you see a unicycling clown?
 Of people walking alone, about half said yes. Of people talking on their phones? Only about one in four. [short pause] A clown. On a unicycle. Right in front of them.
 
+[leaning in] But walking past a clown is harmless. [short pause] [serious] The next truth happens behind the wheel.
+
 [serious] Truth three: hands-free doesn't mean brain-free.
 In a 2006 driving-simulator study at the University of Utah, people drove while talking on a phone, both handheld and hands-free.
 They braked later. They reacted slower. And the researchers concluded that talking on a phone while driving can be as impairing as driving drunk, at the American legal limit.
 The problem isn't your hands. [short pause] It's that your attention is somewhere else.
+
+[playfully] So is anyone actually good at this? [short pause] Yes. A tiny group. And you're probably not in it.
 
 [intrigued] Truth four is where it gets interesting.
 You may have heard that heavy multitasking damages your brain. A famous 2009 Stanford study suggested heavy media multitaskers were worse at filtering out distractions.
@@ -56,7 +62,7 @@ One thing, fully. [long pause] Then the next.
 
 [gently] Doing one thing at a time feels slower. It isn't. It's the speed at which your brain does its best work.
 [friendly] Tell me in the comments: how many tabs do you have open right now? Be honest.
-And subscribe. Next: why your phone can steal your focus… even when it's silent.
+[short pause] And next: why your phone can steal your focus… even when it's silent.
 ```
 
 ---
@@ -64,18 +70,18 @@ And subscribe. Next: why your phone can steal your focus… even when it's silen
 
 **Style instructions**
 ```
-You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "The truth about multitasking". Speak natural, conversational Hindi (common English words like "multitasking", "switch", "tab", "hands-free" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a trusted older friend with a dry sense of humour. Unhurried, with deliberate pauses between short lines. Open low and knowing. Count the four truths clearly. Be playful on the clown story with a deadpan three-beat ending, steady and serious on driving, honest on what science has not proven, playful on the "supertaskers" reveal, then rise to warm, certain advice. End gently, with a grin on "sach-sach".
+You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "The truth about multitasking". Speak natural, conversational Hindi (common English words like "multitasking", "switch", "tab", "hands-free" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a trusted older friend with a dry sense of humour. Unhurried, with deliberate pauses between short lines. Open firm on the first line (never whispered), then low and knowing. Count the four truths clearly. Be playful on the clown story with a deadpan three-beat ending, steady and serious on driving, honest on what science has not proven, playful on the "supertaskers" reveal, then rise to warm, certain advice. End gently, with a grin on "sach-sach".
 ```
 
 **Text**
 ```
-[knowingly] शायद आप इस वक़्त ये वीडियो देख रहे हैं… साथ में किसी मैसेज का जवाब दे रहे हैं, कुछ खा रहे हैं, या कुछ और स्क्रॉल कर रहे हैं।
-लगता है, जैसे आप तीन काम एक साथ कर रहे हैं।
-[short pause] ऐसा नहीं है। आप एक वक़्त पर एक ही काम कर रहे हैं, और बीच-बीच में स्विच कर रहे हैं। तेज़ी से। और हर स्विच की एक क़ीमत है।
+[firmly] आप मल्टीटास्क नहीं कर सकते। और जब भी कोशिश करते हैं, उसकी क़ीमत चुकाते हैं।
+[knowingly] शायद आप इस वक़्त ये वीडियो देख रहे हैं… साथ में किसी मैसेज का जवाब दे रहे हैं, कुछ खा रहे हैं, या कुछ और स्क्रॉल कर रहे हैं। लगता है, जैसे तीन काम एक साथ हो रहे हैं।
+[short pause] असल में एक वक़्त पर एक ही काम, और बीच-बीच में स्विच। तेज़ी से।
 
-[calm] पिछली बार हमने देखा, असली ज़िंदगी की रुकावटें सोमवार के प्लान कैसे तोड़ देती हैं। पर बहुत-सी रुकावटें… हम ख़ुद पैदा करते हैं। दस टैब। दो स्क्रीन। एक फ़ोन, जो कभी चुप नहीं होता।
-हम इसे मल्टीटास्किंग कहते हैं, और इस पर गर्व करते हैं।
-तो ये रहा मल्टीटास्किंग का सच, चार हिस्सों में। [short pause] और आख़िरी हिस्से ने तो रिसर्चर्स को भी चौंका दिया।
+[calm] हम इसे मल्टीटास्किंग कहते हैं, और इस पर गर्व करते हैं। दस टैब। दो स्क्रीन। एक फ़ोन, जो कभी चुप नहीं होता।
+[intrigued] तो ये रहा इसका सच, चार हिस्सों में। एक में यूनिसाइकिल पर एक जोकर है। [short pause] और आख़िरी वाला, जिसकी किसी को उम्मीद नहीं होती।
+फिर मैं आपको वो आसान तरीक़ा दिखाऊँगा, जो सच में काम करता है।
 
 [curious] सच नंबर एक: जिस काम में असली सोच लगती है, उसमें आपका दिमाग़ ज़्यादातर दो काम एक साथ नहीं करता। वो स्विच करता है।
 दो हज़ार एक में, मनोवैज्ञानिक जोशुआ रुबिनस्टीन, डेविड मेयर और जेफ़री इवांस ने इसे मापा। हर बार जब लोग दो कामों के बीच स्विच करते, उनका वक़्त जाता। और काम जितने मुश्किल, हर स्विच उतना महँगा।
@@ -87,10 +93,14 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 बाद में, वहाँ से गुज़रे लोगों से पूछा गया: क्या आपने यूनिसाइकिल पर जोकर देखा?
 अकेले चल रहे लोगों में, लगभग आधों ने हाँ कहा। फ़ोन पर बात कर रहे लोगों में? सिर्फ़ चार में से एक ने। [short pause] एक जोकर। यूनिसाइकिल पर। ठीक उनके सामने।
 
+[leaning in] पर जोकर के पास से गुज़र जाना तो नुक़सान नहीं करता। [short pause] [serious] अगला सच स्टीयरिंग व्हील के पीछे होता है।
+
 [serious] सच नंबर तीन: हैंड्स-फ़्री का मतलब दिमाग़-फ़्री नहीं है।
 दो हज़ार छह में, यूनिवर्सिटी ऑफ़ यूटा की एक ड्राइविंग-सिम्युलेटर स्टडी में, लोगों ने फ़ोन पर बात करते हुए गाड़ी चलाई, हाथ में फ़ोन लेकर भी, और हैंड्स-फ़्री भी।
 उन्होंने देर से ब्रेक लगाया। धीमे रिएक्ट किया। और रिसर्चर्स का निष्कर्ष था: फ़ोन पर बात करते हुए गाड़ी चलाना, अमेरिका की क़ानूनी सीमा तक नशे में गाड़ी चलाने जितना ख़तरनाक हो सकता है।
 दिक़्क़त आपके हाथों में नहीं है। [short pause] दिक़्क़त ये है, कि आपका ध्यान कहीं और है।
+
+[playfully] तो क्या कोई सच में इसमें अच्छा है? [short pause] हाँ। एक छोटा-सा ग्रुप। और शायद आप उसमें नहीं हैं।
 
 [intrigued] सच नंबर चार में बात दिलचस्प हो जाती है।
 आपने सुना होगा, कि ज़्यादा मल्टीटास्किंग दिमाग़ को नुक़सान पहुँचाती है। दो हज़ार नौ की स्टैनफ़र्ड की एक मशहूर स्टडी ने कहा था, कि बहुत ज़्यादा मीडिया मल्टीटास्क करने वाले, ध्यान भटकाने वाली चीज़ों को छाँटने में कमज़ोर होते हैं।
@@ -105,7 +115,7 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 
 [gently] एक वक़्त में एक काम करना धीमा लगता है। है नहीं। यही वो रफ़्तार है, जिस पर आपका दिमाग़ अपना सबसे अच्छा काम करता है।
 [friendly] कमेंट में बताइए: अभी आपके कितने टैब खुले हैं? सच-सच।
-और सब्सक्राइब कीजिए। अगले वीडियो में: आपका फ़ोन चुप रहकर भी आपका ध्यान कैसे चुरा सकता है।
+[short pause] और अगले वीडियो में: आपका फ़ोन चुप रहकर भी आपका ध्यान कैसे चुरा सकता है।
 ```
 
 ---
@@ -113,18 +123,18 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 
 **Style instructions**
 ```
-You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "The truth about multitasking". Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a trusted older friend with a dry sense of humour. Unhurried, with deliberate pauses between short lines. Open low and knowing. Count the four truths clearly. Be playful on the clown story with a deadpan three-beat ending, steady and serious on driving, honest on what science has not proven, playful on the "supertaskers" reveal, then rise to warm, certain advice. End gently, with a grin on the tabs question.
+You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "The truth about multitasking". Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a trusted older friend with a dry sense of humour. Unhurried, with deliberate pauses between short lines. Open firm on the first line (never whispered), then low and knowing. Count the four truths clearly. Be playful on the clown story with a deadpan three-beat ending, steady and serious on driving, honest on what science has not proven, playful on the "supertaskers" reveal, then rise to warm, certain advice. End gently, with a grin on the tabs question.
 ```
 
 **Text**
 ```
-[knowingly] হয়তো আপুনি এই মুহূৰ্তত এই ভিডিঅ'টো চাই আছে… লগতে কোনো মেছেজৰ উত্তৰ দি আছে, কিবা খাই আছে, বা আন কিবা স্ক্ৰল কৰি আছে।
-এনে লাগে, যেন আপুনি একেলগে তিনিটা কাম কৰি আছে।
-[short pause] তেনে নহয়। আপুনি এবাৰত এটাহে কাম কৰি আছে, আৰু মাজে মাজে সলনি কৰি আছে। খৰকৈ। আৰু প্ৰতিবাৰ সলনি কৰাৰ এটা মূল্য আছে।
+[firmly] আপুনি মাল্টিটাস্ক কৰিব নোৱাৰে। আৰু যেতিয়াই চেষ্টা কৰে, তাৰ মূল্য দিয়ে।
+[knowingly] হয়তো আপুনি এই মুহূৰ্তত এই ভিডিঅ'টো চাই আছে… লগতে কোনো মেছেজৰ উত্তৰ দি আছে, কিবা খাই আছে, বা আন কিবা স্ক্ৰল কৰি আছে। এনে লাগে, যেন একেলগে তিনিটা কাম হৈ আছে।
+[short pause] আচলতে এবাৰত এটাহে কাম, আৰু মাজে মাজে সলনি। খৰকৈ।
 
-[calm] যোৱাবাৰ আমি দেখিলোঁ, আচল জীৱনৰ বাধাই সোমবাৰৰ পৰিকল্পনা কেনেকৈ ভাঙি পেলায়। কিন্তু বহুতো বাধা… আমি নিজেই সৃষ্টি কৰোঁ। দহটা টেব। দুখন স্ক্ৰীণ। এটা ফোন, যিটো কেতিয়াও মনে মনে নাথাকে।
-আমি ইয়াক মাল্টিটাস্কিং বুলি কওঁ, আৰু ইয়াক লৈ গৌৰৱ কৰোঁ।
-গতিকে এয়া মাল্টিটাস্কিংৰ আচল কথা, চাৰিটা ভাগত। [short pause] আৰু শেষৰটোৱে গৱেষকসকলকো আচৰিত কৰিছিল।
+[calm] আমি ইয়াক মাল্টিটাস্কিং বুলি কওঁ, আৰু ইয়াক লৈ গৌৰৱ কৰোঁ। দহটা টেব। দুখন স্ক্ৰীণ। এটা ফোন, যিটো কেতিয়াও মনে মনে নাথাকে।
+[intrigued] গতিকে এয়া ইয়াৰ আচল কথা, চাৰিটা ভাগত। এটাত ইউনিচাইকেলত উঠা এজন জোকাৰ আছে। [short pause] আৰু শেষৰটো, যিটো কোনেও আশা নকৰে।
+তাৰ পিছত মই আপোনাক সেই সহজ উপায়টো দেখুৱাম, যিটোৱে সঁচাকৈ কাম কৰে।
 
 [curious] প্ৰথম সত্য: যি কামত সঁচাকৈ চিন্তা লাগে, তাত আপোনাৰ মগজুৱে প্ৰায়ে একেলগে দুটা কাম নকৰে। ই সলনি কৰি থাকে।
 দুহাজাৰ এক চনত, মনোবিজ্ঞানী জোচুৱা ৰুবিনষ্টাইন, ডেভিদ মেয়াৰ আৰু জেফ্ৰি ইভান্সে ইয়াক জুখিছিল। প্ৰতিবাৰ যেতিয়া মানুহে দুটা কামৰ মাজত সলনি কৰিছিল, তেওঁলোকৰ সময় নষ্ট হৈছিল। আৰু কাম যিমান জটিল, প্ৰতিবাৰ সলনি কৰাৰ মূল্য সিমান বেছি।
@@ -136,10 +146,14 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 পিছত, তাৰে পাৰ হৈ যোৱা মানুহক সোধা হ'ল: আপুনি ইউনিচাইকেলত এজন জোকাৰ দেখিছিল নেকি?
 অকলে খোজ কাঢ়ি থকাসকলৰ প্ৰায় আধাই হয় বুলি ক'লে। ফোনত কথা পাতি থকাসকলৰ? মাত্ৰ চাৰিজনৰ এজনে। [short pause] এজন জোকাৰ। ইউনিচাইকেলত। ঠিক তেওঁলোকৰ সন্মুখত।
 
+[leaning in] কিন্তু জোকাৰ এজনৰ কাষেৰে পাৰ হৈ যোৱাটো ক্ষতিকাৰক নহয়। [short pause] [serious] পিছৰ সত্যটো ঘটে ষ্টিয়েৰিঙৰ পিছত।
+
 [serious] তৃতীয় সত্য: হেণ্ডছ-ফ্ৰী মানে মগজু-ফ্ৰী নহয়।
 দুহাজাৰ ছয় চনত, ইউটা বিশ্ববিদ্যালয়ৰ এটা ড্ৰাইভিং-ছিমুলেটৰ অধ্যয়নত, মানুহে ফোনত কথা পাতি গাড়ী চলাইছিল, হাতত ফোন লৈও, আৰু হেণ্ডছ-ফ্ৰীতো।
 তেওঁলোকে পলমকৈ ব্ৰেক মাৰিলে। লাহেকৈ সঁহাৰি দিলে। আৰু গৱেষকসকলৰ সিদ্ধান্ত আছিল: ফোনত কথা পাতি গাড়ী চলোৱাটো আমেৰিকাৰ আইনী সীমালৈকে মদ খাই গাড়ী চলোৱাৰ সমানেই বিপজ্জনক হ'ব পাৰে।
 সমস্যাটো আপোনাৰ হাতত নহয়। [short pause] সমস্যাটো হ'ল, আপোনাৰ মন আন ক'ৰবাত আছে।
+
+[playfully] তেন্তে কোনোবা সঁচাকৈ ইয়াত ভাল নেকি? [short pause] হয়। এটা সৰু দল। আৰু হয়তো আপুনি তাত নাই।
 
 [intrigued] চতুৰ্থ সত্যতহে কথাটো আমোদজনক হৈ পৰে।
 আপুনি হয়তো শুনিছে, বেছি মাল্টিটাস্কিঙে মগজুৰ ক্ষতি কৰে। দুহাজাৰ ন চনৰ ষ্টেনফৰ্ডৰ এটা বিখ্যাত অধ্যয়নে কৈছিল, যিসকলে অত্যধিক মিডিয়া মাল্টিটাস্কিং কৰে, তেওঁলোক মন বিচলিত কৰা বস্তু ছাঁকি উলিওৱাত দুৰ্বল।
@@ -154,5 +168,5 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 
 [gently] এবাৰত এটা কাম কৰাটো লেহেম যেন লাগে। আচলতে নহয়। এইটোৱেই সেই গতি, য'ত আপোনাৰ মগজুৱে আটাইতকৈ ভাল কাম কৰে।
 [friendly] কমেণ্টত কওক: এতিয়া আপোনাৰ কেইটা টেব খোলা আছে? সঁচাকৈ।
-আৰু চাবস্ক্ৰাইব কৰক। পিছৰ ভিডিঅ'ত: আপোনাৰ ফোনে মনে মনে থাকিও আপোনাৰ মনোযোগ কেনেকৈ চুৰ কৰিব পাৰে।
+[short pause] আৰু পিছৰ ভিডিঅ'ত: আপোনাৰ ফোনে মনে মনে থাকিও আপোনাৰ মনোযোগ কেনেকৈ চুৰ কৰিব পাৰে।
 ```
