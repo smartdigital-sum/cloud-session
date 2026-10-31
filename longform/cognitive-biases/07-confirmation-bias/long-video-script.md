@@ -5,11 +5,20 @@
 **Voiceover:** English, Hindi, Assamese → [long-video-voice.md](long-video-voice.md) · **Reel version:** [short-reel-script.md](short-reel-script.md)
 **Series:** follows [06 Sunk cost](../06-sunk-cost/long-video-script.md). Teases 08 (above average) next.
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook was a great puzzle, but the stakes for the viewer were implied. | **Hook:** stakes line first ("being smart won't protect you"), then the puzzle. |
+| 0:15–0:40 explained the bias before the game, giving the answer away. | **Lock-in:** magic box (play the 1960 puzzle, how 23 of 29 fell for it, where you do it daily) + teased payoff ("the one question that gets you out"). |
+| Beats 3 and 4 started as labels. | **Rehooks** before real life (~1:50) and the debate (~2:25). |
+| Outro asked for a comment and a subscribe. | One **CTA** (comment question + next-video tease). |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 Guess my rule: 2, 4, 6
-0:15 Seeing proof everywhere
+0:10 Seeing proof everywhere
 0:40 The puzzle, played out
 1:15 Only 6 out of 29
 1:50 Collecting "yes" in real life
@@ -20,30 +29,31 @@
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
+Being smart won't protect you from this mistake. Here's a puzzle to prove it.
 I'm thinking of a rule. 2, 4, 6 fits it.
 (pause) Your job: guess the rule. You can test any three numbers you like. Most people get this wrong, in exactly the same way.
 
-**[VISUAL]** Black screen. Three glowing numbers appear one by one: **2 · 4 · 6**. A ✓ appears under them. A blinking cursor: "Your three numbers: _ _ _". A small timer suggests: "Pause and guess."
+**[VISUAL]** Frame 1 is already moving: black screen. Three glowing numbers appear one by one: **2 · 4 · 6**. A ✓ appears under them. A blinking cursor: "Your three numbers: _ _ _". A small timer: "Pause and guess."
 
-_Tone: mysterious, playful challenge._
+_Tone: firm on line one; mysterious and playful on the puzzle._
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
-Have you ever noticed how, once you believe something, you suddenly see proof of it everywhere?
-That's confirmation bias: we look for, notice and remember the evidence that agrees with us. It doesn't only trap careless people. Being smart doesn't protect you from it.
-(pause) Let's play the game.
+Have you ever noticed how, once you believe something, you see proof of it everywhere?
+In this video: you'll play a famous puzzle from 1960, see how 23 out of 29 people fell for it, and where you do the same thing every day.
+(pause) And the one question that gets you out.
 
-**[VISUAL]** A figure puts on tinted glasses labelled MY BELIEF; the world through them shows only matching signs, glowing. A game-show "PLAY" button lights up.
+**[VISUAL]** A figure puts on tinted glasses labelled MY BELIEF; the world through them shows only matching signs, glowing. Three sealed cards: **THE PUZZLE · 23 OF 29 · EVERY DAY**. A glowing card **THE QUESTION** stays sealed. A game-show "PLAY" button lights up.
 
-_Tone: curious, knowing._
+_Tone: knowing; playful on "you'll play"; firm on the last line._
 
 ## MAIN BODY
 
-### Beat 1: The puzzle, played out (0:40–1:15)
+### BODY 1: The puzzle, played out (0:40–1:15)
 
 **[NARRATION]**
 This is a real experiment, run by psychologist Peter Wason in 1960.
@@ -55,7 +65,7 @@ Each "yes" makes them more confident. Feeling sure, they announce: "Even numbers
 
 _Tone: intrigued storyteller; rising confidence; a beat of silence before "Wrong."_
 
-### Beat 2: Only 6 out of 29 (1:15–1:50)
+### BODY 2: Only 6 out of 29 (1:15–1:50)
 
 **[NARRATION]**
 In Wason's study, only 6 out of 29 people found the right rule on their first try.
@@ -67,7 +77,16 @@ Nobody tried 1, 2, 3, or 10, 7, 1: numbers that could prove their idea wrong.
 
 _Tone: thoughtful; quiet emphasis on the last line._
 
-### Beat 3: Collecting "yes" in real life (1:50–2:25)
+### REHOOK 1 (1:50)
+
+**[NARRATION]**
+You might think: it's just a number game. (pause) But you play it every day.
+
+**[VISUAL]** The numbers dissolve into a phone: a short "ok." text from a friend.
+
+_Tone: knowing, relatable._
+
+### BODY 3: Collecting "yes" in real life (1:50–2:25)
 
 **[NARRATION]**
 Now look at real life. You believe a friend is upset with you, so every short reply looks like evidence.
@@ -79,7 +98,16 @@ Doctors, detectives and scientists are trained to fight this, because it's so na
 
 _Tone: knowing, relatable._
 
-### Beat 4: What the puzzle really shows (2:25–3:00)
+### REHOOK 2 (2:25)
+
+**[NARRATION]**
+So what does the puzzle really show? (pause) Scientists still argue about that.
+
+**[VISUAL]** Two researchers' silhouettes debate over the 2-4-6 card.
+
+_Tone: curious, balanced._
+
+### BODY 4: What the puzzle really shows (2:25–3:00)
 
 **[NARRATION]**
 To be fair, some researchers say the 2-4-6 task shows something slightly different: a habit of testing positive examples, which is often a sensible shortcut in daily life.
@@ -90,7 +118,9 @@ Wason himself called it confirmation bias, and the name stuck.
 
 _Tone: fair, thoughtful; firm on the last line._
 
-## PAYOFF / TWIST (3:00–3:30)
+## CLOSING (3:00–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 So here's the habit that protects you. Before you decide you're right, try to prove yourself wrong. Scientists have a name for this: trying to falsify your idea.
@@ -101,11 +131,13 @@ Ask: "What would I expect to see if I were mistaken?" Then go and look for that.
 
 _Tone: warm, authoritative (peak); balanced last line._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: the comment question, plus the next-video tease. No subscribe ask._
 
 **[NARRATION]**
 Tell me in the comments: what was your first guess for 2, 4, 6? Be honest.
-And subscribe. Next: why almost everyone thinks they're an above-average driver, and what that says about all of us.
+(pause) And next: why almost everyone thinks they're an above-average driver, and what that says about all of us.
 
 **[VISUAL]** "2 · 4 · 6 = ?" with a comment cursor. End screen: next-video card **Why Almost Everyone Thinks They're Above Average** (a road full of cars, every driver with a "TOP 10%" badge).
 
@@ -117,14 +149,15 @@ _Tone: friendly, playful; curious tease._
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Mysterious, playful challenge | Clear numbers; leave room to think |
-| Setup | Curious, knowing | Light "Let's play the game." |
+| Hook | Firm → playful | Plain stakes line; leave space for the listener to guess |
+| Lock-in | Knowing → firm | Playful on "you'll play"; firm last line |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | Beat 1 | Intrigued storyteller | Rising confidence on each "Yes"; pause before "Wrong." |
 | Beat 2 | Thoughtful | Quiet last line |
 | Beat 3 | Knowing, relatable | Light on everyday examples |
 | Beat 4 | Fair, thoughtful | Firm last line |
-| Payoff | Warm, authoritative (peak) | Balanced final line |
-| Outro | Friendly, playful | Curious tease |
+| Closing | Warm, authoritative (peak) | Balanced final line |
+| Close + CTA | Friendly, playful | Curious tease |
 
 ## Fact check
 
