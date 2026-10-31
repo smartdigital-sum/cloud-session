@@ -6,11 +6,20 @@
 **Series:** follows [07 Gaslighting](../07-gaslighting/long-video-script.md). Teases 09 (DARVO) next.
 **Sensitivity:** no "how to love bomb" angle, no labelling of real people, helplines on screen in the payoff and pinned comment.
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook was a romantic scene; the stakes arrived only as a twist. | **Hook:** stakes line first ("hardest to see when you're the one being swept away"), then the scene. |
+| 0:15–0:40 asked "how do you tell the difference?" but promised nothing specific. | **Lock-in:** magic box (where the term came from, what research can and can't say, the signs) + teased payoff ("one simple test"). |
+| Beats 3 and 4 started as labels. | **Rehooks** before the signs (~1:50) and "fast doesn't always mean fake" (~2:25). |
+| Outro asked for a comment and a subscribe. | One **CTA** (comment question + next-video tease). |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 Soulmates in three days
-0:15 Chemistry, or a tool?
+0:10 Chemistry, or a tool?
 0:40 Where the term came from
 1:15 What research says, and doesn't
 1:50 Signs worth noticing
@@ -21,30 +30,31 @@
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
+Too much love, too fast, can be a warning sign. And it's hardest to see when you're the one being swept away.
 Three days in, they say you're their soulmate. Flowers, constant messages, plans for the future.
 (pause) It feels like a film. Sometimes, that's exactly what it is: a script.
 
-**[VISUAL]** A phone lights up non-stop with hearts: "Good morning ❤️", "Thinking of you", "You're the one". Flowers pile up at a door. A calendar shows only three days crossed out. Pull back: the scene is on a film set, with a clapperboard reading TAKE 1.
+**[VISUAL]** Frame 1 is already moving: a phone lights up non-stop with hearts: "Good morning ❤️", "Thinking of you", "You're the one". Flowers pile up at a door. A calendar shows only three days crossed out. Pull back: the scene is on a film set, with a clapperboard reading TAKE 1.
 
-_Tone: light and romantic, then a slow, knowing turn._
+_Tone: firm on line one; light and romantic, then knowing on "a script"._
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
-Have you ever been swept off your feet so fast it was almost dizzying? Sometimes, that's just real chemistry.
-But sometimes, overwhelming affection early on is used as a tool. It's called love bombing.
-(pause) So how do you tell the difference? That's the hard part, and the honest answer matters.
+Sometimes, fast is just real chemistry. But sometimes, overwhelming affection early on is used as a tool. It's called love bombing.
+In this video: where the term came from, what the research can and can't say, and the signs worth noticing.
+(pause) And one simple test that tells real love from a script.
 
-**[VISUAL]** A figure spins in a whirl of hearts, dizzy and smiling. The hearts slowly arrange themselves into a net. Title card: **LOVE BOMBING**, with a heart-shaped balloon whose string is tied to a small padlock.
+**[VISUAL]** A figure spins in a whirl of hearts, dizzy and smiling. The hearts slowly arrange themselves into a net. Title card: **LOVE BOMBING**, a heart balloon whose string is tied to a small padlock. Three sealed cards: **THE ORIGIN · THE RESEARCH · THE SIGNS**. A glowing card **THE TEST** stays sealed.
 
-_Tone: curious, warm; thoughtful last line._
+_Tone: fair, then intrigued; warm and firm on the last line._
 
 ## MAIN BODY
 
-### Beat 1: Where the term came from (0:40–1:15)
+### BODY 1: Where the term came from (0:40–1:15)
 
 **[NARRATION]**
 The phrase was first linked to some religious groups in the 1970s. Newcomers were surrounded by warmth, praise and attention from day one.
@@ -56,7 +66,7 @@ Today, the term is used mostly about relationships, and especially online.
 
 _Tone: intrigued storyteller; quiet last line._
 
-### Beat 2: What research says, and doesn't (1:15–1:50)
+### BODY 2: What research says, and doesn't (1:15–1:50)
 
 **[NARRATION]**
 Here's the honest part: research on love bombing is limited. One of the few studies, from 2017, surveyed 484 college students in the United States.
@@ -68,7 +78,16 @@ But that's one survey, of students, and it shows a link, not a cause.
 
 _Tone: honest, balanced; wry last line._
 
-### Beat 3: Signs worth noticing (1:50–2:25)
+### REHOOK 1 (1:50)
+
+**[NARRATION]**
+So the science is thin. (pause) But some signs are still worth noticing.
+
+**[VISUAL]** The net of hearts tightens slightly; one heart turns grey.
+
+_Tone: serious, leaning in._
+
+### BODY 3: Signs worth noticing (1:50–2:25)
 
 **[NARRATION]**
 Still, some patterns are worth noticing. Intensity that runs far ahead of how well you actually know each other. Pressure to commit quickly: "We're meant to be. Why wait?"
@@ -80,7 +99,16 @@ Romance scams often follow this script online: weeks of devotion, then an emerge
 
 _Tone: thoughtful, serious; firm last line._
 
-### Beat 4: Fast doesn't always mean fake (2:25–3:00)
+### REHOOK 2 (2:25)
+
+**[NARRATION]**
+But if you fell for someone fast, does that mean it was fake? (pause) Not at all.
+
+**[VISUAL]** The net loosens; a real couple laughs on a bench.
+
+_Tone: warm, fair._
+
+### BODY 4: Fast doesn't always mean fake (2:25–3:00)
 
 **[NARRATION]**
 To be fair, some people really do fall hard and fast, and it works out. Excitement alone isn't a red flag.
@@ -91,7 +119,9 @@ The difference often shows over time. Does their kindness stay when you say no, 
 
 _Tone: fair, warm; clear last line._
 
-## PAYOFF / TWIST (3:00–3:30)
+## CLOSING (3:00–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 So here's your defence. Slow it down on purpose, and watch the reaction. Keep your friends and family close; love bombing works best when you're isolated.
@@ -103,11 +133,13 @@ And if a relationship is making you feel unsafe, talk to someone. In India: 112,
 
 _Tone: warm, empowering (peak); soft, firm last line._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: the comment question, plus the next-video tease. No subscribe ask._
 
 **[NARRATION]**
 Tell me in the comments: what's one sign that someone is moving too fast for you?
-And subscribe. Next: DARVO, how some people flip the blame.
+(pause) And next: DARVO, how some people flip the blame.
 
 **[VISUAL]** Comment prompt beside a slowed-down speedometer. End screen: next-video card **DARVO: How Some People Flip the Blame** (an arrow labelled BLAME spinning round to point back at the viewer).
 
@@ -119,14 +151,15 @@ _Tone: friendly, gentle; curious tease._
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Light, romantic → knowing | Slow turn on "a script" |
-| Setup | Curious, warm | Thoughtful last line |
+| Hook | Firm → romantic → knowing | Plain stakes line; light on the scene; knowing "a script" |
+| Lock-in | Fair → intrigued | Clear promise; firm "one simple test" |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | Beat 1 | Intrigued storyteller | Quiet last line |
 | Beat 2 | Honest, balanced | Wry last line |
 | Beat 3 | Thoughtful, serious | Firm last line |
 | Beat 4 | Fair, warm | Clear last line |
-| Payoff | Warm, empowering (peak) | Helplines slow and clear; soft, firm last line |
-| Outro | Friendly, gentle | Curious tease |
+| Closing | Warm, empowering (peak) | Helplines slow and clear; soft, firm last line |
+| Close + CTA | Friendly, gentle | Curious tease |
 
 ## Fact check
 

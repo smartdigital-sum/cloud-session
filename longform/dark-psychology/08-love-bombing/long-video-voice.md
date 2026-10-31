@@ -9,6 +9,8 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 4. Name files like `dp08-love-bombing_EN_s1-hook.wav`.
 
 Helplines are written digit by digit so the TTS reads them as phone numbers. Always show **112 · 181 · 14416 · 1930** on screen too.
+**Changed (storytelling guide):** a stakes line opens the hook; the setup is replaced by a lock-in (origin, research, signs, one test); two new rehook lines; one CTA, no subscribe ask. Generate 10 sections now (2 rehooks added).
+
 ⚠ Hindi and Assamese are machine-quality translations. Get a native speaker to read them before recording, and check the tone is gentle. Test the Assamese hook first.
 
 ---
@@ -16,17 +18,18 @@ Helplines are written digit by digit so the TTS reads them as phone numbers. Alw
 
 **Style instructions**
 ```
-You are an intriguing, authoritative but gentle narrator for a 4-minute awareness video called "Love bombing: when too much, too fast is a warning". Some listeners may be in this situation, so be calm, kind and non-judgemental, never dramatic. Speak directly to one listener ("you"), like a trusted, caring guide. Indian English accent. Unhurried, about 135 words per minute, with deliberate pauses. Open light and romantic, then turn knowing; an intrigued storyteller on the origin, honest and a little wry about the limited research, serious on the signs and scams, fair and warm on genuine fast romance, then warm and empowering on the defence. Say the helplines slowly and clearly. End friendly and gentle.
+You are an intriguing, authoritative but gentle narrator for a 4-minute awareness video called "Love bombing: when too much, too fast is a warning". Some listeners may be in this situation, so be calm, kind and non-judgemental, never dramatic. Speak directly to one listener ("you"), like a trusted, caring guide. Indian English accent. Unhurried, about 135 words per minute, with deliberate pauses. Open light and romantic, then turn knowing; an intrigued storyteller on the origin, honest and a little wry about the limited research, serious on the signs and scams, fair and warm on genuine fast romance, then warm and empowering on the defence. Say the helplines slowly and clearly. End friendly and gentle. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] Too much love, too fast, can be a warning sign. And it's hardest to see when you're the one being swept away.
 [lightly] Three days in, they say you're their soulmate. Flowers, constant messages, plans for the future.
 [short pause] [knowingly] It feels like a film. Sometimes, that's exactly what it is: a script.
 
-[curious] Have you ever been swept off your feet so fast it was almost dizzying? Sometimes, that's just real chemistry.
-But sometimes, overwhelming affection early on is used as a tool. It's called love bombing.
-[short pause] So how do you tell the difference? That's the hard part, and the honest answer matters.
+[thoughtful] Sometimes, fast is just real chemistry. But sometimes, overwhelming affection early on is used as a tool. It's called love bombing.
+[calm] In this video: where the term came from, what the research can and can't say, and the signs worth noticing.
+[short pause] [warmly] And one simple test that tells real love from a script.
 
 [intrigued] The phrase was first linked to some religious groups in the 1970s. Newcomers were surrounded by warmth, praise and attention from day one.
 It felt like belonging. But critics said the affection came with strings: once people were attached, the warmth could be pulled back to keep them in line.
@@ -38,10 +41,14 @@ People who reported more love-bombing behaviour tended to score higher on narcis
 But that's one survey, of students, and it shows a link, not a cause.
 [short pause] So treat any confident checklist online with care. Including this one.
 
+[serious] So the science is thin. [short pause] But some signs are still worth noticing.
+
 [thoughtful] Still, some patterns are worth noticing. Intensity that runs far ahead of how well you actually know each other. Pressure to commit quickly: "We're meant to be. Why wait?"
 Gifts and attention that leave you feeling you owe them. And a sudden switch to coldness or anger when you set a boundary, or spend time with others.
 [serious] Romance scams often follow this script online: weeks of devotion, then an emergency, or an "investment" you can't miss.
 [short pause] Real affection can handle "let's slow down". Control can't.
+
+[warmly] But if you fell for someone fast, does that mean it was fake? [short pause] Not at all.
 
 [warmly] To be fair, some people really do fall hard and fast, and it works out. Excitement alone isn't a red flag.
 The difference often shows over time. Does their kindness stay when you say no, see your friends, or ask for space? Or does it turn into guilt, sulking or pressure?
@@ -53,7 +60,7 @@ And if a relationship is making you feel unsafe, talk to someone. In India: one-
 [long pause] Love that's real will still be there next week.
 
 [friendly] Tell me in the comments: what's one sign that someone is moving too fast for you?
-And subscribe. Next: DARVO, how some people flip the blame.
+[short pause] And next: DARVO, how some people flip the blame.
 ```
 
 ---
@@ -61,17 +68,18 @@ And subscribe. Next: DARVO, how some people flip the blame.
 
 **Style instructions**
 ```
-You are an intriguing, authoritative but gentle narrator for a 4-minute awareness video about love bombing: when too much, too fast is a warning. Some listeners may be in this situation, so be calm, kind and non-judgemental, never dramatic. Speak natural, conversational Hindi (common English words like "love bombing", "soulmate", "message", "survey", "red flag" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a trusted, caring guide. Unhurried, with deliberate pauses. Light and romantic at the start, then knowing; storyteller on the origin, honest about limited research, serious on signs and scams, warm on genuine romance, warm and empowering on the defence. Say the helplines slowly and clearly. End friendly and gentle.
+You are an intriguing, authoritative but gentle narrator for a 4-minute awareness video about love bombing: when too much, too fast is a warning. Some listeners may be in this situation, so be calm, kind and non-judgemental, never dramatic. Speak natural, conversational Hindi (common English words like "love bombing", "soulmate", "message", "survey", "red flag" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a trusted, caring guide. Unhurried, with deliberate pauses. Light and romantic at the start, then knowing; storyteller on the origin, honest about limited research, serious on signs and scams, warm on genuine romance, warm and empowering on the defence. Say the helplines slowly and clearly. End friendly and gentle. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] बहुत ज़्यादा प्यार, बहुत जल्दी, एक चेतावनी हो सकता है। और ये तब देखना सबसे मुश्किल होता है, जब बहे जाने वाले आप ख़ुद हों।
 [lightly] तीन दिन हुए हैं, और वो कहते हैं कि आप उनके सोलमेट हैं। फूल, लगातार मैसेज, भविष्य के प्लान।
 [short pause] [knowingly] ये किसी फ़िल्म जैसा लगता है। और कभी-कभी, ये सच में वही होता है: एक स्क्रिप्ट।
 
-[curious] क्या कभी कोई आपकी ज़िंदगी में इतनी तेज़ी से आया, कि सिर घूमने लगा? कभी-कभी, ये बस सच्ची केमिस्ट्री होती है।
-पर कभी-कभी, शुरुआत में ही बेहिसाब प्यार, एक औज़ार की तरह इस्तेमाल होता है। इसे लव बॉम्बिंग कहते हैं।
-[short pause] तो फ़र्क़ कैसे पहचानें? यही मुश्किल हिस्सा है, और यहाँ ईमानदार जवाब ज़रूरी है।
+[thoughtful] कभी-कभी जल्दी होना, बस सच्ची केमिस्ट्री होती है। पर कभी-कभी, शुरुआत में बेहिसाब प्यार को एक औज़ार की तरह इस्तेमाल किया जाता है। इसे कहते हैं लव बॉम्बिंग।
+[calm] इस वीडियो में: ये शब्द कहाँ से आया, रिसर्च क्या कह सकती है और क्या नहीं, और वो संकेत, जिन पर ध्यान देना चाहिए।
+[short pause] [warmly] और एक आसान कसौटी, जो सच्चे प्यार और स्क्रिप्ट में फ़र्क़ बताती है।
 
 [intrigued] ये शब्द सबसे पहले, उन्नीस सौ सत्तर के दशक के कुछ धार्मिक समूहों से जुड़ा। नए लोगों को पहले ही दिन से, अपनापन, तारीफ़ और ध्यान से घेर लिया जाता था।
 ऐसा लगता था, जैसे अपना घर मिल गया हो। पर आलोचकों ने कहा, इस प्यार के साथ डोरियाँ बँधी थीं: एक बार लोग जुड़ गए, तो उन्हें क़ाबू में रखने के लिए, ये अपनापन वापस खींचा जा सकता था।
@@ -83,10 +91,14 @@ You are an intriguing, authoritative but gentle narrator for a 4-minute awarenes
 पर ये एक सर्वे है, स्टूडेंट्स का, और ये एक जुड़ाव दिखाता है, वजह नहीं।
 [short pause] इसलिए ऑनलाइन किसी भी पक्की चेकलिस्ट को सावधानी से लीजिए। इस वीडियो को भी।
 
+[serious] तो साइंस अभी कम है। [short pause] पर कुछ संकेत फिर भी ध्यान देने लायक़ हैं।
+
 [thoughtful] फिर भी, कुछ पैटर्न ध्यान देने लायक़ हैं। ऐसी तीव्रता, जो आपकी असली जान-पहचान से कहीं आगे भाग रही हो। जल्दी कमिट करने का दबाव: "हम एक-दूसरे के लिए बने हैं। इंतज़ार क्यों?"
 ऐसे तोहफ़े और ध्यान, जिनके बाद आपको लगे कि आप उनके कर्ज़दार हैं। और अचानक ठंडापन या ग़ुस्सा, जब आप कोई सीमा तय करें, या दूसरों के साथ समय बिताएँ।
 [serious] ऑनलाइन रोमांस स्कैम अक्सर यही स्क्रिप्ट अपनाते हैं: हफ़्तों का समर्पण, फिर कोई इमरजेंसी, या एक ऐसा "इन्वेस्टमेंट", जो छूटना नहीं चाहिए।
 [short pause] सच्चा प्यार "थोड़ा धीरे चलें" सुन सकता है। कंट्रोल नहीं सुन सकता।
+
+[warmly] पर अगर आपको किसी से जल्दी प्यार हुआ, तो क्या वो नक़ली था? [short pause] बिल्कुल नहीं।
 
 [warmly] सच कहें तो, कुछ लोग सच में बहुत जल्दी और बहुत गहराई से प्यार में पड़ते हैं, और रिश्ता चल जाता है। सिर्फ़ उत्साह, कोई रेड फ़्लैग नहीं है।
 फ़र्क़ अक्सर वक़्त के साथ दिखता है। जब आप ना कहें, दोस्तों से मिलें, या थोड़ी जगह माँगें, तब भी क्या उनकी मेहरबानी बनी रहती है? या वो अपराध-बोध, रूठने, या दबाव में बदल जाती है?
@@ -98,7 +110,7 @@ You are an intriguing, authoritative but gentle narrator for a 4-minute awarenes
 [long pause] जो प्यार सच्चा है, वो अगले हफ़्ते भी वहीं होगा।
 
 [friendly] कमेंट में बताइए: कौन-सा एक संकेत बताता है, कि कोई आपके लिए बहुत तेज़ चल रहा है?
-और सब्सक्राइब कीजिए। अगले वीडियो में: DARVO, कुछ लोग इल्ज़ाम को कैसे पलट देते हैं।
+[short pause] और अगले वीडियो में: DARVO, कुछ लोग इल्ज़ाम को कैसे पलट देते हैं।
 ```
 
 ---
@@ -106,17 +118,18 @@ You are an intriguing, authoritative but gentle narrator for a 4-minute awarenes
 
 **Style instructions**
 ```
-You are an intriguing, authoritative but gentle narrator for a 4-minute awareness video about love bombing: when too much, too fast is a warning. Some listeners may be in this situation, so be calm, kind and non-judgemental, never dramatic. Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a trusted, caring guide. Unhurried, with deliberate pauses. Light and romantic at the start, then knowing; storyteller on the origin, honest about limited research, serious on signs and scams, warm on genuine romance, warm and empowering on the defence. Say the helplines slowly and clearly. End friendly and gentle.
+You are an intriguing, authoritative but gentle narrator for a 4-minute awareness video about love bombing: when too much, too fast is a warning. Some listeners may be in this situation, so be calm, kind and non-judgemental, never dramatic. Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a trusted, caring guide. Unhurried, with deliberate pauses. Light and romantic at the start, then knowing; storyteller on the origin, honest about limited research, serious on signs and scams, warm on genuine romance, warm and empowering on the defence. Say the helplines slowly and clearly. End friendly and gentle. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] বেছি মৰম, বেছি সোনকালে, এটা সতৰ্কবাণী হ'ব পাৰে। আৰু যেতিয়া উটি যোৱাজন আপুনি নিজেই, তেতিয়া ইয়াক দেখা আটাইতকৈ কঠিন।
 [lightly] মাত্ৰ তিনিদিন হৈছে, আৰু তেওঁ কয় আপুনি তেওঁৰ ছ'লমেট। ফুল, অবিৰত মেছেজ, ভৱিষ্যতৰ পৰিকল্পনা।
 [short pause] [knowingly] এইটো চিনেমাৰ দৰে লাগে। আৰু কেতিয়াবা, ই সঁচাকৈয়ে তেনেকুৱাই: এটা স্ক্ৰিপ্ট।
 
-[curious] কেতিয়াবা কোনোবাই আপোনাৰ জীৱনলৈ ইমান খৰকৈ আহিছেনে, যে মূৰ ঘূৰাব ধৰিছিল? কেতিয়াবা, সেয়া কেৱল সঁচা আকৰ্ষণ।
-কিন্তু কেতিয়াবা, আৰম্ভণিতে অত্যধিক মৰম এটা সঁজুলি হিচাপে ব্যৱহাৰ কৰা হয়। ইয়াক লাভ বম্বিং বোলে।
-[short pause] তেন্তে পাৰ্থক্যটো কেনেকৈ চিনিব? এইটোৱেই কঠিন অংশ, আৰু ইয়াত সৎ উত্তৰটো গুৰুত্বপূৰ্ণ।
+[thoughtful] কেতিয়াবা সোনকালে হোৱাটো কেৱল সঁচা আকৰ্ষণ। কিন্তু কেতিয়াবা, আৰম্ভণিতে অপৰিমিত মৰমক এটা সঁজুলি হিচাপে ব্যৱহাৰ কৰা হয়। ইয়াক কোৱা হয় লাভ বম্বিং।
+[calm] এই ভিডিঅ'ত: শব্দটো ক'ৰ পৰা আহিল, গৱেষণাই কি ক'ব পাৰে আৰু কি নোৱাৰে, আৰু সেই চিনবোৰ, যিবোৰলৈ মন কৰা উচিত।
+[short pause] [warmly] আৰু এটা সহজ পৰীক্ষা, যিয়ে সঁচা মৰম আৰু স্ক্ৰিপ্টৰ পাৰ্থক্য দেখুৱায়।
 
 [intrigued] এই শব্দটো প্ৰথমে ঊনৈছ শ সত্তৰৰ দশকৰ কিছুমান ধৰ্মীয় গোটৰ সৈতে জড়িত হৈছিল। নতুন মানুহক প্ৰথম দিনৰ পৰাই আপোন ভাব, প্ৰশংসা আৰু মনোযোগেৰে আগুৰি ধৰা হৈছিল।
 এনে লাগিছিল যেন নিজৰ ঠাই পালে। কিন্তু সমালোচকে কৈছিল, এই মৰমৰ লগত ৰছী বান্ধা আছিল: এবাৰ মানুহ জড়িত হ'লে, তেওঁলোকক নিয়ন্ত্ৰণত ৰাখিবলৈ সেই আপোন ভাব ঘূৰাই টানি লোৱা হ'ব পাৰিছিল।
@@ -128,10 +141,14 @@ You are an intriguing, authoritative but gentle narrator for a 4-minute awarenes
 কিন্তু সেয়া এটা সমীক্ষা, ছাত্ৰ-ছাত্ৰীৰ, আৰু ই এটা সম্পৰ্ক দেখুৱায়, কাৰণ নহয়।
 [short pause] গতিকে অনলাইনৰ যিকোনো নিশ্চিত চেকলিষ্ট সাৱধানে লওক। এইটোও।
 
+[serious] গতিকে বিজ্ঞান এতিয়াও কম। [short pause] কিন্তু কিছুমান চিন তথাপিও মন কৰিবলগীয়া।
+
 [thoughtful] তথাপি, কিছুমান আৰ্হি মন কৰিবলগীয়া। এনে তীব্ৰতা, যি আপোনালোকৰ আচল চিনাকিতকৈ বহুত আগত দৌৰি আছে। খৰকৈ প্ৰতিশ্ৰুতি দিয়াৰ হেঁচা: "আমি ইজনে সিজনৰ বাবেই। কিয় ৰ'ম?"
 এনে উপহাৰ আৰু মনোযোগ, যাৰ পিছত আপোনাৰ লাগে আপুনি তেওঁৰ ওচৰত ধৰুৱা। আৰু হঠাতে শীতলতা বা খং, যেতিয়া আপুনি কোনো সীমা নিৰ্ধাৰণ কৰে, বা আনৰ লগত সময় কটায়।
 [serious] অনলাইন ৰোমান্স প্ৰৱঞ্চনাই প্ৰায়ে এই স্ক্ৰিপ্টটোৱেই মানে: সপ্তাহজোৰা নিষ্ঠা, তাৰ পিছত কোনো জৰুৰী অৱস্থা, বা এনে এটা "বিনিয়োগ", যিটো হেৰুৱাব নালাগে।
 [short pause] সঁচা মৰমে "অলপ লাহে লাহে যাওঁ" শুনিব পাৰে। নিয়ন্ত্ৰণে নোৱাৰে।
+
+[warmly] কিন্তু যদি আপুনি কাৰোবাক সোনকালে ভাল পাই পেলাইছিল, তাৰ মানে সেয়া ভুৱা আছিল নেকি? [short pause] কেতিয়াও নহয়।
 
 [warmly] সঁচাকৈ ক'বলৈ গ'লে, কিছুমান মানুহ সঁচাকৈয়ে বহুত খৰকৈ আৰু গভীৰভাৱে প্ৰেমত পৰে, আৰু সম্পৰ্কটো টিকি থাকে। কেৱল উৎসাহ কোনো ৰেড ফ্লেগ নহয়।
 পাৰ্থক্যটো প্ৰায়ে সময়ৰ লগত দেখা যায়। যেতিয়া আপুনি "নহয়" কয়, বন্ধুক লগ কৰে, বা অলপ ঠাই বিচাৰে, তেতিয়াও তেওঁৰ দয়া থাকেনে? নে সেয়া অপৰাধবোধ, অভিমান বা হেঁচালৈ সলনি হয়?
@@ -143,5 +160,5 @@ You are an intriguing, authoritative but gentle narrator for a 4-minute awarenes
 [long pause] যি মৰম সঁচা, সেয়া অহা সপ্তাহতো তাতেই থাকিব।
 
 [friendly] কমেণ্টত কওক: কোনটো এটা সংকেতে কয় যে কোনোবা আপোনাৰ বাবে বেছি খৰকৈ আগবাঢ়িছে?
-আৰু চাবস্ক্ৰাইব কৰক। পিছৰ ভিডিঅ'ত: DARVO, কিছুমান মানুহে দোষ কেনেকৈ ওলোটাই দিয়ে।
+[short pause] আৰু পিছৰ ভিডিঅ'ত: DARVO, কিছুমান মানুহে দোষ কেনেকৈ ওলোটাই দিয়ে।
 ```
