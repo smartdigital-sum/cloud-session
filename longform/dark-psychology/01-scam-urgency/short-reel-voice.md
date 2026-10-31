@@ -24,7 +24,7 @@ You are an intriguing, authoritative, protective narrator for a 60-second awaren
 [firmly] Police, CBI and ED don't arrest people over video calls. And banks never ask for your OTP.
 [knowingly] And watch for one sentence.
 [quieter] "Don't tell anyone." [knowingly] Isolation stops others from helping you think.
-[warmly] The rule: real officials can wait. Hang up, call your bank's official number, tell someone. Cheated? Report on 1930 or cybercrime.gov.in.
+[warmly] The rule: real officials can wait. Hang up, call your bank's official number, tell someone. Cheated? Report on one-nine-three-zero, or cybercrime dot gov dot in.
 [friendly] Full video's linked below. Share this with someone who needs it. What's the strangest scam message you've got?
 ```
 
@@ -45,7 +45,7 @@ You are an intriguing, authoritative, protective narrator for a 60-second awaren
 [firmly] पुलिस, सीबीआई और ईडी वीडियो कॉल पर गिरफ़्तार नहीं करते। और बैंक कभी आपका ओटीपी नहीं माँगते।
 [knowingly] और एक वाक्य पर ध्यान दीजिए।
 [quieter] "किसी को मत बताना।" [knowingly] अकेला करना, दूसरों को आपके साथ सोचने से रोकता है।
-[warmly] नियम: असली अफ़सर इंतज़ार कर सकते हैं। फ़ोन काटिए, बैंक के ऑफ़िशियल नंबर पर कॉल कीजिए, किसी को बताइए। ठगी हो गई? उन्नीस सौ तीस पर या cybercrime.gov.in पर रिपोर्ट कीजिए।
+[warmly] नियम: असली अफ़सर इंतज़ार कर सकते हैं। फ़ोन काटिए, बैंक के ऑफ़िशियल नंबर पर कॉल कीजिए, किसी को बताइए। ठगी हो गई? एक-नौ-तीन-शून्य, या साइबरक्राइम डॉट जीओवी डॉट इन पर रिपोर्ट कीजिए।
 [friendly] पूरी वीडियो का लिंक नीचे है। इसे किसी ज़रूरतमंद के साथ शेयर कीजिए। आपको अब तक का सबसे अजीब ठगी वाला मैसेज कौन-सा मिला?
 ```
 
@@ -66,6 +66,6 @@ You are an intriguing, authoritative, protective narrator for a 60-second awaren
 [firmly] পুলিচ, চিবিআই আৰু ইডিয়ে ভিডিঅ' কলত কাকো গ্ৰেপ্তাৰ নকৰে। আৰু বেংকে কেতিয়াও আপোনাৰ অটিপি নিবিচাৰে।
 [knowingly] আৰু এটা বাক্যৰ ওপৰত মন দিয়ক।
 [quieter] "কাকো নক'ব।" [knowingly] অকলশৰীয়া কৰাটোৱে আনক আপোনাৰ লগত ভাবিবলৈ নিদিয়ে।
-[warmly] নিয়মটো: সঁচা বিষয়াই অপেক্ষা কৰিব পাৰে। ফোন কাটক, বেংকৰ অফিচিয়েল নম্বৰত কল কৰক, কাৰোবাক কওক। ঠগ খালে? ঊনৈছ শ ত্ৰিশত বা cybercrime.gov.in ত ৰিপ'ৰ্ট কৰক।
+[warmly] নিয়মটো: সঁচা বিষয়াই অপেক্ষা কৰিব পাৰে। ফোন কাটক, বেংকৰ অফিচিয়েল নম্বৰত কল কৰক, কাৰোবাক কওক। ঠগ খালে? এক-ন-তিনি-শূন্য, বা চাইবাৰক্ৰাইম ডট জিঅ'ভি ডট ইনত অভিযোগ দিয়ক।
 [friendly] সম্পূৰ্ণ ভিডিঅ'ৰ লিংক তলত আছে। এইটো প্ৰয়োজন থকা কাৰোবাৰ লগত শ্বেয়াৰ কৰক। আপুনি পোৱা আটাইতকৈ অদ্ভুত ঠগৰ মেছেজটো কি আছিল?
 ```
