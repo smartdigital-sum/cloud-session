@@ -5,11 +5,20 @@
 **Voiceover:** English, Hindi, Assamese → [long-video-voice.md](long-video-voice.md) · **Reel version:** [short-reel-script.md](short-reel-script.md)
 **Series:** focus-tools chapter, follows [07 Four hours](../07-four-hours/long-video-script.md). Teases idea #6 (productivity hacks that waste time) next.
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook was hushed; the viewer's stakes never appeared until 0:30. | **Hook:** subject + stakes in sentence one ("deleted every boring moment… may be costing you your best ideas"), said firmly, then the shock experiment. |
+| 0:15–0:40 opened with a recap of video 07. | **Lock-in:** magic box (phone numbers, shower ideas) + teased payoff ("one small habit… doesn't mean deleting your apps"). Recap removed. |
+| Beats 3 and 4 started as labels. | **Rehooks** before the shower (~1:50) and the honest catch (~2:25). |
+| Outro asked for a comment and a subscribe. | One **CTA** (comment question + next-video tease). |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 Shock or silence?
-0:15 We deleted every empty moment
+0:10 We deleted every empty moment
 0:40 The 15-minute experiment
 1:15 Bored people get more ideas
 1:50 Why ideas arrive in the shower
@@ -20,32 +29,31 @@
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
+You've deleted every boring moment from your day. And it may be costing you your best ideas.
 In a famous experiment, people sat alone in a room, with nothing to do but think, for about fifteen minutes.
-There was one button. It gave them an electric shock.
-(pause) Many of them pressed it.
+There was one button. It gave them an electric shock. (pause) Many of them pressed it.
 
-**[VISUAL]** A bare, white room. One chair, one table, one red button wired to an ankle band. A wall clock ticks loudly. A hand hovers… presses. A small cartoon zap and a startled face. Title flash: **15 MINUTES. NOTHING TO DO.**
+**[VISUAL]** Frame 1 is already moving: a phone swipes away a queue, a lift and a kettle, one by one. Hard cut to a bare white room: a person on a chair, a wall clock ticking, one red button on the table. A finger hovers… presses. A small cartoon zap.
 
-_Tone: hushed and intriguing; deadpan on "Many of them pressed it."_
+_Tone: firm on line one; then intriguing; deadpan "Many of them pressed it."_
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
-Last time, we saw that experts protect their rest. But today, most of us never let our minds rest at all.
 A queue. A lift. Two minutes waiting for the kettle. The phone comes out, every single time.
-We've deleted every empty moment from our day.
-(pause) What if those empty moments were doing something important?
+But a set of studies suggests those empty moments were doing a job. One involved copying phone numbers. Another explains why ideas show up in the shower.
+And at the end, one small habit to get those moments back. (pause) It doesn't mean deleting your apps.
 
-**[VISUAL]** Quick cuts: a person in a queue, in a lift, by a boiling kettle, at a bus stop; each time, the phone rises into frame and the background goes grey. A day timeline fills up completely, no gaps left. A small blank square tries to appear and gets instantly filled by a phone icon.
+**[VISUAL]** Quick cuts: a queue, a lift, a kettle; each time, a hand reaches for a phone. Two sealed cards slide in: **PHONE NUMBERS · THE SHOWER**. A third glowing card, **THE HABIT**, stays sealed; a "DELETE ALL APPS" badge is crossed out.
 
-_Tone: calm, gently knowing; curious lift on the last line._
+_Tone: light rhythm on the list; intrigued on the two teasers; firm on the last line._
 
 ## MAIN BODY
 
-### Beat 1: The 15-minute experiment (0:40–1:15)
+### BODY 1: The 15-minute experiment (0:40–1:15)
 
 **[NARRATION]**
 That experiment was run in 2014, by psychologist Timothy Wilson and his team at the University of Virginia.
@@ -57,7 +65,7 @@ Some scientists push back. The shock was mild, they say, and some people were pr
 
 _Tone: clear, slightly amused; fair on the pushback; thoughtful on the last line._
 
-### Beat 2: Bored people get more ideas (1:15–1:50)
+### BODY 2: Bored people get more ideas (1:15–1:50)
 
 **[NARRATION]**
 So boredom feels bad. But it might be doing something useful.
@@ -70,7 +78,16 @@ The bored group came up with more ideas. And when people just read the numbers, 
 
 _Tone: curious, lightly playful on the phone book; satisfying on the last line._
 
-### Beat 3: Why ideas arrive in the shower (1:50–2:25)
+### REHOOK 1 (1:50)
+
+**[NARRATION]**
+So boredom feeds ideas. (pause) But why do they always seem to show up… in the shower?
+
+**[VISUAL]** Steam fills the frame; a lightbulb flickers behind it.
+
+_Tone: curious, a small smile._
+
+### BODY 3: Why ideas arrive in the shower (1:50–2:25)
 
 **[NARRATION]**
 Ever had your best idea in the shower? There's a reason.
@@ -83,7 +100,16 @@ When they came back to the same problem, the easy-task group improved the most.
 
 _Tone: warm and curious; slow, almost secretive on the last line._
 
-### Beat 4: The honest part (2:25–3:00)
+### REHOOK 2 (2:25)
+
+**[NARRATION]**
+But before you throw your phone in a drawer forever… there's an honest catch.
+
+**[VISUAL]** The lightbulb dims slightly; a small "BUT…" card slides in.
+
+_Tone: honest, leaning in._
+
+### BODY 4: The honest part (2:25–3:00)
 
 **[NARRATION]**
 Now, honesty. These are small studies, and creativity is hard to measure. And boredom isn't always good. Being bored all the time, for months, is linked to real problems.
@@ -95,7 +121,9 @@ It's this: the short, empty moments we used to have, waiting, walking, staring o
 
 _Tone: honest and balanced; quiet, slightly sad on the last line._
 
-## PAYOFF / TWIST (3:00–3:30)
+## CLOSING (3:00–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 So bring back the gaps. Not hours. Minutes.
@@ -107,11 +135,13 @@ And when an idea arrives, write it down. (pause) Boredom isn't empty time. It's 
 
 _Tone: warm certainty (peak); slow and gentle on the last line._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: the comment question, plus the next-video tease. No subscribe ask._
 
 **[NARRATION]**
 Tell me in the comments: where do your best ideas come from? The shower? A walk? The bus?
-And subscribe. Next: five popular productivity hacks that might be secretly wasting your time.
+(pause) And next: five popular productivity hacks that might be secretly wasting your time.
 
 **[VISUAL]** Comment prompt with three icons: 🚿 🚶 🚌. End screen: next-video card **5 Productivity Hacks That Secretly Waste Your Time** (a colour-coded planner, a 5 a.m. alarm and a pile of apps with a question mark).
 
@@ -123,14 +153,15 @@ _Tone: friendly, curious; a playful hint on "secretly."_
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Hushed, intriguing | Slow set-up; deadpan "Many of them pressed it." |
-| Setup | Calm, knowing | Light rhythm on the list; curious final question |
+| Hook | Firm → intriguing | No whisper on line one; deadpan "Many of them pressed it." |
+| Lock-in | Knowing → intrigued | Light rhythm on the list; firm "It doesn't mean deleting your apps." |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | Beat 1 | Clear, slightly amused | Fair on the pushback; thoughtful close |
 | Beat 2 | Curious, playful | Smile on "phone book"; satisfied last line |
 | Beat 3 | Warm, curious | Slow, almost secretive on the last line |
 | Beat 4 | Honest, balanced | Plain caveats; quiet, slightly sad last line |
-| Payoff | Warm certainty (peak) | Short, gentle instructions; slow last line |
-| Outro | Friendly | Curious question; playful tease |
+| Closing | Warm certainty (peak) | Short, gentle instructions; slow last line |
+| Close + CTA | Friendly | Curious question; playful tease |
 
 ## Fact check
 

@@ -8,6 +8,8 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 3. If the voice drifts, speeds up or cuts off near the end, generate **one section per run** with the same voice and style, then join the clips (add ~0.5s silence between sections).
 4. Name files like `08-boredom_EN_s1-hook.wav`.
 
+**Changed (storytelling guide):** firm hook with the stakes in line one (no whisper); the video-07 recap is replaced by a lock-in (phone numbers, the shower, a habit that isn't deleting apps); two new rehook lines; one CTA, no subscribe ask. Generate 10 sections now (2 rehooks added).
+
 ⚠ Before recording, confirm the "two in three men, one in four women" figures (section 3) in the 2014 *Science* paper; see the fact check.
 ⚠ Hindi and Assamese are machine-quality translations. Get a native speaker to read them before recording. Test the Assamese hook first.
 
@@ -16,19 +18,18 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 
 **Style instructions**
 ```
-You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "Boredom might be your secret focus weapon". Speak directly to one listener ("you"), like a trusted older friend. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses between short lines. Open hushed and intriguing, with a deadpan beat on "Many of them pressed it." Be gently knowing about our phone habits, clear and slightly amused on the shock study but fair to its critics, playful on the phone-book experiment, warm and almost secretive on mind wandering, honest and a little wistful about lost empty moments, then rise to warm, gentle advice. End friendly and curious. Never preachy, never anti-technology.
+You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "Boredom might be your secret focus weapon". Speak directly to one listener ("you"), like a trusted older friend. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses between short lines. Open firm on the first line (never whispered), then intriguing, with a deadpan beat on "Many of them pressed it." Be gently knowing about our phone habits, clear and slightly amused on the shock study but fair to its critics, playful on the phone-book experiment, warm and almost secretive on mind wandering, honest and a little wistful about lost empty moments, then rise to warm, gentle advice. End friendly and curious. Never preachy, never anti-technology.
 ```
 
 **Text**
 ```
-[whispers] In a famous experiment, people sat alone in a room, with nothing to do but think, for about fifteen minutes.
-There was one button. It gave them an electric shock.
-[short pause] Many of them pressed it.
+[firmly] You've deleted every boring moment from your day. And it may be costing you your best ideas.
+[intrigued] In a famous experiment, people sat alone in a room, with nothing to do but think, for about fifteen minutes.
+There was one button. It gave them an electric shock. [short pause] Many of them pressed it.
 
-[calm] Last time, we saw that experts protect their rest. But today, most of us never let our minds rest at all.
-A queue. A lift. Two minutes waiting for the kettle. The phone comes out, every single time.
-We've deleted every empty moment from our day.
-[short pause] What if those empty moments were doing something important?
+[knowingly] A queue. A lift. Two minutes waiting for the kettle. The phone comes out, every single time.
+[intrigued] But a set of studies suggests those empty moments were doing a job. One involved copying phone numbers. Another explains why ideas show up in the shower.
+And at the end, one small habit to get those moments back. [short pause] [firmly] It doesn't mean deleting your apps.
 
 [curious] That experiment was run in 2014, by psychologist Timothy Wilson and his team at the University of Virginia.
 Earlier, many participants had said they'd even pay money to avoid that shock. Yet left alone with their thoughts, about two in three men and one in four women shocked themselves at least once.
@@ -41,11 +42,15 @@ Then everyone had to think of uses for a pair of plastic cups.
 The bored group came up with more ideas. And when people just read the numbers, without even writing, they did better still.
 [short pause] The more room the mind had to drift, the more ideas it found.
 
+[curious] So boredom feeds ideas. [short pause] But why do they always seem to show up… in the shower?
+
 [warmly] Ever had your best idea in the shower? There's a reason.
 In 2012, researchers at the University of California, Santa Barbara gave people a creative problem, then a twelve-minute break.
 Some did a hard task. Some rested. Some did an easy, boring task that let their minds wander.
 When they came back to the same problem, the easy-task group improved the most.
 [short pause] A wandering mind isn't switched off. It's quietly working in the background.
+
+[leaning in] But before you throw your phone in a drawer forever… there's an honest catch.
 
 [thoughtful] Now, honesty. These are small studies, and creativity is hard to measure. And boredom isn't always good. Being bored all the time, for months, is linked to real problems.
 So the lesson isn't "be bored more".
@@ -58,7 +63,7 @@ Do the dishes. Fold clothes. Let your mind drift.
 And when an idea arrives, write it down. [long pause] Boredom isn't empty time. It's your mind making room.
 
 [friendly] Tell me in the comments: where do your best ideas come from? The shower? A walk? The bus?
-And subscribe. Next: five popular productivity hacks that might be secretly wasting your time.
+[short pause] And next: five popular productivity hacks that might be secretly wasting your time.
 ```
 
 ---
@@ -66,19 +71,18 @@ And subscribe. Next: five popular productivity hacks that might be secretly wast
 
 **Style instructions**
 ```
-You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "Boredom might be your secret focus weapon". Speak natural, conversational Hindi (common English words like "phone", "idea", "study", "podcast" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a trusted older friend. Unhurried, with deliberate pauses between short lines. Open hushed and intriguing, with a deadpan beat on the button line. Be gently knowing about phone habits, clear and slightly amused on the shock study but fair to its critics, playful on the phone-book experiment, warm and almost secretive on mind wandering, honest and a little wistful about lost empty moments, then rise to warm, gentle advice. End friendly and curious.
+You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "Boredom might be your secret focus weapon". Speak natural, conversational Hindi (common English words like "phone", "idea", "study", "podcast" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a trusted older friend. Unhurried, with deliberate pauses between short lines. Open firm on the first line (never whispered), then intriguing, with a deadpan beat on the button line. Be gently knowing about phone habits, clear and slightly amused on the shock study but fair to its critics, playful on the phone-book experiment, warm and almost secretive on mind wandering, honest and a little wistful about lost empty moments, then rise to warm, gentle advice. End friendly and curious.
 ```
 
 **Text**
 ```
-[whispers] एक मशहूर प्रयोग में, लोगों को एक कमरे में अकेला बिठाया गया, लगभग पंद्रह मिनट तक, सोचने के अलावा कुछ भी करने को नहीं।
-वहाँ एक बटन था। उससे बिजली का एक झटका लगता था।
-[short pause] उनमें से कई लोगों ने उसे दबाया।
+[firmly] आपने अपने दिन से हर बोरिंग पल मिटा दिया है। और शायद इसकी क़ीमत आपके सबसे अच्छे आइडिया चुका रहे हैं।
+[intrigued] एक मशहूर प्रयोग में, लोगों को एक कमरे में अकेला बिठाया गया, लगभग पंद्रह मिनट तक, सोचने के अलावा कुछ भी करने को नहीं।
+वहाँ एक बटन था। उससे बिजली का एक झटका लगता था। [short pause] उनमें से कई लोगों ने उसे दबाया।
 
-[calm] पिछली बार हमने देखा, एक्सपर्ट्स अपने आराम की हिफ़ाज़त करते हैं। पर आज, हम में से ज़्यादातर अपने दिमाग़ को कभी आराम ही नहीं देते।
-लाइन में खड़े हों। लिफ़्ट में हों। केतली उबलने के दो मिनट हों। फ़ोन हर बार निकल आता है।
-हमने अपने दिन से हर ख़ाली पल मिटा दिया है।
-[short pause] क्या हो, अगर वो ख़ाली पल कुछ ज़रूरी काम कर रहे थे?
+[knowingly] लाइन में खड़े हों। लिफ़्ट में हों। केतली उबलने के दो मिनट हों। फ़ोन हर बार निकल आता है।
+[intrigued] पर कुछ स्टडीज़ बताती हैं, कि वो ख़ाली पल एक काम कर रहे थे। एक में फ़ोन नंबर उतारने पड़े। दूसरी बताती है, कि आइडिया नहाते वक़्त ही क्यों आते हैं।
+और आख़िर में, वो पल वापस पाने की एक छोटी आदत। [short pause] [firmly] और उसका मतलब अपनी ऐप्स डिलीट करना नहीं है।
 
 [curious] ये प्रयोग दो हज़ार चौदह में, यूनिवर्सिटी ऑफ़ वर्जीनिया में, मनोवैज्ञानिक टिमोथी विल्सन और उनकी टीम ने किया था।
 पहले, कई लोगों ने कहा था कि वो उस झटके से बचने के लिए पैसे तक दे देंगे। फिर भी, अपने ख़यालों के साथ अकेले छोड़े जाने पर, लगभग तीन में से दो आदमियों, और चार में से एक औरत ने, कम से कम एक बार ख़ुद को झटका दिया।
@@ -91,11 +95,15 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 बोर हुए ग्रुप ने ज़्यादा आइडिया दिए। और जिन्होंने नंबर सिर्फ़ पढ़े, लिखे भी नहीं, उन्होंने और भी बेहतर किया।
 [short pause] दिमाग़ को भटकने की जितनी जगह मिली, उतने ज़्यादा आइडिया मिले।
 
+[curious] तो बोरियत आइडिया देती है। [short pause] पर वो हमेशा… नहाते वक़्त ही क्यों आते हैं?
+
 [warmly] कभी नहाते वक़्त सबसे अच्छा आइडिया आया है? इसकी एक वजह है।
 दो हज़ार बारह में, यूनिवर्सिटी ऑफ़ कैलिफ़ोर्निया, सांता बारबरा के रिसर्चर्स ने लोगों को एक क्रिएटिव सवाल दिया, फिर बारह मिनट का ब्रेक।
 कुछ ने एक मुश्किल काम किया। कुछ ने आराम किया। कुछ ने एक आसान, उबाऊ काम किया, जिसमें उनका मन भटक सके।
 जब वो उसी सवाल पर लौटे, तो आसान काम वाले ग्रुप में सबसे ज़्यादा सुधार दिखा।
 [short pause] भटकता हुआ मन बंद नहीं होता। वो चुपचाप पीछे काम कर रहा होता है।
+
+[leaning in] पर फ़ोन को हमेशा के लिए दराज़ में डालने से पहले… एक ईमानदार बात।
 
 [thoughtful] अब, ईमानदारी। ये छोटी स्टडीज़ हैं, और क्रिएटिविटी को मापना मुश्किल है। और बोरियत हमेशा अच्छी नहीं होती। महीनों तक हर वक़्त बोर रहना, असली समस्याओं से जुड़ा है।
 तो सबक़ ये नहीं, कि "और ज़्यादा बोर हो"।
@@ -108,7 +116,7 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 और जब कोई आइडिया आए, उसे लिख लीजिए। [long pause] बोरियत ख़ाली वक़्त नहीं है। ये आपका दिमाग़ जगह बना रहा है।
 
 [friendly] कमेंट में बताइए: आपके सबसे अच्छे आइडिया कहाँ से आते हैं? नहाते वक़्त? टहलते हुए? बस में?
-और सब्सक्राइब कीजिए। अगले वीडियो में: पाँच मशहूर प्रोडक्टिविटी हैक्स, जो शायद चुपके से आपका वक़्त बर्बाद कर रहे हैं।
+[short pause] और अगले वीडियो में: पाँच मशहूर प्रोडक्टिविटी हैक्स, जो शायद चुपके से आपका वक़्त बर्बाद कर रहे हैं।
 ```
 
 ---
@@ -116,19 +124,18 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 
 **Style instructions**
 ```
-You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "Boredom might be your secret focus weapon". Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a trusted older friend. Unhurried, with deliberate pauses between short lines. Open hushed and intriguing, with a deadpan beat on the button line. Be gently knowing about phone habits, clear and slightly amused on the shock study but fair to its critics, playful on the phone-book experiment, warm and almost secretive on mind wandering, honest and a little wistful about lost empty moments, then rise to warm, gentle advice. End friendly and curious.
+You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video called "Boredom might be your secret focus weapon". Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a trusted older friend. Unhurried, with deliberate pauses between short lines. Open firm on the first line (never whispered), then intriguing, with a deadpan beat on the button line. Be gently knowing about phone habits, clear and slightly amused on the shock study but fair to its critics, playful on the phone-book experiment, warm and almost secretive on mind wandering, honest and a little wistful about lost empty moments, then rise to warm, gentle advice. End friendly and curious.
 ```
 
 **Text**
 ```
-[whispers] এটা বিখ্যাত পৰীক্ষাত, মানুহক এটা কোঠাত অকলে বহুওৱা হৈছিল, প্ৰায় পোন্ধৰ মিনিটলৈ, ভবাৰ বাহিৰে আন একো কৰিবলৈ নাছিল।
-তাত এটা বুটাম আছিল। সেইটোৱে বিদ্যুতৰ এটা চক দিছিল।
-[short pause] তেওঁলোকৰ বহুতেই সেইটো টিপিলে।
+[firmly] আপুনি আপোনাৰ দিনটোৰ পৰা প্ৰতিটো আমনিদায়ক মুহূৰ্ত মচি পেলাইছে। আৰু হয়তো তাৰ মূল্য দিছে আপোনাৰ আটাইতকৈ ভাল ধাৰণাবোৰে।
+[intrigued] এটা বিখ্যাত পৰীক্ষাত, মানুহক এটা কোঠাত অকলে বহুওৱা হৈছিল, প্ৰায় পোন্ধৰ মিনিটলৈ, ভবাৰ বাহিৰে আন একো কৰিবলৈ নাছিল।
+তাত এটা বুটাম আছিল। সেইটোৱে বিদ্যুতৰ এটা চক দিছিল। [short pause] তেওঁলোকৰ বহুতেই সেইটো টিপিলে।
 
-[calm] যোৱাবাৰ আমি দেখিলোঁ, বিশেষজ্ঞসকলে নিজৰ জিৰণি ৰক্ষা কৰে। কিন্তু আজি, আমাৰ বেছিভাগেই মগজুক কেতিয়াও জিৰণি নিদিওঁ।
-শাৰীত থিয় হৈ থাকোঁতে। লিফ্টত। কেটলী উতলাৰ দুমিনিট। ফোনটো প্ৰতিবাৰেই ওলাই আহে।
-আমি আমাৰ দিনটোৰ পৰা প্ৰতিটো খালী মুহূৰ্ত মচি পেলাইছোঁ।
-[short pause] যদি সেই খালী মুহূৰ্তবোৰে কিবা গুৰুত্বপূৰ্ণ কাম কৰি আছিল, তেন্তে?
+[knowingly] শাৰীত থিয় হৈ থাকোঁতে। লিফ্টত। কেটলী উতলাৰ দুমিনিট। ফোনটো প্ৰতিবাৰেই ওলাই আহে।
+[intrigued] কিন্তু কিছুমান অধ্যয়নে কয়, সেই খালী মুহূৰ্তবোৰে এটা কাম কৰি আছিল। এটাত ফোন নম্বৰ লিখিব লাগিছিল। আনটোৱে বুজায়, ধাৰণাবোৰ কিয় গা ধুওঁতেহে আহে।
+আৰু শেষত, সেই মুহূৰ্তবোৰ ঘূৰাই পোৱাৰ এটা সৰু অভ্যাস। [short pause] [firmly] আৰু তাৰ মানে এপবোৰ ডিলিট কৰা নহয়।
 
 [curious] সেই পৰীক্ষাটো দুহাজাৰ চৌধ্য চনত, ভাৰ্জিনিয়া বিশ্ববিদ্যালয়ত, মনোবিজ্ঞানী টিমথি উইলছন আৰু তেওঁৰ দলে কৰিছিল।
 আগতে, বহুতে কৈছিল যে সেই চকৰ পৰা ৰক্ষা পাবলৈ তেওঁলোকে পইচাও দিব। তথাপিও, নিজৰ চিন্তাৰ সৈতে অকলে এৰি দিয়াত, প্ৰায় তিনিজনৰ দুজন পুৰুষ, আৰু চাৰিজনৰ এগৰাকী মহিলাই অন্ততঃ এবাৰ নিজকে চক দিলে।
@@ -141,11 +148,15 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 আমনি পোৱা দলটোৱে বেছি ধাৰণা দিলে। আৰু যিসকলে নম্বৰবোৰ কেৱল পঢ়িলে, লিখাও নাই, তেওঁলোকে আৰু ভাল কৰিলে।
 [short pause] মনটোৱে উৰি ফুৰিবলৈ যিমান বেছি ঠাই পালে, সিমান বেছি ধাৰণা বিচাৰি পালে।
 
+[curious] গতিকে আমনিয়ে ধাৰণা দিয়ে। [short pause] কিন্তু সেইবোৰ সদায়… গা ধুওঁতেহে কিয় আহে?
+
 [warmly] কেতিয়াবা গা ধুওঁতে আটাইতকৈ ভাল ধাৰণাটো পাইছেনে? তাৰ এটা কাৰণ আছে।
 দুহাজাৰ বাৰ চনত, কেলিফৰ্ণিয়া বিশ্ববিদ্যালয়, চাণ্টা বাৰ্বাৰাৰ গৱেষকসকলে মানুহক এটা সৃষ্টিশীল সমস্যা দিলে, তাৰ পিছত বাৰ মিনিটৰ বিৰতি।
 কিছুমানে এটা কঠিন কাম কৰিলে। কিছুমানে জিৰণি ল'লে। কিছুমানে এটা সহজ, আমনিদায়ক কাম কৰিলে, য'ত তেওঁলোকৰ মন উৰি ফুৰিব পাৰে।
 যেতিয়া তেওঁলোক একেটা সমস্যালৈ উভতি আহিল, সহজ কাম কৰা দলটোৰ আটাইতকৈ বেছি উন্নতি হ'ল।
 [short pause] উৰি ফুৰা মন বন্ধ হৈ নাথাকে। ই মনে মনে পিছফালে কাম কৰি থাকে।
+
+[leaning in] কিন্তু ফোনটো চিৰদিনৰ বাবে ড্ৰয়াৰত ভৰাই থোৱাৰ আগতে… এটা সঁচা কথা।
 
 [thoughtful] এতিয়া, সততা। এইবোৰ সৰু অধ্যয়ন, আৰু সৃষ্টিশীলতা জোখাটো কঠিন। আৰু আমনি লগাটো সদায় ভাল নহয়। মাহৰ পিছত মাহ সদায় আমনি লাগি থকাটো সঁচা সমস্যাৰ সৈতে জড়িত।
 গতিকে শিক্ষাটো "বেছিকৈ আমনি পোৱা" নহয়।
@@ -158,5 +169,5 @@ You are a calm, deep-voiced, wise mentor narrating a 4-minute YouTube video call
 আৰু যেতিয়া কোনো ধাৰণা আহে, লিখি লওক। [long pause] আমনি লগা খালী সময় নহয়। ই আপোনাৰ মনে ঠাই সাজি থকা সময়।
 
 [friendly] কমেণ্টত কওক: আপোনাৰ আটাইতকৈ ভাল ধাৰণাবোৰ ক'ৰ পৰা আহে? গা ধুওঁতে? খোজ কাঢ়োঁতে? বাছত?
-আৰু চাবস্ক্ৰাইব কৰক। পিছৰ ভিডিঅ'ত: পাঁচটা জনপ্ৰিয় প্ৰডাক্টিভিটি হেক, যিবোৰে হয়তো মনে মনে আপোনাৰ সময় নষ্ট কৰি আছে।
+[short pause] আৰু পিছৰ ভিডিঅ'ত: পাঁচটা জনপ্ৰিয় প্ৰডাক্টিভিটি হেক, যিবোৰে হয়তো মনে মনে আপোনাৰ সময় নষ্ট কৰি আছে।
 ```
