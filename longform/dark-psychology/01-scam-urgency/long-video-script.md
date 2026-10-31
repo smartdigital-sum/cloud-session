@@ -7,11 +7,20 @@
 
 **Safety rule:** the video explains scam tactics only so viewers can recognise and resist them. Show helpline details on screen: **1930** (National Cyber Crime Helpline) and **cybercrime.gov.in**.
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook was strong, but the stakes stayed inside the scammer's message. | **Hook:** a plain stakes line first ("they just need you to panic"), then the message. |
+| 0:15–0:40 explained the idea but promised nothing specific. | **Lock-in:** magic box (urgency, three live scams, a quieter second trick) + teased payoff ("one simple rule that beats all of them"). |
+| Beats 3 and 4 started as labels. | **Rehooks** before the official facts (~1:50) and isolation (~2:25). |
+| Outro had three asks (share, comment, subscribe). | **CTA:** share + comment question; no subscribe ask. |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 "Blocked in 10 minutes"
-0:15 Why every scam is in a hurry
+0:10 Why every scam is in a hurry
 0:40 How urgency hijacks your brain
 1:15 The scams you'll recognise
 1:50 The official facts
@@ -22,30 +31,32 @@
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
+Scammers don't need to hack your phone. They just need you to panic.
 "Your bank account will be blocked in ten minutes. Share the OTP now."
 (pause) Your heart races. And that racing heart is exactly what the scammer wants.
 
-**[VISUAL]** A phone lights up in a dark room with a red SMS banner and a countdown "09:59". A hand trembles over the keypad. Close-up on a heartbeat line spiking on the screen's reflection.
+**[VISUAL]** Frame 1 is already moving: a phone lights up in a dark room with a red SMS banner and a countdown "09:59". A hand trembles over the keypad. Close-up on a heartbeat line spiking in the screen's reflection.
 
-_Tone: urgent read of the message, then a slow, low reveal._
+_Tone: firm and plain on line one; urgent on the message; low and knowing on the last line._
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
-Have you ever noticed that almost every scam message is in a hurry? "Last chance." "Act now." "Police case against you."
-That isn't bad writing. It's the weapon. Fear and urgency switch off the part of you that would normally stop and check.
-(pause) This video is about spotting that switch, before anyone flips it.
+Almost every scam message is in a hurry. "Last chance." "Act now." "Police case against you."
+That isn't bad writing. It's the weapon.
+In this video: how urgency switches off your thinking, three scams using it right now, and a second trick that's even quieter.
+(pause) And one simple rule that beats every one of them.
 
-**[VISUAL]** A wall of scam messages scrolls past, each with a red clock icon. A light switch labelled CAREFUL THINKING sits on a wall; a shadowy hand reaches toward it, and freezes.
+**[VISUAL]** A wall of scam messages scrolls past, each with a red clock icon. A light switch labelled CAREFUL THINKING; a shadowy hand reaches toward it, and freezes. Three sealed cards: **URGENCY · 3 SCAMS · TRICK #2**. A glowing shield card, **THE RULE**, drops in and stays sealed.
 
-_Tone: curious, protective; firm last line._
+_Tone: curious, protective; firm on "It's the weapon"; slow on the last line._
 
 ## MAIN BODY
 
-### Beat 1: How urgency hijacks your brain (0:40–1:15)
+### BODY 1: How urgency hijacks your brain (0:40–1:15)
 
 **[NARRATION]**
 Researchers at the University of Cambridge studied the tricks behind real scams, and listed seven principles that con artists exploit. One of them is time.
@@ -56,7 +67,7 @@ When you're rushed, you stop weighing evidence and start reacting. Fear narrows 
 
 _Tone: thoughtful, clear; pointed last line._
 
-### Beat 2: The scams you'll recognise (1:15–1:50)
+### BODY 2: The scams you'll recognise (1:15–1:50)
 
 **[NARRATION]**
 In India, you'll recognise the patterns. A "KYC update" that must happen today. A courier "with drugs in your name". A "customs officer" on WhatsApp. Or a "prize" that expires at midnight.
@@ -67,7 +78,16 @@ And the newest: the so-called "digital arrest", where fake police or CBI officer
 
 _Tone: serious, recognisable._
 
-### Beat 3: The official facts (1:50–2:25)
+### REHOOK 1 (1:50)
+
+**[NARRATION]**
+So how do you tell a real call from a fake? (pause) The official answer is simpler than you'd think.
+
+**[VISUAL]** A government-style seal stamps onto the screen.
+
+_Tone: firm, reassuring lift._
+
+### BODY 3: The official facts (1:50–2:25)
 
 **[NARRATION]**
 So here are the facts, straight from official advisories. The Indian Cyber Crime Coordination Centre says the CBI, police, customs, ED and judges do not arrest people over video calls.
@@ -78,7 +98,16 @@ And banks don't ask for your OTP or PIN. Ever. If anyone in a uniform demands mo
 
 _Tone: firm, reassuring, authoritative._
 
-### Beat 4: The second trick, isolation (2:25–3:00)
+### REHOOK 2 (2:25)
+
+**[NARRATION]**
+But urgency has a partner. And it's the part most people miss: "Don't tell anyone."
+
+**[VISUAL]** A hand slowly pulls a door shut; the family group chat goes grey.
+
+_Tone: low, knowing._
+
+### BODY 4: The second trick, isolation (2:25–3:00)
 
 **[NARRATION]**
 Notice one more trick: isolation. Scammers say, "Don't tell anyone, it's confidential." "Stay on the call."
@@ -89,7 +118,9 @@ Because the moment you talk to someone calm, a family member, a friend, a bank b
 
 _Tone: knowing, quietly urgent; weighty last line._
 
-## PAYOFF / TWIST (3:00–3:30)
+## CLOSING (3:00–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 So here's the one habit that beats almost all of them: slow down, and verify through a second channel.
@@ -101,12 +132,14 @@ If you've been cheated, report it immediately on 1930, the national cyber-crime 
 
 _Tone: warm, empowering (peak); calm, confident last line._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: the comment question, plus the next-video tease. No subscribe ask._
 
 **[NARRATION]**
 Share this with the person in your family most likely to pick up that call.
 And tell me in the comments: what's the strangest scam message you've received?
-Subscribe. Next: the small "yes" that leads to a big one.
+(pause) And next: the small "yes" that leads to a big one.
 
 **[VISUAL]** A share icon pulses over a family group chat. End screen: next-video card **The Small "Yes" That Leads to a Big One** (a foot wedged in a doorway). Keep **1930 · cybercrime.gov.in** on screen.
 
@@ -118,14 +151,15 @@ _Tone: friendly, protective; curious tease._
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Urgent → low reveal | Read the scam message fast; slow down for the reveal |
-| Setup | Curious, protective | Firm last line |
+| Hook | Firm → urgent | Plain stakes line, then urgent message; low on the last line |
+| Lock-in | Curious, protective | Firm "It's the weapon"; slow "one simple rule" |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | Beat 1 | Thoughtful, clear | Pointed last line |
 | Beat 2 | Serious | Recognisable list; steady |
 | Beat 3 | Firm, reassuring | Authoritative; "Ever." short and strong |
 | Beat 4 | Knowing, quietly urgent | Weighty last line |
-| Payoff | Warm, empowering (peak) | Say "one-nine-three-zero" clearly |
-| Outro | Friendly, protective | Curious tease |
+| Closing | Warm, empowering (peak) | Say "one-nine-three-zero" clearly |
+| Close + CTA | Friendly, protective | Curious tease |
 
 ## Fact check
 

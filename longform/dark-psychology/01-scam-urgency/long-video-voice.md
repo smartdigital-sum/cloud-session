@@ -9,6 +9,8 @@ Script: [long-video-script.md](long-video-script.md) · AI Studio steps and fixe
 4. Name files like `dp01-scam-urgency_EN_s1-hook.wav`.
 
 The helpline is written digit by digit (one-nine-three-zero) so the TTS reads it as a phone number. Always show **1930 · cybercrime.gov.in** on screen too.
+**Changed (storytelling guide):** a plain stakes line opens the hook; the setup is replaced by a lock-in (urgency, three scams, a quieter trick, one rule); two new rehook lines; the close drops the subscribe ask. Generate 10 sections now (2 rehooks added).
+
 ⚠ Hindi and Assamese are machine-quality translations. Get a native speaker to read them before recording. Test the Assamese hook first.
 
 ---
@@ -16,17 +18,19 @@ The helpline is written digit by digit (one-nine-three-zero) so the TTS reads it
 
 **Style instructions**
 ```
-You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute awareness video called "Why scammers always make you hurry". Your goal is to protect the listener. Speak directly to one listener ("you"), like a sharp, trusted older sibling. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses. Read the opening scam message fast and urgent, then slow right down for the reveal. Be thoughtful on the research, serious on the scam examples, firm and reassuring on the official facts, quietly urgent on isolation, then warm and empowering on the defence. Say the helpline number clearly. End friendly and protective. Never sensational, never mocking victims.
+You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute awareness video called "Why scammers always make you hurry". Your goal is to protect the listener. Speak directly to one listener ("you"), like a sharp, trusted older sibling. Indian English accent. Unhurried, about 140 words per minute, with deliberate pauses. Read the opening scam message fast and urgent, then slow right down for the reveal. Be thoughtful on the research, serious on the scam examples, firm and reassuring on the official facts, quietly urgent on isolation, then warm and empowering on the defence. Say the helpline number clearly. End friendly and protective. Never sensational, never mocking victims. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] Scammers don't need to hack your phone. They just need you to panic.
 [urgently] "Your bank account will be blocked in ten minutes. Share the OTP now."
 [short pause] Your heart races. And that racing heart is exactly what the scammer wants.
 
-[curious] Have you ever noticed that almost every scam message is in a hurry? "Last chance." "Act now." "Police case against you."
-That isn't bad writing. It's the weapon. Fear and urgency switch off the part of you that would normally stop and check.
-[short pause] This video is about spotting that switch, before anyone flips it.
+[curious] Almost every scam message is in a hurry. "Last chance." "Act now." "Police case against you."
+[firmly] That isn't bad writing. It's the weapon.
+[calm] In this video: how urgency switches off your thinking, three scams using it right now, and a second trick that's even quieter.
+[short pause] And one simple rule that beats every one of them.
 
 [thoughtful] Researchers at the University of Cambridge studied the tricks behind real scams, and listed seven principles that con artists exploit. One of them is time.
 When you're rushed, you stop weighing evidence and start reacting. Fear narrows attention: you think about the threat, not about whether the threat is real.
@@ -36,9 +40,13 @@ When you're rushed, you stop weighing evidence and start reacting. Fear narrows 
 And the newest: the so-called "digital arrest", where fake police or CBI officers keep you on a video call for hours, isolated and terrified, until you transfer money. And it doesn't matter how educated you are: doctors, engineers and retired officers have lost savings this way.
 [short pause] Every one of them has the same clock ticking in the background.
 
+[firmly] So how do you tell a real call from a fake? [short pause] The official answer is simpler than you'd think.
+
 [firmly] So here are the facts, straight from official advisories. The Indian Cyber Crime Coordination Centre says the CBI, police, customs, ED and judges do not arrest people over video calls.
 Prime Minister Modi also warned in Mann Ki Baat: there is no such thing as "digital arrest" in Indian law.
 And banks don't ask for your OTP or PIN. Ever. If anyone in a uniform demands money on a video call, that alone tells you it's fake.
+
+[knowingly] But urgency has a partner. And it's the part most people miss: "Don't tell anyone."
 
 [knowingly] Notice one more trick: isolation. Scammers say, "Don't tell anyone, it's confidential." "Stay on the call."
 Because the moment you talk to someone calm, a family member, a friend, a bank branch, the spell breaks.
@@ -51,7 +59,7 @@ If you've been cheated, report it immediately on one-nine-three-zero, the nation
 
 [friendly] Share this with the person in your family most likely to pick up that call.
 And tell me in the comments: what's the strangest scam message you've received?
-Subscribe. Next: the small "yes" that leads to a big one.
+[short pause] And next: the small "yes" that leads to a big one.
 ```
 
 ---
@@ -59,17 +67,19 @@ Subscribe. Next: the small "yes" that leads to a big one.
 
 **Style instructions**
 ```
-You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute awareness video about why scammers always make you hurry. Your goal is to protect the listener. Speak natural, conversational Hindi (common English words like "OTP", "KYC", "video call", "scam", "helpline" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a sharp, trusted older sibling. Unhurried, with deliberate pauses. Read the opening scam message fast and urgent, then slow down for the reveal. Thoughtful on research, serious on scam examples, firm and reassuring on official facts, quietly urgent on isolation, warm and empowering on the defence. Say the helpline digits clearly. Never mocking victims.
+You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute awareness video about why scammers always make you hurry. Your goal is to protect the listener. Speak natural, conversational Hindi (common English words like "OTP", "KYC", "video call", "scam", "helpline" are fine), not formal news-anchor Hindi. Speak directly to one listener ("aap"), like a sharp, trusted older sibling. Unhurried, with deliberate pauses. Read the opening scam message fast and urgent, then slow down for the reveal. Thoughtful on research, serious on scam examples, firm and reassuring on official facts, quietly urgent on isolation, warm and empowering on the defence. Say the helpline digits clearly. Never mocking victims. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] ठगों को आपका फ़ोन हैक करने की ज़रूरत नहीं। उन्हें बस आपको घबराना है।
 [urgently] "आपका बैंक अकाउंट दस मिनट में ब्लॉक हो जाएगा। अभी ओटीपी शेयर कीजिए।"
 [short pause] दिल तेज़ धड़कने लगता है। और वो तेज़ धड़कता दिल, ठीक वही है, जो ठग चाहता है।
 
-[curious] क्या आपने कभी ग़ौर किया है, कि लगभग हर स्कैम मैसेज जल्दी में होता है? "आख़िरी मौक़ा।" "अभी कीजिए।" "आप पर पुलिस केस है।"
-ये ख़राब लिखावट नहीं है। यही हथियार है। डर और जल्दबाज़ी, आपके अंदर का वो हिस्सा बंद कर देते हैं, जो आम तौर पर रुककर जाँच करता।
-[short pause] ये वीडियो उसी स्विच को पहचानने के बारे में है, इससे पहले कि कोई उसे दबा दे।
+[curious] लगभग हर ठगी वाला मैसेज जल्दी में होता है। "आख़िरी मौक़ा।" "अभी कीजिए।" "आप पर पुलिस केस है।"
+[firmly] ये ख़राब लिखाई नहीं है। यही उनका हथियार है।
+[calm] इस वीडियो में: जल्दबाज़ी आपकी सोच को कैसे बंद करती है, अभी चल रही तीन ठगियाँ जो इसका इस्तेमाल करती हैं, और एक दूसरी चाल, जो इससे भी ज़्यादा चुपचाप चलती है।
+[short pause] और एक आसान नियम, जो इन सब पर भारी पड़ता है।
 
 [thoughtful] यूनिवर्सिटी ऑफ़ कैम्ब्रिज के रिसर्चर्स ने असली ठगी के पीछे की चालों को स्टडी किया, और सात सिद्धांतों की लिस्ट बनाई, जिनका ठग फ़ायदा उठाते हैं। उनमें से एक है: समय।
 जब आपसे जल्दी करवाई जाती है, तो आप सबूत तौलना छोड़ देते हैं, और बस प्रतिक्रिया देने लगते हैं। डर ध्यान को सिकोड़ देता है: आप ख़तरे के बारे में सोचते हैं, इस बारे में नहीं कि ख़तरा असली है भी या नहीं।
@@ -79,9 +89,13 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 और सबसे नया: तथाकथित "डिजिटल अरेस्ट", जहाँ नकली पुलिस या सीबीआई अफ़सर, आपको घंटों वीडियो कॉल पर रखते हैं, अकेला और डरा हुआ, जब तक आप पैसे ट्रांसफ़र न कर दें। और इससे फ़र्क़ नहीं पड़ता कि आप कितने पढ़े-लिखे हैं: डॉक्टर, इंजीनियर और रिटायर्ड अफ़सर भी, इस तरह अपनी जमा-पूँजी गँवा चुके हैं।
 [short pause] हर एक के पीछे, वही घड़ी टिक-टिक कर रही होती है।
 
+[firmly] तो असली कॉल और नक़ली कॉल में फ़र्क़ कैसे करें? [short pause] सरकारी जवाब, आपकी सोच से कहीं आसान है।
+
 [firmly] तो ये रहे तथ्य, सीधे सरकारी एडवाइज़री से। इंडियन साइबर क्राइम कोऑर्डिनेशन सेंटर कहता है: सीबीआई, पुलिस, कस्टम्स, ईडी और जज, वीडियो कॉल पर किसी को गिरफ़्तार नहीं करते।
 प्रधानमंत्री मोदी ने भी मन की बात में चेताया था: भारतीय क़ानून में "डिजिटल अरेस्ट" जैसी कोई चीज़ नहीं है।
 और बैंक आपसे आपका ओटीपी या पिन नहीं माँगते। कभी नहीं। अगर वर्दी में कोई, वीडियो कॉल पर पैसे माँगे, तो बस यही बता देता है कि वो नकली है।
+
+[knowingly] पर जल्दबाज़ी का एक साथी भी है। और उसी हिस्से को ज़्यादातर लोग नहीं पकड़ते: "किसी को मत बताना।"
 
 [knowingly] एक और चाल पर ग़ौर कीजिए: अकेला कर देना। ठग कहते हैं, "किसी को मत बताइए, ये गोपनीय है।" "कॉल पर बने रहिए।"
 क्योंकि जिस पल आप किसी शांत इंसान से बात करते हैं, परिवार का कोई सदस्य, कोई दोस्त, बैंक की ब्रांच, जादू टूट जाता है।
@@ -94,7 +108,7 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 
 [friendly] ये वीडियो अपने परिवार के उस इंसान को भेजिए, जो ऐसी कॉल सबसे पहले उठा सकता है।
 और कमेंट में बताइए: आपको अब तक का सबसे अजीब स्कैम मैसेज कौन-सा मिला?
-सब्सक्राइब कीजिए। अगले वीडियो में: वो छोटी-सी "हाँ", जो एक बड़ी "हाँ" तक ले जाती है।
+[short pause] और अगले वीडियो में: वो छोटी-सी "हाँ", जो एक बड़ी "हाँ" तक ले जाती है।
 ```
 
 ---
@@ -102,17 +116,19 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 
 **Style instructions**
 ```
-You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute awareness video about why scammers always make you hurry. Your goal is to protect the listener. Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a sharp, trusted older sibling. Unhurried, with deliberate pauses. Read the opening scam message fast and urgent, then slow down for the reveal. Thoughtful on research, serious on scam examples, firm and reassuring on official facts, quietly urgent on isolation, warm and empowering on the defence. Say the helpline digits clearly. Never mocking victims.
+You are an intriguing, slightly mysterious, authoritative narrator for a 4-minute awareness video about why scammers always make you hurry. Your goal is to protect the listener. Speak natural, spoken Assamese (Asomiya) with a native Assam accent. It must not sound Bengali. Speak directly to one listener ("apuni"), like a sharp, trusted older sibling. Unhurried, with deliberate pauses. Read the opening scam message fast and urgent, then slow down for the reveal. Thoughtful on research, serious on scam examples, firm and reassuring on official facts, quietly urgent on isolation, warm and empowering on the defence. Say the helpline digits clearly. Never mocking victims. Open firm and close to the mic on the first line (never whispered). Lean in on each transition (rehook) line.
 ```
 
 **Text**
 ```
+[firmly] ঠগবোৰক আপোনাৰ ফোন হেক কৰাৰ প্ৰয়োজন নাই। তেওঁলোকক মাত্ৰ আপোনাক আতংকিত কৰিব লাগে।
 [urgently] "আপোনাৰ বেংক একাউণ্ট দহ মিনিটত ব্লক হৈ যাব। এতিয়াই অটিপি শ্বেয়াৰ কৰক।"
 [short pause] হৃদয় জোৰেৰে ধপধপাবলৈ ধৰে। আৰু সেই ধপধপোৱা হৃদয়টোৱেই, ঠগে বিচৰা বস্তু।
 
-[curious] কেতিয়াবা মন কৰিছেনে, প্ৰায় প্ৰতিটো ঠগৰ মেছেজেই খৰখেদাত থাকে? "শেষ সুযোগ।" "এতিয়াই কৰক।" "আপোনাৰ বিৰুদ্ধে পুলিচৰ গোচৰ আছে।"
-এইটো বেয়া লিখনি নহয়। এইটোৱেই অস্ত্ৰ। ভয় আৰু খৰখেদাই আপোনাৰ ভিতৰৰ সেই অংশটো বন্ধ কৰি দিয়ে, যিটোৱে সাধাৰণতে ৰৈ পৰীক্ষা কৰিলেহেঁতেন।
-[short pause] এই ভিডিঅ'টো সেই চুইচটো চিনি পোৱাৰ বিষয়ে, কোনোবাই সেইটো টিপাৰ আগতেই।
+[curious] প্ৰায় প্ৰতিটো ঠগৰ মেছেজ খৰখেদাত থাকে। "শেষ সুযোগ।" "এতিয়াই কৰক।" "আপোনাৰ বিৰুদ্ধে পুলিচ কেছ আছে।"
+[firmly] এইটো বেয়া লিখনি নহয়। এইটোৱেই তেওঁলোকৰ অস্ত্ৰ।
+[calm] এই ভিডিঅ'ত: খৰখেদাই আপোনাৰ চিন্তা কেনেকৈ বন্ধ কৰে, এতিয়া চলি থকা তিনিটা ঠগ যিয়ে ইয়াক ব্যৱহাৰ কৰে, আৰু আন এটা কৌশল, যিটো আৰু বেছি নিমাতে চলে।
+[short pause] আৰু এটা সহজ নিয়ম, যিয়ে এই সকলোবোৰক হৰুৱায়।
 
 [thoughtful] কেমব্ৰিজ বিশ্ববিদ্যালয়ৰ গৱেষকসকলে সঁচা ঠগৰ পিছৰ কৌশলবোৰ অধ্যয়ন কৰিছিল, আৰু সাতটা নীতিৰ তালিকা বনাইছিল, যিবোৰৰ ঠগে সুবিধা লয়। তাৰে এটা হ'ল: সময়।
 যেতিয়া আপোনাক খৰখেদা কৰোৱা হয়, আপুনি প্ৰমাণ জোখা এৰি দিয়ে, আৰু কেৱল প্ৰতিক্ৰিয়া দিবলৈ ধৰে। ভয়ে মনোযোগ সংকুচিত কৰে: আপুনি বিপদটোৰ কথা ভাবে, বিপদটো সঁচা নে নহয়, সেই কথা নাভাবে।
@@ -122,9 +138,13 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 আৰু আটাইতকৈ নতুনটো: তথাকথিত "ডিজিটেল এৰেষ্ট", য'ত নকল পুলিচ বা চিবিআই বিষয়াই আপোনাক ঘণ্টাৰ পিছত ঘণ্টা ভিডিঅ' কলত ৰাখে, অকলশৰীয়া আৰু ভীত কৰি, যেতিয়ালৈকে আপুনি পইচা ট্ৰান্সফাৰ নকৰে। আৰু আপুনি কিমান শিক্ষিত, তাত একো পাৰ্থক্য নাই: চিকিৎসক, অভিযন্তা আৰু অৱসৰপ্ৰাপ্ত বিষয়াইও এনেকৈ নিজৰ সঞ্চয় হেৰুৱাইছে।
 [short pause] প্ৰতিটোৰে পিছফালে, একেটা ঘড়ীয়েই টিক-টিক কৰি থাকে।
 
+[firmly] তেন্তে সঁচা কল আৰু ভুৱা কলৰ পাৰ্থক্য কেনেকৈ ধৰিব? [short pause] চৰকাৰী উত্তৰটো আপুনি ভবাতকৈ সহজ।
+
 [firmly] গতিকে এয়া তথ্য, পোনপটীয়াকৈ চৰকাৰী পৰামৰ্শৰ পৰা। ইণ্ডিয়ান চাইবাৰ ক্ৰাইম ক'অৰ্ডিনেচন চেণ্টাৰে কয়: চিবিআই, পুলিচ, কাষ্টমছ, ইডি আৰু বিচাৰকে ভিডিঅ' কলত কাকো গ্ৰেপ্তাৰ নকৰে।
 প্ৰধানমন্ত্ৰী মোদীয়েও মন কী বাতত সতৰ্ক কৰিছিল: ভাৰতীয় আইনত "ডিজিটেল এৰেষ্ট" বুলি একো নাই।
 আৰু বেংকে আপোনাৰ পৰা অটিপি বা পিন নিবিচাৰে। কেতিয়াও নহয়। যদি ইউনিফৰ্ম পিন্ধা কোনোবাই ভিডিঅ' কলত পইচা বিচাৰে, সেইটোৱেই কৈ দিয়ে যে তেওঁ নকল।
+
+[knowingly] কিন্তু খৰখেদাৰ এজন সংগী আছে। আৰু সেই অংশটোৱেই বেছিভাগ মানুহে ধৰিব নোৱাৰে: "কাকো নক'ব।"
 
 [knowingly] আৰু এটা কৌশল মন কৰক: অকলশৰীয়া কৰি দিয়া। ঠগে কয়, "কাকো নক'ব, এইটো গোপনীয়।" "কলত থাকক।"
 কাৰণ যিমুহূৰ্তত আপুনি কোনো শান্ত মানুহৰ সৈতে কথা পাতে, পৰিয়ালৰ কোনোবা, কোনো বন্ধু, বেংকৰ শাখা, মায়াজাল ভাঙি যায়।
@@ -137,5 +157,5 @@ You are an intriguing, slightly mysterious, authoritative narrator for a 4-minut
 
 [friendly] এই ভিডিঅ'টো আপোনাৰ পৰিয়ালৰ সেইজনলৈ পঠিয়াওক, যিজনে এনে কল আটাইতকৈ আগতে ধৰিব পাৰে।
 আৰু কমেণ্টত কওক: আপুনি পোৱা আটাইতকৈ অদ্ভুত ঠগৰ মেছেজটো কি আছিল?
-চাবস্ক্ৰাইব কৰক। পিছৰ ভিডিঅ'ত: সেই সৰু "হয়"টো, যিয়ে এটা ডাঙৰ "হয়"লৈ লৈ যায়।
+[short pause] আৰু পিছৰ ভিডিঅ'ত: সেই সৰু "হয়"টো, যিয়ে এটা ডাঙৰ "হয়"লৈ লৈ যায়।
 ```
