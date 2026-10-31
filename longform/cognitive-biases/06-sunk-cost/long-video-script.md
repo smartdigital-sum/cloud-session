@@ -5,11 +5,20 @@
 **Voiceover:** English, Hindi, Assamese → [long-video-voice.md](long-video-voice.md) · **Reel version:** [short-reel-script.md](short-reel-script.md)
 **Series:** follows [05 Horoscopes](../05-horoscopes-barnum/long-video-script.md); calls back to [04 Loss aversion](../04-loss-aversion/long-video-script.md). Teases 07 (confirmation bias) next.
 
+## What changed and why
+
+| Problem before | Fix (guide rule) |
+|---|---|
+| Hook was a relatable scene with the stakes implied. | **Hook:** stakes line first ("money you've already spent is quietly making your next decisions"), then the movie. |
+| 0:15–0:40 teased three settings, but promised no payoff. | **Lock-in:** magic box (a real theatre, a supersonic jet, a surprise in mice) + teased payoff ("one question that sets you free"). |
+| Beats 3 and 4 started as labels. | **Rehooks** before the Concorde (~1:50) and the mice (~2:25). |
+| Outro asked for a comment and a subscribe. | One **CTA** (comment question + next-video tease). |
+
 ## YouTube chapters (paste into the description)
 
 ```
 0:00 Twenty minutes into a bad movie
-0:15 The sunk cost fallacy
+0:10 The sunk cost fallacy
 0:40 The theatre ticket experiment
 1:15 Why quitting feels like losing
 1:50 The Concorde fallacy
@@ -20,30 +29,31 @@
 
 ---
 
-## HOOK (0:00–0:15)
+## HOOK (0:00–0:10)
 
 **[NARRATION]**
+Money you've already spent is quietly making your next decisions. And it's usually making them worse.
 Twenty minutes into a terrible movie, you know it's bad.
 (pause) And you stay. Not because it'll get better. Because you already paid.
 
-**[VISUAL]** A dark cinema. On screen, a cartoonishly bad film (wobbly set, overacting). The viewer-figure slumps lower, popcorn untouched, eyes drifting to the glowing EXIT sign, then to a ticket stub in their hand. They sink back into the seat.
+**[VISUAL]** Frame 1 is already moving: a dark cinema. On screen, a cartoonishly bad film. The viewer-figure slumps lower, popcorn untouched, eyes drifting to the glowing EXIT sign, then to a ticket stub in their hand. They sink back into the seat.
 
-_Tone: knowing, dry humour; slow on "Because you already paid."_
+_Tone: firm on line one; knowing and dry on the cinema._
 
-## SETUP (0:15–0:40)
+## LOCK-IN (0:10–0:40)
 
 **[NARRATION]**
-Have you ever stayed in a course, a project, even a relationship, mostly because of how much you'd already put in?
-That's the sunk cost fallacy: money, time or effort that's already gone, quietly steering what you do next.
-(pause) And it's been caught in a real theatre, in a supersonic jet, and maybe even in mice.
+Have you ever stayed in a course, a project, even a relationship, mostly because of what you'd already put in? That's the sunk cost fallacy.
+In this video: a real theatre that tested it, a supersonic jet that gave it a nickname, and a surprise in mice.
+(pause) And one question that sets you free from it.
 
-**[VISUAL]** A pile labelled ALREADY SPENT (cash, hours on a clock, a sweaty effort icon) sits behind the figure like a heavy backpack, tilting them toward the path they're already on. Three teaser frames flash: a theatre marquee, a sleek white jet, a tiny mouse.
+**[VISUAL]** A pile labelled ALREADY SPENT (cash, hours on a clock, a sweaty effort icon) sits on the figure's back like a heavy backpack. Three sealed cards: **THE THEATRE · THE JET · THE MICE**. A glowing card **THE QUESTION** stays sealed.
 
-_Tone: curious; mysterious on the three teasers._
+_Tone: knowing; playful on "the mice"; warm and firm on the last line._
 
 ## MAIN BODY
 
-### Beat 1: The theatre ticket experiment (0:40–1:15)
+### BODY 1: The theatre ticket experiment (0:40–1:15)
 
 **[NARRATION]**
 In 1982, psychologists Hal Arkes and Catherine Blumer ran an experiment at the Ohio University theatre.
@@ -56,7 +66,7 @@ Over the next six months, the people who'd paid full price went to more plays th
 
 _Tone: intrigued storyteller; honest on the fade; pointed last line._
 
-### Beat 2: Why quitting feels like losing (1:15–1:50)
+### BODY 2: Why quitting feels like losing (1:15–1:50)
 
 **[NARRATION]**
 Why? Because quitting turns a cost into a loss. As long as you keep going, the money still feels "used". The moment you stop, it feels "wasted".
@@ -67,7 +77,16 @@ It's the same feeling that makes you finish a buffet plate you don't even want, 
 
 _Tone: thoughtful; playful on "paisa vasool"._
 
-### Beat 3: The Concorde fallacy (1:50–2:25)
+### REHOOK 1 (1:50)
+
+**[NARRATION]**
+And if you think big organisations are immune… (pause) meet the Concorde.
+
+**[VISUAL]** A sleek white jet roars across the frame.
+
+_Tone: a lift; wry._
+
+### BODY 3: The Concorde fallacy (1:50–2:25)
 
 **[NARRATION]**
 Governments do it too. Britain and France kept pouring money into Concorde, the supersonic passenger jet, long after it was clear it would struggle to make money.
@@ -78,7 +97,16 @@ And closer to home, think of a coaching class you hate but keep attending, becau
 
 _Tone: serious, slightly wry; relatable on the coaching line._
 
-### Beat 4: Older than money? (2:25–3:00)
+### REHOOK 2 (2:25)
+
+**[NARRATION]**
+Now, is this just a human money problem? (pause) Some researchers tested it in mice.
+
+**[VISUAL]** A tiny mouse at a maze junction, waiting.
+
+_Tone: curious, leaning in._
+
+### BODY 4: Older than money? (2:25–3:00)
 
 **[NARRATION]**
 For a long time, researchers thought animals were too sensible for this mistake.
@@ -89,7 +117,9 @@ Then, in 2018, a study tested mice, rats and humans on similar waiting tasks. In
 
 _Tone: mysterious, intrigued; quiet last line._
 
-## PAYOFF / TWIST (3:00–3:30)
+## CLOSING (3:00–3:30)
+
+_Pays off the hook and the lock-in promise._
 
 **[NARRATION]**
 So here's how to break it. Ask one question: "If I were starting fresh today, knowing what I know now, would I choose this?"
@@ -100,11 +130,13 @@ If the answer is no, the money or time is already gone, whatever you do next. Le
 
 _Tone: warm, empowering (peak); firm, gentle last line._
 
-## OUTRO (3:30–4:00)
+## CLOSE + CTA (3:30–4:00)
+
+_One CTA: the comment question, plus the next-video tease. No subscribe ask._
 
 **[NARRATION]**
 Tell me in the comments: what's something you finished only because you'd already started?
-And subscribe. Next: why smart people fall for wrong ideas, and a simple number puzzle most people get wrong the same way.
+(pause) And next: why smart people fall for wrong ideas, and a simple number puzzle most people get wrong the same way.
 
 **[VISUAL]** Comment prompt over a half-read book and a half-watched series. End screen: next-video card **Why Smart People Fall for Wrong Ideas** (three numbers on a card: 2 · 4 · 6).
 
@@ -116,14 +148,15 @@ _Tone: friendly; curious tease._
 
 | Section | Emotion | Delivery |
 |---|---|---|
-| Hook | Knowing, dry humour | Slow on "Because you already paid." |
-| Setup | Curious → mysterious | Tease the three examples |
+| Hook | Firm → dry | Plain stakes line; dry on the cinema |
+| Lock-in | Knowing → warm | Playful on "mice"; firm last line |
+| Rehooks | Lift, leaning in | One breath each; a small pause before, then pull forward |
 | Beat 1 | Intrigued storyteller | Honest on the fade; pointed last line |
 | Beat 2 | Thoughtful → playful | Smile on "paisa vasool" |
 | Beat 3 | Serious, wry → relatable | Warm on the coaching line |
 | Beat 4 | Mysterious | Quiet last line |
-| Payoff | Warm, empowering (peak) | Firm, gentle last line |
-| Outro | Friendly | Curious tease |
+| Closing | Warm, empowering (peak) | Firm, gentle last line |
+| Close + CTA | Friendly | Curious tease |
 
 ## Fact check
 
